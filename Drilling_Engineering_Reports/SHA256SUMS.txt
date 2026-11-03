@@ -1,62 +1,62 @@
 AZNS drilling engineering report set — SHA-256 register
 28 documents: 13 wells x (EN + FA) + field master x (EN + FA)
-Total size: 26.6 MB
+Total size: 26.5 MB
 
-2d30076ab66d35ecbb6ac8c3ee115de5b0b267cb875f6e885427bae788d2d06d  AZNS-10_Drilling_Engineering_Report_EN.docx
-77c184c94147621c01645a7edff45777c842913ad3780d3af4751871fa3eaf4a  AZNS-10_Drilling_Engineering_Report_FA.docx
-bc08f97209fd3d4b3b198dbee65f4a264eb4a8817d313e899fc920ffe4de1c24  AZNS-116_Drilling_Engineering_Report_EN.docx
-a592a11bb69384d8dba365d52e5e81670a2e1037812bc4f0e38ffd353d69694a  AZNS-116_Drilling_Engineering_Report_FA.docx
-c94f72cd37d29728c37199d202b6cb924ae1a14106719e658eccdc084dd9944f  AZNS-12-ST_No1_Drilling_Engineering_Report_EN.docx
-50327e736b13b8068f2fa3e0ab1e3c4c765193bedece6d5354d5bdd9c9a98bdf  AZNS-12-ST_No1_Drilling_Engineering_Report_FA.docx
-2cc6504cca97c9ac29e05a173a1bd2050908c7c4b95074e6c35a9484249659f6  AZNS-122_WONo1_Drilling_Engineering_Report_EN.docx
-f458db7bcdb1da978aefe4a903e28a406f4608db96860cfcf8995a4feaf11df7  AZNS-122_WONo1_Drilling_Engineering_Report_FA.docx
-e449d67de92e9cac5b6d6f8154230f42441b2f4c464a2f06c3eafecd1299cb37  AZNS-122_WONo2_Drilling_Engineering_Report_EN.docx
-63e3aed3fa003f7429c4e219bb0254f257b96c1735590d7001227ef8f314bd6e  AZNS-122_WONo2_Drilling_Engineering_Report_FA.docx
-1de7f7dae23561b876525166b9858249bf72ad091faad30269736a3d93c91693  AZNS-127-ST_No2_Drilling_Engineering_Report_EN.docx
-9f9007034ceed418a881dd856b6fe9cf2b84c9e60cb623f41b919cafa5b06ec1  AZNS-127-ST_No2_Drilling_Engineering_Report_FA.docx
-9dc80757f2630c50a7508ca63b91f4d5dbcc0e9212070545d7e9bc5e4c2d186d  AZNS-127_WONo1_Drilling_Engineering_Report_EN.docx
-55d62cac9bdbdae0bc62fd6ed5092fab8dd1df6b4796904135d65941746c0d3b  AZNS-127_WONo1_Drilling_Engineering_Report_FA.docx
-2044ddec19e41d0e5db7ff5971272d071d012f1986b1c8f0359a0887df7ee7ee  AZNS-127_WONo2_Drilling_Engineering_Report_EN.docx
-e1758e98ac847d7ee11974a4c22362828efe6920961f4d189c6f96c6218c0ad3  AZNS-127_WONo2_Drilling_Engineering_Report_FA.docx
-42225ad4f197153e911aae38226e6ae3c7694dd6533a7eaa49201bc40779e865  AZNS-166_WO_Drilling_Engineering_Report_EN.docx
-06fc91f84abfccdf21a80be9bf5cfa880633d5138f83933b23cf8f90c5d87125  AZNS-166_WO_Drilling_Engineering_Report_FA.docx
-b0aa263a79648c82fe232b73939047fcfcb5982c102ab7c99dc2450a1ae7c59b  AZNS-207-ST_No1_Drilling_Engineering_Report_EN.docx
-6172fc9f2d0d6d6e532e471ad6a1d1b45bef164bb9963220c14a07f8a4fb925d  AZNS-207-ST_No1_Drilling_Engineering_Report_FA.docx
-9a81070e617ed501dae72a920adb37b03652f0f64c93c7c7c36c78ed6be0674d  AZNS-40_Drilling_Engineering_Report_EN.docx
-7b5cc8fcc87656a99cc0025004566d71aa54215647c632fe9fc5c28d7cdacd81  AZNS-40_Drilling_Engineering_Report_FA.docx
-f38bda4bd85190810feaedd983f5caf3b4c2c9a77e405423d9b24081aaaf4012  AZNS-75_WO_Drilling_Engineering_Report_EN.docx
-68ea5d76d9067916293ab188876293a8886c55ea04cab7ad5a821b3046363dc8  AZNS-75_WO_Drilling_Engineering_Report_FA.docx
-2266d19d6535163e18e97585f104bdb84086bd98eee5a29fad2f6b74f57de643  AZNS-85_Drilling_Engineering_Report_EN.docx
-a5e7417f337e043b308680242088b5626536183887bba928c0e7980ebf1fcdf7  AZNS-85_Drilling_Engineering_Report_FA.docx
-41b1efc948b7e590c40039056f054df0a4ba78f7e418b0f2f9ee65917368694b  Field_Master_Drilling_Engineering_Report_EN.docx
-27f6c8a1dd2514bdc13927eb34a2b1f594478e21697ae1f3a134da4d650e46d8  Field_Master_Drilling_Engineering_Report_FA.docx
+9f135ae1f9b8f5b30d9fcaf76fdf94e918c1a0d17a6a894c2f7cba0aa8b8d71c  AZNS-10_Drilling_Engineering_Report_EN.docx
+0fa8d237136a39abc5e855c397248362510365ce7379158a2c1d229cc6b6e388  AZNS-10_Drilling_Engineering_Report_FA.docx
+353fc0fa71e8a2c8cbcb1858af9a51af33c7282d38dfe80020ab72e55ff54277  AZNS-116_Drilling_Engineering_Report_EN.docx
+69c47e91229bd7e7fa97355f4b3943ce6353953a616bfbfd1b5f0dc08c709aa1  AZNS-116_Drilling_Engineering_Report_FA.docx
+cd4b7143915f5aa81bfbb9b3a5df2fe5de4f278209a763b29679fb2e0e8673af  AZNS-12-ST_No1_Drilling_Engineering_Report_EN.docx
+f00bf181574ca57e0c911a7994cce3cbba309f822e8caa01f7e8fd4d12f43716  AZNS-12-ST_No1_Drilling_Engineering_Report_FA.docx
+603def44063ccb57bd020a322ea796e42857535eb8a577636bc1bdb06231bead  AZNS-122_WONo1_Drilling_Engineering_Report_EN.docx
+7f234d58b6f2f66308189e0160994217c4b9f808ed18317c91de1c1dfe1235ef  AZNS-122_WONo1_Drilling_Engineering_Report_FA.docx
+d0e1cc15c0e2a4966ca81575cda030e0c23225405f1cd6451964521cf224cb84  AZNS-122_WONo2_Drilling_Engineering_Report_EN.docx
+3703f5d28d475c0a1d3d0b5cb2c28748a05ef4680e02687b8fdfc0ffd22bbec6  AZNS-122_WONo2_Drilling_Engineering_Report_FA.docx
+cde8229ca6af95f75c8ef6424f4d900fadd31479e668590cfeb57445231436f4  AZNS-127-ST_No2_Drilling_Engineering_Report_EN.docx
+b4cf028a35aa17b8c8cffcaeac67ff42987cd5a4f4cfb2193d194b5e63163ea3  AZNS-127-ST_No2_Drilling_Engineering_Report_FA.docx
+e31a68e9967a46aa371c2df50499000646d2fa9cdd120fde254e42db7ddf5c66  AZNS-127_WONo1_Drilling_Engineering_Report_EN.docx
+01da161bc955c8a4e5b005165ad831ac311151749927ecfcfa018d947ba125f0  AZNS-127_WONo1_Drilling_Engineering_Report_FA.docx
+0bd67236add727598e6e4fa13d0db7011aca4737fcbddcada817099606efc5cf  AZNS-127_WONo2_Drilling_Engineering_Report_EN.docx
+9c926422566f994d546e6f5d4a9ac05ad1f8c8807c1ed9e65350f17e7ace806a  AZNS-127_WONo2_Drilling_Engineering_Report_FA.docx
+8b0e769938916397e6ccd29d6cd1a19fc9d83e1bd8c82bfe7102a25963b17a79  AZNS-166_WO_Drilling_Engineering_Report_EN.docx
+cf23eb4709b9ca6a87092fe3ac2855040bd2f212e63597eb047d6698b291c34f  AZNS-166_WO_Drilling_Engineering_Report_FA.docx
+b2d318c1255cd5efd1962f2e470908997ac4aa12e32fbef92f6ed9e9bce718d4  AZNS-207-ST_No1_Drilling_Engineering_Report_EN.docx
+7f2de5e8afa8fab0ce4255b2a946db9c8423da2b957c196b735c6b7f6ace92d5  AZNS-207-ST_No1_Drilling_Engineering_Report_FA.docx
+16000f0485e1eabe839b5b43a1cc2d6d19038d52f9a1cd6660e22a6c92be224b  AZNS-40_Drilling_Engineering_Report_EN.docx
+b62a6fcd32bc1030f6332c9f2be7fcb35395de2de6f5d531b720caba29aa8f1e  AZNS-40_Drilling_Engineering_Report_FA.docx
+45cda639293c5d96be27cacf9bb638752f49dc10b73eb18d4477c9badbe7c7f2  AZNS-75_WO_Drilling_Engineering_Report_EN.docx
+1974d42addc0976f9cf42cc41302fb3bf43ed04d763877755d2ea137726c4f67  AZNS-75_WO_Drilling_Engineering_Report_FA.docx
+f2d6654fc89769347e1ca1be33e4d1b3f5504d7f4a6d765d6c75bef3329110e5  AZNS-85_Drilling_Engineering_Report_EN.docx
+086883e67f5c1f3466ef3ae0f6adb0ff7c5491f7e961440d02d8d9aa36ccb900  AZNS-85_Drilling_Engineering_Report_FA.docx
+2f852a0a18630de4e0c8c0400d60e712e10d375916dfc591fc6f32bf0b2ea771  Field_Master_Drilling_Engineering_Report_EN.docx
+1281f948d97e3baea62478f70304b3947ee42f083296a9e1f462ff14e200d038  Field_Master_Drilling_Engineering_Report_FA.docx
 
 Size register (bytes)
-      692498  AZNS-10_Drilling_Engineering_Report_EN.docx
-      695290  AZNS-10_Drilling_Engineering_Report_FA.docx
-      678647  AZNS-116_Drilling_Engineering_Report_EN.docx
-      681162  AZNS-116_Drilling_Engineering_Report_FA.docx
-      955646  AZNS-12-ST_No1_Drilling_Engineering_Report_EN.docx
-      958519  AZNS-12-ST_No1_Drilling_Engineering_Report_FA.docx
-      613670  AZNS-122_WONo1_Drilling_Engineering_Report_EN.docx
-      616225  AZNS-122_WONo1_Drilling_Engineering_Report_FA.docx
-     1019002  AZNS-122_WONo2_Drilling_Engineering_Report_EN.docx
-     1021926  AZNS-122_WONo2_Drilling_Engineering_Report_FA.docx
-     1120337  AZNS-127-ST_No2_Drilling_Engineering_Report_EN.docx
-     1123438  AZNS-127-ST_No2_Drilling_Engineering_Report_FA.docx
-     1126788  AZNS-127_WONo1_Drilling_Engineering_Report_EN.docx
-     1129790  AZNS-127_WONo1_Drilling_Engineering_Report_FA.docx
-      569442  AZNS-127_WONo2_Drilling_Engineering_Report_EN.docx
-      571899  AZNS-127_WONo2_Drilling_Engineering_Report_FA.docx
-      591534  AZNS-166_WO_Drilling_Engineering_Report_EN.docx
-      593833  AZNS-166_WO_Drilling_Engineering_Report_FA.docx
-     1291451  AZNS-207-ST_No1_Drilling_Engineering_Report_EN.docx
-     1294699  AZNS-207-ST_No1_Drilling_Engineering_Report_FA.docx
-     1213138  AZNS-40_Drilling_Engineering_Report_EN.docx
-     1216289  AZNS-40_Drilling_Engineering_Report_FA.docx
-     1206669  AZNS-75_WO_Drilling_Engineering_Report_EN.docx
-     1210022  AZNS-75_WO_Drilling_Engineering_Report_FA.docx
-      601588  AZNS-85_Drilling_Engineering_Report_EN.docx
-      604034  AZNS-85_Drilling_Engineering_Report_FA.docx
+      694830  AZNS-10_Drilling_Engineering_Report_EN.docx
+      697622  AZNS-10_Drilling_Engineering_Report_FA.docx
+      677427  AZNS-116_Drilling_Engineering_Report_EN.docx
+      679943  AZNS-116_Drilling_Engineering_Report_FA.docx
+      948576  AZNS-12-ST_No1_Drilling_Engineering_Report_EN.docx
+      951449  AZNS-12-ST_No1_Drilling_Engineering_Report_FA.docx
+      613010  AZNS-122_WONo1_Drilling_Engineering_Report_EN.docx
+      615566  AZNS-122_WONo1_Drilling_Engineering_Report_FA.docx
+     1013584  AZNS-122_WONo2_Drilling_Engineering_Report_EN.docx
+     1016508  AZNS-122_WONo2_Drilling_Engineering_Report_FA.docx
+     1112998  AZNS-127-ST_No2_Drilling_Engineering_Report_EN.docx
+     1116099  AZNS-127-ST_No2_Drilling_Engineering_Report_FA.docx
+     1125383  AZNS-127_WONo1_Drilling_Engineering_Report_EN.docx
+     1128385  AZNS-127_WONo1_Drilling_Engineering_Report_FA.docx
+      568052  AZNS-127_WONo2_Drilling_Engineering_Report_EN.docx
+      570509  AZNS-127_WONo2_Drilling_Engineering_Report_FA.docx
+      588120  AZNS-166_WO_Drilling_Engineering_Report_EN.docx
+      590418  AZNS-166_WO_Drilling_Engineering_Report_FA.docx
+     1279899  AZNS-207-ST_No1_Drilling_Engineering_Report_EN.docx
+     1283147  AZNS-207-ST_No1_Drilling_Engineering_Report_FA.docx
+     1200197  AZNS-40_Drilling_Engineering_Report_EN.docx
+     1203348  AZNS-40_Drilling_Engineering_Report_FA.docx
+     1204032  AZNS-75_WO_Drilling_Engineering_Report_EN.docx
+     1207385  AZNS-75_WO_Drilling_Engineering_Report_FA.docx
+      590779  AZNS-85_Drilling_Engineering_Report_EN.docx
+      593226  AZNS-85_Drilling_Engineering_Report_FA.docx
      1599159  Field_Master_Drilling_Engineering_Report_EN.docx
      1601921  Field_Master_Drilling_Engineering_Report_FA.docx
