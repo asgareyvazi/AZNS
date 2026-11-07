@@ -46,3 +46,15 @@ Selection is the last sheet in workbook order containing a recognized formation 
 ```
 
 It groups strictly numeric bit numbers and explicit rerun numbers; missing reruns remain unknown. The summary shows maxima of *reported cumulative counters*, not run-by-run incremental metres or hours. A cumulative counter can span reruns; it must not be summed across groups. Metadata conflicts, changing names/units, number reuse, and last nonblank dull values require manual reconciliation. This is specific to the 207 workbook structure and does not repair other wells' bit tables.
+
+## Daily drilling and workover observations (interim)
+
+Regenerate after building the raw index, from the repository root:
+
+```sh
+/tmp/azns-index-venv/bin/python tools/extract_drilling_tracks.py /tmp/azns-evidence.sqlite evidence/drilling_track_observations.json
+```
+
+The JSON preserves sheet, cell, raw value and numeric interpretation from recognized legacy and DDR sheet families in all 13 packs, including a shifted-column DDR family. Recognition is not full daily-sheet coverage: 12 recognizes 65/72 candidate pairs and 127WO1 88/137; some later `-2 Remark` sheets are not a data sheet. The index's cached values can be stale. Explicit numeric legacy ranges are separated into endpoints, while ambiguous slash values stay unparsed. Numeric duration cells with Excel time formats are converted from day fractions to hours; numeric-looking text is not converted merely because of its style. Status extraction stops at the first daily total, excluding the next block. Days count as complete only when recognized segments total 23.9–24.1 hours with known codes and numeric durations; omitted/missing segments and ambiguous codes invalidate a day. N/NPT, UP/unplanned and NPT-UNPLN remain separate source categories. Counts are not an independently validated breakdown or proof of actual schedule progress.
+
+Four interim W3 drilling graphics plot observations at report-end MD against **unverified** formation snapshot bands and legacy shoes, not event depths or continuous logs. The excluded 207 7,500-gpm value remains in the evidence. Nine workover W3 graphics show report-number timelines, source-code statuses and incomplete totals. Neither type establishes approved operating limits, actual-vs-planned phase performance, a geological interpretation or verified NPT. All 13 new English W3 images were visually inspected; English and Persian editions share the corresponding image. Inspection is not rendered-page QA.
