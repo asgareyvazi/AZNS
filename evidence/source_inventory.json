@@ -1,0 +1,808 @@
+{
+  "description": "Raw inventory only; extracted text and cached Excel values are not verified engineering facts. PDF physical page numbers may differ from printed page numbers. Numeric spreadsheet values may be Excel date serials; units and formulas require review.",
+  "files": [
+    {
+      "file": "AZNS -127 Side Track#01 Program Rev.03.pdf",
+      "sha256": "405e8d03d8a051888aebedc72f3331b3381966758ff676827c35e9197c0f52b2",
+      "bytes": 7959900,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 228,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS -127 Side Track-2 Program Rev.01.pdf",
+      "sha256": "7faf783d594d3b783045919bfb571afdc91c16e3b243b715027d30768c35c26b",
+      "bytes": 6782020,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 179,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-010 Workover Program Rev.06.pdf",
+      "sha256": "5ca6750f7f60bd0f0081a9ea1c937f34b63a4c1e6233f3c4622ade1b3e136328",
+      "bytes": 4213557,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 78,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-012 Workover Program Rev02.pdf",
+      "sha256": "b8b098e0d956c0b952348f3cc91b0ac0d140ad4ec25c707b5c1a56585ada9f4c",
+      "bytes": 2959591,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 64,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-0122 Workover-1 Program Rev.07.pdf",
+      "sha256": "cf76377892f580fb955b49e27747e482e2490433f59ceeb3182f1b14b14c83d1",
+      "bytes": 3440569,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 66,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-0122 Workover-2 Program Rev.00.pdf",
+      "sha256": "d0ff87ba2d03222e4959c8ee3deebc6438e3e5d27c81254ea83afddae9504283",
+      "bytes": 4277265,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 71,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-040 RE-Entry Well Program Rev.03.pdf",
+      "sha256": "782b26848f25f8ff137fedd637039be423613b82ec1aafc8b09d8f77a88da430",
+      "bytes": 19337755,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 234,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-075 Workover-1 Program Rev.05.pdf",
+      "sha256": "0981c53e87311f43e19ec9762c0a5a477fd881d67b6cd7ae46b682920ca17121",
+      "bytes": 4921953,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 117,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-116 Workover Program Rev.04.pdf",
+      "sha256": "b48708a2b618977062ed1029d98c64936a3af5ab8cb3c8c42a83ce810d3e1214",
+      "bytes": 4321137,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 84,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-127 Workover #2 Program Rev.03.pdf",
+      "sha256": "d9889fcd3db6f1a745cfee3f5cb226d3f524cbd0b4e45c17d563e3213dc10c1a",
+      "bytes": 4024281,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 86,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-127 Workover1 Program Rev.01.pdf",
+      "sha256": "4eb5147b205165a9c68f34ee6ea84d01cf6cb93fb859a6fe8d2157c198dbf0d9",
+      "bytes": 3975235,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 96,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-166 Workover-1 Program Rev.05.pdf",
+      "sha256": "7dce561657a00cbd9fba2fefffe1e6bcb5db81cbeb5bbcaf0305cedc82440580",
+      "bytes": 4883987,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 68,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-207 Program.pdf",
+      "sha256": "3ca553e99ef6ddafa0d06000a48f489fb51177c9c444ddcdf04b12ba56801964",
+      "bytes": 9910783,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 181,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS-85 Workover Program Rev.02.pdf",
+      "sha256": "038a5c52dbe1b71eac2908cab57f0c0e98d9dd813a5ddbf5f9911fa260d8c874",
+      "bytes": 3098743,
+      "kind": "pdf",
+      "status": "ok",
+      "pages": 69,
+      "blank_text_pages": 0
+    },
+    {
+      "file": "AZNS10Pack.xlsx",
+      "sha256": "bf8c897274b47f9324b6e808162c451c0329d78651e76a27c700db9263ec0a95",
+      "bytes": 3400294,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 166,
+      "nonempty_cells": 70828
+    },
+    {
+      "file": "AZNS116Pack.xlsx",
+      "sha256": "68c5b874f1ba78a4a30989930aef00f06095d8118e89e217e74ca918364dc438",
+      "bytes": 4868857,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 224,
+      "nonempty_cells": 105509
+    },
+    {
+      "file": "AZNS122WO1Pack.xlsx",
+      "sha256": "c14db1ff6cbef8b7d4e0f69b9f64cdc4452e3935f64bad439d38a8aed6f5f42a",
+      "bytes": 2778298,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 112,
+      "nonempty_cells": 54985
+    },
+    {
+      "file": "AZNS122WO2Pack.xlsx",
+      "sha256": "2eb9858150dfa2d43f46e387ded978fd04c811f0c08b402a76a533f36235b65c",
+      "bytes": 8763975,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 242,
+      "nonempty_cells": 112976
+    },
+    {
+      "file": "AZNS127ST2Pack.xlsx",
+      "sha256": "68329de313721905be08f20cb8bb8b4f5f3671d5c6caab41f23caa1a48b9a4c4",
+      "bytes": 7612567,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 212,
+      "nonempty_cells": 102704
+    },
+    {
+      "file": "AZNS127WO1Pack.xlsx",
+      "sha256": "6034aae76c2e3126416df8f8576d424bd3394c30aca4c4f5e72f0372256739d6",
+      "bytes": 5608483,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 274,
+      "nonempty_cells": 104687
+    },
+    {
+      "file": "AZNS127WOPack.xlsx",
+      "sha256": "a4ae90dc870f20b2f99ac3a36b8b5cd1c357b60dd2805630597cc48ba059054e",
+      "bytes": 4889271,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 136,
+      "nonempty_cells": 56578
+    },
+    {
+      "file": "AZNS12Pack.xlsx",
+      "sha256": "e325945f1108341bace123e60b02fb04ac3f7d3003a19eb8d23004cf7cd67216",
+      "bytes": 5040981,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 144,
+      "nonempty_cells": 63448
+    },
+    {
+      "file": "AZNS166Pack.xlsx",
+      "sha256": "e63824748e4692884fc23075c678c1379b9b595a8c8b1efb289e630f898a75d8",
+      "bytes": 1780457,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 48,
+      "nonempty_cells": 20142
+    },
+    {
+      "file": "AZNS207Pack.xlsx",
+      "sha256": "828968c7e0afd7273d64987bd457383ecfea3a2e00e62c9a65b587f16518996a",
+      "bytes": 11359006,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 310,
+      "nonempty_cells": 158490
+    },
+    {
+      "file": "AZNS40Pack.xlsx",
+      "sha256": "0523068ee222c02f6e2d2754bcd919a9c296b334b03521ab15d84322aade94ca",
+      "bytes": 6186618,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 302,
+      "nonempty_cells": 157419
+    },
+    {
+      "file": "AZNS75Pack.xlsx",
+      "sha256": "5e0482d5d50e9347a98b7c24cfd3a102d3c00f2c951f6061aba14d164136fcae",
+      "bytes": 12090877,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 332,
+      "nonempty_cells": 166559
+    },
+    {
+      "file": "AZNS85Pack.xlsx",
+      "sha256": "0d3ecc54fb8b9484f508b9a3957554ba13e72546c6d485abb79af633362daeb2",
+      "bytes": 2188317,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 106,
+      "nonempty_cells": 45972
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sha256": "bf6f0a922731cc1e624a6b956c7b800b2530570fa1b1b042635a244788c52493",
+      "bytes": 306217,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 23,
+      "nonempty_cells": 4604
+    },
+    {
+      "file": "CBS AZNS-10.xlsx",
+      "sha256": "1705f262f33b9409420adf73cba7c2330dc65b263386d93197b4e9e9b6ec4896",
+      "bytes": 40908,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 2,
+      "nonempty_cells": 1143
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sha256": "0fb3dd7df359f518851d2f8a5eb1d9c0c22038cb25250e450946f38ce89fb4ec",
+      "bytes": 213161,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 23,
+      "nonempty_cells": 4379
+    },
+    {
+      "file": "CBS AZNS-122WO1.xlsx",
+      "sha256": "ed09ec0115bf39c08ac2e61dce0337d818b39672fbb008b3160a679777f7b817",
+      "bytes": 45992,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 3,
+      "nonempty_cells": 1069
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sha256": "52adb371a8636b70a2d15166e1b9c1580f5a5b04d3b5a74d9927bbf57651ed73",
+      "bytes": 219024,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 24,
+      "nonempty_cells": 4933
+    },
+    {
+      "file": "CBS AZNS-127 ST 2.xlsx",
+      "sha256": "41492bab52fda54a26453dadf2bf9043fd23777944a859b42a9dadb5725e619e",
+      "bytes": 104024,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 6,
+      "nonempty_cells": 2938
+    },
+    {
+      "file": "CBS AZNS-127 WO1.xlsx",
+      "sha256": "22123ba457f7f73932f8a8d49691ed21e5f6b8bd4d3e3bbc72452f9838bfdc0f",
+      "bytes": 81107,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 4,
+      "nonempty_cells": 2160
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sha256": "6662bb6c81897e616136b276662d425080480cb49140ac75b08b321a0d191bc9",
+      "bytes": 190809,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 39,
+      "nonempty_cells": 6914
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sha256": "1c9c7deb44c94ea3461b5f7eff3ed5052dbe8c84e3ad45e33e9af2e669722e07",
+      "bytes": 177496,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 23,
+      "nonempty_cells": 4459
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sha256": "0bad45a7db0dca011102492d41e00600fda11b7cad768b482f8ad27774bd9598",
+      "bytes": 210363,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 23,
+      "nonempty_cells": 4314
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sha256": "ef7b75233e7b76164a7523472774f2739ea8defd22bbc9fe45e377044f44b4da",
+      "bytes": 209454,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 22,
+      "nonempty_cells": 5011
+    },
+    {
+      "file": "CBS AZNS-40.xlsx",
+      "sha256": "68b47e5f07f1e441ea0fbc71d7226d480dcab42f3b5902fdd27674ba8de85df6",
+      "bytes": 115966,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 3,
+      "nonempty_cells": 1432
+    },
+    {
+      "file": "CBS AZNS-85.xlsx",
+      "sha256": "c9ef67c3771f470e6a8d8f9cef95281383d78257fc203d3fc58bd69ea19781d2",
+      "bytes": 25378,
+      "kind": "xlsx",
+      "status": "ok",
+      "sheets": 1,
+      "nonempty_cells": 528
+    }
+  ],
+  "stimulation_sheet_candidates": [
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Acidizing &N2 service-075",
+      "nonempty_cells": 155
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Bottom Hole PVT Samp.075",
+      "nonempty_cells": 43
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Coil Tubing Service-075",
+      "nonempty_cells": 67
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Cost breakdown R-less Stim-075",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Memory gauge-075",
+      "nonempty_cells": 27
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Oil Transportation Service-075",
+      "nonempty_cells": 40
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Rig-less Stimulation total cost",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Slick line-075",
+      "nonempty_cells": 113
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Total Cost-EPD & Rigless",
+      "nonempty_cells": 12
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Well testing and production-075",
+      "nonempty_cells": 233
+    },
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet": "Wireline production logging-075",
+      "nonempty_cells": 139
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Acidizing &N2 service-12",
+      "nonempty_cells": 155
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Bottom Hole PVT Samp.-12",
+      "nonempty_cells": 43
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Coil Tubing Service-12",
+      "nonempty_cells": 67
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Cost breakdown R-less Stim.-12",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Memory gauge-12",
+      "nonempty_cells": 27
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Oil Transportation Service-12",
+      "nonempty_cells": 40
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Rig-less Stimulation total cost",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Slick line-12",
+      "nonempty_cells": 113
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Total Cost-EPD & Rigless",
+      "nonempty_cells": 12
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Well testing and production-12",
+      "nonempty_cells": 233
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet": "Wireline production logging-12",
+      "nonempty_cells": 139
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Acidizing &N2 service-122",
+      "nonempty_cells": 155
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Bottom Hole PVT Samp.-122",
+      "nonempty_cells": 43
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Coil Tubing Service-122",
+      "nonempty_cells": 67
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Cost breakdown R-less Stim.-122",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Memory gauge-122",
+      "nonempty_cells": 27
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Oil Transportation Service-122",
+      "nonempty_cells": 40
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Rig-less Stimulation total cost",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Slick line-122",
+      "nonempty_cells": 113
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Total Cost-EPD & Rigless",
+      "nonempty_cells": 12
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Well testing and production-122",
+      "nonempty_cells": 233
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet": "Wireline production logging-122",
+      "nonempty_cells": 139
+    },
+    {
+      "file": "CBS AZNS-127 ST 2.xlsx",
+      "sheet": "Total Cost-EPD & Rigless",
+      "nonempty_cells": 12
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Acidizing &N2 service-116",
+      "nonempty_cells": 155
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Acidizing &N2 service-127",
+      "nonempty_cells": 155
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Bottom Hole PVT Samp.-116",
+      "nonempty_cells": 43
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Bottom Hole PVT Samp.-127",
+      "nonempty_cells": 43
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Coil Tubing Service-116",
+      "nonempty_cells": 67
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Coil Tubing Service-127",
+      "nonempty_cells": 67
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Cost breakdown R-less Stim-127",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Cost breakdown R-less Stim.-116",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Memory gauge-116",
+      "nonempty_cells": 27
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Memory gauge-127",
+      "nonempty_cells": 27
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Oil Transportation Service-116",
+      "nonempty_cells": 40
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Oil Transportation Service-127",
+      "nonempty_cells": 40
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Rig-less Stimulation total cost",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Slick line-116",
+      "nonempty_cells": 113
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Slick line-127",
+      "nonempty_cells": 113
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Total Cost-EPD & Rigless",
+      "nonempty_cells": 12
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Well testing and production-116",
+      "nonempty_cells": 233
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Well testing and production-127",
+      "nonempty_cells": 233
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Wireline production logging-116",
+      "nonempty_cells": 139
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet": "Wireline production logging-127",
+      "nonempty_cells": 138
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Acidizing &N2 service-127#2",
+      "nonempty_cells": 155
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Bottom Hole PVT Samp.-127#2",
+      "nonempty_cells": 54
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Coil Tubing Service-127#2",
+      "nonempty_cells": 67
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Cost B.D R-less Stim. 127#2",
+      "nonempty_cells": 65
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Memory gauge-127#2",
+      "nonempty_cells": 38
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Oil Transportation Service127#2",
+      "nonempty_cells": 40
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Rig-less Stimulation total cost",
+      "nonempty_cells": 74
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Slick line-127#2",
+      "nonempty_cells": 123
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Total Cost-EPD & Rigless",
+      "nonempty_cells": 12
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Well testing & production-127#2",
+      "nonempty_cells": 233
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet": "Wireline produc. logging127#2",
+      "nonempty_cells": 139
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Acidizing &N2 service-166",
+      "nonempty_cells": 155
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Bottom Hole PVT Samp.-166",
+      "nonempty_cells": 43
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Coil Tubing Service-166",
+      "nonempty_cells": 67
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Cost breakdown R-less Stim.-166",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Memory gauge-166",
+      "nonempty_cells": 27
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Oil Transportation Service-166",
+      "nonempty_cells": 40
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Rig-less Stimulation total cost",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Slick line-166",
+      "nonempty_cells": 113
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Total Cost-EPD & Rigless",
+      "nonempty_cells": 12
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Well testing and production-166",
+      "nonempty_cells": 233
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet": "Wireline production logging-166",
+      "nonempty_cells": 139
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Acidizing &N2 service-F-20",
+      "nonempty_cells": 155
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Bottom Hole PVT Samp.-F-20",
+      "nonempty_cells": 43
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Coil Tubing Service-F-20",
+      "nonempty_cells": 67
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Cost breakdown R-less Stim-F-20",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Memory gauge-F-20",
+      "nonempty_cells": 27
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Oil Transportation Service-F-20",
+      "nonempty_cells": 40
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Rig-less Stimulation total cost",
+      "nonempty_cells": 45
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Slick line-F-20",
+      "nonempty_cells": 113
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Total Cost-EPD & Rigless",
+      "nonempty_cells": 12
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Well testing and production-127",
+      "nonempty_cells": 233
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet": "Wireline prod. logging-F-20",
+      "nonempty_cells": 138
+    },
+    {
+      "file": "CBS AZNS-40.xlsx",
+      "sheet": "Cost breakdown Rigless Stim.-40",
+      "nonempty_cells": 45
+    }
+  ],
+  "errors": []
+}
