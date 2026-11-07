@@ -1,0 +1,483 @@
+{
+  "notes": "Visually transcribed source-labelled historical schematic or original-well image, not independently validated actual sidetrack geology. Slash characters in 85 remain unchanged.",
+  "st1_same_image_sha256": "6e78dcf75ae21038f9d92fa95b910d9cbc359c945ede8b38fd9d860207922b0c",
+  "records": [
+    {
+      "well": "12",
+      "file": "AZNS-012 Workover Program Rev02.pdf",
+      "physical_page": 20,
+      "method": "embedded-image",
+      "scope": "before workover",
+      "depth_basis": "mMD as labelled; independently unverified",
+      "tops": [
+        {
+          "formation": "Asmari",
+          "formation_fa": "آسماری",
+          "source_depth_as_printed": "1267"
+        },
+        {
+          "formation": "Pabdeh",
+          "formation_fa": "پابده",
+          "source_depth_as_printed": "1460"
+        },
+        {
+          "formation": "Gurpi",
+          "formation_fa": "گورپی",
+          "source_depth_as_printed": "1982"
+        },
+        {
+          "formation": "Ilam",
+          "formation_fa": "ایلام",
+          "source_depth_as_printed": "2520"
+        },
+        {
+          "formation": "Sarvak",
+          "formation_fa": "سروک",
+          "source_depth_as_printed": "2592"
+        },
+        {
+          "formation": "Dariyan",
+          "formation_fa": "داریان",
+          "source_depth_as_printed": "3439"
+        },
+        {
+          "formation": "Gadvan",
+          "formation_fa": "گدوان",
+          "source_depth_as_printed": "3597"
+        }
+      ],
+      "embedded_image_sha256": "d61e3008432dfedd0f45f76f4015ff759671ae55660fb408c1d1b9c2ade16b5b"
+    },
+    {
+      "well": "75",
+      "file": "AZNS-075 Workover-1 Program Rev.05.pdf",
+      "physical_page": 21,
+      "method": "visual-pdf-text",
+      "scope": "before workover 1",
+      "depth_basis": "mMD as labelled; independently unverified",
+      "tops": [
+        {
+          "formation": "Gachsaran",
+          "formation_fa": "گچساران",
+          "source_depth_as_printed": "897.46"
+        },
+        {
+          "formation": "Asmari",
+          "formation_fa": "آسماری",
+          "source_depth_as_printed": "1197.47"
+        },
+        {
+          "formation": "Pabdeh or Pd./Ja.",
+          "formation_fa": "پابده یا پابده / جهرم",
+          "source_depth_as_printed": "1382.48"
+        },
+        {
+          "formation": "Jahrum",
+          "formation_fa": "جهرم",
+          "source_depth_as_printed": "1506.49"
+        },
+        {
+          "formation": "Pabdeh",
+          "formation_fa": "پابده",
+          "source_depth_as_printed": "1778.54"
+        },
+        {
+          "formation": "U. Gurpi",
+          "formation_fa": "گورپی بالایی",
+          "source_depth_as_printed": "2023.55"
+        },
+        {
+          "formation": "Tarbur",
+          "formation_fa": "تاربور",
+          "source_depth_as_printed": "2234.57"
+        },
+        {
+          "formation": "L. Gurpi",
+          "formation_fa": "گورپی پایینی",
+          "source_depth_as_printed": "2334.58"
+        },
+        {
+          "formation": "Ilam",
+          "formation_fa": "ایلام",
+          "source_depth_as_printed": "2472.58"
+        },
+        {
+          "formation": "Laffan",
+          "formation_fa": "لافان",
+          "source_depth_as_printed": "2547.59"
+        },
+        {
+          "formation": "Sarvak",
+          "formation_fa": "سروک",
+          "source_depth_as_printed": "2554.59"
+        },
+        {
+          "formation": "Kazhdumi",
+          "formation_fa": "کژدمی",
+          "source_depth_as_printed": "3196.65"
+        },
+        {
+          "formation": "Dariyan",
+          "formation_fa": "داریان",
+          "source_depth_as_printed": "3401.70"
+        },
+        {
+          "formation": "Gadvan-1",
+          "formation_fa": "گدوان ۱",
+          "source_depth_as_printed": "3557.76"
+        },
+        {
+          "formation": "Gadvan-5a",
+          "formation_fa": "گدوان ۵ الف",
+          "source_depth_as_printed": "3660.82"
+        },
+        {
+          "formation": "Gadvan-5c",
+          "formation_fa": "گدوان ۵ پ",
+          "source_depth_as_printed": "3670.82"
+        },
+        {
+          "formation": "Gadvan-8",
+          "formation_fa": "گدوان ۸",
+          "source_depth_as_printed": "3726.86"
+        }
+      ]
+    },
+    {
+      "well": "85",
+      "file": "AZNS-85 Workover Program Rev.02.pdf",
+      "physical_page": 19,
+      "method": "visual-pdf-text",
+      "scope": "before workover",
+      "depth_basis": "mMD as labelled; independently unverified",
+      "tops": [
+        {
+          "formation": "Gachsaran",
+          "formation_fa": "گچساران",
+          "source_depth_as_printed": "973"
+        },
+        {
+          "formation": "Asmari",
+          "formation_fa": "آسماری",
+          "source_depth_as_printed": "1279/9"
+        },
+        {
+          "formation": "Pabdeh/Jahrum",
+          "formation_fa": "پابده / جهرم",
+          "source_depth_as_printed": "1473/1"
+        },
+        {
+          "formation": "Jahrum",
+          "formation_fa": "جهرم",
+          "source_depth_as_printed": "1567/6"
+        },
+        {
+          "formation": "Pabdeh Area-3",
+          "formation_fa": "پابده ناحیه ۳",
+          "source_depth_as_printed": "1864/9"
+        },
+        {
+          "formation": "Gurpi",
+          "formation_fa": "گورپی",
+          "source_depth_as_printed": "2123"
+        },
+        {
+          "formation": "Ilam",
+          "formation_fa": "ایلام",
+          "source_depth_as_printed": "2538"
+        },
+        {
+          "formation": "Sarvak",
+          "formation_fa": "سروک",
+          "source_depth_as_printed": "2619/4"
+        },
+        {
+          "formation": "Kazhdumi",
+          "formation_fa": "کژدمی",
+          "source_depth_as_printed": "3260"
+        },
+        {
+          "formation": "Dariyan",
+          "formation_fa": "داریان",
+          "source_depth_as_printed": "3463/7"
+        },
+        {
+          "formation": "Gadvan",
+          "formation_fa": "گدوان",
+          "source_depth_as_printed": "3626/2"
+        },
+        {
+          "formation": "Fahliyan",
+          "formation_fa": "فهلیان",
+          "source_depth_as_printed": "3969/9"
+        }
+      ]
+    },
+    {
+      "well": "166",
+      "file": "AZNS-166 Workover-1 Program Rev.05.pdf",
+      "physical_page": 22,
+      "method": "visual-pdf-text",
+      "scope": "before workover 1",
+      "depth_basis": "mMD as labelled; independently unverified",
+      "tops": [
+        {
+          "formation": "Gachsaran",
+          "formation_fa": "گچساران",
+          "source_depth_as_printed": "1262"
+        },
+        {
+          "formation": "Asmari",
+          "formation_fa": "آسماری",
+          "source_depth_as_printed": "1773"
+        },
+        {
+          "formation": "Pabdeh",
+          "formation_fa": "پابده",
+          "source_depth_as_printed": "2119"
+        },
+        {
+          "formation": "Gurpi",
+          "formation_fa": "گورپی",
+          "source_depth_as_printed": "2353"
+        },
+        {
+          "formation": "Ilam",
+          "formation_fa": "ایلام",
+          "source_depth_as_printed": "2616"
+        },
+        {
+          "formation": "Sarvak",
+          "formation_fa": "سروک",
+          "source_depth_as_printed": "2724"
+        },
+        {
+          "formation": "Kazhdumi",
+          "formation_fa": "کژدمی",
+          "source_depth_as_printed": "3847"
+        },
+        {
+          "formation": "Dariyan",
+          "formation_fa": "داریان",
+          "source_depth_as_printed": "4183"
+        }
+      ]
+    },
+    {
+      "well": "127WO1",
+      "file": "AZNS-127 Workover1 Program Rev.01.pdf",
+      "physical_page": 51,
+      "method": "visual-pdf-text",
+      "scope": "before workover",
+      "depth_basis": "mMD as labelled; independently unverified",
+      "tops": [
+        {
+          "formation": "Gachsaran",
+          "formation_fa": "گچساران",
+          "source_depth_as_printed": "1105"
+        },
+        {
+          "formation": "Pabdeh",
+          "formation_fa": "پابده",
+          "source_depth_as_printed": "1740.68"
+        },
+        {
+          "formation": "U. Gurpi",
+          "formation_fa": "گورپی بالایی",
+          "source_depth_as_printed": "2182.49"
+        },
+        {
+          "formation": "Tarbur",
+          "formation_fa": "تاربور",
+          "source_depth_as_printed": "2310.38"
+        },
+        {
+          "formation": "L. Gurpi",
+          "formation_fa": "گورپی پایینی",
+          "source_depth_as_printed": "2390.33"
+        },
+        {
+          "formation": "Laffan",
+          "formation_fa": "لافان",
+          "source_depth_as_printed": "2618.34"
+        },
+        {
+          "formation": "Sarvak",
+          "formation_fa": "سروک",
+          "source_depth_as_printed": "2624.7"
+        },
+        {
+          "formation": "Kazhdumi",
+          "formation_fa": "کژدمی",
+          "source_depth_as_printed": "3273.82"
+        },
+        {
+          "formation": "Dariyan",
+          "formation_fa": "داریان",
+          "source_depth_as_printed": "3478.62"
+        },
+        {
+          "formation": "Gadvan",
+          "formation_fa": "گدوان",
+          "source_depth_as_printed": "3650.57"
+        },
+        {
+          "formation": "Fahliyan",
+          "formation_fa": "فهلیان",
+          "source_depth_as_printed": "3937.73"
+        }
+      ]
+    },
+    {
+      "well": "127WO2",
+      "file": "AZNS-127 Workover #2 Program Rev.03.pdf",
+      "physical_page": 38,
+      "method": "visual-pdf-text",
+      "scope": "before workover 2",
+      "depth_basis": "mMD as labelled; independently unverified",
+      "tops": [
+        {
+          "formation": "Gachsaran",
+          "formation_fa": "گچساران",
+          "source_depth_as_printed": "1105"
+        },
+        {
+          "formation": "Asmari",
+          "formation_fa": "آسماری",
+          "source_depth_as_printed": "1448.84"
+        },
+        {
+          "formation": "Pabdeh",
+          "formation_fa": "پابده",
+          "source_depth_as_printed": "1740.68"
+        },
+        {
+          "formation": "U. Gurpi",
+          "formation_fa": "گورپی بالایی",
+          "source_depth_as_printed": "2182.49"
+        },
+        {
+          "formation": "Tarbur",
+          "formation_fa": "تاربور",
+          "source_depth_as_printed": "2310.38"
+        },
+        {
+          "formation": "L. Gurpi",
+          "formation_fa": "گورپی پایینی",
+          "source_depth_as_printed": "2390.33"
+        },
+        {
+          "formation": "Ilam",
+          "formation_fa": "ایلام",
+          "source_depth_as_printed": "2516.7"
+        },
+        {
+          "formation": "Laffan",
+          "formation_fa": "لافان",
+          "source_depth_as_printed": "2618.34"
+        },
+        {
+          "formation": "Sarvak",
+          "formation_fa": "سروک",
+          "source_depth_as_printed": "2624.7"
+        },
+        {
+          "formation": "Kazhdumi",
+          "formation_fa": "کژدمی",
+          "source_depth_as_printed": "3273.82"
+        },
+        {
+          "formation": "Dariyan",
+          "formation_fa": "داریان",
+          "source_depth_as_printed": "3479.14"
+        },
+        {
+          "formation": "Gadvan",
+          "formation_fa": "گدوان",
+          "source_depth_as_printed": "3667"
+        },
+        {
+          "formation": "Fahliyan",
+          "formation_fa": "فهلیان",
+          "source_depth_as_printed": "3938.87"
+        }
+      ]
+    },
+    {
+      "well": "127ST2",
+      "file": "AZNS -127 Side Track-2 Program Rev.01.pdf",
+      "physical_page": 25,
+      "method": "embedded-image",
+      "scope": "original well; MD(log)",
+      "depth_basis": "mMD as labelled; independently unverified",
+      "tops": [
+        {
+          "formation": "Gachsaran",
+          "formation_fa": "گچساران",
+          "source_depth_as_printed": "1084"
+        },
+        {
+          "formation": "Asmari",
+          "formation_fa": "آسماری",
+          "source_depth_as_printed": "1448.84"
+        },
+        {
+          "formation": "Pabdeh",
+          "formation_fa": "پابده",
+          "source_depth_as_printed": "1740.68"
+        },
+        {
+          "formation": "U. Gurpi",
+          "formation_fa": "گورپی بالایی",
+          "source_depth_as_printed": "2182.49"
+        },
+        {
+          "formation": "Tarbur",
+          "formation_fa": "تاربور",
+          "source_depth_as_printed": "2310.38"
+        },
+        {
+          "formation": "L. Gurpi",
+          "formation_fa": "گورپی پایینی",
+          "source_depth_as_printed": "2390.33"
+        },
+        {
+          "formation": "Ilam",
+          "formation_fa": "ایلام",
+          "source_depth_as_printed": "2516.7"
+        },
+        {
+          "formation": "Laffan",
+          "formation_fa": "لافان",
+          "source_depth_as_printed": "2618.34"
+        },
+        {
+          "formation": "Sarvak-1",
+          "formation_fa": "سروک ۱",
+          "source_depth_as_printed": "2624.7"
+        },
+        {
+          "formation": "Kazhdumi",
+          "formation_fa": "کژدمی",
+          "source_depth_as_printed": "3273.82"
+        },
+        {
+          "formation": "Dariyan",
+          "formation_fa": "داریان",
+          "source_depth_as_printed": "3478.62"
+        },
+        {
+          "formation": "Gadvan-1",
+          "formation_fa": "گدوان ۱",
+          "source_depth_as_printed": "3650.57"
+        },
+        {
+          "formation": "Fahliyan",
+          "formation_fa": "فهلیان",
+          "source_depth_as_printed": "3937.73"
+        }
+      ],
+      "embedded_image_sha256": "6e78dcf75ae21038f9d92fa95b910d9cbc359c945ede8b38fd9d860207922b0c"
+    }
+  ]
+}

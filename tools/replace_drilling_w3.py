@@ -66,8 +66,8 @@ def plot_pairs(ax,records,keys,colors,labels):
             ax.scatter([x for x,y in pairs],[y for x,y in pairs],s=14,color=color,alpha=.68,label=label,edgecolors='none')
     # Blank fields remain missing, never drawn as zero.
 
-def plot(well,file,programme_bottom=None,programme_reference=None):
-    rec=get_data(tracks[file]);tops=form_tops(formations[file]);assert rec and tops
+def plot(well,file,programme_bottom=None,programme_reference=None,show_formations=True):
+    rec=get_data(tracks[file]);tops=form_tops(formations[file]) if show_formations else [];assert rec and (tops or not show_formations)
     maxdepth=max([r['md'] for r in rec]+[d for n,d in tops]);maxdepth=math.ceil((maxdepth+120)/500)*500
     mindepth=max(0,math.floor((min([r['md'] for r in rec]+[d for n,d in tops])-100)/500)*500)
     fig=plt.figure(figsize=(14.5,10),dpi=300,facecolor='white');gs=GridSpec(1,7,figure=fig,width_ratios=[1.38,1,1,1,1.15,1.1,1.25],wspace=.25)
@@ -87,7 +87,12 @@ def plot(well,file,programme_bottom=None,programme_reference=None):
     if positions and positions[-1]>maxdepth-span*.02:
         positions[-1]=maxdepth-span*.02
         for i in range(len(positions)-2,-1,-1):positions[i]=min(positions[i],positions[i+1]-sep)
-    ax0.set_xlim(0,1);ax0.set_xticks([]);ax0.set_ylabel('End-of-report measured depth (m)',fontsize=10)
+    if show_formations:
+        ax0.set_xlim(0,1);ax0.set_xticks([])
+    else:
+        ax0.scatter([r['day'] for r in rec],[r['md'] for r in rec],s=14,color='#426d8a',alpha=.7,edgecolors='none')
+        ax0.set_xlabel('Report number',fontsize=9,labelpad=7);ax0.tick_params(axis='x',labelsize=8)
+    ax0.set_ylabel('End-of-report measured depth (m)',fontsize=10)
     for (name,_),center,pos in zip(tops,centers,positions):
         ax0.annotate(name,xy=(.98,center),xytext=(.02,pos),textcoords='data',va='center',fontsize=8.7,color='#263a4b',arrowprops=dict(arrowstyle='-',color='#738797',lw=.5))
     ax0.set_ylim(maxdepth,mindepth);ax0.grid(axis='y',alpha=.15)
@@ -119,8 +124,8 @@ def plot(well,file,programme_bottom=None,programme_reference=None):
     fig.text(.055,.916,'WOB/RPM: blue=lower or single, orange=upper. Flow: blue=lower or single, light blue=upper; SPP: red/pink.',fontsize=8.3,color='#263a4b')
     fig.text(.055,.893,'ROP: blue=daily, gold triangle=mean of 3 consecutive reports. PV=blue, YP=purple, loss=orange; casing shoes omitted pending reconciliation.',fontsize=8.3,color='#263a4b')
     fig.suptitle(f'AZNS-{well} | Daily drilling parameters at report-end MD',fontsize=17,fontweight='bold',x=.055,y=.985,ha='left',color='#223952')
-    fig.text(.055,.944,f"{len(rec)} plotted reports / {tracks[file]['paired_sheet_candidates']} sheet pairs; " + ('formation bands are programme prognosis, not actual/event attribution.' if programme_reference else 'displayed depth range covers observations and tops; no verified formation attribution.'),fontsize=9,color='#9b431c')
-    fig.text(.055,.035,('Formation forecast: ' + programme_reference + '; lower plotted limit is programme TD, not a formation contact.' if programme_reference else 'DDR sources and rejected/non-numeric values: evidence/drilling_track_observations.json. Bands stop at the last listed top; no lower contact assumed.'),fontsize=8.5,color='#9b431c')
+    fig.text(.055,.944,f"{len(rec)} plotted reports / {tracks[file]['paired_sheet_candidates']} sheet pairs; " + ('formation bands are programme prognosis, not actual/event attribution.' if programme_reference else ('displayed depth range covers observations and tops; no verified formation attribution.' if show_formations else 'formation bands omitted: branch / datum not reconciled.')),fontsize=9,color='#9b431c')
+    fig.text(.055,.035,('Formation forecast: ' + programme_reference + '; lower plotted limit is programme TD, not a formation contact.' if programme_reference else ('DDR sources and rejected/non-numeric values: evidence/drilling_track_observations.json. Bands stop at the last listed top; no lower contact assumed.' if show_formations else 'First track is report number, not a continuous time axis. Source cells and excluded values: evidence/drilling_track_observations.json.')),fontsize=8.5,color='#9b431c')
     fig.subplots_adjust(left=.08,right=.98,top=.84,bottom=.115)
     fig.canvas.draw();out=BytesIO();fig.savefig(out,format='png',dpi=300);plt.close(fig);return out.getvalue()
 
