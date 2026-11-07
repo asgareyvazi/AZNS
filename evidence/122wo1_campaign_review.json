@@ -1,0 +1,326 @@
+{
+  "well": "122WO1",
+  "source": "AZNS122WO1Pack.xlsx",
+  "programme": "AZNS-0122 Workover-1 Program Rev.07.pdf",
+  "events": [
+    {
+      "sheet": "1-1 Remark",
+      "cells": {
+        "K23": "Spud the rig @ 14-Jan-24, 15:00. L/U Ann and XMT to choke manifold. Held P.J.S.M. Bleed of Ann Press thru burning line to 350 psi On 1/16\" ",
+        "K24": "choke size whithin 4 Hrs. Initially got gas contaminated oil with more than 90% gas and then 100% gas. Got return in oil storage tank after ",
+        "K25": "decrease gas percentage; Ann Press gradually decreased to 250 psi and remaind constant for last 20 min. Close Ann Side outlet valve.",
+        "K26": "Meanwhile monitor Ann Press; build up to 800psi after 2Hrs.",
+        "K27": "Return gas components: H2S: 12 ppm, LEL: 65%"
+      },
+      "english": "Report 1 records rig spud at 15:00 on 14 January 2024, annulus bleed-down and subsequent pressure rebuild; return-gas readings of 12 ppm H2S and 65% LEL are written in the same report. These are historical observations, not present conditions or an acceptable operating envelope.",
+      "persian": "گزارش ۱ شروع عملیات دکل را در ساعت ۱۵ روز ۱۴ ژانویه ۲۰۲۴، تخلیه فشار فضای حلقوی و افزایش مجدد بعدی را ثبت می‌کند؛ در همان گزارش مقادیر ۱۲ قسمت در میلیون سولفید هیدروژن و ۶۵ درصد حد پایین انفجار برای گاز برگشتی نوشته شده‌اند. این‌ها مشاهدات تاریخی‌اند، نه شرایط فعلی یا محدوده مجاز عملیاتی."
+    },
+    {
+      "sheet": "2-1 Remark",
+      "cells": {
+        "K22": "Open 2SV & Perform Press test S/L Lubricator & BOP after several times to 7500 psi for 15 min; OK. While rectify several leakage & Also ",
+        "K23": "tighten kill valve flange bolts.",
+        "K28": "counter failed. POOH shifting tools to 90m (on depth counter). Obs increase in tension. Try several times and pass. Cont. POOH to surface and ",
+        "K29": "check tools, Obs. a slight mark on shifting tools. Calibrate depth counter and RIH with same shifting tools to SSD depth (3819m). Try to open ",
+        "K30": "SSD by jar down; Succ after several tries & Pass shifting tools. POOH to surface; Obs Shifting tools Ok."
+      },
+      "english": "Report 2 describes rectification of leaks and a slickline lubricator/BOP pressure test labelled OK, followed by a failed depth counter and calibration during shifting-tool work. The source entry states the SSD was opened after several attempts; signed tests and complete tool records are needed to verify scope and outcome.",
+      "persian": "گزارش ۲ رفع نشتی‌ها و آزمون فشار روان‌ساز و فوران‌گیر اسلیک‌لاین با نتیجه «مطلوب» و سپس خرابی و کالیبراسیون شمارنده عمق در کار با ابزار تغییر وضعیت را شرح می‌دهد. منبع باز شدن شیر کشویی پس از چند تلاش را ذکر می‌کند؛ دامنه و نتیجه به نمودار آزمون امضاشده و پرونده کامل ابزار نیاز دارند."
+    },
+    {
+      "sheet": "6-1 Remark",
+      "cells": {
+        "K22": "Cont. direct Circ. To uniform MW w/ 106 pcf mud; got 600 bbl 90 to 75 pcf & 200 bbl 90 to 100 pcf & 500 bbl 100 to 105 pcf mud in return.  ",
+        "K23": "Cont. Circ to uniform MW; got 106 pcf mud after pump 1600 bbl (2 Cycle). Inc. F.R to 280 GPM (Stepwise) while decrease back Press f/ 800",
+        "K24": " to 300 psi; 0-10 BPH Losses (Totally loss during Circ.: 40 bbl)",
+        "K25": "Cont. Circ and uniform MW on 106 pcf thru C/M on full open Choke size; NL-NG. Static flow check for 2 Hrs: Static."
+      },
+      "english": "Report 6 records circulation toward a 106 pcf return and a source-stated 40 bbl loss during circulation; a later static check is labelled static. The loss figure must be reconciled to the fluid ledger and reporting interval before inclusion in a total.",
+      "persian": "گزارش ۶ گردش تا رسیدن وزن برگشتی به ۱۰۶ پوند بر فوت مکعب و هرزروی اعلام‌شده ۴۰ بشکه در حین گردش را ثبت می‌کند؛ کنترل ایستایی بعدی در منبع ایستا نامیده شده است. پیش از هر جمع، رقم هرزروی باید با دفتر سیال و بازه ثبت تطبیق شود."
+    },
+    {
+      "sheet": "8-1 Remark",
+      "cells": {
+        "K22": "Open Tie-Down screw. Try to Press test same; Obs. Leakage f/ string (TBG Running tools). Back off TBG Running tools, P/U & M/U other TBG ",
+        "K23": "Running tools, Screw same. Press test Tie-Down screw 4500 psi for 15 min; Ok. P/U string to 100 klb Wt on MD, Obs. Suddenly drop string ",
+        "K24": "Wt. Pull out to surface. Obs. 4-1/2\" XOS is B/O. Screw same on TBG Running tools. Back off TBG Running tools & L/D 4-1/2\" XOS. P/U 4-1/2\" ",
+        "K25": "Landing Jt & M/U TBG Running tools. Try to Screw; Due to exist CIL & CL on TBG HGR, Screw after 3 times attempt; Succ. P/U String & Try to ",
+        "K26": "unset PKR; Unset PKR w/ 130klbs over pull.",
+        "K30": "CBU w/ 350 GPM while divert return thru choke manifold after pumping 300bbl. Totally pump 1000bbl to get 106pcf mud in return, NL-NG. ",
+        "K31": "Got 650bbl 100-54 pcf gas cut mud (LEL: 95%, CO: 80PPM). Static flow check; static. "
+      },
+      "english": "Report 8 describes a tubing-running-tool leak, a separated crossover and later release of the packer, and records gas-cut returns during circulation. The entry does not by itself resolve the leak path or establish the condition of the whole completion string.",
+      "persian": "گزارش ۸ نشتی ابزار راندن لوله، جداشدن رابط و سپس آزاد شدن پکر را شرح می‌دهد و بازگشت گل گاززده در گردش را ثبت می‌کند. این مدخل به‌تنهایی مسیر نشتی یا وضعیت کل رشته تکمیلی را مشخص نمی‌کند."
+    },
+    {
+      "sheet": "11-1 Remark",
+      "cells": {
+        "K22": "Cont. POOH completion string f/ 1560 to 530 m while L/D totally 360 Jts 4-1/2\" TBG  till MN. While Circ. CWH; 0-1 BPH Losses.",
+        "K25": "*** Obs. Wash out (2*4 cm) on  4-1/2\"TBG Coupling @ 762m after pull out 336 Jts (Jt No. 61 @ 3173.5m as tally)",
+        "K26": "*** Difficulty in opening cross coupling protectors & break out TBG connections causes delay in operation Due to Obs asphaltene skin-tight ",
+        "K27": "on body of Tubings."
+      },
+      "english": "Report 11 observes a 2 by 4 cm washout on a retrieved 4½-inch tubing coupling and separately notes adherent asphaltene and difficulty breaking connections. The tally position, damage mechanism and causal relationship to the annulus pressure require physical inspection and records; they are not established by this excerpt.",
+      "persian": "گزارش ۱۱ شستگی ۲ در ۴ سانتی‌متری روی یک کوپلینگ لوله ۴½ اینچ بازیابی‌شده را مشاهده کرده و جداگانه به آسفالتین چسبیده و دشواری بازکردن اتصالات اشاره می‌کند. محل مطابق فهرست، مکانیسم آسیب و رابطه علّی با فشار فضای حلقوی به بازرسی فیزیکی و اسناد نیاز دارند و از این گزیده احراز نمی‌شوند."
+    },
+    {
+      "sheet": "15-1 Remark",
+      "cells": {
+        "K24": "Change top rams f/ 2-7/8\" X 5\" VBR to 7\" Fix. Install 7\" shooting nipple & Wireline logging BOP. Test same to 1500 psi for 15min; OK.",
+        "K25": "R/U wireline logging Equip. ",
+        "K26": "RIH wireline Logging tools as run #1 CBIL (CDR/GR/CCL/Corrosion, Max OD: 4\", Length: 16 m) to 3924m (6m above PKR).",
+        "K27": "Log up f/ 3924 to 3752m  (30 m above 7\"L.lap). ",
+        "K29": "Change over body of CBIL tools. RIH wireline Logging tools as run #2 CBIL (CDR/GR/CCL/Corrosion, Max OD: 4\", Length: 16 m) to 3780m",
+        "K30": "(2m above 7\" L.Lap)",
+        "K31": "Log up f/ 3780 to 3400m till MN."
+      },
+      "english": "Report 15 describes two corrosion-logging runs: the first logged from 3,924 to 3,752 m, and the second started at 3,780 m and logged upward. These are recorded logging intervals, not a corrosion diagnosis; the complete logs and interpretation are required.",
+      "persian": "گزارش ۱۵ دو ران نمودارگیری خوردگی را شرح می‌دهد: ران اول از ۳۹۲۴ تا ۳۷۵۲ متر نمودار گرفته و ران دوم از ۳۷۸۰ متر به سمت بالا شروع شده است. این‌ها بازه‌های ثبت‌شده نمودارگیری‌اند، نه تشخیص خوردگی؛ لاگ کامل و تفسیر آن لازم است."
+    },
+    {
+      "sheet": "19-1 Remark",
+      "cells": {
+        "K24": "Wait on client's decision for corrosion of  9-5/8''csg  & next plan while P/U & M/U 7’’ SN Packer Assy included: 7\" Seal Nipple (PPA Co, ",
+        "K25": "S/N:PPA-MSA-SNP7-29L8-05, 29#, L-80, ACME, Dressed w/ 4 set V-Packing, Length: 94 cm, ID:6-3/16\", OD:7-5/16\"), LG c/w PKR, Slips ",
+        "K26": "(PPA Co, 29#, L-80, ACME), Tie back sleeve  c/w PBR (PPA Co, S/N: PPA-MSA-PBR7-29L8-05, 29#, L-80, ACME, Length: 1.80 m, ID:7-3/8\", ",
+        "K27": "OD:8-1/4\") Check running tools rotating function f/ LG; OK. RIH w/ 1 Std 6-1/2\"DC & 3 Stds 4-3/4\" DCs & followed by 5\" DPs to 3778m (7'' ",
+        "K28": "L.Lap). ",
+        "K29": "Wait on client's decision for corrosion of  9-5/8''csg  & next plan while Break circ. Mud, Record P/U & S/O string Wt, Sting in seal nipple in ",
+        "K30": "previous PBR, Obs. Shoot up 80 psi SPP, Pump off, Sting in fully in PBR,'while Obs. seals drag. Apply 50 Klb on packer & slips; Obs. Setting ",
+        "K31": "indication of PKR, No Obs shear indication of the shear pins of slips, pull test PKR, Not OK, Set the slips after try 3 times by apply max 90 ",
+        "K32": "Klbs on packer to set slips, OK, Pull test W/ 15 klbs, Ok. S/O 10 Klbs on PKR & Rotate string 27 forward turn & released setting tools, OK. "
+      },
+      "english": "Report 19 records installation work on a 7-inch seal-nipple packer assembly near the existing liner lap and a source-labelled satisfactory pull test after repeated setting attempts. This historical entry alone is not evidence of present-day isolation or an approved barrier.",
+      "persian": "گزارش ۱۹ کار نصب مجموعه پکر نیپل آب‌بندی ۷ اینچ نزدیک هم‌پوشانی آستری موجود و آزمون کشش با نتیجه مطلوبِ ثبت‌شده پس از چند تلاش نصب را بیان می‌کند. این ثبت تاریخی به‌تنهایی اثبات جداسازی کنونی یا مانع مصوب نیست."
+    },
+    {
+      "sheet": "25-1 Remark",
+      "cells": {
+        "K22": "While wait on client's decision for corrosion of  9-5/8''csg & next plan, Cont milling 7\" Old Completion PKR w/ Diff parameters f/ 3928.35 to  ",
+        "K23": "3928.8m while pump Hi-Vis pill periodically, NL-NG.",
+        "K25": "Stop milling due to low progress & stall string several times, pump 30 bbl Hi-Vis pill & CBU till shaker clean, NL-NG. perform flow check; static."
+      },
+      "english": "Report 25 describes milling the old completion packer from 3,928.35 to 3,928.8 m and stopping because of low progress and repeated string stalls. The underlying parameters are historical, not a recommended milling recipe.",
+      "persian": "گزارش ۲۵ آسیاب‌کاری پکر تکمیلی قدیمی از ۳۹۲۸٫۳۵ تا ۳۹۲۸٫۸ متر و توقف به‌علت پیشروی کم و توقف مکرر رشته را شرح می‌دهد. پارامترهای ثبت‌شده تاریخی‌اند، نه دستورالعمل توصیه‌شده آسیاب‌کاری."
+    },
+    {
+      "sheet": "29-1 Remark",
+      "cells": {
+        "K22": "Wait on client's decision for corrosion of  9-5/8'' Csg & next plan, Cont RIH w/ 4-1/4\" Taper tap & Fishing BHA f/ 3000 to 3935.6m, F/U string ",
+        "K23": "F/U string every 10 Stds & break Circ, NL-NG.",
+        "K24": "Tag TOF @ 3565.6m. Clean TOF. Work on fish, Obs drop fish to 3945m, work on fish again, POOH chain out to 3750m (above 7\" L.Lap).",
+        "K28": "L/D fishing jar, 1 jt 4-3/4'' DC & taper tap, Fish not recovered. piece of PKR segment (dice) taped on taper tap, which caused engaging & ",
+        "K29": "tapping fish unsuccessfull.The taper tap was plugged w/ corrosion of the casing."
+      },
+      "english": "Report 29 records an unsuccessful taper-tap fishing attempt and states that a packer segment was found on the tap. The same entry reports running to 3,935.6 m but then says top of fish 3,565.6 m before stating the fish dropped to 3,945 m. The incompatible depth sequence is preserved as a source discrepancy; do not silently replace the suspect value.",
+      "persian": "گزارش ۲۹ یک تلاش ناموفق ماهیگیری با تِیپر تَپ را ثبت کرده و می‌گوید قطعه‌ای از پکر روی ابزار دیده شد. همان مدخل راندن تا ۳۹۳۵٫۶ متر و سپس رأس قطعه در ۳۵۶۵٫۶ متر را پیش از ذکر افتادن قطعه تا ۳۹۴۵ متر بیان می‌کند. این توالی عمق ناسازگار به‌عنوان اختلاف منبع حفظ می‌شود؛ مقدار مشکوک نباید بی‌صدا اصلاح شود."
+    },
+    {
+      "sheet": "34-1 Remark",
+      "cells": {
+        "K22": "Wait on client's decision for corrosion of  9-5/8'' Csg & next plan: Cont. Mill/push Dn the fish f/ 4080 to 4083m; NL-NG. Pump Hi-Vis pill ",
+        "K23": " periodically.",
+        "K24": "Fish dropped. Soft wash & Ream Dn f/ 4083 to 4148.5m; 1-2 BPH Losses. ",
+        "K25": "Resume Milling the fish f/ 4148.5 to 4150m (Top of CMT, Tail of fish completely milled.); 1-2 BPH Losses. "
+      },
+      "english": "Report 34 states the fish dropped, reports washing and reaming to 4,148.5 m and then describes milling to 4,150 m with the source claim that the fish tail was completely milled. That claim concerns the tail; it does not independently verify recovery or removal of the complete fish.",
+      "persian": "گزارش ۳۴ افتادن قطعه، شست‌وشو و گشادکاری تا ۴۱۴۸٫۵ متر و سپس آسیاب‌کاری تا ۴۱۵۰ متر را گزارش می‌کند و در منبع ادعا می‌کند انتهای قطعه کاملاً آسیاب شده است. این ادعا درباره انتهای قطعه است و مستقلاً بازیابی یا حذف کل قطعه را ثابت نمی‌کند."
+    },
+    {
+      "sheet": "40-1 Remark",
+      "cells": {
+        "K24": "Held PJSM, P/U & M/U 7\" Seal Nipple (PPA, 29#, C-110, TPCQ), Dressed w/ 4 Set V-Packing & RIH w/ 2 Jts 7\" LNR (29#, L-80, TPCQ), ",
+        "K25": "7\" LDC (PPA, 29#, C-110, TPCQ), 154 Jts (Totally 156 Jt) 7\" LNR (29#, L-80, TPCQ),",
+        "K26": "P/U & M/U POB + LG (Length: 0.36 m, ID:6\", OD:8-1/4\", PPA, 29#, C-110, TPCQ) & Tie back sleeve (Length: 1.8 m, ID:7-3/8\", OD:8-1/4\", PPA, 29#, ",
+        "K27": "C-110, TPCQ) to 1780m , while install wiper plug on slick Jt w/ 5 No. Shear pin & Check running tools rotating function f/ LG; OK. ",
+        "K30": "R/D CSG Running equipment. Cont. RIH w/ 7\" LNR Tie-Back Assy on 10 Stds 5 DP to 2060m, while pass 2-3/8\" drift thru all Stds; 0-1 BPH Losses."
+      },
+      "english": "Report 40 describes a 7-inch liner tie-back assembly, including a source-stated 156 liner joints and a tie-back sleeve. The count is a source tally, not verified independent joints added to other reported totals; the approved string tally is required.",
+      "persian": "گزارش ۴۰ مجموعه بازبست آستری ۷ اینچ، شامل ۱۵۶ شاخه آستری مطابق شمارش منبع و غلاف بازبست را شرح می‌دهد. این عدد شمارش منبع است، نه تعداد مستقلی که بتوان به سایر جمع‌ها اضافه کرد؛ فهرست مصوب رشته لازم است."
+    },
+    {
+      "sheet": "41-1 Remark",
+      "cells": {
+        "K22": "Cont. RIH w/ 7\" LNR Tie-Back Assy on totally 70 Stds 5 DP to 3775.4m (7\" L.Lap) while pass 2-3/8\" drift thru all Stds; 0-1 BPH Losses. Meanwhile ",
+        "K27": "Press test CMT line to 500/3000 psi; Ok. Pump 20 bbl Chemical wash as Spacer. Mix & Pump 713 sx CMT G Delijan (S.V:172 bbl, S.W:118 pcf). ",
+        "K28": "Drop pump down plug & Displace w/ Totally 321 bbl 103 pcf mud (2 bbl short) Bleed off Press, While Obs Shearing @ 110 bbl to 1500 psi. Sting in ",
+        "K29": "seal nipple fully in previous Tie back sleeve with S/O 140 Klbs (LNR Wt). Rotate string 20 turn forward & Release running tools. P/U string & Check ",
+        "K36": "*** Surface CMT slurry samples are 100% Hard; 9 Hrs after mixing CMT Slurry."
+      },
+      "english": "Report 41 places the tie-back assembly at a 3,775.4 m liner-lap reference and records pumping 713 sacks of class G cement with a reported slurry volume of 172 bbl. A surface sample is later called hard; a surface sample and pumped quantity do not establish downhole cement placement or isolation.",
+      "persian": "گزارش ۴۱ مجموعه بازبست را در مرجع هم‌پوشانی آستری ۳۷۷۵٫۴ متر قرار داده و پمپاژ ۷۱۳ کیسه سیمان رده G با حجم دوغاب گزارش‌شده ۱۷۲ بشکه را ثبت می‌کند. نمونه سطحی بعداً سخت توصیف شده است؛ نمونه سطحی و مقدار پمپ‌شده جای‌گیری سیمان درون چاه یا جداسازی را ثابت نمی‌کنند."
+    },
+    {
+      "sheet": "42-1 Remark",
+      "cells": {
+        "K22": "Cont. RIH w/ 8-1/2\" TCI Bit (K.D, 517, SN: 22003238JH, Used, Open) & D/O BHA (BHA #15) f/ 60 to 1950m, F/U string & Break Circ. Every 15 Stds; ",
+        "K23": "NL-NG. Took weight.",
+        "K24": "D/O Soft CMT f/ 1950 to 1980m & Med to Hard CMT to 1998m. Tag & confirm new 7\" L.Lap @ 1998m. "
+      },
+      "english": "Report 42 identifies a new 7-inch liner lap at 1,998 m after drilling out cement. This is a different reported reference from the deeper 3,775.4 m lap used during the tie-back run; do not treat them as interchangeable or assume that one displaced the other.",
+      "persian": "گزارش ۴۲ پس از حفاری سیمان، هم‌پوشانی جدید آستری ۷ اینچ را در ۱۹۹۸ متر معرفی می‌کند. این مرجع با هم‌پوشانی عمیق‌تر ۳۷۷۵٫۴ متر در هنگام راندن بازبست متفاوت است؛ آن دو را یکسان یا جایگزین یکدیگر فرض نکنید."
+    },
+    {
+      "sheet": "47-1 Remark",
+      "cells": {
+        "K22": "Prepare for displace the well w/ 104 Pcf completion fluid while slow Circ, NL-NG.",
+        "K23": "Add Cacl2 & additives to Cabr2 ( final completion fluid Wt:104 Pcf). Set pump truck, L/U Cmt line & Press test to 3000 Psi; OK.",
+        "K24": "Pump 30 bbl 123 Pcf Kill mud + 30 bbl Hi-vis pill + 30 bbl 86 Pcf Cacl2, displace the well w/ 620 bbl 104 Pcf Completion fluid @ 3830m, got 5bbl",
+        "K25": "contaminated (95-100 Pcf), stop pumping after got 104 Pcf completion fluid in return, NL-NG."
+      },
+      "english": "Report 47 records a 104 pcf completion fluid and states 620 bbl was displaced. Programme pages 29–30 describe a 106 pcf fluid basis, with properties subject to the hole and a detailed programme to be issued. The 2 pcf numerical difference is not, by itself, proof of noncompliance, equal test conditions, final density or approval.",
+      "persian": "گزارش ۴۷ سیال تکمیلی با وزن ۱۰۴ پوند بر فوت مکعب و جابه‌جایی ۶۲۰ بشکه را ثبت می‌کند. صفحات ۲۹ و ۳۰ برنامه مبنای ۱۰۶ پوند بر فوت مکعب را با امکان تغییر خواص بر حسب شرایط چاه و صدور برنامه تفصیلی ذکر می‌کنند. تفاوت عددی دو پوند بر فوت مکعب به‌تنهایی اثبات عدم انطباق، شرایط یکسان اندازه‌گیری، چگالی نهایی یا تأیید نیست."
+    },
+    {
+      "sheet": "53-1 Remark",
+      "cells": {
+        "K22": "Try to rupture CIV #2 rupture disk several times; No-Succ. In last attempt rupture CIV #2 rupture disk successfully & Obs return f/ string.",
+        "K26": " L/U test line to string. Press test completion string, TBG HGR & L/J against check valve to 7000 psi for 15 min; Ok. While rectify the leakage",
+        "K27": " f/ 4-1/2\" Circ. Swage",
+        "K29": "RIH w/ 2.750\" Plug to NO-GO L/N depth and tried to set plug. While POOH, unable to pass SSD depth. Tried to check RIH, Unable to pass Jt below ",
+        "K30": "packer. Try to pass this interval upward or downward; Got stuck @ 3734m (Jt below Packer). Work on same; Got free. POOH to surface; Obs. ",
+        "K31": "2.750\" Plug left in well. RIH w/ GS Pulling to No-Go L/N Depth & Catch the Plug. POOH to surface; Obs. Plug retrieved. L/D same."
+      },
+      "english": "Report 53 records repeated attempts before CIV 2 disk rupture, a 7,000 psi completion-string test labelled OK, and a plug left in the well then retrieved. The test scope and sequence must be checked against the signed test chart; it is not a current integrity certification.",
+      "persian": "گزارش ۵۳ تلاش‌های مکرر پیش از شکستن دیسک شیر تزریق شماره ۲، آزمون رشته تکمیلی در ۷۰۰۰ پوند بر اینچ مربع با نتیجه «مطلوب» و جاماندن و سپس بازیابی یک پلاگ را ثبت می‌کند. دامنه و توالی آزمون باید با نمودار امضاشده تطبیق شود؛ این ثبت گواهی یکپارچگی فعلی نیست."
+    },
+    {
+      "sheet": "54-1 Remark",
+      "cells": {
+        "K25": "L/U test line to string. Press test line to 500 / 7000 psi; OK. Set PKR as per completion Eng. instruction with max 3500 psi (Obs. Shearing",
+        "K26": "indication @ 2500 psi). Increase press to 7000 psi step by step and hold for 15 min; OK. Bleed off Press. Perform pull test with 15klbs",
+        "K27": "overpull; OK. Land TBG HGR in THS & Obs. Return & back flow  from string after T.J pins sheared as an indication of travelling Jt shearing.",
+        "K28": "Close Tie Dn screws. Final Press test completion string against No-Go L/N Plug to 5000 psi; OK. Close annular BOP. Press test TBG HGR and Tie Dn",
+        "K29": "screws to 2000 psi; OK. L/U to Ann and press test to 1000 psi; OK. Back off L/J. Install 4\" TWCV in TBG HGR. Close SBR & Press test 4\" TWCV  ",
+        "K39": "End of 3-1/2\" X 4-1/2\" Completion string: 3737.5m, NO-GO Landing Nipple: 3736.88 m, 7\" PKR setting depth: 3721.11m, SSD: 3708.35m,",
+        "K40": "Traveling Jt: 3689.60m, CIV #1: 3677.52m, CIV #2: 3665.64m, 3-1/2\" X 4-1/2\" XOS: 1967.65m, TR3SV: 62.89m"
+      },
+      "english": "Report 54 lists set-packer completion depths and several source-labelled satisfactory tests. These are source-reported historical depths rather than a current barrier schematic; the test chart, tally, datum and final completion drawing must be reviewed together.",
+      "persian": "گزارش ۵۴ عمق اجزای تکمیل پس از نصب پکر و چند آزمون با نتیجه مطلوبِ ثبت‌شده را فهرست می‌کند. این‌ها عمق‌های تاریخی گزارش‌شده‌اند نه شماتیک مانع فعلی؛ نمودار آزمون، فهرست تجهیزات، مرجع عمق و نقشه نهایی تکمیل باید با هم بررسی شوند."
+    },
+    {
+      "sheet": "56-1 Remark",
+      "cells": {
+        "K22": "Cont. RIH w/ 1-1/2\" CT (CT BHA Component: 1-11/16\" Roll on connector, Double Flapper check valve, Jet wash Nozzle) f/ 1800 to 3650 m while ",
+        "K23": "break Circ. Every 300 m; OK.",
+        "K24": "Displace the Completion fluid @ 3650m w/ 130 bbl NaCl brine. ",
+        "K25": "POOH w/ 1-1/2\" CT f/ 3650 to surface, while break Circ. Every 300 m. ",
+        "K26": "Close Top master valve, Flush CT Reel w/ F.Water, R/D CTU",
+        "K27": "R/U SL Equip. Ret. 3.437\" Protection sleeve f/ TR3SV. Close TR3SV. Close All XMT Valve except BMV & Secure the well. Released the rig.",
+        "K30": "Release the Rig @ 09-Mar-2024, 18:00"
+      },
+      "english": "Report 56 describes a coiled-tubing run to 3,650 m and displacement with 130 bbl NaCl brine, followed by retrieval and rig release at 18:00 on 9 March 2024. This establishes that the report describes a coiled-tubing activity; it does not establish execution of the separate programme acid wash or post-acid flow.",
+      "persian": "گزارش ۵۶ راندن لوله‌مغزی سیار تا ۳۶۵۰ متر و جابه‌جایی با ۱۳۰ بشکه آب‌نمک کلرید سدیم، سپس بیرون‌کشیدن و ترخیص دکل در ساعت ۱۸ روز ۹ مارس ۲۰۲۴ را شرح می‌دهد. این ثبت شرح یک فعالیت لوله‌مغزی سیار است؛ اجرای اسیدشویی یا جریان‌دهی پس از اسید در برنامه جداگانه را ثابت نمی‌کند."
+    }
+  ],
+  "additional_date_cells": {
+    "1-1 Remark": {
+      "K34": "***Spud the RIG @ 15:00, 14-Jan-2024***",
+      "K40": "Rec SPAD Energy Co. CMT unit & crew @ 12:00, 2023-Jan-19."
+    },
+    "2-1 Remark": {
+      "K40": "Rec SPAD Energy Co. CMT unit & crew @ 12:00, 2023-Jan-09."
+    }
+  },
+  "spud": "2024-01-14T15:00",
+  "rig_release": "2024-03-09T18:00",
+  "calendar_elapsed_hours": 1323.0,
+  "programme_physical_pages": [
+    7,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "completion_depths": [
+    {
+      "english": "End of completion string",
+      "persian": "انتهای رشته تکمیلی",
+      "source_depth_text": "3737.5",
+      "sheet": "54-1 Remark",
+      "cell": "K39"
+    },
+    {
+      "english": "No-go landing nipple",
+      "persian": "نیپل نشیمن بدون گذر",
+      "source_depth_text": "3736.88",
+      "sheet": "54-1 Remark",
+      "cell": "K39"
+    },
+    {
+      "english": "7-inch packer",
+      "persian": "پکر ۷ اینچ",
+      "source_depth_text": "3721.11",
+      "sheet": "54-1 Remark",
+      "cell": "K39"
+    },
+    {
+      "english": "Sliding side door",
+      "persian": "شیر کشویی جانبی",
+      "source_depth_text": "3708.35",
+      "sheet": "54-1 Remark",
+      "cell": "K39"
+    },
+    {
+      "english": "Traveling joint",
+      "persian": "لوله لغزشی",
+      "source_depth_text": "3689.60",
+      "sheet": "54-1 Remark",
+      "cell": "K40"
+    },
+    {
+      "english": "CIV 1",
+      "persian": "شیر تزریق شیمیایی ۱",
+      "source_depth_text": "3677.52",
+      "sheet": "54-1 Remark",
+      "cell": "K40"
+    },
+    {
+      "english": "CIV 2",
+      "persian": "شیر تزریق شیمیایی ۲",
+      "source_depth_text": "3665.64",
+      "sheet": "54-1 Remark",
+      "cell": "K40"
+    },
+    {
+      "english": "3½ × 4½-inch crossover",
+      "persian": "رابط ۳½ به ۴½ اینچ",
+      "source_depth_text": "1967.65",
+      "sheet": "54-1 Remark",
+      "cell": "K40"
+    },
+    {
+      "english": "TR3SV",
+      "persian": "شیر ایمنی زیرسطحی",
+      "source_depth_text": "62.89",
+      "sheet": "54-1 Remark",
+      "cell": "K40"
+    }
+  ],
+  "cbs": {
+    "formula_or_value": {
+      "B5": "Rig Service",
+      "C5": "DAY",
+      "D5": 23000,
+      "E5": 45,
+      "F5": 23.79,
+      "G5": "=E5*D5",
+      "H5": "=D5*F5",
+      "G190": "=G189+G188+G170+G167+G158+G147+G137+G134+G130+G125+G122+G113+G102+G99+G95+G87+G74+G62+G24+G20+G13+G6+G5",
+      "H190": "=H5+H6+H13+H20+H24+H62+H87+H113+H122+H134+H137+H147+H158+H167+H170"
+    },
+    "cached": {
+      "B5": "Rig Service",
+      "C5": "DAY",
+      "D5": 23000,
+      "E5": 45,
+      "F5": 23.79,
+      "G5": 1035000,
+      "H5": 547170,
+      "G190": 4587374.5,
+      "H190": 1304440.016
+    }
+  },
+  "limitations": "Selected historical source observations, not complete chronology, approved plan variance, present barrier status, invoices or execution of rig-less acid wash."
+}
