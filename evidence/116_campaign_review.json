@@ -1,0 +1,300 @@
+{
+  "well": "116",
+  "source": "AZNS116Pack.xlsx",
+  "method": "Selected operational entries sorted by source header report number, not proven chronology; date and numbering remain subject to signed-source reconciliation. No event-to-formation attribution or operating recommendations.",
+  "events": [
+    {
+      "sheet": "1-1 Remark",
+      "worksheet_prefix": 1,
+      "header_report_number": 1,
+      "source_report_date_unverified": "2024-06-08",
+      "cells": {
+        "K22": "PRSPUD RIG. & RIG SPUD @ 08-06-2024 ( 1403-03-18 ) & 18:00 O'CLOCK.",
+        "K23": "LINE UP & CONNECTED PUMP TRUCK LINE TO WELLHEAD & ANN, CHOCKMANIFOLD FOR TEST All EQUIP & WELLHEAD VALVE @ SEVERAL",
+        "K24": " TIMS's, No SUCC. OBS LEAKAGE FROM RING GASKET BX-152 - 2-1/16\" FLANGE ANN. CHANGE IT @ TRY TO TEST AGAIN NO. SUCC @ M.N."
+      },
+      "anchor": "08-06-2024",
+      "english": "The first page records rig spud on 8 June 2024 at 18:00 and repeated unsuccessful testing while leakage was observed at a BX-152 annulus flange ring gasket. The subsequent report and signed pressure records are needed before establishing final test scope or cause.",
+      "persian": "صفحه نخست شروع دکل را در ۸ ژوئن ۲۰۲۴ ساعت ۱۸ و تلاش‌های ناموفق آزمون همراه با مشاهده نشتی واشر حلقوی BX-152 در فلنج فضای حلقوی ثبت می‌کند. برای تعیین دامنه آزمون نهایی و علت به گزارش بعدی و نمودار فشار امضاشده نیاز است."
+    },
+    {
+      "sheet": "2-1 Remark",
+      "worksheet_prefix": 2,
+      "header_report_number": 2,
+      "source_report_date_unverified": "2024-06-08",
+      "cells": {
+        "K22": "Continue Work On Leakage From Ring Gasket BX-152 - 2-1/16\" Flange ANN. Change It @ Several Time's, Ok.",
+        "K23": "Monitorng ANN. Pressure : 2400 psi & Release Pressure And Drop to Zero ( 10 Min ), Close Release Valve &  Again Monitorng Pressure While",
+        "K24": "OBS Increase Pressure to 400 psi & Stable It On 400 psi ( 3Hrs Stable Time ) Meanwhile Monitoring Presuure, M/U & Coneected Well Head ",
+        "K27": "Monitoring Presuure Simultaneous ANN & TBG  & OBS Pressure Stable On 500 Psi ,  Release TBG Pressure To Zero While OBS  Stable",
+        "K28": "ANN Pressure on 500 Psi."
+      },
+      "anchor": "2400 psi",
+      "english": "The second page reports repeated gasket replacement with a source-labelled OK result, an annulus pressure of 2,400 psi reduced to zero and later pressure increase; subsequent tubing and annulus observations are separately recorded. These are reported snapshots, not proof of a current barrier or leakage path.",
+      "persian": "صفحه دوم تعویض مکرر واشر با نتیجه مطلوبِ ثبت‌شده، فشار فضای حلقوی ۲۴۰۰ پوند بر اینچ مربع و کاهش آن به صفر و افزایش بعدی فشار را گزارش می‌کند؛ مشاهدات بعدی لوله و فضای حلقوی جداگانه ثبت شده‌اند. این نقاط تاریخی اثبات مانع کنونی یا مسیر نشتی نیستند."
+    },
+    {
+      "sheet": "8-1 Remark",
+      "worksheet_prefix": 8,
+      "header_report_number": 9,
+      "source_report_date_unverified": "2024-06-15",
+      "cells": {
+        "K22": "4 1/2\" TBG 17#,  T-95, VAM TOP (Summitomo)  f/ 2601 to 1265m, while open Cross Coupling Protector using Air Impact Wrench",
+        "K23": "and Winding  3/4\" CILs  on the Spools, Circ. CWH, w/ NL-NG. ",
+        "K27": "1. Many of tubing couplings got damaged by corrosion. In result, POOH operation was done with caution & speed control.",
+        "K28": "2. Due to internal thread corrosion in couplings, many of Connections got broken out using high torque (in a dozen of cases,",
+        "K29": "more than 40klbft).",
+        "K30": "3. One of 3/4\" CILs was coming out of the well in a coiled and cut maner."
+      },
+      "anchor": "corrosion",
+      "english": "The page records pulling 4½-inch tubing and describes corrosion-damaged couplings, difficult breakouts and a coiled and cut control line. The extent and mechanism require the recovered-item tally and inspection; the entry is not a quantified corrosion assessment.",
+      "persian": "این صفحه بیرون کشیدن لوله ۴½ اینچ و کوپلینگ‌های آسیب‌دیده از خوردگی، دشواری بازکردن اتصالات و خط کنترلی پیچیده و بریده را شرح می‌دهد. گستره و مکانیسم به فهرست بازیافتی و بازرسی نیاز دارند؛ این مدخل ارزیابی کمی خوردگی نیست."
+    },
+    {
+      "sheet": "14-1 Remark",
+      "worksheet_prefix": 14,
+      "header_report_number": 18,
+      "source_report_date_unverified": "2024-06-24",
+      "cells": {
+        "K22": "Cont. Pump 50bbl Hi-Vis Pill, then perform CBU till getting Hi-Vis Pill on Sh.Shakers",
+        "K23": "1 Hrs. NPT for OEOC Rig 201 due to being behind schedule, POOH 8-3/8\" Milling BHA f/ 3703m to surface on Elevator, while Circ. ",
+        "K24": "C.W.H, w/ NL-NG, L/D 8-3/8\" Milling BHA (8-3/8\" Mill, 65%) and Recover 4lb Debris in Junk Subs.",
+        "K25": "P/U & M/U 7-7/8\" Fishing BHA including 7-7/8\" Overshot dressed w/ 3-1/2\" Control Mill, 3-1/2\" Basket Grapple, Top Packer + ",
+        "K26": "6-1/2\" DC [1Jt] + 5\" HWDP [2 Stds] and RIH to 65.96m, while using Safety Clamp in Tubular Connections, Cont. RIH w/ 7-7/8\" Fishing BHA",
+        "K29": "Slip & Cut the Drilling Line.",
+        "K30": "3/5 Hrs. NPT for OEOC Rig 201 due to Hoisting Sys. Failure, Work on Drawworks."
+      },
+      "anchor": "4lb Debris",
+      "english": "The source reports 4 lb of debris recovered in junk subs after an 8⅜-inch milling assembly, then a fishing BHA run. It separately records 1 hour labelled NPT and a hoisting-system failure entry written as 3/5 hours; the latter notation and classification must be reconciled rather than converted silently.",
+      "persian": "منبع پس از مجموعه آسیاب ۸⅜ اینچ بازیابی ۴ پوند خرده از تله خرده و سپس راندن مجموعه ماهیگیری را گزارش می‌کند. یک ساعت با برچسب زمان غیرمولد و مدخل خرابی سامانه بالابری به صورت 3/5 ساعت جداگانه درج شده‌اند؛ نماد و طبقه‌بندی مدخل دوم باید تطبیق شود و نباید بی‌صدا به عدد تبدیل شود."
+    },
+    {
+      "sheet": "27-1 Remark",
+      "worksheet_prefix": 27,
+      "header_report_number": 31,
+      "source_report_date_unverified": "2024-07-07",
+      "cells": {
+        "K22": "Cont RIH W/ New 6\" M.M.J.Mill + 2 No. 4-3/4\" J.sub(above The Mill) & 2 No. 5-5/8\" J.Sub(@58m) on BHA & Follow by 5\" DP To 3802.7",
+        "K23": "( 7\" LNR LAP ) Took weight, Cont. RIH F/ 3802.7m To 3808m W/Soft  wash & Ream, Cont. RIH W/Normal trip to 3831m,( Apply Max. 1klb  ",
+        "K24": "Weight  @ 3831m, Confirmed TOF by Client), Pump Hi Vis Pill, Pump Mud Till Shaker out The Pill, Work on junk sub Several Times W/NL-NG",
+        "K25": "POOH F/3831 To 1029m While Circ. F/Cross Well Head W/NL-NG.",
+        "K26": "2 Hrs Waiting For OEOC Rig 201 Due To Delay In POOH Operation, Till M.N."
+      },
+      "anchor": "3831m",
+      "english": "The page records a liner-lap reference at 3,802.7 m and a client-confirmed top-of-fish reference at 3,831 m during a milling assembly run. It also records 2 hours waiting attributed in the source to delayed pulling. The stated references and attribution are not independent confirmation of geometry or contractual responsibility.",
+      "persian": "صفحه مرجع هم‌پوشانی آستری در ۳۸۰۲٫۷ متر و مرجع رأس قطعه جامانده تأییدشده توسط کارفرما در ۳۸۳۱ متر را حین راندن مجموعه آسیاب ثبت می‌کند. همچنین دو ساعت انتظار را در منبع به تأخیر در بیرون کشیدن نسبت می‌دهد. این مراجع و انتساب‌ها تأیید مستقل هندسه یا مسئولیت قراردادی نیستند."
+    },
+    {
+      "sheet": "33-1 Remark",
+      "worksheet_prefix": 33,
+      "header_report_number": 37,
+      "source_report_date_unverified": "2024-07-13",
+      "cells": {
+        "K22": "Cont. Milling Op. w/ applying parameters [Rotation: 40-60RPM, Tq: 1-4klbft, F.R: 100-220GPM, SPP: 200-1020psi, WOB: 5-15klbs]",
+        "K23": " f/ 3845.55 to 3846.1m  , while reciprocate Strg and apply different parameters  as DOT & Pump Hi-Vis Pill periodically, w/ NL-NG @ R.T.",
+        "K24": "Push Fish w/ applying 0-18klbs Wt. f/ 3846.1m to 3876.1m, then resume Milling Op. w/ applying parameters [Rotation: 40-60RPM, ",
+        "K25": "Tq: 1-4klbft, F.R: 50-220GPM, SPP: 100-1020psi, WOB: 5-15klbs] f/ 3876/1 to 3876/15m, try to perform milling the rest of fish ",
+        "K26": "w/ different parameters & Pump Hi-Vis Pill periodically, w/ NL-NG, Obs. No Progress."
+      },
+      "anchor": "Push Fish",
+      "english": "The page describes milling to 3,846.1 m, pushing the fish to 3,876.1 m and resuming milling with no progress reported. The parameters are historical source observations, not a recommended operating window; no complete recovery is established here.",
+      "persian": "صفحه آسیاب‌کاری تا ۳۸۴۶٫۱ متر، راندن قطعه جامانده تا ۳۸۷۶٫۱ متر و ازسرگیری آسیاب با ثبت نبود پیشروی را شرح می‌دهد. پارامترها مشاهدات تاریخی‌اند نه محدوده عملیاتی توصیه‌شده؛ بازیابی کامل در این مدخل اثبات نشده است."
+    },
+    {
+      "sheet": "40-1 Remark",
+      "worksheet_prefix": 40,
+      "header_report_number": 45,
+      "source_report_date_unverified": "2024-07-21",
+      "cells": {
+        "K22": "Cont. RIH w/ 2-1/2\" × 4\" Fishing BAH f/ 188 to 3802m (TOL) followed by 5\" DPs on Elevator, while Circ. C.W.H, w/ NL-NG.",
+        "K23": "Cont. RIH w/ 2-1/2\" × 4\" Fishing BHA w/ Wash Dn f/ 3802 to 3926.5m (TOF), while pass 7\" L.Lap gently, Obs. Took Weight at 3926.5m,",
+        "K24": "w/ NL-NG.",
+        "K25": "Record Up & Downward Strg Wt. with & without Pumping and Rotation, RIH w/ 2-1/2\" × 4\" Fishing BHA to 3926.5m and Apply 8klbs WOB on ",
+        "K26": "TOF w/Low Flow Rate, then Apply 10RPM Rotation, while increasing WOB to 12klbs to perform Tapping Op. , Obs. Increasing Torque to 7klbft, ",
+        "K27": "finally increase the applied WOB to 18klbs, try to Check Strg Wt. while having 20-40klbs Overpull and POOH f/ 3926.5 to 3919m, suddenly ",
+        "K28": "Obs. Strg Wt. got back to recorded Strg Weight, try to Fishing Op. for second time, Obs. No sign of engagement w/ Fish.",
+        "K29": "POOH  2-1/2\" × 4\" Fishing BAH f/ 3926.5 to surface on Elevator, L/D 2-1/2\" × 4\" Taper Tap & rest of BHA, No part of Fish was recovered &  ",
+        "K30": "about 12cm of length of 2-1/2\" × 4\" Taper Tap was broken and remained in the well, while Circ. C.W.H, w/ NL-NG."
+      },
+      "anchor": "12cm",
+      "english": "After a taper-tap attempt near the stated 3,926.5 m top of fish, the source says no fish part was recovered and approximately 12 cm of taper tap broke and remained in the well. It also records BOP tests separately; the exact status of all downhole objects needs the final fish tally.",
+      "persian": "پس از تلاش با تِیپر تَپ نزدیک رأس قطعه اعلام‌شده در ۳۹۲۶٫۵ متر، منبع می‌گوید قطعه‌ای بازیابی نشد و حدود ۱۲ سانتی‌متر از تپر تپ شکسته و در چاه باقی ماند. آزمون‌های فوران‌گیر جداگانه ثبت شده‌اند؛ وضعیت نهایی همه اجسام درون چاه به فهرست نهایی قطعات جامانده نیاز دارد."
+    },
+    {
+      "sheet": "51-1 Remark",
+      "worksheet_prefix": 51,
+      "header_report_number": 56,
+      "source_report_date_unverified": "2024-08-01",
+      "cells": {
+        "K22": "Cont. RIH W/Taper Tap 2\" * 4\" Catch Size(Cylindersazi) + Same BHA  & Follow by 5\" DP to 3802.7\"m( 7\" L.L). Cont. RIH W/Wash Down ",
+        "K23": "To 3925.2m, Took Weight. ",
+        "K24": "Record String Weight W/Downward & Upward String  W/Pump Off & Diff. F.Rate, Catch The Fish & Work on It. Release  Fish While Pull Out ",
+        "K25": "(10m) 'W/Max.50klb Overpull & Re-Catching Several Step's, Finally  Decided To POOH In Order To Check The String.",
+        "K26": "Cont POOH To 97m While Circ. F/Cross Well Head NL-NG Till M.N."
+      },
+      "anchor": "Release  Fish",
+      "english": "The page describes catching the fish, releasing it while pulling and repeated recatching before a decision to pull the string. This selected entry does not establish final recovery; it must be read with later source pages and the final tally.",
+      "persian": "صفحه گرفتن قطعه جامانده، رهاشدن آن هنگام بیرون کشیدن و گرفتن مجدد در چند نوبت پیش از تصمیم به بیرون کشیدن رشته را شرح می‌دهد. این مدخل منتخب بازیابی نهایی را ثابت نمی‌کند و باید با صفحات بعد و فهرست نهایی تطبیق شود."
+    },
+    {
+      "sheet": "57-1 Remark",
+      "worksheet_prefix": 57,
+      "header_report_number": 62,
+      "source_report_date_unverified": "2024-08-07",
+      "cells": {
+        "K22": "Cont. Work on Release Fish, Released it, While Circ. Cross Wellhead, w/ N.L-N.G, ",
+        "K26": "Cont. RIH f/ 310 to 3930m, Break Circ. Mud, Record String Weight w/ Downward & Upward w/ Pump off & Diff. Flow Rate, ",
+        "K27": "Cont. RIH to 3939.3m, Took Weight (Confirm Top of Fish).",
+        "K28": "Pump 30 bbl HI-Vis Pill & Circ. Out the Pill to Cleanning the Top of Fish, Catch the Fish w/ 5-5/8\"O.Shot w/ Fishing Parameters: ",
+        "K29": "(Weight on: 0-20Klb), Try to Pull Out String w/ Max. 100 klb Overpull on Indicator, Work on the Fish Downward & Upward in Several ",
+        "K30": "Times, No Success, w/ N.L-N.G, Till M.N."
+      },
+      "anchor": "3939.3m",
+      "english": "The source records a confirmed top-of-fish reference at 3,939.3 m, a 30 bbl high-viscosity pill and an overshot attempt described as unsuccessful. The depth is a reported operational reference, not a verified final fish position.",
+      "persian": "منبع مرجع رأس قطعه جامانده در ۳۹۳۹٫۳ متر، پمپاژ جاروبک پرگرانروی ۳۰ بشکه‌ای و تلاش ناموفق با اورشات را ثبت می‌کند. این عمق مرجع عملیاتی گزارش‌شده است نه موقعیت نهایی تأییدشده قطعه."
+    },
+    {
+      "sheet": "62-1 Remark",
+      "worksheet_prefix": 62,
+      "header_report_number": 67,
+      "source_report_date_unverified": "2024-08-12",
+      "cells": {
+        "K22": "Cont. RIH w/ 5-3/4\"Clean Out BHA Followed by 5\"DPs f/ 1673 to 3936m, While F/U String & Break Circ. Every 15 STDs, w/ N.L-N.G.",
+        "K23": "Cont. RIH w/ Wash Down f/ 3936 to 3951.75m, Took Weight, Perform Milling to Take Mark on Taper Mill, Pump 30bbl Hi-Vis Pill,",
+        "K24": "Circ. BTM's Up, w/ N.L-N.G.",
+        "K25": "POOH 5-3/4\" Clean Out BHA f/ 3951.75 to 532m, while Circ. Cross Well Head, w/ N.L-N.G, Till M.N.",
+        "K35": "1. The operation has been off the plan and different from the scope of work, since 05/20/1403 at 14:30 when ",
+        "K36": "the continuation of RIH operation was halted upon the observation of an obstruction.",
+        "K37": "2. Given the observation of obstruction in RIH operation, the continuation of the operation has been based ",
+        "K38": "on client's decisions and the current approach will continue in this manner until normal conditions are restored."
+      },
+      "anchor": "obstruction",
+      "english": "The page reports clean-out to 3,951.75 m and records a note that operations were off plan after an obstruction was observed. This is the source's stated account; the obstruction's cause, approved scope change and contractual consequences are not resolved by the note.",
+      "persian": "صفحه تمیزکاری تا ۳۹۵۱٫۷۵ متر و یادداشتی مبنی بر خروج عملیات از برنامه پس از مشاهده مانع را ثبت می‌کند. این شرح منبع است؛ علت مانع، تغییر دامنه مصوب و پیامد قراردادی از خود یادداشت تعیین نمی‌شوند."
+    },
+    {
+      "sheet": "68-1 Remark",
+      "worksheet_prefix": 68,
+      "header_report_number": 73,
+      "source_report_date_unverified": "2024-08-18",
+      "cells": {
+        "K22": "POOH 7\" × 9-5/8\" Open-End Scrapping BHA f/ 1830m to Surface On Elevator, L/D BHA, while Circ. C.W.H, w/ NL-NG.",
+        "K23": "Change 13-5/8\" 10k Top Rams f/ 2-7/8\" - 5\" VBR to 4-1/2\" * 7\" VBR, perform Press. Test on BOP, Ok, L/D Mouse Hole & R/U &  ",
+        "K24": "set 7\" Shooting Nipple, P/U & M/U Wire Line BOP on Shooting Nipple, held PJSM, perform Wire Line BOP Test and R/U Wire Line Tools ",
+        "K25": "and prepare for RIH w/ Wire line Tools, while Circ. C.W.H, w/ NL-NG.",
+        "K26": "RIH w/ Wire Line Tools as Run1# CBIL-CDR-GR-CCL for 7\" LNR f/ surface to 3944m with 30 m/min speed and record normal tension",
+        "K27": "every 500m, Took Weight, Start Log Up f/ 3944 to 3797m (5m above 7\" L.Lap) with 4m/min speed and fully cover the logging interval,",
+        "K28": "all in presence of Client Wellsite Witness, Log Dn in 7\" LNR was considered as Repeat section at the request of Client Wellsite Witness,",
+        "K29": ", POOH Wire Line Tools f/ 3797m to surface with 30 m/min speed while Circ. C.W.H, w/ NL-NG.",
+        "K30": "Change the overbody Centralizers according to 9-5/8\" CSG size, M/U Tool string and perform surface checks, RIH w/ Wire Line Tools ",
+        "K31": "as Run2# CBIL-CDR-GR-CCL for 9-5/8\" CSG f/ surface to 3802m (7\" L.Lap) with 30 m/min speed and record normal tension every 500m, ",
+        "K32": "Start Log Up f/ 3802 to 1500m with 4m/min speed and fully cover the logging interval, all in presence of Client Wellsite Witness,",
+        "K33": "while Circ. C.W.H, w/ NL-NG."
+      },
+      "anchor": "CBIL-CDR-GR-CCL",
+      "english": "The page records CBIL-CDR-GR-CCL runs over reported 7-inch liner and 9⅝-inch casing intervals. It describes acquisition and witness presence; it does not provide a validated cement-bond interpretation or establish isolation.",
+      "persian": "صفحه ران‌های CBIL-CDR-GR-CCL را در بازه‌های گزارش‌شده آستری ۷ اینچ و جداری ۹⅝ اینچ ثبت می‌کند. این مدخل برداشت داده و حضور ناظر را شرح می‌دهد، نه تفسیر تأییدشده پیوند سیمان یا اثبات جداسازی."
+    },
+    {
+      "sheet": "82-1 Remark",
+      "worksheet_prefix": 82,
+      "header_report_number": 87,
+      "source_report_date_unverified": "2024-09-01",
+      "cells": {
+        "K22": "Cont. RIH W/5-1/8\" Polish Mill (PPA) BHA & Follow By 5\" DP To 3966m(4-1/2\" L.L), Pump Mud W/Hi F.Rate. W/NL.NG.",
+        "K23": "Cont. RIH W/ Max. 500psi Press. & ROT.: 10rpm To 3966.12 String Took Weight, Obs. Inc, Press. To 550psi, Work on it &  Pass This Point,",
+        "K24": "Cont. RIH To 3967.82m W/Out Took Weight, Obs. Stall String @ 3967.82m Several Times. Finally Polishing & Cleaning the entry profile",
+        "K25": "At the top of the PBR @ 3967.84m W/ NL.NG.",
+        "K26": "Start POOH On Elevator F/3967.82 To 2709m While Circ Mud Cross Well Head W/ NL.NG.",
+        "K32": "Cont POOH W/5-1/8\" Polish Mill (PPA) BHA On Elevator To Surface & L/D 5-1/8\" Polish Mill (PPA) and Obs 1/8\" Under Gauge without observe ",
+        "K33": "Ring mark on it.",
+        "K40": "21 Hrs Waiting For Client  Due To Not Rec. 4-1/2\" P.Liner.",
+        "K41": "3 hrs Waiting for OEOC Operation, Due to Work On Drawworks"
+      },
+      "anchor": "3967.84",
+      "english": "The source describes polishing the PBR entry profile at 3,967.84 m and reports the retrieved mill ⅛ inch under gauge, without an observed ring mark. Its waiting entries attribute 21 hours to nonreceipt of liner and 3 hours to drawworks; they are source labels, not independently established liability.",
+      "persian": "منبع پرداخت ورودی PBR در ۳۹۶۷٫۸۴ متر و آسیاب بازیابی‌شده با کاهش قطر ⅛ اینچ بدون مشاهده اثر حلقه را شرح می‌دهد. مدخل‌های انتظار، ۲۱ ساعت را به نرسیدن آستری و ۳ ساعت را به کار روی دراوورکس نسبت می‌دهند؛ این‌ها برچسب منبع‌اند نه مسئولیت مستقلاً احرازشده."
+    },
+    {
+      "sheet": "91-1 Remark",
+      "worksheet_prefix": 91,
+      "header_report_number": 96,
+      "source_report_date_unverified": "2024-09-10",
+      "cells": {
+        "K22": "Close Blind Rams, Set and Hang 7\"Shooting Nipple, Install 5K Wire Line BOP, Close 13-5/8\"-10K Top Rams on Shooting Nipple,",
+        "K23": "Perform Pressure Test on 7\"Shooting Nipple & 5K Wire Line BOP Step by Step to 1200psi for 15min, Ok.",
+        "K24": "R/U Sealand Wire Line Eqp. , RIH w/ Wire Line Tools Including [CCL + 2No. Dummy Gun (Max OD: 2-7/8\", Length: 14m, Type: HSD, ",
+        "K25": "Wt: 430lb) as Run#1 to 4020m, POOH Wire Line Tools to Surface and L/D the same, All Done by Supervision of Client Witness, ",
+        "K27": "Held PJSM, Announce Radio Silence and Connect Detonator, and RIH w/ Wire Line Tools Including [CCL + 1No. Loaded Gun w/ ",
+        "K28": "Max OD: 2-7/8\", Length:6.45m, Type: HSD, Shot density: 6SPF, Phasing: 60° and Armed w/ 80 BulletsD, Wt: 480lb, Net Length: 4m] as Run#2 ",
+        "K29": "to 3979m, Correlate the Depth, Fire the Gun & Shoot the Bullets at Interval 3979 to 3975m, Obs. Electrical & Tension Cable Indications, POOH ",
+        "K30": "Wire Line Tools and L/D Wire Line Tools, Obs. All Bullets were Shot successfully, All Done by Supervision of Client Witness, while Circ. C.W.H, "
+      },
+      "anchor": "3979 to 3975m",
+      "english": "The page records a 1,200 psi, 15-minute shooting-nipple and wireline BOP test labelled OK, followed by reported perforating over 3,979–3,975 m and source observations of successful gun firing. The excerpt does not establish interval productivity or present well integrity.",
+      "persian": "صفحه آزمون فشار نیپل مشبک‌کاری و فوران‌گیر سیمی با فشار ۱۲۰۰ پوند بر اینچ مربع به مدت ۱۵ دقیقه و نتیجه مطلوب ثبت‌شده و سپس مشبک‌کاری گزارش‌شده ۳۹۷۹ تا ۳۹۷۵ متر و مشاهده شلیک موفق را ذکر می‌کند. این گزیده بهره‌دهی بازه یا سلامت کنونی چاه را اثبات نمی‌کند."
+    },
+    {
+      "sheet": "98-1 Remark",
+      "worksheet_prefix": 98,
+      "header_report_number": 103,
+      "source_report_date_unverified": "2024-09-17",
+      "cells": {
+        "K22": "Cont. Perform Milling & Smoothing The Interval 3947 to 3969m With & Without Rotation and Pump out A Dozen Of Time, , w/ N.L-N.G.",
+        "K23": "Applying Parameters: WOB: 0-2klbs, Rotation: 30-60RPM, Torque: 0.7-1.5klbs.ft, F.R: 200-230GPM, SPP: 1450-1650psi.",
+        "K24": "Static Flow Check, Well Static, POOH 5-7/8\" Clean out BHA f/ 3969m to Surface On Elevator, L/D 5-7/8\" M.M.J.Mill (10%Used) & Rest of BHA, ",
+        "K28": "R/U Casing Running Tools, Check 4-1/2\" Seal Assembly Visually and Running Tool Functionality, All Ok, P/U & M/U 4 1/2\" Seal Assembly ",
+        "K29": "belong to PPA to Set in 4-1/2\" LNR HGR w/ Tie-Back Sleeve and RIH w/ 6Jts 4-1/2\" Perforated LNR (T-95, 15.2PPF, R3, TPCQ) + ",
+        "K30": "4-1/2\" L.G (T-95, ACME×TPCQ) + 4-1/2\" Tie-Back Sleeve (T-95, 10ft) + Running & Setting Tool to 71.95m, while using Joint Analyzed System",
+        "K31": "to Monitor Connections, Applying Thread Compound to LNR Connections, while Circ. C.W.H, w/ N.L-N.G.",
+        "K32": "Cont. RIH w/ 4-1/2\" LNR Tie-Back Assy. f/ 71.95 to 188m followed by 3-1/2\" DPs, while After RIH First 3-1/2\" Std, Break Circ. & Record ",
+        "K33": "Upward and Downward String Weight, with and without Pump out, w/ N.L-N.G."
+      },
+      "anchor": "3947 to 3969m",
+      "english": "The page describes milling and smoothing from 3,947 to 3,969 m, followed by source-labelled static flow check and the start of a 4½-inch liner tie-back assembly. Equipment acceptance, final setting and isolation need the complete tally and signed tests.",
+      "persian": "صفحه آسیاب‌کاری و هموارسازی از ۳۹۴۷ تا ۳۹۶۹ متر، سپس کنترل جریان با نتیجه ایستا در منبع و شروع راندن مجموعه بازبست آستری ۴½ اینچ را شرح می‌دهد. پذیرش تجهیزات، نصب نهایی و جداسازی به فهرست کامل و آزمون‌های امضاشده نیاز دارند."
+    },
+    {
+      "sheet": "102-1 Remark",
+      "worksheet_prefix": 102,
+      "header_report_number": 117,
+      "source_report_date_unverified": "2024-10-01",
+      "cells": {
+        "K22": "Cont N/D BOP Stack. N/U BTM Master Valve & Pass CIL & Connect C/L to Exit Cap Install companion flange on top of bottom section and",
+        "K23": "Pressure test metal seal with 8000/1000psi 15/5 min, OK. Press test C/L to 8,000psi/15min, Ok. Pressure test CIL 2000psi/15min ",
+        "K24": "Press test between lower S-seal and cavity through test port with 8000 psi/15 min. Ok.",
+        "K25": "Press test between neck of hanger S-seal and cavity through test port with 8000 psi/15 min. Ok.",
+        "K26": "Install Xmas tree & Pressure test X-Mas tree body and connection to 1000/8000 psi for 5/15 min, OK.",
+        "K27": "Stop OP. Due to Force Majeure Because of Strong Wind.",
+        "K28": "Open X-Mas Tree cap and Retrieve 2WCV , R/U Slik Line and Acc & Set protection sleeve in TRSSSV Till M.N."
+      },
+      "anchor": "Force Majeure",
+      "english": "The page records several seal, control-line and tree pressure tests with source-labelled OK results, and a stop described in the source as force majeure due to strong wind. This description does not itself determine contractual force majeure, test acceptance or current integrity.",
+      "persian": "صفحه چند آزمون فشار آب‌بندی، خط کنترل و درختک را با نتیجه مطلوب ثبت‌شده و توقفی را که منبع به دلیل باد شدید فورس‌ماژور نامیده گزارش می‌کند. این توصیف به‌تنهایی فورس‌ماژور قراردادی، پذیرش آزمون یا سلامت کنونی را تعیین نمی‌کند."
+    },
+    {
+      "sheet": "103-1 Remark",
+      "worksheet_prefix": 103,
+      "header_report_number": 118,
+      "source_report_date_unverified": "2024-10-02",
+      "cells": {
+        "K22": "Retrieve plug & prong in NO-GO landing nipple, Retrieve protection sleeve in TRSSSV, R/D Slik Line and Acc,",
+        "K23": "Set BPV. Install Xmas tree cap and close all valves except bottom master valve. Till R.T.",
+        "K24": "Rig Release @ 1403-07-11 ( 2024.10.02 ) @ 06:00 O'Clock  ",
+        "K25": "Tear Out the rig.",
+        "K26": "wait on day Light."
+      },
+      "anchor": "2024.10.02",
+      "english": "The page reports retrieval of plug and protection sleeve, setting a back-pressure valve and rig release at 06:00 on 2 October 2024. A conflicting start-date header is documented separately; no definitive campaign duration or current barrier condition is inferred.",
+      "persian": "صفحه بازیابی پلاگ و غلاف محافظ، نصب شیر فشار معکوس و ترخیص دکل در ۲ اکتبر ۲۰۲۴ ساعت ۰۶ را گزارش می‌کند. سرصفحه ناسازگار تاریخ شروع جداگانه ثبت شده است؛ مدت قطعی عملیات یا وضعیت کنونی موانع استنتاج نمی‌شود."
+    }
+  ],
+  "programme_reference": {
+    "file": "AZNS-116 Workover Program Rev.04.pdf",
+    "physical_page": 7,
+    "main_days": 89,
+    "contingency_days": 45.2,
+    "status": "planned, not verified actual"
+  },
+  "limitations": "Selected cells do not cover every operation, hour, barrier or financial item; descriptions and classifications are source accounts, not independent confirmation."
+}

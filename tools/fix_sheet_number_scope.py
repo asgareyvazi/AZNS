@@ -73,7 +73,7 @@ def main():
    if well in ('85','127WO1') and not any('1-1 Remark!N5' in p.text for p in d.paragraphs):
     anchor=next(p for p in d.paragraphs if p.text in ('Selected daily-report observations','روایت منتخب از گزارش روزانه'))
     if well=='85':
-     msg=('در 1-1 Remark!N5 تاریخ اکسل ۲ نوامبر ۲۰۲۶ ذخیره شده، اما K22 همان صفحه شروع را ۲۵ ژانویه ۲۰۲۴ ثبت کرده است؛ تاریخ سرصفحه باید با اصل امضاشده تطبیق شود.' if fa else 'In 1-1 Remark!N5 the stored Excel date is 2 November 2026, but K22 on the same page records spud on 25 January 2024; reconcile the header date with the signed record.')
+     msg=('سلول 1-1 Remark!N5 فرمول متغیر =TODAY()-1 دارد و مقدار ذخیره‌شده آن ۲ نوامبر ۲۰۲۶ است؛ تاریخ تاریخی قابل اتکا نیست. K22 همان صفحه شروع را ۲۵ ژانویه ۲۰۲۴ ثبت کرده است؛ تاریخ سرصفحه باید با اصل امضاشده تطبیق شود.' if fa else '1-1 Remark!N5 contains the volatile formula =TODAY()-1 with cached value 2 November 2026; this is not a reliable historical date. K22 on the same page records spud on 25 January 2024; reconcile the header date with the signed record.')
     else:
      msg=('در 1-1 Remark!N5 تاریخ اکسل ۵ اوت ۲۰۲۴ ذخیره شده، اما K26 همان صفحه شروع مشروط را ۸ مه ۲۰۲۴ ثبت کرده است؛ تاریخ سرصفحه باید با اصل امضاشده تطبیق شود.' if fa else 'In 1-1 Remark!N5 the stored Excel date is 5 August 2024, but K26 on the same page records conditional spud on 8 May 2024; reconcile the header date with the signed record.')
     p=d.add_paragraph(msg);style(p,fa);anchor._p.addprevious(p._p)

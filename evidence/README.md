@@ -166,3 +166,15 @@ Rebuild the audit from the local index and run source checks:
 ```
 
 The W2/W3 and M7 figure images have been corrected to use worksheet-prefix labels. W3 workover panels show per-sheet recognized numeric-field counts instead of cumulative totals in assumed sheet chronology; they do not indicate completeness. `fix_sheet_number_scope.py` and `update_field_sheet_number_scope.py` document the narrowly scoped DOCX changes. Historical scripts may target earlier document states; do not blindly rerun them on the current reports.
+
+## Status-header date inventory and selected 116 campaign
+
+`status_report_date_audit.json` records the source-cell values and formulas for the 1,301 recognized status sheets. Its optional `report_date_iso_from_header` is a conservative reading, not a verified date: legacy Excel dates and year-first Gregorian strings only, or DDR split F11/H11/J11. Ambiguous day/month text is not normalized; auxiliary legacy S9 is retained as supplied, not automatically converted. Volatile formulas such as `=TODAY()-1` are recorded with cached values but excluded from comparisons. In 85 thirteen N5 cells use that volatile formula; their identical cache values must never be interpreted as historic dates. Non-increasing comparisons only cover adjacent recognized prefix-ordered sheets with two readable dates, and neither equal dates nor a matching sequence imply correctness or completeness.
+
+`116_campaign_review.json` contains 16 selected bilingual observations and 109 exact original worksheet cells, sorted by numeric **header report number**. Source header numbers and dates still require signed-record reconciliation. The two well reports and four field reports incorporate a bounded summary. No actual duration, final barrier status, productivity, responsible party or financial conclusion is inferred from the selection.
+
+```sh
+/tmp/azns-index-venv/bin/python tools/audit_status_report_dates.py
+PYTHONPATH=tools /tmp/azns-index-venv/bin/python tools/review_116_campaign.py
+/tmp/azns-index-venv/bin/python -m unittest discover -s tests -p 'test_date_audit_and_116_campaign.py' -v
+```
