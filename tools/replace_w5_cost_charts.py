@@ -65,6 +65,8 @@ for en in files:
         if len(blips)!=1: raise ValueError(f'{path}: chart W5 image not found before caption')
         rid=blips[0].get('{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed')
         doc.part.related_parts[rid]._blob=png
+        shape=next(s for s in doc.inline_shapes if any(b.get('{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed')==rid for b in s._inline.xpath('.//a:blip')))
+        shape.height=int(shape.width*5.7/11)
         set_text(caption, ('شکل W5 ـ برآورد اولیه طبقات هزینه مندرج در جدول ۸-۲، چاه AZNS-'+well if fa else 'Figure W5 — Provisional reported cost categories (table 8-2), AZNS-'+well))
         for p in doc.paragraphs:
             if p.text.startswith('The financial position of the well is reconstructed from two sources:'):

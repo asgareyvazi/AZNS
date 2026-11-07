@@ -26,3 +26,13 @@ WHERE f.name='CBS AZNS-122WO1.xlsx' AND s.name='Cost Breakdown-122'
 ```
 
 Full extraction of raw content does not automatically deliver a geological model, verified formation tops, event attribution, calculated hydraulics, operational translations, approved parameter windows or reconciled costs. Those require separate source-specific parsing and engineering review.
+
+## Formation-table snapshots
+
+`formation_table_snapshots.json` transcribes one selected, dynamically located worksheet snapshot per pack. Regenerate it after creating the local index:
+
+```sh
+/tmp/azns-index-venv/bin/python tools/extract_formation_tables.py /tmp/azns-evidence.sqlite evidence/formation_table_snapshots.json
+```
+
+Selection is the last sheet in workbook order containing a recognized formation table with a numeric depth, or, if none has one, the last recognized table containing names. Workbook order is not necessarily chronological; for example the 127WO1 snapshot is sheet `88-2 Data` although later workbook sheets exist. The tool uses the table's actual labels and records populated unlabelled cells rather than guessing their meaning. It does not reconstruct all daily formation tables, interpret depth datum or resolve questionable row alignment. In well 10, `1-2 Data` and `83-2 Data` show a shifted formation-name sequence, requiring source reconciliation before assigning tops. The 116, 127WO2 and 166 snapshots contain names without numerical depths and must not be read as zero-depth tops. See the report appendices for the raw citations and limitations.
