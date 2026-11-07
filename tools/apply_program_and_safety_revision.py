@@ -14,9 +14,10 @@ from replace_cbs_financials import celltext
 
 PROGS={x['well']:x for x in json.loads(Path('evidence/program_summary_reviewed.json').read_text())}
 TRACKS={x['file']:x for x in json.loads(Path('evidence/drilling_track_observations.json').read_text())}
+ACTIVITY={x['file']:x for x in json.loads(Path('evidence/activity_observations.json').read_text())}
 
 def plot(w,track,p):
-  complete=sum(d['activity']['complete'] for d in track['days']);vals=[track['paired_sheet_candidates'],len(track['days']),complete]
+  complete=sum(d['activity']['complete'] for d in ACTIVITY[w['source']]['days']);vals=[track['paired_sheet_candidates'],len(track['days']),complete]
   fig,ax=plt.subplots(figsize=(11,6),dpi=300);fig.patch.set_facecolor('#f7f9fc');ax.set_facecolor('white')
   ax.barh(range(3),vals,color=['#90aabd','#28688d','#d0a153'],height=.52);ax.set_yticks(range(3),['Candidate sheet pairs','Recognized data sheets','Complete classified days'],fontsize=10);ax.invert_yaxis();maxv=max(vals) or 1;ax.set_xlim(0,maxv*1.26)
   for i,v in enumerate(vals):ax.text(v+maxv*.02,i,str(v),va='center',fontsize=10)

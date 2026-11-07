@@ -1,0 +1,288 @@
+[
+  {
+    "well": "10",
+    "file": "AZNS10Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 5,
+        "sheet": "5-1 Remark",
+        "cell": "K24",
+        "raw": "Work on Mud Pump#1",
+        "english_summary": "The report records work on mud pump number 1; the selected cell does not identify a failure mechanism.",
+        "persian_summary": "گزارش کار روی پمپ گل شماره ۱ را ثبت می‌کند؛ این سلول سازوکار خرابی را مشخص نمی‌کند."
+      },
+      {
+        "day": 65,
+        "sheet": "65-1 Remark",
+        "cell": "K30",
+        "raw": "Pressure Test Top Ram in two steps [500-7500] / 15min, Ok.",
+        "english_summary": "The report records a two-step top-ram pressure test, 500 and 7,500 psi for 15 minutes, with an OK result as written.",
+        "persian_summary": "گزارش آزمون فشار رام بالایی را در دو مرحله ۵۰۰ و ۷۵۰۰ پوند بر اینچ مربع به مدت ۱۵ دقیقه با نتیجه درج‌شده «مطلوب» ثبت می‌کند."
+      }
+    ]
+  },
+  {
+    "well": "12",
+    "file": "AZNS12Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 16,
+        "sheet": "16-1 DDR Remark",
+        "cell": "S24",
+        "raw": "Cont. RIH W/  2\" * 4\" Taper tap & Fishing BHA#02 F/ 3290 To 3305m (2M above Fish Depth), Record Upward & Downward WT W/ Pumping & W/O Pumping",
+        "english_summary": "The report records running fishing assembly number 2 from 3,290 to 3,305 m and recording upward and downward weights with and without pumping.",
+        "persian_summary": "گزارش راندن مجموعه ماهیگیری شماره ۲ از ۳۲۹۰ تا ۳۳۰۵ متر و ثبت وزن بالا و پایین با و بدون پمپاژ را بیان می‌کند."
+      },
+      {
+        "day": 48,
+        "sheet": "48-1 DDR Remark",
+        "cell": "S25",
+        "raw": "Cont. W/D to 3180m. D/O Soft to Med Magneset plug f/ 3180 to 3270m (BTM of the plug). Cont. Wash down to 3285m (7\"L.lap).",
+        "english_summary": "The report describes drilling a soft-to-medium Magneset plug from 3,180 to 3,270 m, then washing down to 3,285 m.",
+        "persian_summary": "گزارش حفاری پلاگ مگنست نرم تا متوسط از ۳۱۸۰ تا ۳۲۷۰ متر و سپس شست‌وشو تا ۳۲۸۵ متر را شرح می‌دهد."
+      }
+    ]
+  },
+  {
+    "well": "75",
+    "file": "AZNS75Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 5,
+        "sheet": "5-1 DDR Remark",
+        "cell": "S25",
+        "raw": "Cont. N/U 13-5/8\" 10k BOP Stack. attempt to perform BOP test several Time No Succ, Work on fixing BOP leakages.",
+        "english_summary": "The report describes repeated unsuccessful BOP test attempts while work continued on BOP leakages.",
+        "persian_summary": "گزارش تلاش‌های ناموفق مکرر برای آزمون فوران‌گیر و ادامه کار برای رفع نشتی‌های آن را شرح می‌دهد."
+      },
+      {
+        "day": 5,
+        "sheet": "5-1 DDR Remark",
+        "cell": "S26",
+        "raw": "Wait on OEOC to Complete BOP Test While Cont. Fix BOP Leakages @ M.N.",
+        "english_summary": "The next entry records waiting for completion of the BOP test while leakage repairs continued to midnight; attribution requires contract review.",
+        "persian_summary": "ثبت بعدی انتظار برای تکمیل آزمون فوران‌گیر و ادامه رفع نشتی تا نیمه‌شب را ذکر می‌کند؛ انتساب مسئولیت نیازمند بررسی قرارداد است."
+      }
+    ]
+  },
+  {
+    "well": "85",
+    "file": "AZNS85Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 5,
+        "sheet": "5-1 Remark",
+        "cell": "K32",
+        "raw": "Apply 70Klbf Over pull several times to make P.Tester free, No success, L/D 2 jt 5\" DPs, P/U & M/U Fishing jar",
+        "english_summary": "The report describes unsuccessful attempts to free a pressure tester using overpull, followed by picking up a fishing jar.",
+        "persian_summary": "گزارش تلاش ناموفق برای آزاد کردن تستر فشار با کشش اضافی و سپس برداشتن جار ماهیگیری را شرح می‌دهد."
+      },
+      {
+        "day": 42,
+        "sheet": "42-1 Remark",
+        "cell": "K34",
+        "raw": "L/D 5\" FOSV. Cont. RIH 5-7/8\" Clean Out BHA by 5\" DP Std f/ 3670 to 4033m (2m Inside Perforation Intervals) ",
+        "english_summary": "The report records running the 5⅞-inch clean-out assembly from 3,670 to 4,033 m.",
+        "persian_summary": "گزارش راندن مجموعه تمیزکاری ۵⅞ اینچ از ۳۶۷۰ تا ۴۰۳۳ متر را ثبت می‌کند."
+      }
+    ]
+  },
+  {
+    "well": "116",
+    "file": "AZNS116Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 2,
+        "sheet": "2-1 Remark",
+        "cell": "K22",
+        "raw": "Continue Work On Leakage From Ring Gasket BX-152 - 2-1/16\" Flange ANN. Change It @ Several Time's, Ok.",
+        "english_summary": "The report records continuing work on leakage at the BX-152 ring gasket and says the gasket was changed with an OK result.",
+        "persian_summary": "گزارش ادامه رسیدگی به نشتی در واشر حلقوی BX-152 و تعویض آن با نتیجه درج‌شده «مطلوب» را ثبت می‌کند."
+      },
+      {
+        "day": 98,
+        "sheet": "98-1 Remark",
+        "cell": "K22",
+        "raw": "Cont. Perform Milling & Smoothing The Interval 3947 to 3969m With & Without Rotation and Pump out A Dozen Of Time, , w/ N.L-N.G.",
+        "english_summary": "The report describes continuing milling and smoothing in the 3,947–3,969 m interval, with no loss or gain reported.",
+        "persian_summary": "گزارش ادامه آسیاب‌کاری و هموارسازی بازه ۳۹۴۷ تا ۳۹۶۹ متر را با ثبت نبود افت یا افزایش سیال شرح می‌دهد."
+      }
+    ]
+  },
+  {
+    "well": "122WO1",
+    "file": "AZNS122WO1Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 8,
+        "sheet": "8-1 Remark",
+        "cell": "K22",
+        "raw": "Open Tie-Down screw. Try to Press test same; Obs. Leakage f/ string (TBG Running tools). Back off TBG Running tools, P/U & M/U other TBG ",
+        "english_summary": "During an attempted pressure test, the report notes leakage from the tubing-running tools and records backing off those tools.",
+        "persian_summary": "گزارش هنگام تلاش برای آزمون فشار، نشتی از ابزار راندن مغزی و بازکردن آن ابزار را ثبت می‌کند."
+      },
+      {
+        "day": 53,
+        "sheet": "53-1 Remark",
+        "cell": "K26",
+        "raw": " L/U test line to string. Press test completion string, TBG HGR & L/J against check valve to 7000 psi for 15 min; Ok. While rectify the leakage",
+        "english_summary": "The report records a 7,000 psi, 15-minute test of the completion string and associated equipment, with an OK result as written.",
+        "persian_summary": "گزارش آزمون ۷۰۰۰ پوند بر اینچ مربع به مدت ۱۵ دقیقه برای رشته تکمیل و تجهیزات مرتبط را با نتیجه درج‌شده «مطلوب» ثبت می‌کند."
+      }
+    ]
+  },
+  {
+    "well": "122WO2",
+    "file": "AZNS122WO2Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 9,
+        "sheet": "9-1 DDR Remark",
+        "cell": "S26",
+        "raw": "Start Milling The Packer F/3721 to 3721.8m W/Parameters: Weight on: 18-24klb, Rot.: 50-80rpm, Torque: 2-4.5klb.ft, F.Rate:100-200 gpm, ",
+        "english_summary": "The report records starting to mill the packer from 3,721 to 3,721.8 m; recorded parameters are historical, not future setpoints.",
+        "persian_summary": "گزارش آغاز آسیاب‌کاری پکر از ۳۷۲۱ تا ۳۷۲۱٫۸ متر را ثبت می‌کند؛ پارامترهای درج‌شده تاریخی‌اند و نقطه تنظیم آینده نیستند."
+      },
+      {
+        "day": 118,
+        "sheet": "118-1 DDR Remark",
+        "cell": "S31",
+        "raw": "Work on resolve leakage BOP.",
+        "english_summary": "The report records work to resolve a BOP leakage; the selected cell does not establish its cause.",
+        "persian_summary": "گزارش رسیدگی به نشتی فوران‌گیر را ثبت می‌کند؛ سلول انتخاب‌شده علت آن را اثبات نمی‌کند."
+      }
+    ]
+  },
+  {
+    "well": "127ST2",
+    "file": "AZNS127ST2Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 7,
+        "sheet": "7-1 DDR Remark",
+        "cell": "S27",
+        "raw": "P/U & M/U 9-5/8\" Cased-Hole Sidetrack BHA including: 9-5/8\" Hyd. Whipstock System (Hyd. PKR + Hyd. Whipface) + 8-1/2\" Rugby Mill +",
+        "english_summary": "The record describes assembling a cased-hole sidetrack assembly, including a hydraulic whipstock system and an 8½-inch mill.",
+        "persian_summary": "ثبت روزانه مونتاژ مجموعه انحراف در جداری شامل سیستم ویپ‌استاک هیدرولیکی و آسیاب ۸½ اینچ را توصیف می‌کند."
+      },
+      {
+        "day": 33,
+        "sheet": "33-1 DDR Remark",
+        "cell": "S34",
+        "raw": "9Hrs. NPT for Hana Energy Co. due to MWD signal & DHM Diff. Press. loss, Cont. RIH w/ 8-1/2\" Dir. Drlg BHA F/ 249 To 3060m ",
+        "english_summary": "The report states nine hours of NPT associated with loss of MWD signal and downhole-motor differential pressure; the record’s party attribution is not a contractual determination.",
+        "persian_summary": "گزارش ۹ ساعت زمان غیرمولد مرتبط با فقدان سیگنال اندازه‌گیری حین حفاری و اختلاف فشار موتور درون‌چاهی را ذکر می‌کند؛ انتساب طرف در گزارش به‌معنی تعیین مسئولیت قراردادی نیست."
+      }
+    ]
+  },
+  {
+    "well": "127WO1",
+    "file": "AZNS127WO1Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 39,
+        "sheet": "39-1 Remark",
+        "cell": "K26",
+        "raw": "POOH to Surf., Obs. 7-5/8\"Over Shot & Retreive 21.1m of 4-1/2\"TBG f/ Collided Shot Point ( 4-1/2\"TBG Fish Neck, 7.98m  + 1Jt 4-1/2\"TBG, 9.36m",
+        "english_summary": "The report describes pulling the overshot and retrieving 21.1 m of 4½-inch tubing; the individual cell continues into subsequent text.",
+        "persian_summary": "گزارش بیرون کشیدن اورشات و بازیابی ۲۱٫۱ متر لوله مغزی ۴½ اینچ را شرح می‌دهد؛ شرح این سلول در متن بعدی ادامه دارد."
+      },
+      {
+        "day": 130,
+        "sheet": "130-2 Remark",
+        "cell": "K22",
+        "raw": "Cont. work on rectifying leakages f/ pump truck surf. Lines. NL-NG. (NPT for SPAD Energy).",
+        "english_summary": "A later report records work to rectify leakage in surface lines of the pump truck; the original contains an NPT party label that is not adopted here as contractual liability.",
+        "persian_summary": "گزارش بعدی رسیدگی به نشتی خطوط سطحی کامیون پمپاژ را ثبت می‌کند؛ برچسب طرف مربوط به زمان غیرمولد در منبع، در اینجا مسئولیت قراردادی تلقی نشده است."
+      }
+    ]
+  },
+  {
+    "well": "127WO2",
+    "file": "AZNS127WOPack.xlsx",
+    "selected_examples": [
+      {
+        "day": 18,
+        "sheet": "18-1 DDR Remark",
+        "cell": "S33",
+        "raw": "Set TWCV in TBG HGR; Pressure Test TWCV @ 7000psi, Ok.",
+        "english_summary": "The report records setting and pressure-testing the tubing-hanger valve to 7,000 psi, with an OK result as written.",
+        "persian_summary": "گزارش نصب و آزمون فشار شیر آویز مغزی تا ۷۰۰۰ پوند بر اینچ مربع را با نتیجه درج‌شده «مطلوب» ثبت می‌کند."
+      },
+      {
+        "day": 44,
+        "sheet": "44-1 DDR Remark",
+        "cell": "S35",
+        "raw": "B/O & L/D Fishing BHA, Recovered Comp. Strg (44m of Fish was recovered), Then All Pup Jts of Retrieved Comp. Strg, ",
+        "english_summary": "The report says 44 m of the fish was recovered while dismantling the fishing assembly; it does not by itself establish complete fish recovery.",
+        "persian_summary": "گزارش بازیابی ۴۴ متر از قطعه جامانده هنگام بازکردن مجموعه ماهیگیری را بیان می‌کند؛ این سلول به‌تنهایی بازیابی کامل قطعه را ثابت نمی‌کند."
+      }
+    ]
+  },
+  {
+    "well": "166",
+    "file": "AZNS166Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 5,
+        "sheet": "5-1 DDR Remark",
+        "cell": "S25",
+        "raw": "Wait on OEOC to Cont. Test 13-5/8\" 10k BOP Stack While Work on fixing BOP leakages as Below:",
+        "english_summary": "The report describes waiting for continuation of the BOP test while BOP leakages were being repaired.",
+        "persian_summary": "گزارش انتظار برای ادامه آزمون فوران‌گیر هم‌زمان با رفع نشتی‌های آن را شرح می‌دهد."
+      },
+      {
+        "day": 6,
+        "sheet": "6-1 DDR Remark",
+        "cell": "S26",
+        "raw": "Try to perform Circ Mud Thru String No Succ Due to Observe Leakage TDS Kelly Hose .",
+        "english_summary": "The report records an unsuccessful attempt to circulate mud through the string after leakage was observed at the top-drive kelly hose.",
+        "persian_summary": "گزارش تلاش ناموفق برای گردش گل از رشته پس از مشاهده نشتی شیلنگ کلیِ تاپ‌درایو را ثبت می‌کند."
+      }
+    ]
+  },
+  {
+    "well": "207",
+    "file": "AZNS207Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 17,
+        "sheet": "17-1 DDR Remark",
+        "cell": "S27",
+        "raw": "Due to Obs. Severe FM losses; 40-50 BPH. Stop Drlg. POOH 1 Std. Pump 50 bbl. LCM pill (15 ppb Mica M & Kwik Seal M) & Displace same",
+        "english_summary": "The report notes 40–50 barrels per hour of formation losses, stopping drilling, pulling one stand and pumping a 50-barrel loss-control pill.",
+        "persian_summary": "گزارش از هرزروی سازندی ۴۰ تا ۵۰ بشکه در ساعت، توقف حفاری، بیرون کشیدن یک پایه و پمپاژ ۵۰ بشکه گلوله کنترل هرزروی خبر می‌دهد."
+      },
+      {
+        "day": 87,
+        "sheet": "87-1 DDR Remark",
+        "cell": "S25",
+        "raw": "Resume 12-1/4\" H.S f/ 3006 to 3017.5m, Meanwhile increased MW to 80 pcf. 2-4 BPH Losses.",
+        "english_summary": "The report describes resumed drilling of the 12¼-inch hole from 3,006 to 3,017.5 m, with 2–4 barrels per hour of losses.",
+        "persian_summary": "گزارش ادامه حفاری حفره ۱۲¼ اینچ از ۳۰۰۶ تا ۳۰۱۷٫۵ متر را با هرزروی ۲ تا ۴ بشکه در ساعت توصیف می‌کند."
+      }
+    ]
+  },
+  {
+    "well": "40",
+    "file": "AZNS40Pack.xlsx",
+    "selected_examples": [
+      {
+        "day": 6,
+        "sheet": "6-1 Remark",
+        "cell": "K24",
+        "raw": "POOH W/ 10-1/8\" Over Shot & Fishing BHA chain out & wet f/ 1547.2m to surface; F/U the well w/ 1-2 BPH Loss. Recover all components of fish.",
+        "english_summary": "The report records pulling the fishing assembly from 1,547.2 m and recovering all fish components, with 1–2 barrels per hour of losses.",
+        "persian_summary": "گزارش بیرون کشیدن مجموعه ماهیگیری از ۱۵۴۷٫۲ متر و بازیابی تمامی اجزای قطعه جامانده را همراه با هرزروی ۱ تا ۲ بشکه در ساعت ثبت می‌کند."
+      },
+      {
+        "day": 147,
+        "sheet": "147-1 Remark",
+        "cell": "K26",
+        "raw": "Work on leakages several times & Press test same w/ 6000 Psi; OK.",
+        "english_summary": "The report says surface leakages were worked on and a 6,000 psi pressure test was reported as satisfactory; the cell does not identify a complete test programme.",
+        "persian_summary": "گزارش رسیدگی به نشتی‌ها و نتیجه رضایت‌بخش آزمون فشار ۶۰۰۰ پوند بر اینچ مربع را ذکر می‌کند؛ این سلول برنامه کامل آزمون را مشخص نمی‌کند."
+      }
+    ]
+  }
+]

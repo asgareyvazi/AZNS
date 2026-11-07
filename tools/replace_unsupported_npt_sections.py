@@ -14,7 +14,9 @@ from docx import Document
 from docx.oxml.ns import qn
 from replace_well_bit_evidence import DATA,set_table,text,style
 
-TRACKS={x['file']:x for x in json.loads(Path('evidence/drilling_track_observations.json').read_text())}
+ORIGINAL_TRACKS={x['file']:x for x in json.loads(Path('evidence/drilling_track_observations.json').read_text())}
+ACTIVITY={x['file']:x for x in json.loads(Path('evidence/activity_observations.json').read_text())}
+TRACKS={key:{**v,'days':ACTIVITY[key]['days']} for key,v in ORIGINAL_TRACKS.items()}
 CODES=[('npt','npt_h','N / NPT','کد N / NPT'),('unplanned','unplanned_h','UP / unplanned','کد UP / غیربرنامه‌ای'),('mixed','mixed_h','NPT-UNPLN','کد ترکیبی NPT-UNPLN')]
 
 def values(track):
@@ -66,7 +68,7 @@ def main():
             nxt=cursor.getnext()
             if nxt is None:raise ValueError((well,lang,'W4 precedes heading'))
             cursor.getparent().remove(cursor);cursor=nxt
-        p=d.add_paragraph((f"از {track['paired_sheet_candidates']} جفت شیت نامزد، فقط {len(complete)} گزارش روزانه با جمع مدت‌های طبقه‌بندی‌شده نزدیک ۲۴ ساعت در محاسبه وارد شده است. مقادیر زیر ساعت کدهای منبع‌اند، نه کل قطعی زمان غیرمولد عملیات؛ روزهای ناقص یا تشخیص‌نیافته صفر فرض نشده‌اند. جزئیات ردیف‌ها و سلول‌ها در evidence/drilling_track_observations.json ثبت است." if fa else f"Only {len(complete)} daily reports with classified durations totalling approximately 24 hours were included out of {track['paired_sheet_candidates']} candidate sheet pairs. These are source-code hours, not a verified total for the operation; incomplete or unrecognized days are not zero. Row-level cells are retained in evidence/drilling_track_observations.json."));style(p,fa);drawing.addprevious(p._p)
+        p=d.add_paragraph((f"از {track['paired_sheet_candidates']} جفت شیت نامزد، فقط {len(complete)} گزارش روزانه با جمع مدت‌های طبقه‌بندی‌شده نزدیک ۲۴ ساعت در محاسبه وارد شده است. مقادیر زیر ساعت کدهای منبع‌اند، نه کل قطعی زمان غیرمولد عملیات؛ روزهای ناقص یا تشخیص‌نیافته صفر فرض نشده‌اند. صفحات عملیات مستقل از شیت داده بررسی شده‌اند؛ جزئیات ردیف‌ها و سلول‌ها در evidence/activity_observations.json ثبت است." if fa else f"Only {len(complete)} daily reports with classified durations totalling approximately 24 hours were included out of {track['paired_sheet_candidates']} candidate sheet pairs. These are source-code hours, not a verified total for the operation; incomplete or unrecognized days are not zero. Status pages are recognized independently of data pages; row-level cells are retained in evidence/activity_observations.json."));style(p,fa);drawing.addprevious(p._p)
         p=d.add_paragraph(('جدول ۷-۱ ـ ساعت کدهای منبع در گزارش‌های کامل؛ ارجاعات صرفاً نمونه‌اند.' if fa else 'Table 7-1 — Source-code hours in complete reports; references are examples.'));style(p,fa,True);drawing.addprevious(p._p)
         t=d.add_table(rows=1,cols=3);t.style='Table Grid';drawing.addprevious(t._tbl)
         values_table=[(['کد منبع','ساعت در پوشش موجود','نمونه شیت و سلول وضعیت و مدت'] if fa else ['Source code','Hours in coverage','Example status and duration cells'])]
