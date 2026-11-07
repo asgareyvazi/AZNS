@@ -1,0 +1,901 @@
+[
+  {
+    "well": "10",
+    "file": "AZNS10Pack.xlsx",
+    "recognized_data_sheets": 83,
+    "candidate_pairs": 83,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 82,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "2-2 Data",
+          "cell": "R12",
+          "raw": "87",
+          "value": 87.0
+        },
+        "maximum": {
+          "sheet": "68-2 Data",
+          "cell": "R12",
+          "raw": "104",
+          "value": 104.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 62,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "14-2 Data",
+          "cell": "R18",
+          "raw": "18",
+          "value": 18.0
+        },
+        "maximum": {
+          "sheet": "11-2 Data",
+          "cell": "R18",
+          "raw": "26",
+          "value": 26.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 62,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "46-2 Data",
+          "cell": "R19",
+          "raw": "6",
+          "value": 6.0
+        },
+        "maximum": {
+          "sheet": "13-2 Data",
+          "cell": "R19",
+          "raw": "30",
+          "value": 30.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 0,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": null,
+        "maximum": null
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "12",
+    "file": "AZNS12Pack.xlsx",
+    "recognized_data_sheets": 65,
+    "candidate_pairs": 72,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 64,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "2-2 DDR Data",
+          "cell": "L9",
+          "raw": "81",
+          "value": 81.0
+        },
+        "maximum": {
+          "sheet": "23-2 DDR Data",
+          "cell": "K9",
+          "raw": "85",
+          "value": 85.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 47,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "36-2 DDR Data",
+          "cell": "K12",
+          "raw": "11",
+          "value": 11.0
+        },
+        "maximum": {
+          "sheet": "28-2 DDR Data",
+          "cell": "K12",
+          "raw": "16",
+          "value": 16.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 47,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "11-2 DDR Data",
+          "cell": "K13",
+          "raw": "10",
+          "value": 10.0
+        },
+        "maximum": {
+          "sheet": "28-2 DDR Data",
+          "cell": "K13",
+          "raw": "15",
+          "value": 15.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 54,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "6-2 DDR Data",
+          "cell": "K36",
+          "raw": "0",
+          "value": 0.0
+        },
+        "maximum": {
+          "sheet": "12-2 DDR Data",
+          "cell": "K36",
+          "raw": "130",
+          "value": 130.0
+        }
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "75",
+    "file": "AZNS75Pack.xlsx",
+    "recognized_data_sheets": 166,
+    "candidate_pairs": 166,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 165,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "29-2 DDR Data",
+          "cell": "L9",
+          "raw": "76",
+          "value": 76.0
+        },
+        "maximum": {
+          "sheet": "111-2 DDR Data",
+          "cell": "L9",
+          "raw": "87",
+          "value": 87.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 151,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "34-2 DDR Data",
+          "cell": "L12",
+          "raw": "9",
+          "value": 9.0
+        },
+        "maximum": {
+          "sheet": "79-2 DDR Data",
+          "cell": "L12",
+          "raw": "16",
+          "value": 16.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 151,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "15-2 DDR Data",
+          "cell": "L13",
+          "raw": "6",
+          "value": 6.0
+        },
+        "maximum": {
+          "sheet": "138-2 DDR Data",
+          "cell": "L13",
+          "raw": "16",
+          "value": 16.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 51,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "74-2 DDR Data",
+          "cell": "L36",
+          "raw": "0",
+          "value": 0.0
+        },
+        "maximum": {
+          "sheet": "43-2 DDR Data",
+          "cell": "L36",
+          "raw": "140",
+          "value": 140.0
+        }
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "85",
+    "file": "AZNS85Pack.xlsx",
+    "recognized_data_sheets": 53,
+    "candidate_pairs": 53,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 48,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "7-2 Data",
+          "cell": "R12",
+          "raw": "81",
+          "value": 81.0
+        },
+        "maximum": {
+          "sheet": "47-2 Data",
+          "cell": "R12",
+          "raw": "104",
+          "value": 104.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 41,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "12-2 Data",
+          "cell": "R18",
+          "raw": "8",
+          "value": 8.0
+        },
+        "maximum": {
+          "sheet": "6-2 Data",
+          "cell": "R18",
+          "raw": "27",
+          "value": 27.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 41,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "7-2 Data",
+          "cell": "R19",
+          "raw": "3",
+          "value": 3.0
+        },
+        "maximum": {
+          "sheet": "11-2 Data",
+          "cell": "R19",
+          "raw": "20",
+          "value": 20.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 7,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "7-2 Data",
+          "cell": "R41",
+          "raw": "0",
+          "value": 0.0
+        },
+        "maximum": {
+          "sheet": "7-2 Data",
+          "cell": "R41",
+          "raw": "0",
+          "value": 0.0
+        }
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "116",
+    "file": "AZNS116Pack.xlsx",
+    "recognized_data_sheets": 112,
+    "candidate_pairs": 112,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 107,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "4-2 Data",
+          "cell": "R12",
+          "raw": "103",
+          "value": 103.0
+        },
+        "maximum": {
+          "sheet": "102-2 Data",
+          "cell": "R12",
+          "raw": "105",
+          "value": 105.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 97,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "85-2 Data",
+          "cell": "R18",
+          "raw": "10",
+          "value": 10.0
+        },
+        "maximum": {
+          "sheet": "4-2 Data",
+          "cell": "R18",
+          "raw": "38",
+          "value": 38.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 97,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "18-2 Data",
+          "cell": "R19",
+          "raw": "5",
+          "value": 5.0
+        },
+        "maximum": {
+          "sheet": "85-2 Data",
+          "cell": "R19",
+          "raw": "54",
+          "value": 54.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 0,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": null,
+        "maximum": null
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "122WO1",
+    "file": "AZNS122WO1Pack.xlsx",
+    "recognized_data_sheets": 56,
+    "candidate_pairs": 56,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 52,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "2-2 Data",
+          "cell": "R12",
+          "raw": "103",
+          "value": 103.0
+        },
+        "maximum": {
+          "sheet": "5-2 Data",
+          "cell": "R12",
+          "raw": "106",
+          "value": 106.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 45,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "17-2 Data",
+          "cell": "R18",
+          "raw": "15",
+          "value": 15.0
+        },
+        "maximum": {
+          "sheet": "5-2 Data",
+          "cell": "R18",
+          "raw": "25",
+          "value": 25.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 45,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "17-2 Data",
+          "cell": "R19",
+          "raw": "10",
+          "value": 10.0
+        },
+        "maximum": {
+          "sheet": "6-2 Data",
+          "cell": "R19",
+          "raw": "22",
+          "value": 22.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 14,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "14-2 Data",
+          "cell": "R41",
+          "raw": "5",
+          "value": 5.0
+        },
+        "maximum": {
+          "sheet": "6-2 Data",
+          "cell": "R41",
+          "raw": "53",
+          "value": 53.0
+        }
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "122WO2",
+    "file": "AZNS122WO2Pack.xlsx",
+    "recognized_data_sheets": 121,
+    "candidate_pairs": 121,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 117,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "1-2 DDR Data",
+          "cell": "L9",
+          "raw": "101",
+          "value": 101.0
+        },
+        "maximum": {
+          "sheet": "76-2 DDR Data",
+          "cell": "L9",
+          "raw": "110",
+          "value": 110.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 110,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "87-2 DDR Data",
+          "cell": "L12",
+          "raw": "22",
+          "value": 22.0
+        },
+        "maximum": {
+          "sheet": "76-2 DDR Data",
+          "cell": "L12",
+          "raw": "58",
+          "value": 58.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 110,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "28-2 DDR Data",
+          "cell": "L13",
+          "raw": "10",
+          "value": 10.0
+        },
+        "maximum": {
+          "sheet": "76-2 DDR Data",
+          "cell": "L13",
+          "raw": "26",
+          "value": 26.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 43,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "4-2 DDR Data",
+          "cell": "L36",
+          "raw": "0",
+          "value": 0.0
+        },
+        "maximum": {
+          "sheet": "60-2 DDR Data",
+          "cell": "L36",
+          "raw": "36",
+          "value": 36.0
+        }
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "127ST2",
+    "file": "AZNS127ST2Pack.xlsx",
+    "recognized_data_sheets": 106,
+    "candidate_pairs": 106,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 106,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "6-2 DDR Data",
+          "cell": "L9",
+          "raw": "80",
+          "value": 80.0
+        },
+        "maximum": {
+          "sheet": "56-2 DDR Data",
+          "cell": "L9",
+          "raw": "105",
+          "value": 105.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 99,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "16-2 DDR Data",
+          "cell": "L12",
+          "raw": "8",
+          "value": 8.0
+        },
+        "maximum": {
+          "sheet": "96-2 DDR Data",
+          "cell": "L12",
+          "raw": "37",
+          "value": 37.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 99,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "4-2 DDR Data",
+          "cell": "L13",
+          "raw": "8",
+          "value": 8.0
+        },
+        "maximum": {
+          "sheet": "79-2 DDR Data",
+          "cell": "L13",
+          "raw": "16",
+          "value": 16.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 20,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "35-2 DDR Data",
+          "cell": "L36",
+          "raw": "10",
+          "value": 10.0
+        },
+        "maximum": {
+          "sheet": "36-2 DDR Data",
+          "cell": "L36",
+          "raw": "70",
+          "value": 70.0
+        }
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "127WO1",
+    "file": "AZNS127WO1Pack.xlsx",
+    "recognized_data_sheets": 88,
+    "candidate_pairs": 137,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 87,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "57-2 Data",
+          "cell": "R12",
+          "raw": "85",
+          "value": 85.0
+        },
+        "maximum": {
+          "sheet": "39-2 Data",
+          "cell": "R12",
+          "raw": "108",
+          "value": 108.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 86,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "57-2 Data",
+          "cell": "R18",
+          "raw": "14",
+          "value": 14.0
+        },
+        "maximum": {
+          "sheet": "39-2 Data",
+          "cell": "R18",
+          "raw": "39",
+          "value": 39.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 86,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "56-2 Data",
+          "cell": "R19",
+          "raw": "6",
+          "value": 6.0
+        },
+        "maximum": {
+          "sheet": "81-2 Data",
+          "cell": "R19",
+          "raw": "18",
+          "value": 18.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 0,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": null,
+        "maximum": null
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "127WO2",
+    "file": "AZNS127WOPack.xlsx",
+    "recognized_data_sheets": 68,
+    "candidate_pairs": 68,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 58,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "11-2 DDR Data",
+          "cell": "L9",
+          "raw": "104",
+          "value": 104.0
+        },
+        "maximum": {
+          "sheet": "17-2 DDR Data",
+          "cell": "L9",
+          "raw": "112",
+          "value": 112.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 58,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "11-2 DDR Data",
+          "cell": "L12",
+          "raw": "20",
+          "value": 20.0
+        },
+        "maximum": {
+          "sheet": "24-2 DDR Data",
+          "cell": "L12",
+          "raw": "34",
+          "value": 34.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 58,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "11-2 DDR Data",
+          "cell": "L13",
+          "raw": "12",
+          "value": 12.0
+        },
+        "maximum": {
+          "sheet": "59-2 DDR Data",
+          "cell": "L13",
+          "raw": "17",
+          "value": 17.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 0,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": null,
+        "maximum": null
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "166",
+    "file": "AZNS166Pack.xlsx",
+    "recognized_data_sheets": 24,
+    "candidate_pairs": 24,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 24,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "1-2 DDR Data",
+          "cell": "L9",
+          "raw": "83",
+          "value": 83.0
+        },
+        "maximum": {
+          "sheet": "1-2 DDR Data",
+          "cell": "L9",
+          "raw": "83",
+          "value": 83.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 16,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "9-2 DDR Data",
+          "cell": "L12",
+          "raw": "11",
+          "value": 11.0
+        },
+        "maximum": {
+          "sheet": "1-2 DDR Data",
+          "cell": "L12",
+          "raw": "14",
+          "value": 14.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 16,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "7-2 DDR Data",
+          "cell": "L13",
+          "raw": "11",
+          "value": 11.0
+        },
+        "maximum": {
+          "sheet": "1-2 DDR Data",
+          "cell": "L13",
+          "raw": "12",
+          "value": 12.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 0,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": null,
+        "maximum": null
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "207",
+    "file": "AZNS207Pack.xlsx",
+    "recognized_data_sheets": 155,
+    "candidate_pairs": 155,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 150,
+        "present_but_rejected_or_non_numeric_count": 4,
+        "minimum": {
+          "sheet": "2-2 DDR P 2",
+          "cell": "L9",
+          "raw": "66",
+          "value": 66.0
+        },
+        "maximum": {
+          "sheet": "148-2 DDR Data",
+          "cell": "L9",
+          "raw": "104",
+          "value": 104.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 145,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "7-2 DDR Data",
+          "cell": "L12",
+          "raw": "7",
+          "value": 7.0
+        },
+        "maximum": {
+          "sheet": "123-2 DDR Data",
+          "cell": "L12",
+          "raw": "26",
+          "value": 26.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 145,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "68-2 DDR Data",
+          "cell": "L13",
+          "raw": "4",
+          "value": 4.0
+        },
+        "maximum": {
+          "sheet": "42-2 DDR Data",
+          "cell": "L13",
+          "raw": "110",
+          "value": 110.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 111,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "61-2 DDR Data",
+          "cell": "L36",
+          "raw": "0",
+          "value": 0.0
+        },
+        "maximum": {
+          "sheet": "115-2 DDR Data",
+          "cell": "L36",
+          "raw": "1896",
+          "value": 1896.0
+        }
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  },
+  {
+    "well": "40",
+    "file": "AZNS40Pack.xlsx",
+    "recognized_data_sheets": 151,
+    "candidate_pairs": 151,
+    "fields": {
+      "mud_weight": {
+        "numeric_accepted_count": 134,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "2-2 Data",
+          "cell": "R12",
+          "raw": "67",
+          "value": 67.0
+        },
+        "maximum": {
+          "sheet": "65-2 Data",
+          "cell": "R12",
+          "raw": "104",
+          "value": 104.0
+        }
+      },
+      "pv": {
+        "numeric_accepted_count": 120,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "4-2 Data",
+          "cell": "R18",
+          "raw": "15",
+          "value": 15.0
+        },
+        "maximum": {
+          "sheet": "68-2 Data",
+          "cell": "R18",
+          "raw": "58",
+          "value": 58.0
+        }
+      },
+      "yp": {
+        "numeric_accepted_count": 120,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "77-2 Data",
+          "cell": "R19",
+          "raw": "0",
+          "value": 0.0
+        },
+        "maximum": {
+          "sheet": "22-2 Data",
+          "cell": "R19",
+          "raw": "16",
+          "value": 16.0
+        }
+      },
+      "downhole_loss": {
+        "numeric_accepted_count": 75,
+        "present_but_rejected_or_non_numeric_count": 0,
+        "minimum": {
+          "sheet": "72-2 Data",
+          "cell": "R41",
+          "raw": "2",
+          "value": 2.0
+        },
+        "maximum": {
+          "sheet": "57-2 Data",
+          "cell": "R41",
+          "raw": "305",
+          "value": 305.0
+        }
+      }
+    },
+    "method": "One observed source field per recognized data sheet; incomplete coverage. Finite numeric values >=0, except mud weight restricted to 30–200, retained; rejected and nonnumeric entries are not zero. No verified daily loss total, reservoir attribution, continuous measurements, current mud properties or design window is inferred. Full source entries and cells are in drilling_track_observations.json."
+  }
+]

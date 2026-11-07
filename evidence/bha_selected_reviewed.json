@@ -1,0 +1,1761 @@
+[
+  {
+    "well": "10",
+    "source_file": "AZNS10Pack.xlsx",
+    "programme_page": 32,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "2-2 Data",
+    "identifier": {
+      "sheet": "2-2 Data",
+      "cell": "H39",
+      "raw": "BHA NO #1"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 42,
+        "item": {
+          "sheet": "2-2 Data",
+          "cell": "I42",
+          "raw": "R. Bit"
+        },
+        "quantity": {
+          "sheet": "2-2 Data",
+          "cell": "J42",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "2-2 Data",
+          "cell": "K42",
+          "raw": "8 1/2\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "2-2 Data",
+          "cell": "M42",
+          "raw": "0.25"
+        },
+        "cumulative_length": null
+      },
+      {
+        "row": 43,
+        "item": {
+          "sheet": "2-2 Data",
+          "cell": "I43",
+          "raw": "Bit Sub"
+        },
+        "quantity": {
+          "sheet": "2-2 Data",
+          "cell": "J43",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "2-2 Data",
+          "cell": "K43",
+          "raw": "6 3/8\""
+        },
+        "id": {
+          "sheet": "2-2 Data",
+          "cell": "L43",
+          "raw": "2 7/8\""
+        },
+        "length": {
+          "sheet": "2-2 Data",
+          "cell": "M43",
+          "raw": "1/11"
+        },
+        "cumulative_length": {
+          "sheet": "2-2 Data",
+          "cell": "N43",
+          "raw": "46033.25"
+        }
+      },
+      {
+        "row": 44,
+        "item": {
+          "sheet": "2-2 Data",
+          "cell": "I44",
+          "raw": "DC"
+        },
+        "quantity": {
+          "sheet": "2-2 Data",
+          "cell": "J44",
+          "raw": "15jt"
+        },
+        "od": {
+          "sheet": "2-2 Data",
+          "cell": "K44",
+          "raw": "6 1/2\""
+        },
+        "id": {
+          "sheet": "2-2 Data",
+          "cell": "L44",
+          "raw": "2 15/16\""
+        },
+        "length": {
+          "sheet": "2-2 Data",
+          "cell": "M44",
+          "raw": "125/98"
+        },
+        "cumulative_length": {
+          "sheet": "2-2 Data",
+          "cell": "N44",
+          "raw": "#VALUE!"
+        }
+      },
+      {
+        "row": 45,
+        "item": {
+          "sheet": "2-2 Data",
+          "cell": "I45",
+          "raw": "HWDP"
+        },
+        "quantity": {
+          "sheet": "2-2 Data",
+          "cell": "J45",
+          "raw": "3jt"
+        },
+        "od": {
+          "sheet": "2-2 Data",
+          "cell": "K45",
+          "raw": "5\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "2-2 Data",
+          "cell": "M45",
+          "raw": "27/95"
+        },
+        "cumulative_length": {
+          "sheet": "2-2 Data",
+          "cell": "N45",
+          "raw": "#VALUE!"
+        }
+      }
+    ],
+    "persian_names": [
+      "مته چرخشی",
+      "رابط مته",
+      "طوق حفاری",
+      "لوله حفاری سنگین"
+    ],
+    "sheet_coverage": 62,
+    "data_sheets_considered": 83
+  },
+  {
+    "well": "12",
+    "source_file": "AZNS12Pack.xlsx",
+    "programme_page": 33,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "37-2 DDR Data",
+    "identifier": {
+      "sheet": "37-2 DDR Data",
+      "cell": "A46",
+      "raw": "BHA No. #14"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 48,
+        "item": {
+          "sheet": "37-2 DDR Data",
+          "cell": "A48",
+          "raw": "3-1/2\" M.M J.Mill"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "37-2 DDR Data",
+          "cell": "B48",
+          "raw": "3-1/2\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "37-2 DDR Data",
+          "cell": "C48",
+          "raw": "0.43"
+        },
+        "cumulative_length": {
+          "sheet": "37-2 DDR Data",
+          "cell": "D48",
+          "raw": "0.43"
+        }
+      },
+      {
+        "row": 49,
+        "item": {
+          "sheet": "37-2 DDR Data",
+          "cell": "A49",
+          "raw": "3 1/4\" B.SUB"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "37-2 DDR Data",
+          "cell": "B49",
+          "raw": "3-1/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "37-2 DDR Data",
+          "cell": "C49",
+          "raw": "0.76"
+        },
+        "cumulative_length": {
+          "sheet": "37-2 DDR Data",
+          "cell": "D49",
+          "raw": "1.19"
+        }
+      },
+      {
+        "row": 50,
+        "item": {
+          "sheet": "37-2 DDR Data",
+          "cell": "A50",
+          "raw": "17 Jts 3-1/8\" DC"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "37-2 DDR Data",
+          "cell": "B50",
+          "raw": "3-1/8\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "37-2 DDR Data",
+          "cell": "C50",
+          "raw": "158.07"
+        },
+        "cumulative_length": {
+          "sheet": "37-2 DDR Data",
+          "cell": "D50",
+          "raw": "159.26"
+        }
+      },
+      {
+        "row": 51,
+        "item": {
+          "sheet": "37-2 DDR Data",
+          "cell": "A51",
+          "raw": "XOS"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "37-2 DDR Data",
+          "cell": "B51",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "37-2 DDR Data",
+          "cell": "C51",
+          "raw": "1.1599999999999999"
+        },
+        "cumulative_length": {
+          "sheet": "37-2 DDR Data",
+          "cell": "D51",
+          "raw": "160.41999999999999"
+        }
+      }
+    ],
+    "persian_names": [
+      "آسیاب فلزی ضایعات",
+      "رابط مته",
+      "۱۷ شاخه طوق حفاری",
+      "تبدیل اتصال"
+    ],
+    "sheet_coverage": 33,
+    "data_sheets_considered": 65
+  },
+  {
+    "well": "75",
+    "source_file": "AZNS75Pack.xlsx",
+    "programme_page": 42,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "80-2 DDR Data",
+    "identifier": {
+      "sheet": "80-2 DDR Data",
+      "cell": "B46",
+      "raw": "BHA No. 15"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 48,
+        "item": {
+          "sheet": "80-2 DDR Data",
+          "cell": "B48",
+          "raw": "Tri-Cone Bit"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "80-2 DDR Data",
+          "cell": "C48",
+          "raw": "6-1/8"
+        },
+        "id": null,
+        "length": {
+          "sheet": "80-2 DDR Data",
+          "cell": "D48",
+          "raw": "0.2"
+        },
+        "cumulative_length": {
+          "sheet": "80-2 DDR Data",
+          "cell": "E48",
+          "raw": "0.2"
+        }
+      },
+      {
+        "row": 49,
+        "item": {
+          "sheet": "80-2 DDR Data",
+          "cell": "B49",
+          "raw": "Bit Sub"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "80-2 DDR Data",
+          "cell": "C49",
+          "raw": "4-3/4"
+        },
+        "id": null,
+        "length": {
+          "sheet": "80-2 DDR Data",
+          "cell": "D49",
+          "raw": "1.2"
+        },
+        "cumulative_length": {
+          "sheet": "80-2 DDR Data",
+          "cell": "E49",
+          "raw": "1.4"
+        }
+      },
+      {
+        "row": 50,
+        "item": {
+          "sheet": "80-2 DDR Data",
+          "cell": "B50",
+          "raw": "HWDP"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "80-2 DDR Data",
+          "cell": "C50",
+          "raw": "3-1/2"
+        },
+        "id": null,
+        "length": {
+          "sheet": "80-2 DDR Data",
+          "cell": "D50",
+          "raw": "248"
+        },
+        "cumulative_length": {
+          "sheet": "80-2 DDR Data",
+          "cell": "E50",
+          "raw": "249.4"
+        }
+      },
+      {
+        "row": 51,
+        "item": {
+          "sheet": "80-2 DDR Data",
+          "cell": "B51",
+          "raw": "DP"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "80-2 DDR Data",
+          "cell": "C51",
+          "raw": "3-1/2"
+        },
+        "id": null,
+        "length": {
+          "sheet": "80-2 DDR Data",
+          "cell": "D51",
+          "raw": "1590"
+        },
+        "cumulative_length": {
+          "sheet": "80-2 DDR Data",
+          "cell": "E51",
+          "raw": "1839.4"
+        }
+      }
+    ],
+    "persian_names": [
+      "مته سه‌مخروطی",
+      "رابط مته",
+      "لوله حفاری سنگین",
+      "لوله حفاری"
+    ],
+    "sheet_coverage": 120,
+    "data_sheets_considered": 166
+  },
+  {
+    "well": "85",
+    "source_file": "AZNS85Pack.xlsx",
+    "programme_page": 28,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "5-2 Data",
+    "identifier": {
+      "sheet": "5-2 Data",
+      "cell": "H39",
+      "raw": "BHA NO # 01"
+    },
+    "block_description": {
+      "sheet": "5-2 Data",
+      "cell": "I41",
+      "raw": "D/O BHA"
+    },
+    "components": [
+      {
+        "row": 42,
+        "item": {
+          "sheet": "5-2 Data",
+          "cell": "I42",
+          "raw": "Bit"
+        },
+        "quantity": {
+          "sheet": "5-2 Data",
+          "cell": "J42",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "5-2 Data",
+          "cell": "K42",
+          "raw": "8-1/2"
+        },
+        "id": null,
+        "length": {
+          "sheet": "5-2 Data",
+          "cell": "M42",
+          "raw": "0.3"
+        },
+        "cumulative_length": null
+      },
+      {
+        "row": 43,
+        "item": {
+          "sheet": "5-2 Data",
+          "cell": "I43",
+          "raw": "Bit Sub"
+        },
+        "quantity": {
+          "sheet": "5-2 Data",
+          "cell": "J43",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "5-2 Data",
+          "cell": "K43",
+          "raw": "6-1/2"
+        },
+        "id": {
+          "sheet": "5-2 Data",
+          "cell": "L43",
+          "raw": "2-7/8"
+        },
+        "length": {
+          "sheet": "5-2 Data",
+          "cell": "M43",
+          "raw": "1.1000000000000001"
+        },
+        "cumulative_length": {
+          "sheet": "5-2 Data",
+          "cell": "N43",
+          "raw": "1.4000000000000001"
+        }
+      },
+      {
+        "row": 44,
+        "item": {
+          "sheet": "5-2 Data",
+          "cell": "I44",
+          "raw": "DC"
+        },
+        "quantity": {
+          "sheet": "5-2 Data",
+          "cell": "J44",
+          "raw": "15 jt"
+        },
+        "od": {
+          "sheet": "5-2 Data",
+          "cell": "K44",
+          "raw": "6-1/2"
+        },
+        "id": {
+          "sheet": "5-2 Data",
+          "cell": "L44",
+          "raw": "2-3/4"
+        },
+        "length": {
+          "sheet": "5-2 Data",
+          "cell": "M44",
+          "raw": "134/6"
+        },
+        "cumulative_length": {
+          "sheet": "5-2 Data",
+          "cell": "N44",
+          "raw": "#VALUE!"
+        }
+      },
+      {
+        "row": 45,
+        "item": {
+          "sheet": "5-2 Data",
+          "cell": "I45",
+          "raw": "HWDP"
+        },
+        "quantity": {
+          "sheet": "5-2 Data",
+          "cell": "J45",
+          "raw": "3 jt"
+        },
+        "od": {
+          "sheet": "5-2 Data",
+          "cell": "K45",
+          "raw": "5"
+        },
+        "id": {
+          "sheet": "5-2 Data",
+          "cell": "L45",
+          "raw": "3-1/16"
+        },
+        "length": {
+          "sheet": "5-2 Data",
+          "cell": "M45",
+          "raw": "27/84"
+        },
+        "cumulative_length": {
+          "sheet": "5-2 Data",
+          "cell": "N45",
+          "raw": "#VALUE!"
+        }
+      }
+    ],
+    "persian_names": [
+      "مته",
+      "رابط مته",
+      "طوق حفاری",
+      "لوله حفاری سنگین"
+    ],
+    "sheet_coverage": 37,
+    "data_sheets_considered": 53
+  },
+  {
+    "well": "116",
+    "source_file": "AZNS116Pack.xlsx",
+    "programme_page": 50,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "10-2 Data",
+    "identifier": {
+      "sheet": "10-2 Data",
+      "cell": "H39",
+      "raw": "BHA NO #1"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 42,
+        "item": {
+          "sheet": "10-2 Data",
+          "cell": "I42",
+          "raw": "Mill"
+        },
+        "quantity": {
+          "sheet": "10-2 Data",
+          "cell": "J42",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "10-2 Data",
+          "cell": "K42",
+          "raw": "8-3/8"
+        },
+        "id": null,
+        "length": {
+          "sheet": "10-2 Data",
+          "cell": "M42",
+          "raw": "1.1399999999999999"
+        },
+        "cumulative_length": null
+      },
+      {
+        "row": 43,
+        "item": {
+          "sheet": "10-2 Data",
+          "cell": "I43",
+          "raw": "Junk Sub"
+        },
+        "quantity": {
+          "sheet": "10-2 Data",
+          "cell": "J43",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "10-2 Data",
+          "cell": "K43",
+          "raw": "6-15/16"
+        },
+        "id": {
+          "sheet": "10-2 Data",
+          "cell": "L43",
+          "raw": "2-1/4"
+        },
+        "length": {
+          "sheet": "10-2 Data",
+          "cell": "M43",
+          "raw": "0.91"
+        },
+        "cumulative_length": {
+          "sheet": "10-2 Data",
+          "cell": "N43",
+          "raw": "2.0499999999999998"
+        }
+      },
+      {
+        "row": 44,
+        "item": {
+          "sheet": "10-2 Data",
+          "cell": "I44",
+          "raw": "Double Pin"
+        },
+        "quantity": {
+          "sheet": "10-2 Data",
+          "cell": "J44",
+          "raw": "1"
+        },
+        "od": null,
+        "id": null,
+        "length": {
+          "sheet": "10-2 Data",
+          "cell": "M44",
+          "raw": "0.55000000000000004"
+        },
+        "cumulative_length": {
+          "sheet": "10-2 Data",
+          "cell": "N44",
+          "raw": "2.5999999999999996"
+        }
+      },
+      {
+        "row": 45,
+        "item": {
+          "sheet": "10-2 Data",
+          "cell": "I45",
+          "raw": "Junk Sub"
+        },
+        "quantity": {
+          "sheet": "10-2 Data",
+          "cell": "J45",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "10-2 Data",
+          "cell": "K45",
+          "raw": "6-15/16"
+        },
+        "id": {
+          "sheet": "10-2 Data",
+          "cell": "L45",
+          "raw": "2-1/4"
+        },
+        "length": {
+          "sheet": "10-2 Data",
+          "cell": "M45",
+          "raw": "1.07"
+        },
+        "cumulative_length": {
+          "sheet": "10-2 Data",
+          "cell": "N45",
+          "raw": "3.67"
+        }
+      }
+    ],
+    "persian_names": [
+      "آسیاب",
+      "گیرنده ضایعات",
+      "رابط دو سر نر",
+      "گیرنده ضایعات"
+    ],
+    "sheet_coverage": 91,
+    "data_sheets_considered": 112
+  },
+  {
+    "well": "122WO1",
+    "source_file": "AZNS122WO1Pack.xlsx",
+    "programme_page": 28,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "12-2 Data",
+    "identifier": {
+      "sheet": "12-2 Data",
+      "cell": "H39",
+      "raw": "BHA NO #1"
+    },
+    "block_description": {
+      "sheet": "12-2 Data",
+      "cell": "I41",
+      "raw": "Tandem Scraper BHA"
+    },
+    "components": [
+      {
+        "row": 42,
+        "item": {
+          "sheet": "12-2 Data",
+          "cell": "I42",
+          "raw": "6\" R.Bit"
+        },
+        "quantity": {
+          "sheet": "12-2 Data",
+          "cell": "J42",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "12-2 Data",
+          "cell": "K42",
+          "raw": "6\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "12-2 Data",
+          "cell": "M42",
+          "raw": "0.19"
+        },
+        "cumulative_length": {
+          "sheet": "12-2 Data",
+          "cell": "N42",
+          "raw": "0.19"
+        }
+      },
+      {
+        "row": 43,
+        "item": {
+          "sheet": "12-2 Data",
+          "cell": "I43",
+          "raw": "7\" Scraper"
+        },
+        "quantity": {
+          "sheet": "12-2 Data",
+          "cell": "J43",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "12-2 Data",
+          "cell": "K43",
+          "raw": "5-3/8\""
+        },
+        "id": {
+          "sheet": "12-2 Data",
+          "cell": "L43",
+          "raw": "1-1/8\""
+        },
+        "length": {
+          "sheet": "12-2 Data",
+          "cell": "M43",
+          "raw": "1"
+        },
+        "cumulative_length": {
+          "sheet": "12-2 Data",
+          "cell": "N43",
+          "raw": "1.19"
+        }
+      },
+      {
+        "row": 44,
+        "item": {
+          "sheet": "12-2 Data",
+          "cell": "I44",
+          "raw": "Bit Sub (Float in)"
+        },
+        "quantity": {
+          "sheet": "12-2 Data",
+          "cell": "J44",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "12-2 Data",
+          "cell": "K44",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "12-2 Data",
+          "cell": "M44",
+          "raw": "0.86"
+        },
+        "cumulative_length": {
+          "sheet": "12-2 Data",
+          "cell": "N44",
+          "raw": "2.0499999999999998"
+        }
+      },
+      {
+        "row": 45,
+        "item": {
+          "sheet": "12-2 Data",
+          "cell": "I45",
+          "raw": "9 Jts 4-3/4\" DC"
+        },
+        "quantity": {
+          "sheet": "12-2 Data",
+          "cell": "J45",
+          "raw": "9"
+        },
+        "od": {
+          "sheet": "12-2 Data",
+          "cell": "K45",
+          "raw": "4-3/4\""
+        },
+        "id": {
+          "sheet": "12-2 Data",
+          "cell": "L45",
+          "raw": "2-1/4\""
+        },
+        "length": {
+          "sheet": "12-2 Data",
+          "cell": "M45",
+          "raw": "82.65"
+        },
+        "cumulative_length": {
+          "sheet": "12-2 Data",
+          "cell": "N45",
+          "raw": "84.7"
+        }
+      }
+    ],
+    "persian_names": [
+      "مته چرخشی شش اینچ",
+      "خراشنده هفت اینچ",
+      "رابط مته با شیر شناور",
+      "۹ شاخه طوق حفاری"
+    ],
+    "sheet_coverage": 37,
+    "data_sheets_considered": 56
+  },
+  {
+    "well": "122WO2",
+    "source_file": "AZNS122WO2Pack.xlsx",
+    "programme_page": 32,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "54-2 DDR Data",
+    "identifier": {
+      "sheet": "54-2 DDR Data",
+      "cell": "B46",
+      "raw": "BHA No. 11"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 48,
+        "item": {
+          "sheet": "54-2 DDR Data",
+          "cell": "B48",
+          "raw": "PDC Bit"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "54-2 DDR Data",
+          "cell": "C48",
+          "raw": "6-1/8"
+        },
+        "id": null,
+        "length": {
+          "sheet": "54-2 DDR Data",
+          "cell": "D48",
+          "raw": "0.23"
+        },
+        "cumulative_length": {
+          "sheet": "54-2 DDR Data",
+          "cell": "E48",
+          "raw": "0.23"
+        }
+      },
+      {
+        "row": 49,
+        "item": {
+          "sheet": "54-2 DDR Data",
+          "cell": "B49",
+          "raw": "PDM.Motor"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "54-2 DDR Data",
+          "cell": "C49",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "54-2 DDR Data",
+          "cell": "D49",
+          "raw": "6.94"
+        },
+        "cumulative_length": {
+          "sheet": "54-2 DDR Data",
+          "cell": "E49",
+          "raw": "7.1700000000000008"
+        }
+      },
+      {
+        "row": 50,
+        "item": {
+          "sheet": "54-2 DDR Data",
+          "cell": "B50",
+          "raw": "F.SUB"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "54-2 DDR Data",
+          "cell": "C50",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "54-2 DDR Data",
+          "cell": "D50",
+          "raw": "0.4"
+        },
+        "cumulative_length": {
+          "sheet": "54-2 DDR Data",
+          "cell": "E50",
+          "raw": "7.5700000000000012"
+        }
+      },
+      {
+        "row": 51,
+        "item": {
+          "sheet": "54-2 DDR Data",
+          "cell": "B51",
+          "raw": "UBHO"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "54-2 DDR Data",
+          "cell": "C51",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "54-2 DDR Data",
+          "cell": "D51",
+          "raw": "0.92"
+        },
+        "cumulative_length": {
+          "sheet": "54-2 DDR Data",
+          "cell": "E51",
+          "raw": "8.490000000000002"
+        }
+      }
+    ],
+    "persian_names": [
+      "مته پلی‌کریستال",
+      "موتور درون‌چاهی",
+      "رابط شناور",
+      "محفظه ابزار جهت‌یابی"
+    ],
+    "sheet_coverage": 91,
+    "data_sheets_considered": 121
+  },
+  {
+    "well": "127ST2",
+    "source_file": "AZNS127ST2Pack.xlsx",
+    "programme_page": 65,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "48-2 DDR Data",
+    "identifier": {
+      "sheet": "48-2 DDR Data",
+      "cell": "B46",
+      "raw": "BHA # 18"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 48,
+        "item": {
+          "sheet": "48-2 DDR Data",
+          "cell": "B48",
+          "raw": "Tri-Cone Bit"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "48-2 DDR Data",
+          "cell": "C48",
+          "raw": "6-1/8\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "48-2 DDR Data",
+          "cell": "D48",
+          "raw": "0.19"
+        },
+        "cumulative_length": {
+          "sheet": "48-2 DDR Data",
+          "cell": "E48",
+          "raw": "0.19"
+        }
+      },
+      {
+        "row": 49,
+        "item": {
+          "sheet": "48-2 DDR Data",
+          "cell": "B49",
+          "raw": "Bit Sub"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "48-2 DDR Data",
+          "cell": "C49",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "48-2 DDR Data",
+          "cell": "D49",
+          "raw": "1"
+        },
+        "cumulative_length": {
+          "sheet": "48-2 DDR Data",
+          "cell": "E49",
+          "raw": "1.19"
+        }
+      },
+      {
+        "row": 50,
+        "item": {
+          "sheet": "48-2 DDR Data",
+          "cell": "B50",
+          "raw": "7 STDs DC"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "48-2 DDR Data",
+          "cell": "C50",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "48-2 DDR Data",
+          "cell": "D50",
+          "raw": "190.82"
+        },
+        "cumulative_length": {
+          "sheet": "48-2 DDR Data",
+          "cell": "E50",
+          "raw": "192.01"
+        }
+      },
+      {
+        "row": 51,
+        "item": {
+          "sheet": "48-2 DDR Data",
+          "cell": "B51",
+          "raw": "2 STDs HWDP"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "48-2 DDR Data",
+          "cell": "C51",
+          "raw": "3-1/2\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "48-2 DDR Data",
+          "cell": "D51",
+          "raw": "55.08"
+        },
+        "cumulative_length": {
+          "sheet": "48-2 DDR Data",
+          "cell": "E51",
+          "raw": "247"
+        }
+      }
+    ],
+    "persian_names": [
+      "مته سه‌مخروطی",
+      "رابط مته",
+      "هفت دسته طوق حفاری",
+      "دو دسته لوله حفاری سنگین"
+    ],
+    "sheet_coverage": 88,
+    "data_sheets_considered": 106
+  },
+  {
+    "well": "127WO1",
+    "source_file": "AZNS127WO1Pack.xlsx",
+    "programme_page": 62,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "52-2 Data",
+    "identifier": {
+      "sheet": "52-2 Data",
+      "cell": "H39",
+      "raw": "BHA NO # 20"
+    },
+    "block_description": {
+      "sheet": "52-2 Data",
+      "cell": "I41",
+      "raw": "Milling BHA"
+    },
+    "components": [
+      {
+        "row": 42,
+        "item": {
+          "sheet": "52-2 Data",
+          "cell": "I42",
+          "raw": "8-3/8\" M.M J.Mill"
+        },
+        "quantity": {
+          "sheet": "52-2 Data",
+          "cell": "J42",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "52-2 Data",
+          "cell": "K42",
+          "raw": "8-3/8\""
+        },
+        "id": {
+          "sheet": "52-2 Data",
+          "cell": "L42",
+          "raw": "2\""
+        },
+        "length": {
+          "sheet": "52-2 Data",
+          "cell": "M42",
+          "raw": "1.125"
+        },
+        "cumulative_length": {
+          "sheet": "52-2 Data",
+          "cell": "N42",
+          "raw": "1.125"
+        }
+      },
+      {
+        "row": 43,
+        "item": {
+          "sheet": "52-2 Data",
+          "cell": "I43",
+          "raw": "6-5/8\" Junk Sub"
+        },
+        "quantity": {
+          "sheet": "52-2 Data",
+          "cell": "J43",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "52-2 Data",
+          "cell": "K43",
+          "raw": "6-5/8\""
+        },
+        "id": {
+          "sheet": "52-2 Data",
+          "cell": "L43",
+          "raw": "2-1/4\""
+        },
+        "length": {
+          "sheet": "52-2 Data",
+          "cell": "M43",
+          "raw": "0.72"
+        },
+        "cumulative_length": {
+          "sheet": "52-2 Data",
+          "cell": "N43",
+          "raw": "1.845"
+        }
+      },
+      {
+        "row": 44,
+        "item": {
+          "sheet": "52-2 Data",
+          "cell": "I44",
+          "raw": "7\" Junk Sub"
+        },
+        "quantity": {
+          "sheet": "52-2 Data",
+          "cell": "J44",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "52-2 Data",
+          "cell": "K44",
+          "raw": "7\""
+        },
+        "id": {
+          "sheet": "52-2 Data",
+          "cell": "L44",
+          "raw": "2-1/4\""
+        },
+        "length": {
+          "sheet": "52-2 Data",
+          "cell": "M44",
+          "raw": "0.91"
+        },
+        "cumulative_length": {
+          "sheet": "52-2 Data",
+          "cell": "N44",
+          "raw": "2.7549999999999999"
+        }
+      },
+      {
+        "row": 45,
+        "item": {
+          "sheet": "52-2 Data",
+          "cell": "I45",
+          "raw": "6-1/2\" D.Pin"
+        },
+        "quantity": {
+          "sheet": "52-2 Data",
+          "cell": "J45",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "52-2 Data",
+          "cell": "K45",
+          "raw": "6-1/2\""
+        },
+        "id": {
+          "sheet": "52-2 Data",
+          "cell": "L45",
+          "raw": "2\""
+        },
+        "length": {
+          "sheet": "52-2 Data",
+          "cell": "M45",
+          "raw": "0.67"
+        },
+        "cumulative_length": {
+          "sheet": "52-2 Data",
+          "cell": "N45",
+          "raw": "3.4249999999999998"
+        }
+      }
+    ],
+    "persian_names": [
+      "آسیاب فلزی ضایعات",
+      "گیرنده ضایعات",
+      "گیرنده ضایعات",
+      "رابط دو سر نر"
+    ],
+    "sheet_coverage": 66,
+    "data_sheets_considered": 88
+  },
+  {
+    "well": "127WO2",
+    "source_file": "AZNS127WOPack.xlsx",
+    "programme_page": 50,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "34-2 DDR Data",
+    "identifier": {
+      "sheet": "34-2 DDR Data",
+      "cell": "B46",
+      "raw": "BHA # 1"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 48,
+        "item": {
+          "sheet": "34-2 DDR Data",
+          "cell": "B48",
+          "raw": "5-5/8\" O.Shot"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "34-2 DDR Data",
+          "cell": "C48",
+          "raw": "5-5/8\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "34-2 DDR Data",
+          "cell": "D48",
+          "raw": "2.15"
+        },
+        "cumulative_length": {
+          "sheet": "34-2 DDR Data",
+          "cell": "E48",
+          "raw": "2.15"
+        }
+      },
+      {
+        "row": 49,
+        "item": {
+          "sheet": "34-2 DDR Data",
+          "cell": "B49",
+          "raw": "1 Jt 4-3/4\" DC"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "34-2 DDR Data",
+          "cell": "C49",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "34-2 DDR Data",
+          "cell": "D49",
+          "raw": "9.1300000000000008"
+        },
+        "cumulative_length": {
+          "sheet": "34-2 DDR Data",
+          "cell": "E49",
+          "raw": "11.280000000000001"
+        }
+      },
+      {
+        "row": 50,
+        "item": {
+          "sheet": "34-2 DDR Data",
+          "cell": "B50",
+          "raw": "Fishing Jar"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "34-2 DDR Data",
+          "cell": "C50",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "34-2 DDR Data",
+          "cell": "D50",
+          "raw": "2"
+        },
+        "cumulative_length": {
+          "sheet": "34-2 DDR Data",
+          "cell": "E50",
+          "raw": "13.280000000000001"
+        }
+      },
+      {
+        "row": 51,
+        "item": {
+          "sheet": "34-2 DDR Data",
+          "cell": "B51",
+          "raw": "1 Std 4-3/4\" DC"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "34-2 DDR Data",
+          "cell": "C51",
+          "raw": "4-3/4\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "34-2 DDR Data",
+          "cell": "D51",
+          "raw": "26.555"
+        },
+        "cumulative_length": {
+          "sheet": "34-2 DDR Data",
+          "cell": "E51",
+          "raw": "39.835000000000001"
+        }
+      }
+    ],
+    "persian_names": [
+      "اورشات ماهیگیری",
+      "یک شاخه طوق حفاری",
+      "جار ماهیگیری",
+      "یک دسته طوق حفاری"
+    ],
+    "sheet_coverage": 34,
+    "data_sheets_considered": 68
+  },
+  {
+    "well": "166",
+    "source_file": "AZNS166Pack.xlsx",
+    "programme_page": 33,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "9-2 DDR Data",
+    "identifier": {
+      "sheet": "9-2 DDR Data",
+      "cell": "B46",
+      "raw": "BHA 1"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 48,
+        "item": {
+          "sheet": "9-2 DDR Data",
+          "cell": "B48",
+          "raw": "M.M.J.mill"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "9-2 DDR Data",
+          "cell": "C48",
+          "raw": "8-3/8\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "9-2 DDR Data",
+          "cell": "D48",
+          "raw": "1.1399999999999999"
+        },
+        "cumulative_length": {
+          "sheet": "9-2 DDR Data",
+          "cell": "E48",
+          "raw": "1.1399999999999999"
+        }
+      },
+      {
+        "row": 49,
+        "item": {
+          "sheet": "9-2 DDR Data",
+          "cell": "B49",
+          "raw": "Bit Sub"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "9-2 DDR Data",
+          "cell": "C49",
+          "raw": "6-1/2\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "9-2 DDR Data",
+          "cell": "D49",
+          "raw": "1.1499999999999999"
+        },
+        "cumulative_length": {
+          "sheet": "9-2 DDR Data",
+          "cell": "E49",
+          "raw": "2.29"
+        }
+      },
+      {
+        "row": 50,
+        "item": {
+          "sheet": "9-2 DDR Data",
+          "cell": "B50",
+          "raw": "Scraper"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "9-2 DDR Data",
+          "cell": "C50",
+          "raw": "9-5/8\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "9-2 DDR Data",
+          "cell": "D50",
+          "raw": "1.63"
+        },
+        "cumulative_length": {
+          "sheet": "9-2 DDR Data",
+          "cell": "E50",
+          "raw": "3.92"
+        }
+      },
+      {
+        "row": 51,
+        "item": {
+          "sheet": "9-2 DDR Data",
+          "cell": "B51",
+          "raw": "D.C"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "9-2 DDR Data",
+          "cell": "C51",
+          "raw": "6-1/2\""
+        },
+        "id": null,
+        "length": {
+          "sheet": "9-2 DDR Data",
+          "cell": "D51",
+          "raw": "26.05"
+        },
+        "cumulative_length": {
+          "sheet": "9-2 DDR Data",
+          "cell": "E51",
+          "raw": "29.97"
+        }
+      }
+    ],
+    "persian_names": [
+      "آسیاب فلزی ضایعات",
+      "رابط مته",
+      "خراشنده",
+      "طوق حفاری"
+    ],
+    "sheet_coverage": 10,
+    "data_sheets_considered": 24
+  },
+  {
+    "well": "207",
+    "source_file": "AZNS207Pack.xlsx",
+    "programme_page": 59,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "72-2 DDR Data",
+    "identifier": {
+      "sheet": "72-2 DDR Data",
+      "cell": "B46",
+      "raw": "BHA No. #26"
+    },
+    "block_description": null,
+    "components": [
+      {
+        "row": 48,
+        "item": {
+          "sheet": "72-2 DDR Data",
+          "cell": "B48",
+          "raw": "12-1/4\" PDC Bit"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "72-2 DDR Data",
+          "cell": "C48",
+          "raw": "12.25"
+        },
+        "id": null,
+        "length": {
+          "sheet": "72-2 DDR Data",
+          "cell": "D48",
+          "raw": "0.36499999999999999"
+        },
+        "cumulative_length": {
+          "sheet": "72-2 DDR Data",
+          "cell": "E48",
+          "raw": "0.36499999999999999"
+        }
+      },
+      {
+        "row": 49,
+        "item": {
+          "sheet": "72-2 DDR Data",
+          "cell": "B49",
+          "raw": "8-1/2\" Bit Sub"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "72-2 DDR Data",
+          "cell": "C49",
+          "raw": "8.5"
+        },
+        "id": null,
+        "length": {
+          "sheet": "72-2 DDR Data",
+          "cell": "D49",
+          "raw": "1.105"
+        },
+        "cumulative_length": {
+          "sheet": "72-2 DDR Data",
+          "cell": "E49",
+          "raw": "1.47"
+        }
+      },
+      {
+        "row": 50,
+        "item": {
+          "sheet": "72-2 DDR Data",
+          "cell": "B50",
+          "raw": "2 Jts DC 8 1/2\""
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "72-2 DDR Data",
+          "cell": "C50",
+          "raw": "8.5"
+        },
+        "id": null,
+        "length": {
+          "sheet": "72-2 DDR Data",
+          "cell": "D50",
+          "raw": "18.670000000000002"
+        },
+        "cumulative_length": {
+          "sheet": "72-2 DDR Data",
+          "cell": "E50",
+          "raw": "20.14"
+        }
+      },
+      {
+        "row": 51,
+        "item": {
+          "sheet": "72-2 DDR Data",
+          "cell": "B51",
+          "raw": "12-1/4\" S.Stab"
+        },
+        "quantity": null,
+        "od": {
+          "sheet": "72-2 DDR Data",
+          "cell": "C51",
+          "raw": "12.25"
+        },
+        "id": null,
+        "length": {
+          "sheet": "72-2 DDR Data",
+          "cell": "D51",
+          "raw": "1.4850000000000001"
+        },
+        "cumulative_length": {
+          "sheet": "72-2 DDR Data",
+          "cell": "E51",
+          "raw": "21.625"
+        }
+      }
+    ],
+    "persian_names": [
+      "مته پلی‌کریستال",
+      "رابط مته",
+      "دو شاخه طوق حفاری",
+      "پایدارکننده"
+    ],
+    "sheet_coverage": 129,
+    "data_sheets_considered": 155
+  },
+  {
+    "well": "40",
+    "source_file": "AZNS40Pack.xlsx",
+    "programme_page": 91,
+    "note": "Selected programme BHA page is a navigation anchor, not a verified comparison with the daily configuration. PDF 207 p.59 is descriptive; p.61–66 contain image-only figures.",
+    "sheet": "2-2 Data",
+    "identifier": null,
+    "block_description": {
+      "sheet": "2-2 Data",
+      "cell": "I40",
+      "raw": "DRLG BHA"
+    },
+    "components": [
+      {
+        "row": 41,
+        "item": {
+          "sheet": "2-2 Data",
+          "cell": "I41",
+          "raw": "12-1/4\" R.BIT"
+        },
+        "quantity": {
+          "sheet": "2-2 Data",
+          "cell": "J41",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "2-2 Data",
+          "cell": "K41",
+          "raw": "12-1/4\""
+        },
+        "id": {
+          "sheet": "2-2 Data",
+          "cell": "L41",
+          "raw": "3"
+        },
+        "length": {
+          "sheet": "2-2 Data",
+          "cell": "M41",
+          "raw": "0.28999999999999998"
+        },
+        "cumulative_length": {
+          "sheet": "2-2 Data",
+          "cell": "N41",
+          "raw": "0.28999999999999998"
+        }
+      },
+      {
+        "row": 42,
+        "item": {
+          "sheet": "2-2 Data",
+          "cell": "I42",
+          "raw": "BIT SUB (FLOAT IN)"
+        },
+        "quantity": {
+          "sheet": "2-2 Data",
+          "cell": "J42",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "2-2 Data",
+          "cell": "K42",
+          "raw": "8-1/2\""
+        },
+        "id": {
+          "sheet": "2-2 Data",
+          "cell": "L42",
+          "raw": "3"
+        },
+        "length": {
+          "sheet": "2-2 Data",
+          "cell": "M42",
+          "raw": "1.1100000000000001"
+        },
+        "cumulative_length": {
+          "sheet": "2-2 Data",
+          "cell": "N42",
+          "raw": "1.4000000000000001"
+        }
+      },
+      {
+        "row": 43,
+        "item": {
+          "sheet": "2-2 Data",
+          "cell": "I43",
+          "raw": "8-1/2\" D.C"
+        },
+        "quantity": {
+          "sheet": "2-2 Data",
+          "cell": "J43",
+          "raw": "11 JTS"
+        },
+        "od": {
+          "sheet": "2-2 Data",
+          "cell": "K43",
+          "raw": "8-1/2\""
+        },
+        "id": {
+          "sheet": "2-2 Data",
+          "cell": "L43",
+          "raw": "3"
+        },
+        "length": {
+          "sheet": "2-2 Data",
+          "cell": "M43",
+          "raw": "96.66"
+        },
+        "cumulative_length": {
+          "sheet": "2-2 Data",
+          "cell": "N43",
+          "raw": "98.06"
+        }
+      },
+      {
+        "row": 44,
+        "item": {
+          "sheet": "2-2 Data",
+          "cell": "I44",
+          "raw": "XOS (6-5/8\" REG X 4-1/2\" IF)"
+        },
+        "quantity": {
+          "sheet": "2-2 Data",
+          "cell": "J44",
+          "raw": "1"
+        },
+        "od": {
+          "sheet": "2-2 Data",
+          "cell": "K44",
+          "raw": "6-5/8\""
+        },
+        "id": {
+          "sheet": "2-2 Data",
+          "cell": "L44",
+          "raw": "3"
+        },
+        "length": {
+          "sheet": "2-2 Data",
+          "cell": "M44",
+          "raw": "0.85"
+        },
+        "cumulative_length": {
+          "sheet": "2-2 Data",
+          "cell": "N44",
+          "raw": "98.91"
+        }
+      }
+    ],
+    "persian_names": [
+      "مته چرخشی",
+      "رابط مته با شیر شناور",
+      "طوق حفاری",
+      "تبدیل اتصال"
+    ],
+    "sheet_coverage": 69,
+    "data_sheets_considered": 151
+  }
+]
