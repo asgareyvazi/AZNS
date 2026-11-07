@@ -1,0 +1,188 @@
+{
+  "programme_file": "AZNS-207 Program.pdf",
+  "physical_page": 17,
+  "programme_basis": "Prognosed mMD; RTE 14.45 m, see physical p.19. Values subject to revision during work.",
+  "programme_limit_md_m": 4180,
+  "pack_file": "AZNS207Pack.xlsx",
+  "pack_sheet": "155-2 DDR Data",
+  "ddr_basis": "Field labelled m MD; actual versus prognosed status not independently established.",
+  "rows": [
+    {
+      "name": "Aghajari",
+      "name_fa": "آغاجاری",
+      "programme_top_label": "Surface",
+      "programme_md_for_plot": 0,
+      "programme_source_text": "Aghajari Surface Surface 1021",
+      "ddr_name": "Aghajari",
+      "ddr_cell": "P71",
+      "ddr_value": "Surface",
+      "numeric_difference_ddr_minus_programme_m": null
+    },
+    {
+      "name": "Gachsaran",
+      "name_fa": "گچساران",
+      "programme_top_label": "1021",
+      "programme_md_for_plot": 1021,
+      "programme_source_text": "Gachsaran -1007 1021 347",
+      "ddr_name": "Gachsaran",
+      "ddr_cell": "P72",
+      "ddr_value": "1020",
+      "numeric_difference_ddr_minus_programme_m": -1.0
+    },
+    {
+      "name": "Asmari",
+      "name_fa": "آسماری",
+      "programme_top_label": "1368",
+      "programme_md_for_plot": 1368,
+      "programme_source_text": "Asmari -1353 1368 215",
+      "ddr_name": "Asmary",
+      "ddr_cell": "P73",
+      "ddr_value": "1368",
+      "numeric_difference_ddr_minus_programme_m": 0.0
+    },
+    {
+      "name": "Pabdeh / Jahrum",
+      "name_fa": "پابده / جهرم",
+      "programme_top_label": "1583",
+      "programme_md_for_plot": 1583,
+      "programme_source_text": "Pabdeh or Pd./Ja. -1568 1583 102",
+      "ddr_name": "Pabdeh / Jahrum",
+      "ddr_cell": "P74",
+      "ddr_value": "1584",
+      "numeric_difference_ddr_minus_programme_m": 1.0
+    },
+    {
+      "name": "Jahrum",
+      "name_fa": "جهرم",
+      "programme_top_label": "1685",
+      "programme_md_for_plot": 1685,
+      "programme_source_text": "Jahrum -1671 1685 309",
+      "ddr_name": "Jahrum",
+      "ddr_cell": "P75",
+      "ddr_value": "1684",
+      "numeric_difference_ddr_minus_programme_m": -1.0
+    },
+    {
+      "name": "Pabdeh",
+      "name_fa": "پابده",
+      "programme_top_label": "1994",
+      "programme_md_for_plot": 1994,
+      "programme_source_text": "Pabdeh -1980 1994 184",
+      "ddr_name": "Pabdeh",
+      "ddr_cell": "P76",
+      "ddr_value": "1991",
+      "numeric_difference_ddr_minus_programme_m": -3.0
+    },
+    {
+      "name": "Upper Gurpi",
+      "name_fa": "گورپی بالایی",
+      "programme_top_label": "2178",
+      "programme_md_for_plot": 2178,
+      "programme_source_text": "U. Gurpi -2164 2178 165",
+      "ddr_name": "U.Gurpi",
+      "ddr_cell": "P77",
+      "ddr_value": "2178",
+      "numeric_difference_ddr_minus_programme_m": 0.0
+    },
+    {
+      "name": "Tarbur",
+      "name_fa": "تاربور",
+      "programme_top_label": "2343",
+      "programme_md_for_plot": 2343,
+      "programme_source_text": "Tarbur -2328 2343 75",
+      "ddr_name": "Tarbur",
+      "ddr_cell": "P78",
+      "ddr_value": "2346",
+      "numeric_difference_ddr_minus_programme_m": 3.0
+    },
+    {
+      "name": "Lower Gurpi",
+      "name_fa": "گورپی پایینی",
+      "programme_top_label": "2418",
+      "programme_md_for_plot": 2418,
+      "programme_source_text": "L. Gurpi -2404 2418 142",
+      "ddr_name": "L.Gurpi",
+      "ddr_cell": "P79",
+      "ddr_value": "2423",
+      "numeric_difference_ddr_minus_programme_m": 5.0
+    },
+    {
+      "name": "Ilam",
+      "name_fa": "ایلام",
+      "programme_top_label": "2560",
+      "programme_md_for_plot": 2560,
+      "programme_source_text": "Ilam -2546 2560 69",
+      "ddr_name": "Ilam",
+      "ddr_cell": "P80",
+      "ddr_value": "2563",
+      "numeric_difference_ddr_minus_programme_m": 3.0
+    },
+    {
+      "name": "Laffan",
+      "name_fa": "لافان",
+      "programme_top_label": "2629",
+      "programme_md_for_plot": 2629,
+      "programme_source_text": "Laffan -2614 2629 6",
+      "ddr_name": "Laffan",
+      "ddr_cell": "P81",
+      "ddr_value": "2633",
+      "numeric_difference_ddr_minus_programme_m": 4.0
+    },
+    {
+      "name": "Sarvak",
+      "name_fa": "سروک",
+      "programme_top_label": "2635",
+      "programme_md_for_plot": 2635,
+      "programme_source_text": "Sarvak -2621 2635 635",
+      "ddr_name": "Sarvak",
+      "ddr_cell": "P82",
+      "ddr_value": "2639",
+      "numeric_difference_ddr_minus_programme_m": 4.0
+    },
+    {
+      "name": "Kazhdumi",
+      "name_fa": "کژدمی",
+      "programme_top_label": "3270",
+      "programme_md_for_plot": 3270,
+      "programme_source_text": "Kazhdumi -3256 3270 194",
+      "ddr_name": "Kazhdumi",
+      "ddr_cell": "P83",
+      "ddr_value": "3266",
+      "numeric_difference_ddr_minus_programme_m": -4.0
+    },
+    {
+      "name": "Dariyan",
+      "name_fa": "داریان",
+      "programme_top_label": "3464",
+      "programme_md_for_plot": 3464,
+      "programme_source_text": "Dariyan -3450 3464 158",
+      "ddr_name": "Dariyan",
+      "ddr_cell": "P84",
+      "ddr_value": "3467",
+      "numeric_difference_ddr_minus_programme_m": 3.0
+    },
+    {
+      "name": "Gadvan",
+      "name_fa": "گدوان",
+      "programme_top_label": "3622",
+      "programme_md_for_plot": 3622,
+      "programme_source_text": "Gadvan -3607 3622 293",
+      "ddr_name": "Gadvan",
+      "ddr_cell": "P85",
+      "ddr_value": "3626",
+      "numeric_difference_ddr_minus_programme_m": 4.0
+    },
+    {
+      "name": "Fahliyan",
+      "name_fa": "فهلیان",
+      "programme_top_label": "3915",
+      "programme_md_for_plot": 3915,
+      "programme_source_text": "Fahliyan -3900 3915 40",
+      "ddr_name": "Fahliyan",
+      "ddr_cell": "P86",
+      "ddr_value": "3968",
+      "numeric_difference_ddr_minus_programme_m": 53.0
+    }
+  ],
+  "limitations": "Arithmetic differences do not establish geological deviation, actual stratigraphic tops, event attribution or datum consistency. Pabdeh interval 1994–2178 m has 184 m in the table and a 165 m thickness stated in page 14 text."
+}

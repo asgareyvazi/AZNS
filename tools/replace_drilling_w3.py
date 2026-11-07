@@ -66,7 +66,7 @@ def plot_pairs(ax,records,keys,colors,labels):
             ax.scatter([x for x,y in pairs],[y for x,y in pairs],s=14,color=color,alpha=.68,label=label,edgecolors='none')
     # Blank fields remain missing, never drawn as zero.
 
-def plot(well,file):
+def plot(well,file,programme_bottom=None,programme_reference=None):
     rec=get_data(tracks[file]);tops=form_tops(formations[file]);assert rec and tops
     maxdepth=max([r['md'] for r in rec]+[d for n,d in tops]);maxdepth=math.ceil((maxdepth+120)/500)*500
     mindepth=max(0,math.floor((min([r['md'] for r in rec]+[d for n,d in tops])-100)/500)*500)
@@ -76,11 +76,11 @@ def plot(well,file):
     allaxes=[ax0]+axs
     # Bands transcribe the selected snapshot's labeled tops only; no measured contact asserted.
     for idx,(name,start) in enumerate(tops):
-        stop=tops[idx+1][1] if idx+1<len(tops) else start
+        stop=tops[idx+1][1] if idx+1<len(tops) else (programme_bottom if programme_bottom is not None else start)
         if stop<=start:continue
         for a in allaxes:a.axhspan(start,stop,color=palette[idx%len(palette)],alpha=.75,zorder=0)
     # Formation labels are intentionally spaced; leader marks point to the band midpoint.
-    centers=[(start+tops[i+1][1])/2 if i+1<len(tops) else start for i,(name,start) in enumerate(tops)]
+    centers=[(start+tops[i+1][1])/2 if i+1<len(tops) else ((start+programme_bottom)/2 if programme_bottom is not None else start) for i,(name,start) in enumerate(tops)]
     span=maxdepth-mindepth;sep=min(span/(max(len(centers),1)+3)*.85,span*.045)
     positions=[]
     for x in centers:positions.append(max(x,positions[-1]+sep if positions else mindepth+span*.025))
@@ -119,8 +119,8 @@ def plot(well,file):
     fig.text(.055,.916,'WOB/RPM: blue=lower or single, orange=upper. Flow: blue=lower or single, light blue=upper; SPP: red/pink.',fontsize=8.3,color='#263a4b')
     fig.text(.055,.893,'ROP: blue=daily, gold triangle=mean of 3 consecutive reports. PV=blue, YP=purple, loss=orange; casing shoes omitted pending reconciliation.',fontsize=8.3,color='#263a4b')
     fig.suptitle(f'AZNS-{well} | Daily drilling parameters at report-end MD',fontsize=17,fontweight='bold',x=.055,y=.985,ha='left',color='#223952')
-    fig.text(.055,.944,f"{len(rec)} plotted reports / {tracks[file]['paired_sheet_candidates']} sheet pairs; displayed depth range covers observations and tops; no verified formation attribution.",fontsize=9,color='#9b431c')
-    fig.text(.055,.035,'DDR sources and rejected/non-numeric values: evidence/drilling_track_observations.json. Bands stop at the last listed top; no lower contact assumed.',fontsize=8.5,color='#9b431c')
+    fig.text(.055,.944,f"{len(rec)} plotted reports / {tracks[file]['paired_sheet_candidates']} sheet pairs; " + ('formation bands are programme prognosis, not actual/event attribution.' if programme_reference else 'displayed depth range covers observations and tops; no verified formation attribution.'),fontsize=9,color='#9b431c')
+    fig.text(.055,.035,('Formation forecast: ' + programme_reference + '; lower plotted limit is programme TD, not a formation contact.' if programme_reference else 'DDR sources and rejected/non-numeric values: evidence/drilling_track_observations.json. Bands stop at the last listed top; no lower contact assumed.'),fontsize=8.5,color='#9b431c')
     fig.subplots_adjust(left=.08,right=.98,top=.84,bottom=.115)
     fig.canvas.draw();out=BytesIO();fig.savefig(out,format='png',dpi=300);plt.close(fig);return out.getvalue()
 

@@ -1,0 +1,2857 @@
+[
+  {
+    "well": "10",
+    "file": "AZNS10Pack.xlsx",
+    "data_sheets": 83,
+    "material_blocks": 83,
+    "samples": [
+      {
+        "day": 1,
+        "sheet": "1-2 Data",
+        "used_header": {
+          "sheet": "1-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 42,
+            "material": {
+              "sheet": "1-2 Data",
+              "cell": "A42",
+              "raw": "Soda Ash (25 kg)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 Data",
+              "cell": "C42",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "1-2 Data",
+                "cell": "F42",
+                "raw": "2",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "1-2 Data",
+                "cell": "G42",
+                "raw": "23",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "1-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "1-2 Data",
+                "cell": "F44",
+                "raw": "12",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "1-2 Data",
+                "cell": "G44",
+                "raw": "91",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 47,
+            "material": {
+              "sheet": "1-2 Data",
+              "cell": "A47",
+              "raw": "Xanthan Gum (XC Pol.)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 Data",
+              "cell": "C47",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "1-2 Data",
+                "cell": "F47",
+                "raw": "1",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "1-2 Data",
+                "cell": "G47",
+                "raw": "19",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "sheet": "3-2 Data",
+        "used_header": {
+          "sheet": "3-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 42,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A42",
+              "raw": "Soda Ash (25 kg)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C42",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F42",
+                "raw": "1",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G42",
+                "raw": "22",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F44",
+                "raw": "6",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G44",
+                "raw": "85",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 47,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A47",
+              "raw": "Xanthan Gum (XC Pol.)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C47",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F47",
+                "raw": "1",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G47",
+                "raw": "18",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "12",
+    "file": "AZNS12Pack.xlsx",
+    "data_sheets": 65,
+    "material_blocks": 65,
+    "samples": [
+      {
+        "day": 6,
+        "sheet": "6-2 DDR Data",
+        "used_header": {
+          "sheet": "6-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "6-2 DDR Data",
+              "cell": "M10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "6-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "used": {
+                "sheet": "6-2 DDR Data",
+                "cell": "P10",
+                "raw": "18",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "6-2 DDR Data",
+                "cell": "R10",
+                "raw": "59",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "6-2 DDR Data",
+              "cell": "M11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "6-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "used": {
+                "sheet": "6-2 DDR Data",
+                "cell": "P11",
+                "raw": "17",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "6-2 DDR Data",
+                "cell": "R11",
+                "raw": "41",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 12,
+            "material": {
+              "sheet": "6-2 DDR Data",
+              "cell": "M12",
+              "raw": "Lime",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "6-2 DDR Data",
+              "cell": "S12",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "used": {
+                "sheet": "6-2 DDR Data",
+                "cell": "P12",
+                "raw": "5",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "6-2 DDR Data",
+                "cell": "R12",
+                "raw": "37",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 9,
+        "sheet": "9-2 DDR Data",
+        "used_header": {
+          "sheet": "9-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "9-2 DDR Data",
+              "cell": "M10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "9-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "used": {
+                "sheet": "9-2 DDR Data",
+                "cell": "P10",
+                "raw": "2",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "9-2 DDR Data",
+                "cell": "R10",
+                "raw": "74",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 12,
+            "material": {
+              "sheet": "9-2 DDR Data",
+              "cell": "M12",
+              "raw": "Lime",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "9-2 DDR Data",
+              "cell": "S12",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "used": {
+                "sheet": "9-2 DDR Data",
+                "cell": "P12",
+                "raw": "4",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "9-2 DDR Data",
+                "cell": "R12",
+                "raw": "30",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "75",
+    "file": "AZNS75Pack.xlsx",
+    "data_sheets": 166,
+    "material_blocks": 166,
+    "samples": [
+      {
+        "day": 3,
+        "sheet": "3-2 DDR Data",
+        "used_header": {
+          "sheet": "3-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "3-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "3-2 DDR Data",
+                "cell": "P10",
+                "raw": "6",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "3-2 DDR Data",
+                "cell": "R10",
+                "raw": "58",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "3-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "3-2 DDR Data",
+                "cell": "P11",
+                "raw": "5",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "3-2 DDR Data",
+                "cell": "R11",
+                "raw": "94",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 13,
+            "material": {
+              "sheet": "3-2 DDR Data",
+              "cell": "N13",
+              "raw": "Starch LV ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 DDR Data",
+              "cell": "S13",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "3-2 DDR Data",
+                "cell": "P13",
+                "raw": "18",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "3-2 DDR Data",
+                "cell": "R13",
+                "raw": "124",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 4,
+        "sheet": "4-2 DDR Data",
+        "used_header": {
+          "sheet": "4-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "4-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "4-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "4-2 DDR Data",
+                "cell": "P10",
+                "raw": "29",
+                "formula_xml": null
+              },
+              "received": {
+                "sheet": "4-2 DDR Data",
+                "cell": "Q10",
+                "raw": "19",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "4-2 DDR Data",
+                "cell": "R10",
+                "raw": "48",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "4-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "4-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "4-2 DDR Data",
+                "cell": "P11",
+                "raw": "7",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "4-2 DDR Data",
+                "cell": "R11",
+                "raw": "78",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 12,
+            "material": {
+              "sheet": "4-2 DDR Data",
+              "cell": "N12",
+              "raw": "Lime",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "4-2 DDR Data",
+              "cell": "S12",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "4-2 DDR Data",
+                "cell": "P12",
+                "raw": "3",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "4-2 DDR Data",
+                "cell": "R12",
+                "raw": "107",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "85",
+    "file": "AZNS85Pack.xlsx",
+    "data_sheets": 53,
+    "material_blocks": 53,
+    "samples": [
+      {
+        "day": 2,
+        "sheet": "2-2 Data",
+        "used_header": {
+          "sheet": "2-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 41,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A41",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C41",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F41",
+                "raw": "2",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G41",
+                "raw": "18",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 42,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A42",
+              "raw": "Soda Ash (25 kg)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C42",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F42",
+                "raw": "4",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G42",
+                "raw": "16",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": null,
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F44",
+                "raw": "23",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G44",
+                "raw": "78",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 7,
+        "sheet": "7-2 Data",
+        "used_header": {
+          "sheet": "7-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 47,
+            "material": {
+              "sheet": "7-2 Data",
+              "cell": "A47",
+              "raw": "Xanthan Gum (XC Pol.)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "7-2 Data",
+              "cell": "C47",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "7-2 Data",
+                "cell": "E47",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "7-2 Data",
+                "cell": "F47",
+                "raw": "3",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "7-2 Data",
+                "cell": "G47",
+                "raw": "31",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 84,
+            "material": {
+              "sheet": "7-2 Data",
+              "cell": "A84",
+              "raw": "Sodium Bicarbonate",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "7-2 Data",
+              "cell": "C84",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": {
+                "sheet": "7-2 Data",
+                "cell": "D84",
+                "raw": "8",
+                "formula_xml": null
+              },
+              "total_received": {
+                "sheet": "7-2 Data",
+                "cell": "E84",
+                "raw": "19",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "7-2 Data",
+                "cell": "F84",
+                "raw": "6",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "7-2 Data",
+                "cell": "G84",
+                "raw": "13",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "116",
+    "file": "AZNS116Pack.xlsx",
+    "data_sheets": 112,
+    "material_blocks": 112,
+    "samples": [
+      {
+        "day": 2,
+        "sheet": "2-2 Data",
+        "used_header": {
+          "sheet": "2-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 41,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A41",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C41",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E41",
+                "raw": "60",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F41",
+                "raw": "6",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G41",
+                "raw": "54",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 42,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A42",
+              "raw": "Soda Ash (25 kg)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C42",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E42",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F42",
+                "raw": "6",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G42",
+                "raw": "34",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E44",
+                "raw": "90",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F44",
+                "raw": "28",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G44",
+                "raw": "62",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 13,
+        "sheet": "13-2 Sheet1",
+        "used_header": {
+          "sheet": "13-2 Sheet1",
+          "cell": "L39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 41,
+            "material": {
+              "sheet": "13-2 Sheet1",
+              "cell": "A41",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "13-2 Sheet1",
+              "cell": "E41",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "13-2 Sheet1",
+                "cell": "J41",
+                "raw": "60",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "13-2 Sheet1",
+                "cell": "L41",
+                "raw": "2",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "13-2 Sheet1",
+                "cell": "P41",
+                "raw": "29",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 47,
+            "material": {
+              "sheet": "13-2 Sheet1",
+              "cell": "A47",
+              "raw": "Xanthan Gum (XC Pol.)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "13-2 Sheet1",
+              "cell": "E47",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "13-2 Sheet1",
+                "cell": "J47",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "13-2 Sheet1",
+                "cell": "L47",
+                "raw": "1",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "13-2 Sheet1",
+                "cell": "P47",
+                "raw": "25",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "122WO1",
+    "file": "AZNS122WO1Pack.xlsx",
+    "data_sheets": 56,
+    "material_blocks": 56,
+    "samples": [
+      {
+        "day": 2,
+        "sheet": "2-2 Data",
+        "used_header": {
+          "sheet": "2-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 40,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A40",
+              "raw": "Bentonite",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C40",
+              "raw": "MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E40",
+                "raw": "2",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F40",
+                "raw": "1",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G40",
+                "raw": "0",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 41,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A41",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C41",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E41",
+                "raw": "20",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F41",
+                "raw": "5",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G41",
+                "raw": "13",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 42,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A42",
+              "raw": "Soda Ash (25 kg)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C42",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E42",
+                "raw": "20",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F42",
+                "raw": "5",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G42",
+                "raw": "13",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "sheet": "3-2 Data",
+        "used_header": {
+          "sheet": "3-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 41,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A41",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C41",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "3-2 Data",
+                "cell": "E41",
+                "raw": "20",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F41",
+                "raw": "2",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G41",
+                "raw": "11",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 42,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A42",
+              "raw": "Soda Ash (25 kg)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C42",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "3-2 Data",
+                "cell": "E42",
+                "raw": "20",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F42",
+                "raw": "2",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G42",
+                "raw": "11",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "3-2 Data",
+                "cell": "E44",
+                "raw": "80",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F44",
+                "raw": "19",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G44",
+                "raw": "24",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "122WO2",
+    "file": "AZNS122WO2Pack.xlsx",
+    "data_sheets": 121,
+    "material_blocks": 121,
+    "samples": [
+      {
+        "day": 54,
+        "sheet": "54-2 DDR Data",
+        "used_header": {
+          "sheet": "54-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 12,
+            "material": {
+              "sheet": "54-2 DDR Data",
+              "cell": "N12",
+              "raw": "Lime",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "54-2 DDR Data",
+              "cell": "T12",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "54-2 DDR Data",
+                "cell": "P12",
+                "raw": "10",
+                "formula_xml": null
+              },
+              "received": {
+                "sheet": "54-2 DDR Data",
+                "cell": "Q12",
+                "raw": "50",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "54-2 DDR Data",
+                "cell": "S12",
+                "raw": "114",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 13,
+            "material": {
+              "sheet": "54-2 DDR Data",
+              "cell": "N13",
+              "raw": "Starch LV ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "54-2 DDR Data",
+              "cell": "T13",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "54-2 DDR Data",
+                "cell": "P13",
+                "raw": "20",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "54-2 DDR Data",
+                "cell": "S13",
+                "raw": "68",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 55,
+        "sheet": "55-2 DDR Data",
+        "used_header": {
+          "sheet": "55-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "55-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "55-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "55-2 DDR Data",
+                "cell": "P10",
+                "raw": "17",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "55-2 DDR Data",
+                "cell": "R10",
+                "raw": "44",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "55-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "55-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "55-2 DDR Data",
+                "cell": "P11",
+                "raw": "4",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "55-2 DDR Data",
+                "cell": "R11",
+                "raw": "43",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 12,
+            "material": {
+              "sheet": "55-2 DDR Data",
+              "cell": "N12",
+              "raw": "Lime",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "55-2 DDR Data",
+              "cell": "S12",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "55-2 DDR Data",
+                "cell": "P12",
+                "raw": "15",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "55-2 DDR Data",
+                "cell": "R12",
+                "raw": "114",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "127ST2",
+    "file": "AZNS127ST2Pack.xlsx",
+    "data_sheets": 106,
+    "material_blocks": 106,
+    "samples": [
+      {
+        "day": 1,
+        "sheet": "1-2 DDR Data",
+        "used_header": {
+          "sheet": "1-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "1-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "1-2 DDR Data",
+                "cell": "P10",
+                "raw": "24",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "1-2 DDR Data",
+                "cell": "R10",
+                "raw": "11",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "1-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "1-2 DDR Data",
+                "cell": "P11",
+                "raw": "4",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "1-2 DDR Data",
+                "cell": "R11",
+                "raw": "14",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 14,
+            "material": {
+              "sheet": "1-2 DDR Data",
+              "cell": "N14",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 DDR Data",
+              "cell": "S14",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "1-2 DDR Data",
+                "cell": "P14",
+                "raw": "1",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "1-2 DDR Data",
+                "cell": "R14",
+                "raw": "45",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "sheet": "2-2 DDR Data",
+        "used_header": {
+          "sheet": "2-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "2-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "2-2 DDR Data",
+                "cell": "P10",
+                "raw": "95",
+                "formula_xml": null
+              },
+              "received": {
+                "sheet": "2-2 DDR Data",
+                "cell": "Q10",
+                "raw": "135",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 DDR Data",
+                "cell": "R10",
+                "raw": "51",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "2-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "2-2 DDR Data",
+                "cell": "P11",
+                "raw": "25",
+                "formula_xml": null
+              },
+              "received": {
+                "sheet": "2-2 DDR Data",
+                "cell": "Q11",
+                "raw": "45",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 DDR Data",
+                "cell": "R11",
+                "raw": "34",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 13,
+            "material": {
+              "sheet": "2-2 DDR Data",
+              "cell": "N13",
+              "raw": "Starch LV ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 DDR Data",
+              "cell": "S13",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "2-2 DDR Data",
+                "cell": "P13",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "received": {
+                "sheet": "2-2 DDR Data",
+                "cell": "Q13",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 DDR Data",
+                "cell": "R13",
+                "raw": "60",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "127WO1",
+    "file": "AZNS127WO1Pack.xlsx",
+    "data_sheets": 88,
+    "material_blocks": 88,
+    "samples": [
+      {
+        "day": 2,
+        "sheet": "2-2 Data",
+        "used_header": {
+          "sheet": "2-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 41,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A41",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C41",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E41",
+                "raw": "100",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F41",
+                "raw": "3",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G41",
+                "raw": "95",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 42,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A42",
+              "raw": "Soda Ash (25 kg)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C42",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E42",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F42",
+                "raw": "3",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G42",
+                "raw": "33",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": {
+                "sheet": "2-2 Data",
+                "cell": "D44",
+                "raw": "10",
+                "formula_xml": null
+              },
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E44",
+                "raw": "70",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F44",
+                "raw": "18",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G44",
+                "raw": "40",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "sheet": "3-2 Data",
+        "used_header": {
+          "sheet": "3-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 42,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A42",
+              "raw": "Soda Ash (25 kg)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C42",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "3-2 Data",
+                "cell": "E42",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F42",
+                "raw": "5",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G42",
+                "raw": "28",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": {
+                "sheet": "3-2 Data",
+                "cell": "D44",
+                "raw": "30",
+                "formula_xml": null
+              },
+              "total_received": {
+                "sheet": "3-2 Data",
+                "cell": "E44",
+                "raw": "100",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F44",
+                "raw": "20",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G44",
+                "raw": "50",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 45,
+            "material": {
+              "sheet": "3-2 Data",
+              "cell": "A45",
+              "raw": "Starch LV (Green)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "3-2 Data",
+              "cell": "C45",
+              "raw": "55 lbs",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": {
+                "sheet": "3-2 Data",
+                "cell": "D45",
+                "raw": "42",
+                "formula_xml": null
+              },
+              "total_received": {
+                "sheet": "3-2 Data",
+                "cell": "E45",
+                "raw": "240",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "3-2 Data",
+                "cell": "F45",
+                "raw": "120",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "3-2 Data",
+                "cell": "G45",
+                "raw": "130",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "127WO2",
+    "file": "AZNS127WOPack.xlsx",
+    "data_sheets": 68,
+    "material_blocks": 68,
+    "samples": [
+      {
+        "day": 11,
+        "sheet": "11-2 DDR Data",
+        "used_header": {
+          "sheet": "11-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "11-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "11-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "11-2 DDR Data",
+                "cell": "P10",
+                "raw": "116",
+                "formula_xml": null
+              },
+              "received": {
+                "sheet": "11-2 DDR Data",
+                "cell": "Q10",
+                "raw": "52",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "11-2 DDR Data",
+                "cell": "R10",
+                "raw": "69",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "11-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "11-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "11-2 DDR Data",
+                "cell": "P11",
+                "raw": "36",
+                "formula_xml": null
+              },
+              "received": {
+                "sheet": "11-2 DDR Data",
+                "cell": "Q11",
+                "raw": "8",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "11-2 DDR Data",
+                "cell": "R11",
+                "raw": "32",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 12,
+            "material": {
+              "sheet": "11-2 DDR Data",
+              "cell": "N12",
+              "raw": "Lime",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "11-2 DDR Data",
+              "cell": "S12",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "11-2 DDR Data",
+                "cell": "P12",
+                "raw": "10",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "11-2 DDR Data",
+                "cell": "R12",
+                "raw": "50",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 12,
+        "sheet": "12-2 DDR Data",
+        "used_header": {
+          "sheet": "12-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "12-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "12-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "12-2 DDR Data",
+                "cell": "P10",
+                "raw": "61",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "12-2 DDR Data",
+                "cell": "R10",
+                "raw": "8",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "12-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "12-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "12-2 DDR Data",
+                "cell": "P11",
+                "raw": "21",
+                "formula_xml": null
+              },
+              "received": {
+                "sheet": "12-2 DDR Data",
+                "cell": "Q11",
+                "raw": "20",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "12-2 DDR Data",
+                "cell": "R11",
+                "raw": "31",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 12,
+            "material": {
+              "sheet": "12-2 DDR Data",
+              "cell": "N12",
+              "raw": "Lime",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "12-2 DDR Data",
+              "cell": "S12",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "12-2 DDR Data",
+                "cell": "P12",
+                "raw": "5",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "12-2 DDR Data",
+                "cell": "R12",
+                "raw": "45",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "166",
+    "file": "AZNS166Pack.xlsx",
+    "data_sheets": 24,
+    "material_blocks": 24,
+    "samples": [
+      {
+        "day": 4,
+        "sheet": "4-2 DDR Data",
+        "used_header": {
+          "sheet": "4-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "4-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "4-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "4-2 DDR Data",
+                "cell": "P10",
+                "raw": "5",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "4-2 DDR Data",
+                "cell": "R10",
+                "raw": "69",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "4-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "4-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "4-2 DDR Data",
+                "cell": "P11",
+                "raw": "6",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "4-2 DDR Data",
+                "cell": "R11",
+                "raw": "65",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 13,
+            "material": {
+              "sheet": "4-2 DDR Data",
+              "cell": "N13",
+              "raw": "Starch LV ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "4-2 DDR Data",
+              "cell": "S13",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "4-2 DDR Data",
+                "cell": "P13",
+                "raw": "10",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "4-2 DDR Data",
+                "cell": "R13",
+                "raw": "102",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 7,
+        "sheet": "7-2 DDR Data",
+        "used_header": {
+          "sheet": "7-2 DDR Data",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "7-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "7-2 DDR Data",
+              "cell": "S10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "7-2 DDR Data",
+                "cell": "P10",
+                "raw": "8",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "7-2 DDR Data",
+                "cell": "R10",
+                "raw": "61",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "7-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "7-2 DDR Data",
+              "cell": "S11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "7-2 DDR Data",
+                "cell": "P11",
+                "raw": "5",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "7-2 DDR Data",
+                "cell": "R11",
+                "raw": "60",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 13,
+            "material": {
+              "sheet": "7-2 DDR Data",
+              "cell": "N13",
+              "raw": "Starch LV ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "7-2 DDR Data",
+              "cell": "S13",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "7-2 DDR Data",
+                "cell": "P13",
+                "raw": "8",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "7-2 DDR Data",
+                "cell": "R13",
+                "raw": "94",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "207",
+    "file": "AZNS207Pack.xlsx",
+    "data_sheets": 155,
+    "material_blocks": 155,
+    "samples": [
+      {
+        "day": 2,
+        "sheet": "2-2 DDR P 2",
+        "used_header": {
+          "sheet": "2-2 DDR P 2",
+          "cell": "P7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 8,
+            "material": {
+              "sheet": "2-2 DDR P 2",
+              "cell": "N8",
+              "raw": "Bentonite",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 DDR P 2",
+              "cell": "T8",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "2-2 DDR P 2",
+                "cell": "P8",
+                "raw": "9",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "2-2 DDR P 2",
+                "cell": "S8",
+                "raw": "8",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 14,
+            "material": {
+              "sheet": "2-2 DDR P 2",
+              "cell": "N14",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 DDR P 2",
+              "cell": "T14",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "2-2 DDR P 2",
+                "cell": "P14",
+                "raw": "4",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "2-2 DDR P 2",
+                "cell": "S14",
+                "raw": "36",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 15,
+            "material": {
+              "sheet": "2-2 DDR P 2",
+              "cell": "N15",
+              "raw": "Soda Ash",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 DDR P 2",
+              "cell": "T15",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "used": {
+                "sheet": "2-2 DDR P 2",
+                "cell": "P15",
+                "raw": "6",
+                "formula_xml": null
+              },
+              "received": null,
+              "stock": {
+                "sheet": "2-2 DDR P 2",
+                "cell": "S15",
+                "raw": "34",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 72,
+        "sheet": "72-2 DDR Data",
+        "used_header": {
+          "sheet": "72-2 DDR Data",
+          "cell": "Q7",
+          "raw": "Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 10,
+            "material": {
+              "sheet": "72-2 DDR Data",
+              "cell": "N10",
+              "raw": "Limestone",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "72-2 DDR Data",
+              "cell": "T10",
+              "raw": "1MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "used": {
+                "sheet": "72-2 DDR Data",
+                "cell": "Q10",
+                "raw": "8",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "72-2 DDR Data",
+                "cell": "S10",
+                "raw": "48",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 11,
+            "material": {
+              "sheet": "72-2 DDR Data",
+              "cell": "N11",
+              "raw": "Salt ",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "72-2 DDR Data",
+              "cell": "T11",
+              "raw": "1 MT/BB",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "used": {
+                "sheet": "72-2 DDR Data",
+                "cell": "Q11",
+                "raw": "6",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "72-2 DDR Data",
+                "cell": "S11",
+                "raw": "64",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 12,
+            "material": {
+              "sheet": "72-2 DDR Data",
+              "cell": "N12",
+              "raw": "Lime",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "72-2 DDR Data",
+              "cell": "T12",
+              "raw": "25 KG/SX",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "used": {
+                "sheet": "72-2 DDR Data",
+                "cell": "Q12",
+                "raw": "3",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "72-2 DDR Data",
+                "cell": "S12",
+                "raw": "175",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "well": "40",
+    "file": "AZNS40Pack.xlsx",
+    "data_sheets": 151,
+    "material_blocks": 151,
+    "samples": [
+      {
+        "day": 1,
+        "sheet": "1-2 Data",
+        "used_header": {
+          "sheet": "1-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 41,
+            "material": {
+              "sheet": "1-2 Data",
+              "cell": "A41",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 Data",
+              "cell": "C41",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "1-2 Data",
+                "cell": "E41",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "1-2 Data",
+                "cell": "F41",
+                "raw": "7",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "1-2 Data",
+                "cell": "G41",
+                "raw": "33",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "1-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "1-2 Data",
+                "cell": "E44",
+                "raw": "118",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "1-2 Data",
+                "cell": "F44",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "1-2 Data",
+                "cell": "G44",
+                "raw": "118",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 45,
+            "material": {
+              "sheet": "1-2 Data",
+              "cell": "A45",
+              "raw": "Starch LV (Green)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "1-2 Data",
+              "cell": "C45",
+              "raw": "55 lbs",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "1-2 Data",
+                "cell": "E45",
+                "raw": "600",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "1-2 Data",
+                "cell": "F45",
+                "raw": "180",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "1-2 Data",
+                "cell": "G45",
+                "raw": "420",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "sheet": "2-2 Data",
+        "used_header": {
+          "sheet": "2-2 Data",
+          "cell": "F39",
+          "raw": "Daily Used",
+          "formula_xml": null
+        },
+        "rows": [
+          {
+            "row": 41,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A41",
+              "raw": "Caustic Soda",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C41",
+              "raw": "25 kg",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E41",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F41",
+                "raw": "7",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G41",
+                "raw": "33",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 44,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A44",
+              "raw": "Salt",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C44",
+              "raw": "1 MT",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E44",
+                "raw": "118",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F44",
+                "raw": "40",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G44",
+                "raw": "118",
+                "formula_xml": null
+              }
+            }
+          },
+          {
+            "row": 45,
+            "material": {
+              "sheet": "2-2 Data",
+              "cell": "A45",
+              "raw": "Starch LV (Green)",
+              "formula_xml": null
+            },
+            "unit": {
+              "sheet": "2-2 Data",
+              "cell": "C45",
+              "raw": "55 lbs",
+              "formula_xml": null
+            },
+            "fields": {
+              "received": null,
+              "total_received": {
+                "sheet": "2-2 Data",
+                "cell": "E45",
+                "raw": "600",
+                "formula_xml": null
+              },
+              "used": {
+                "sheet": "2-2 Data",
+                "cell": "F45",
+                "raw": "180",
+                "formula_xml": null
+              },
+              "stock": {
+                "sheet": "2-2 Data",
+                "cell": "G45",
+                "raw": "420",
+                "formula_xml": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
