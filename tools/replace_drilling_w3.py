@@ -91,7 +91,7 @@ def plot(well,file,programme_bottom=None,programme_reference=None,show_formation
         ax0.set_xlim(0,1);ax0.set_xticks([])
     else:
         ax0.scatter([r['day'] for r in rec],[r['md'] for r in rec],s=14,color='#426d8a',alpha=.7,edgecolors='none')
-        ax0.set_xlabel('Report number',fontsize=9,labelpad=7);ax0.tick_params(axis='x',labelsize=8)
+        ax0.set_xlabel('Worksheet prefix',fontsize=9,labelpad=7);ax0.tick_params(axis='x',labelsize=8)
     ax0.set_ylabel('End-of-report measured depth (m)',fontsize=10)
     for (name,_),center,pos in zip(tops,centers,positions):
         ax0.annotate(name,xy=(.98,center),xytext=(.02,pos),textcoords='data',va='center',fontsize=8.7,color='#263a4b',arrowprops=dict(arrowstyle='-',color='#738797',lw=.5))
@@ -99,10 +99,6 @@ def plot(well,file,programme_bottom=None,programme_reference=None,show_formation
     for a in axs:
         a.grid(axis='y',alpha=.2);a.spines[['top','right']].set_visible(False);a.tick_params(axis='y',labelleft=False,length=0);a.tick_params(axis='x',labelsize=8)
     plot_pairs(axs[0],rec,['daily_rop'],['#206889'],['ROP'])
-    for k in range(2,len(rec)):
-        tri=rec[k-2:k+1]
-        if all(x['daily_rop'] is not None for x in tri) and tri[2]['day']-tri[0]['day']==2:
-            axs[0].scatter(sum(x['daily_rop'] for x in tri)/3,tri[-1]['md'],s=20,marker='^',color='#ca9639',alpha=.8,edgecolors='none')
     plot_pairs(axs[1],rec,['wob_a_min','wob_a_max'],['#206889','#c45d3d'],['min','max'])
     plot_pairs(axs[2],rec,['rpm_a_min','rpm_a_max'],['#206889','#c45d3d'],['min','max'])
     plot_pairs(axs[3],rec,['flow_a_min','flow_a_max'],['#206889','#53a1c2'],['flow min','flow max'])
@@ -122,10 +118,10 @@ def plot(well,file,programme_bottom=None,programme_reference=None,show_formation
     # Legacy shoe markers are omitted until a common datum and operation
     # stage have been reconciled with the source casing records.
     fig.text(.055,.916,'WOB/RPM: blue=lower or single, orange=upper. Flow: blue=lower or single, light blue=upper; SPP: red/pink.',fontsize=8.3,color='#263a4b')
-    fig.text(.055,.893,'ROP: blue=daily, gold triangle=mean of 3 consecutive reports. PV=blue, YP=purple, loss=orange; casing shoes omitted pending reconciliation.',fontsize=8.3,color='#263a4b')
+    fig.text(.055,.893,'ROP=blue; PV=blue, YP=purple, loss=orange. Casing shoes omitted pending reconciliation.',fontsize=8.3,color='#263a4b')
     fig.suptitle(f'AZNS-{well} | Daily drilling parameters at report-end MD',fontsize=17,fontweight='bold',x=.055,y=.985,ha='left',color='#223952')
-    fig.text(.055,.944,f"{len(rec)} plotted reports / {tracks[file]['paired_sheet_candidates']} sheet pairs; " + ('formation bands are programme prognosis, not actual/event attribution.' if programme_reference else ('displayed depth range covers observations and tops; no verified formation attribution.' if show_formations else 'formation bands omitted: branch / datum not reconciled.')),fontsize=9,color='#9b431c')
-    fig.text(.055,.035,('Formation forecast: ' + programme_reference + '; lower plotted limit is programme TD, not a formation contact.' if programme_reference else ('DDR sources and rejected/non-numeric values: evidence/drilling_track_observations.json. Bands stop at the last listed top; no lower contact assumed.' if show_formations else 'First track is report number, not a continuous time axis. Source cells and excluded values: evidence/drilling_track_observations.json.')),fontsize=8.5,color='#9b431c')
+    fig.text(.055,.944,f"{len(rec)} recognized data sheets / {tracks[file]['paired_sheet_candidates']} sheet pairs; " + ('formation bands are programme prognosis, not actual/event attribution.' if programme_reference else ('displayed depth range covers observations and tops; no verified formation attribution.' if show_formations else 'formation bands omitted: branch / datum not reconciled.')),fontsize=9,color='#9b431c')
+    fig.text(.055,.035,('Formation forecast: ' + programme_reference + '; lower plotted limit is programme TD, not a formation contact.' if programme_reference else ('DDR sources and rejected/non-numeric values: evidence/drilling_track_observations.json. Bands stop at the last listed top; no lower contact assumed.' if show_formations else 'First track is worksheet prefix, not report number or a continuous time axis. Source cells and excluded values: evidence/drilling_track_observations.json.')),fontsize=8.5,color='#9b431c')
     fig.subplots_adjust(left=.08,right=.98,top=.84,bottom=.115)
     fig.canvas.draw();out=BytesIO();fig.savefig(out,format='png',dpi=300);plt.close(fig);return out.getvalue()
 
@@ -141,7 +137,7 @@ def main():
             for r in cap.runs[1:]:r.text=''
             for old in list(d.paragraphs):
                 if old.text.startswith(('مقادیر نقاط از داده روزانه','Points combine daily entries with report-end depth')):old._element.getparent().remove(old._element)
-            note=d.add_paragraph(('مقادیر نقاط از داده روزانه و عمق پایان گزارش گرفته شده‌اند؛ عمق حادثه یا ابزار و توالی پیوسته را نشان نمی‌دهند. بازه‌های کمینه/بیشینه از ستون نخست یا بازه صریح منبع‌اند، نه پنجره بهینه؛ RPM در قالب قدیمی ممکن است شامل دور موتور باشد. مثلث‌های ROP میانگین سه گزارش متوالی هستند. رأس سازند و کفشک‌ها به تطبیق نیاز دارند. مقدار مشکوک ۷۵۰۰ gpm چاه 207 از نمودار حذف شده اما در داده منبع محفوظ است.' if lang=='FA' else 'Points combine daily entries with report-end depth; they do not establish event/tool depth or a continuous log. Points use the first bit column or explicit source range, not an optimum envelope; scalar entries are not necessarily minima, and legacy RPM may include motor RPM; ROP triangles average three consecutive reports. Formation tops and shoe markers require reconciliation. The suspect 7,500 gpm entry in well 207 is excluded from the plot but retained in the source evidence.'))
+            note=d.add_paragraph(('مقادیر نقاط از داده روزانه و عمق پایان گزارش گرفته شده‌اند؛ عمق حادثه یا ابزار و توالی پیوسته را نشان نمی‌دهند. بازه‌های کمینه/بیشینه از ستون نخست یا بازه صریح منبع‌اند، نه پنجره بهینه؛ RPM در قالب قدیمی ممکن است شامل دور موتور باشد. رأس سازند و کفشک‌ها به تطبیق نیاز دارند. مقدار مشکوک ۷۵۰۰ gpm چاه 207 از نمودار حذف شده اما در داده منبع محفوظ است.' if lang=='FA' else 'Points combine daily entries with report-end depth; they do not establish event/tool depth or a continuous log. Points use the first bit column or explicit source range, not an optimum envelope; scalar entries are not necessarily minima, and legacy RPM may include motor RPM. Formation tops and shoe markers require reconciliation. The suspect 7,500 gpm entry in well 207 is excluded from the plot but retained in the source evidence.'))
             cap._p.addnext(note._p)
             for run in note.runs:
                 run.font.name='Times New Roman';pr=run._element.get_or_add_rPr();rfonts=pr.find(qn('w:rFonts'));rfonts.set(qn('w:cs'),'B Nazanin' if lang=='FA' else 'Times New Roman')

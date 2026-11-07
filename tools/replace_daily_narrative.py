@@ -39,9 +39,9 @@ def chart(well,wellinfo,activity):
    val=d['activity'][key];ax.bar(d['day'],val,width=.9,bottom=bottom,color=color,linewidth=0);bottom+=val
  missing=sorted(set(range(1,last+1))-{d['day'] for d in complete})
  if missing:ax.scatter(missing,[24.8]*len(missing),marker='|',s=30,c='#a23e32',linewidths=.8)
- ax.set_xlim(.2,last+1);step=20 if last>100 else 10;ax.set_xticks([1]+list(range(step,last+1,step)));ax.set_ylim(0,26.3);ax.set_yticks([0,6,12,18,24]);ax.set_ylabel('Source-classified hours',fontsize=10);ax.set_xlabel('Report day number, not verified elapsed rig duration',fontsize=10);ax.grid(axis='y',alpha=.2);ax.set_axisbelow(True);ax.spines[['top','right']].set_visible(False)
+ ax.set_xlim(.2,last+1);step=20 if last>100 else 10;ax.set_xticks([1]+list(range(step,last+1,step)));ax.set_ylim(0,26.3);ax.set_yticks([0,6,12,18,24]);ax.set_ylabel('Source-classified hours',fontsize=10);ax.set_xlabel('Worksheet prefix (not report number or elapsed time)',fontsize=10);ax.grid(axis='y',alpha=.2);ax.set_axisbelow(True);ax.spines[['top','right']].set_visible(False)
  fig.suptitle(f'AZNS-{well} | Daily source status codes',x=.05,y=.98,ha='left',fontsize=15,fontweight='bold',color='#223952')
- fig.text(.05,.916,f"{len(complete)} complete classified days in day-number span 1–{last}; missing or incomplete marked above 24h.",fontsize=9,color='#9b431c')
+ fig.text(.05,.916,f"{len(complete)} complete classified sheets in worksheet-prefix span 1–{last}; missing or incomplete marked above 24h.",fontsize=9,color='#9b431c')
  fig.legend(handles=[*(Patch(color=c,label=l) for c,k,l in colors),Patch(color='#a23e32',label='Incomplete / missing')],loc='upper center',bbox_to_anchor=(.5,.89),ncol=5,fontsize=8,frameon=False)
  fig.text(.05,.04,'Status codes are not independently validated causes, responsibility or cost. Sources: activity_observations.json, daily Remark cells.',fontsize=8.5,color='#9b431c')
  fig.subplots_adjust(left=.08,right=.97,top=.79,bottom=.18);fig.canvas.draw();ren=fig.canvas.get_renderer()
@@ -78,7 +78,7 @@ def main():
     cursor=nxt
    para=d.add_paragraph((f"از {a['remark_days']} صفحه وضعیت شناسایی‌شده، {complete} گزارش مدت‌های قابل طبقه‌بندی با جمع نزدیک ۲۴ ساعت دارند. برچسب‌های برنامه‌ای، غیرمولد و غیربرنامه‌ای عین طبقه‌بندی منبع‌اند و به‌تنهایی علت، مسئولیت یا مدت کل عملیات را ثابت نمی‌کنند. نمونه‌های زیر فقط گزیده‌اند؛ سلول‌های کامل در پرونده evidence/activity_observations.json نگهداری می‌شوند." if fa else f"Of {a['remark_days']} recognized status pages, {complete} contain classified durations totalling approximately 24 hours. Planned, NPT and unplanned labels are source classifications; they do not independently establish cause, liability or total operation duration. The following examples are selective; complete extracted detail cells are retained in evidence/activity_observations.json."));style(para,fa);drawing.addprevious(para._p)
    for s in samples:
-    msg=(f"گزارش {s['day']} ـ {s['persian_summary']} [{w['source']}، {s['sheet']}!{s['cell']}]" if fa else f"Report {s['day']} — {s['english_summary']} [{w['source']}, {s['sheet']}!{s['cell']}]")
+    msg=(f"شیت منبع {s['day']} ـ {s['persian_summary']} [{w['source']}، {s['sheet']}!{s['cell']}]" if fa else f"Source worksheet {s['day']} — {s['english_summary']} [{w['source']}, {s['sheet']}!{s['cell']}]")
     p=d.add_paragraph(msg);style(p,fa);drawing.addprevious(p._p)
    p=d.add_paragraph('این نقل‌ها شرح منبع‌اند، نه تأیید مستقل آزمون، علت خرابی، سلامت فعلی چاه یا دستور عملیاتی. یک شرح ممکن است به سلول بعدی ادامه یابد؛ پیش از تصمیم‌گیری باید ردیف کامل و زمان آن تطبیق شود.' if fa else 'These are source statements, not independent verification of a test, failure mechanism, current well condition or an operating instruction. A description may continue into the next cell; reconcile the complete row and time before making decisions.');style(p,fa);drawing.addprevious(p._p)
    # Keep captions in their original centered style.

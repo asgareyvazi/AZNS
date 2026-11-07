@@ -5,7 +5,7 @@ from pathlib import Path
 from docx import Document
 from replace_well_bit_evidence import DATA,style
 
-# (report number, cell, exact source anchor, English paraphrase, Persian paraphrase)
+# (worksheet prefix, cell, exact source anchor, English paraphrase, Persian paraphrase)
 SEL={
  '207':[
  (32,'S32','Fish length: 19.84m','The note lists a 17½-inch PDC bit, bit sub and two 9½-inch drill collars left in hole, with a reported fish length of 19.84 m.','یادداشت، مته پلی‌کریستال ۱۷½ اینچ، رابط مته و دو شاخه طوق حفاری ۹½ اینچ را به‌عنوان قطعات جامانده با طول گزارش‌شده ۱۹٫۸۴ متر ذکر می‌کند.'),
@@ -63,7 +63,7 @@ SEL={
 
 FOLLOW={
  '207':('Reconcile the fish dimensions, BHA tally, depth and the complete fishing/sidetrack records before calculating lost-hole performance or assigning a cause. Compare loss-rate narratives with the separately recorded loss-volume field; the bases may differ.','پیش از محاسبه عملکرد بخش از‌دست‌رفته یا انتساب علت، ابعاد قطعه، فهرست رشته، عمق و سوابق کامل ماهیگیری و انحراف تطبیق شوند. روایت نرخ هرزروی با ستون جداگانه حجم هرزروی مقایسه شود؛ مبنای ثبت ممکن است متفاوت باشد.'),
- '127ST2':('The window record, leak entry and test relate to different report numbers and equipment. Verify event times, phase boundaries, test chart and repair evidence before drawing a causal or contractor conclusion.','ثبت پنجره، مدخل نشتی و آزمون به شماره گزارش‌ها و تجهیزات متفاوت مربوط‌اند. پیش از نتیجه‌گیری علّی یا قراردادی، زمان رخداد، مرز فاز، نمودار آزمون و شواهد تعمیر بررسی شوند.'),
+ '127ST2':('The window record, leak entry and test relate to different source worksheets and equipment. Verify event times, phase boundaries, test chart and repair evidence before drawing a causal or contractor conclusion.','ثبت پنجره، مدخل نشتی و آزمون به شیت‌های منبع و تجهیزات متفاوت مربوط‌اند. پیش از نتیجه‌گیری علّی یا قراردادی، زمان رخداد، مرز فاز، نمودار آزمون و شواهد تعمیر بررسی شوند.'),
  '40':('Loss rate is not a formation assignment or cumulative volume. Reconcile report-end depths with the actual event depth, fluid ledger and fishing record before building a phase balance.','نرخ هرزروی انتساب سازندی یا حجم تجمعی نیست. پیش از تهیه تراز هر فاز، عمق پایان گزارش با عمق واقعی رویداد، دفتر سیال و سابقه ماهیگیری تطبیق شود.'),
  '127WO1':('These fragments cover fish work, a depth entry and a line test; they do not prove a continuous sequence, final recovery, well status or sidetrack execution without the full records.','این گزیده‌ها کار روی قطعه، یک مقدار عمق و آزمون خط را پوشش می‌دهند؛ بدون سوابق کامل، توالی پیوسته، بازیابی نهایی، وضعیت چاه یا اجرای انحراف را ثابت نمی‌کنند.'),
  '10':('The leak, line test and milling trip concern different systems. A pressure-test result should be checked against the signed chart, test envelope and later barrier records.','نشتی، آزمون خط و ران آسیاب به سامانه‌های متفاوت مربوط‌اند. نتیجه آزمون فشار باید با نمودار امضاشده، محدوده آزمون و سوابق بعدی موانع تطبیق شود.'),
@@ -93,10 +93,10 @@ def main():
    # W2 caption follows an image paragraph; insert before the image.
    cap=next(p for p in d.paragraphs if p.text.startswith(('Figure W2','شکل W2')));image=cap._p.getprevious();assert image.xpath('.//a:blip')
    h=d.add_heading(title,level=2);h.alignment=1;image.addprevious(h._p)
-   intro=('این سه مدخل به‌ترتیب شماره گزارش نمایش داده شده‌اند؛ شماره شیت به‌تنهایی زمان وقوع، توالی کامل، تکمیل عملیات یا وضعیت کنونی چاه را اثبات نمی‌کند. نتیجه‌های آزمون همان برچسب گزارش‌اند و باید با نمودار آزمون و محدوده تأییدشده تطبیق شوند.' if fa else 'These three entries are ordered by report number; sheet order alone does not establish event time, complete chronology, operational completion or current well condition. Test outcomes are source labels and require reconciliation with signed charts and the tested scope.')
+   intro=('این سه مدخل به‌ترتیب شماره شیت، نه شماره تأییدشده گزارش، نمایش داده شده‌اند؛ شماره شیت به‌تنهایی زمان وقوع، توالی کامل، تکمیل عملیات یا وضعیت کنونی چاه را اثبات نمی‌کند. نتیجه‌های آزمون همان برچسب گزارش‌اند و باید با نمودار آزمون و محدوده تأییدشده تطبیق شوند.' if fa else 'These three entries are ordered by worksheet prefix, not verified report number; sheet order alone does not establish event time, complete chronology, operational completion or current well condition. Test outcomes are source labels and require reconciliation with signed charts and the tested scope.')
    p=d.add_paragraph(intro);style(p,fa);image.addprevious(p._p)
    for e in events:
-    para=(f"گزارش {e['day']} ـ {e['persian']} [{w['source']}، {e['sheet']}!{e['cell']}]" if fa else f"Report {e['day']} — {e['english']} [{w['source']}, {e['sheet']}!{e['cell']}]")
+    para=(f"شیت منبع {e['day']} ـ {e['persian']} [{w['source']}، {e['sheet']}!{e['cell']}]" if fa else f"Source worksheet {e['day']} — {e['english']} [{w['source']}, {e['sheet']}!{e['cell']}]")
     p=d.add_paragraph(para);style(p,fa);image.addprevious(p._p)
    p=d.add_paragraph(FOLLOW[well][1 if fa else 0]);style(p,fa);image.addprevious(p._p);d.save(path)
  Path('evidence/well_event_reviews_selected.json').write_text(json.dumps(review,indent=2,ensure_ascii=False)+'\n')

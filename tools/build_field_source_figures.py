@@ -88,10 +88,10 @@ def main():
    if v is not None and math.isfinite(v) and 0<=v<=6000:points.append({'day':d['day'],'md':v,'source':z})
   rows.append({'well':well,'file':wmap[well],'recognized_data_sheets':len(t[wmap[well]]['days']),'points':points})
  metadata['figures']['M7']=rows
- fig=canvas('Selected operations | Report-end depth observations','Four operations with varying recorded depth; dots are daily samples, not a field learning curve.','Report day is not elapsed drilling time; end-of-report MD is not bit/event depth. Missing days and phases are not interpolated.')
+ fig=canvas('Selected operations | Report-end depth observations','Four operations with varying recorded depth; dots are daily samples, not a field learning curve.','Worksheet prefix is not necessarily report number or elapsed time; report-end MD is not event depth.')
  axs=fig.subplots(2,2)
  for ax,row in zip(axs.flat,rows):
-  pts=row['points'];ax.scatter([x['day'] for x in pts],[x['md'] for x in pts],s=11,c=BLUE,alpha=.7);ax.set_title(f"AZNS-{row['well']}  |  {len(pts)}/{row['recognized_data_sheets']} data pages",loc='left',fontsize=10,fontweight='bold',color=INK);ax.set_xlabel('Report number');ax.set_ylabel('Report-end MD (m)');ax.invert_yaxis();ax.grid(alpha=.2);ax.spines[['top','right']].set_visible(False)
+  pts=row['points'];ax.scatter([x['day'] for x in pts],[x['md'] for x in pts],s=11,c=BLUE,alpha=.7);ax.set_title(f"AZNS-{row['well']}  |  {len(pts)}/{row['recognized_data_sheets']} data pages",loc='left',fontsize=10,fontweight='bold',color=INK);ax.set_xlabel('Worksheet prefix');ax.set_ylabel('Report-end MD (m)');ax.invert_yaxis();ax.grid(alpha=.2);ax.spines[['top','right']].set_visible(False)
  fig.subplots_adjust(left=.10,right=.96,top=.84,bottom=.13,hspace=.50,wspace=.30);save(fig,7)
  # Programme-only selected phase abstracts, not chronology or actuals.
  ids=['122WO1','122WO2','127WO1','127WO2','127ST1','127ST2'];rows=[]
