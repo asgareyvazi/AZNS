@@ -1,0 +1,682 @@
+[
+  {
+    "well": "10",
+    "file": "AZNS-010 Workover Program Rev.06.pdf",
+    "physical_page": 21,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 151,
+        "specification": "K-55, 133#",
+        "source_anchor": "20\" K-55, 133# 0-151 m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1502,
+        "specification": "N-80, 72#",
+        "source_anchor": "13-3/8\" N-80, 72# 0-1502 m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3854,
+        "specification": "T-95, 53.5#",
+        "source_anchor": "9-5/8\" T-95,53.5# 0-3854 m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3707.5,
+        "to_m": 4922,
+        "specification": "T-95, 32#",
+        "source_anchor": "7\" T-95, 32# 3707.5 – 4922 m"
+      },
+      {
+        "label_en": "5-inch liner",
+        "label_fa": "آستری ۵ اینچ",
+        "from_m": 4781,
+        "to_m": 5193.5,
+        "specification": "T-95, 18#",
+        "source_anchor": "5\" T-95, 18# 4781 – 5193.5 m"
+      }
+    ]
+  },
+  {
+    "well": "12",
+    "file": "AZNS-012 Workover Program Rev02.pdf",
+    "physical_page": 19,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 154,
+        "specification": "J-55, 133#, BTC",
+        "source_anchor": "20\" J-55, 133#, BTC 0-154 m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1259,
+        "specification": "C-95, 72#, BTC",
+        "source_anchor": "13-3/8\" C-95, 72#, BTC 0-1259 m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3448,
+        "specification": "L-80, 47 & 53#, VAM & N. VAM",
+        "source_anchor": "9-5/8\" L-80,47 & 53#, VAM & N. VAM 0-3448 m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3285,
+        "to_m": 3846,
+        "specification": "C-75, 29#, N. VAM",
+        "source_anchor": "7\" C-75, 29#, N. VAM 3285 – 3846 m"
+      },
+      {
+        "label_en": "5-inch liner",
+        "label_fa": "آستری ۵ اینچ",
+        "from_m": 3779,
+        "to_m": 3945,
+        "specification": "L-80, 18#, VFJ, HTS",
+        "source_anchor": "5” L-80, 18#, VFJ, HTS 3779-3945"
+      }
+    ]
+  },
+  {
+    "well": "75",
+    "file": "AZNS-075 Workover-1 Program Rev.05.pdf",
+    "physical_page": 20,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 151.5,
+        "specification": "K-55, 94 ppf, BTC",
+        "source_anchor": "0-151.5 94 K-55 BTC"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1155.5,
+        "specification": "N-80, 68 ppf, BTC",
+        "source_anchor": "0-1155.5 68 N-80 BTC"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 2477.5,
+        "specification": "L-80 (1), 47 ppf, PJE",
+        "source_anchor": "0-2477.5 47 L-80 (1) PJE"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 2165,
+        "to_m": 3728,
+        "specification": "L-80 (1), 29 ppf, HSM-1",
+        "source_anchor": "2165-3728 29 L-80 (1) HSM-1"
+      },
+      {
+        "label_en": "5-inch liner",
+        "label_fa": "آستری ۵ اینچ",
+        "from_m": 3628,
+        "to_m": 3888.5,
+        "specification": "L-80 (1), 18 ppf, HSG3-FJ",
+        "source_anchor": "3628-3888.5 18 L-80 (1) HSG3-FJ"
+      }
+    ]
+  },
+  {
+    "well": "85",
+    "file": "AZNS-85 Workover Program Rev.02.pdf",
+    "physical_page": 18,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 150,
+        "specification": "J-55, 133#, BTS",
+        "source_anchor": "20\" J-55, 133#, BTS 0 - 150m"
+      },
+      {
+        "label_en": "13⅜-inch segment 1",
+        "label_fa": "بخش ۱ جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1098,
+        "specification": "N-80, 72#, BTS",
+        "source_anchor": "0 - 1098m 1098m – 1277m"
+      },
+      {
+        "label_en": "13⅜-inch segment 2",
+        "label_fa": "بخش ۲ جداری ۱۳⅜ اینچ",
+        "from_m": 1098,
+        "to_m": 1277,
+        "specification": "NKT-95, 72#, BTS",
+        "source_anchor": "0 - 1098m 1098m – 1277m"
+      },
+      {
+        "label_en": "9⅝-inch segment 1",
+        "label_fa": "بخش ۱ جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 1844,
+        "specification": "TN110SS, 47#, TPCQ",
+        "source_anchor": "0 – 1844m 1844m – 3950m"
+      },
+      {
+        "label_en": "9⅝-inch segment 2",
+        "label_fa": "بخش ۲ جداری ۹⅝ اینچ",
+        "from_m": 1844,
+        "to_m": 3950,
+        "specification": "L-80, 53.5#, VAM",
+        "source_anchor": "0 – 1844m 1844m – 3950m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3829,
+        "to_m": 4090,
+        "specification": "VM110HC-SS, 35#, N.VAM",
+        "source_anchor": "3829m – 4090m 3012m – 3829m 2903m – 3012m"
+      },
+      {
+        "label_en": "7-inch tie-back #1",
+        "label_fa": "بخش اتصال آستری ۱، ۷ اینچ",
+        "from_m": 3012,
+        "to_m": 3829,
+        "specification": "L-80, 29#, HSM1",
+        "source_anchor": "3829m – 4090m 3012m – 3829m 2903m – 3012m"
+      },
+      {
+        "label_en": "7-inch tie-back #2",
+        "label_fa": "بخش اتصال آستری ۲، ۷ اینچ",
+        "from_m": 2903,
+        "to_m": 3012,
+        "specification": "L-80, 29#, VAM",
+        "source_anchor": "3829m – 4090m 3012m – 3829m 2903m – 3012m"
+      }
+    ]
+  },
+  {
+    "well": "116",
+    "file": "AZNS-116 Workover Program Rev.04.pdf",
+    "physical_page": 34,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 146,
+        "specification": "K-55, 94#, BTC",
+        "source_anchor": "20\" K – 55, 94#, BTC 0 – 146m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 2033,
+        "specification": "N-80, 68#, BTC",
+        "source_anchor": "13 – 3/8\" N – 80, 68#, BTC 0 – 2033m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3882,
+        "specification": "T-95, 53.5#, TSH Blue",
+        "source_anchor": "9 – 5/8\" T – 95, 53.5#, TSH Blue 0 – 3882m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3802,
+        "to_m": 4149.5,
+        "specification": "S-110, 29#, TPCQ",
+        "source_anchor": "7\" S – 110, 29#, TPCQ 3802 – 4149.5m"
+      },
+      {
+        "label_en": "4½-inch liner",
+        "label_fa": "آستری ۴½ اینچ",
+        "from_m": 3968.9,
+        "to_m": 4089.5,
+        "specification": "T-95, 13.5#, Tenaris",
+        "source_anchor": "3968.9 – 4089.5m"
+      }
+    ]
+  },
+  {
+    "well": "122WO1",
+    "file": "AZNS-0122 Workover-1 Program Rev.07.pdf",
+    "physical_page": 18,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 155,
+        "specification": "K-55, 94#, BTC",
+        "source_anchor": "20\" K-55, 94#, BTC 0-155 m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 2169,
+        "specification": "N-80, 68#, BTC",
+        "source_anchor": "13-3/8\" N-80, 68#, BTC 0-2169 m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3909.5,
+        "specification": "C-110, 47#, TPCQ",
+        "source_anchor": "9-5/8\" C-110, 47#, TPCQ 0-3909.5 m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3782,
+        "to_m": 4208,
+        "specification": "110-S, 29#, TPCQ",
+        "source_anchor": "7\" 110-S, 29#, TPCQ 3782 – 4208 m"
+      }
+    ]
+  },
+  {
+    "well": "122WO2",
+    "file": "AZNS-0122 Workover-2 Program Rev.00.pdf",
+    "physical_page": 19,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 155,
+        "specification": "K-55, 94#, BTC",
+        "source_anchor": "20\" K-55, 94#, BTC 0-155 m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 2169,
+        "specification": "N-80, 68#, BTC",
+        "source_anchor": "13-3/8\" N-80, 68#, BTC 0-2169 m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3909.5,
+        "specification": "C-110, 47#, TPCQ",
+        "source_anchor": "9-5/8\" C-110, 47#, TPCQ 0-3909.5 m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3782,
+        "to_m": 4208,
+        "specification": "110-S, 29#, TPCQ",
+        "source_anchor": "7\" LNR 110-S, 29#, TPCQ 3782 – 4208 m"
+      },
+      {
+        "label_en": "7-inch tie-back",
+        "label_fa": "اتصال بازگردان ۷ اینچ",
+        "from_m": 1998,
+        "to_m": 3775.4,
+        "specification": "L-80, 29#, TPCQ",
+        "source_anchor": "7” LNR Tie back L-80, 29#, TPCQ 1998-3775.4 m"
+      }
+    ]
+  },
+  {
+    "well": "127ST2",
+    "file": "AZNS -127 Side Track-2 Program Rev.01.pdf",
+    "physical_page": 21,
+    "scope": "Explicitly before sidetrack 2; not the later configuration.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 146,
+        "specification": "K-55, 94#, BTC",
+        "source_anchor": "20\" K – 55, 94#, BTC 0 – 146m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1441,
+        "specification": "N-80, 68#, BTC",
+        "source_anchor": "13 – 3/8\" N – 80, 68#, BTC 0 – 1441m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3909,
+        "specification": "T-95, 53.5#, TSH Blue / TPCQ",
+        "source_anchor": "0 – 3909m"
+      },
+      {
+        "label_en": "7-inch ST1 liner",
+        "label_fa": "آستری ۷ اینچ انحراف اول",
+        "from_m": 3147,
+        "to_m": 3891,
+        "specification": "110 SS, 29#, TPCQ",
+        "source_anchor": "3147 – 3891m"
+      },
+      {
+        "label_en": "4½-inch ST1 liner",
+        "label_fa": "آستری ۴½ اینچ انحراف اول",
+        "from_m": 3780.41,
+        "to_m": 4139.5,
+        "specification": "110 SS, 13.5#, TPG2",
+        "source_anchor": "3780.41 – 4139.5m"
+      }
+    ]
+  },
+  {
+    "well": "127WO1",
+    "file": "AZNS-127 Workover1 Program Rev.01.pdf",
+    "physical_page": 50,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 146,
+        "specification": "K-55, 94#, BTC",
+        "source_anchor": "20\" K-55, 94#, BTC 0-146 m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1441,
+        "specification": "N-80, 68#, BTC",
+        "source_anchor": "13-3/8\" N-80, 68#, BTC 0-1441 m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3909,
+        "specification": "T-95, 53.5#, TSH Blue / TPCQ",
+        "source_anchor": "0-3909 m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3777,
+        "to_m": 4226,
+        "specification": "110 S, 29#, TPCQ",
+        "source_anchor": "7\" 110 S, 29#, TPCQ 3777 – 4226 m"
+      }
+    ]
+  },
+  {
+    "well": "127WO2",
+    "file": "AZNS-127 Workover #2 Program Rev.03.pdf",
+    "physical_page": 37,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 146,
+        "specification": "K-55, 94#, BTC",
+        "source_anchor": "Surface 146 94 K – 55 BTC"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1441,
+        "specification": "N-80, 68#, BTC",
+        "source_anchor": "Surface 1441 68 N – 80 BTC"
+      },
+      {
+        "label_en": "9⅝-inch segment 1",
+        "label_fa": "بخش ۱ جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 2732.64,
+        "specification": "T-95, 53.5#, TPCQ",
+        "source_anchor": "Surface 2732.64 53.5 T – 95 TPCQ"
+      },
+      {
+        "label_en": "9⅝-inch segment 2",
+        "label_fa": "بخش ۲ جداری ۹⅝ اینچ",
+        "from_m": 2732.64,
+        "to_m": 3909,
+        "specification": "T-95, 53.5#, TSH Blue",
+        "source_anchor": "2732.64 3909 53.5 T – 95 TSH Blue"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3147,
+        "to_m": 3891,
+        "specification": "110 SS, 29#, TPCQ",
+        "source_anchor": "3147 3891 29 110 SS TPCQ"
+      },
+      {
+        "label_en": "4½-inch liner",
+        "label_fa": "آستری ۴½ اینچ",
+        "from_m": 3780.4,
+        "to_m": 4139.5,
+        "specification": "110 S, 13.5#, TPG2",
+        "source_anchor": "3780.4 4139.5 13.5 110 S TPG2"
+      }
+    ]
+  },
+  {
+    "well": "166",
+    "file": "AZNS-166 Workover-1 Program Rev.05.pdf",
+    "physical_page": 21,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 147,
+        "specification": "K-55, 94#, BTC",
+        "source_anchor": "20\" K – 55, 94#, BTC 0 – 147 m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1338,
+        "specification": "N-80, 68#, BTC",
+        "source_anchor": "13 – 3/8\" N – 80, 68#, BTC 0 – 1338 m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 1765,
+        "specification": "L-80, 47#, PJE / TPCQ",
+        "source_anchor": "0 – 1765 m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 1608.2,
+        "to_m": 4193,
+        "specification": "L-80, 29#, TPCQ",
+        "source_anchor": "1608.2 – 4193 m"
+      },
+      {
+        "label_en": "4½-inch blank section 1",
+        "label_fa": "بخش بدون شکاف ۱ آستری ۴½ اینچ",
+        "from_m": 4132.8,
+        "to_m": 4199.27,
+        "specification": "L-80, 13.5#, BTC",
+        "source_anchor": "4132.8 – 4199.27 m"
+      },
+      {
+        "label_en": "4½-inch slotted section",
+        "label_fa": "بخش شکاف‌دار آستری ۴½ اینچ",
+        "from_m": 4199.27,
+        "to_m": 4269.54,
+        "specification": "L-80, 13.5#, BTC",
+        "source_anchor": "4199.27 – 4269.54 m"
+      },
+      {
+        "label_en": "4½-inch blank section 2",
+        "label_fa": "بخش بدون شکاف ۲ آستری ۴½ اینچ",
+        "from_m": 4269.54,
+        "to_m": 4279.6,
+        "specification": "L-80, 13.5#, TPCQ",
+        "source_anchor": "4269.54 – 4279.6 m"
+      }
+    ]
+  },
+  {
+    "well": "127ST1",
+    "file": "AZNS -127 Side Track#01 Program Rev.03.pdf",
+    "physical_page": 58,
+    "scope": "Programme-stated historical/pre-operation intervals; status and depth reference require reconciliation. Not an as-built schematic.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 146,
+        "specification": "K-55, 94#, BTC",
+        "source_anchor": "20\" K-55, 94#, BTC 0-146 m"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1441,
+        "specification": "N-80, 68#, BTC",
+        "source_anchor": "13-3/8\" N-80, 68#, BTC 0-1441 m"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3909,
+        "specification": "T-95, 53.5#, TSH Blue / TPCQ",
+        "source_anchor": "0-3909 m"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3777,
+        "to_m": 4226,
+        "specification": "110 S, 29#, TPCQ",
+        "source_anchor": "7\" 110 S, 29#, TPCQ 3777 – 4226 m"
+      }
+    ]
+  },
+  {
+    "well": "207",
+    "file": "AZNS-207 Program.pdf",
+    "physical_page": 132,
+    "scope": "Planned design only, not as-built.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 150,
+        "specification": "K-55, 94 ppf, BTC",
+        "source_anchor": "20\"1 0 150 94 K-55 BTC"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 2182,
+        "specification": "N-80, 68 ppf, BTC",
+        "source_anchor": "13-3/8\"2 0 2182 68 N-80 BTC"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3915,
+        "specification": "110SS, 53.5 ppf, Premium Gas Tight",
+        "source_anchor": "9-5/8\"3 0 3915 53.5 110SS Premium Gas Tight"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3815,
+        "to_m": 4180,
+        "specification": "110SS, 32 ppf, Premium Gas Tight",
+        "source_anchor": "7” 3815 4180 32 110SS Premium Gas Tight"
+      }
+    ]
+  },
+  {
+    "well": "40",
+    "file": "AZNS-040 RE-Entry Well Program Rev.03.pdf",
+    "physical_page": 149,
+    "scope": "Programme marks first two as already run; remaining entries are design, not verified as-built.",
+    "intervals": [
+      {
+        "label_en": "20-inch casing",
+        "label_fa": "جداری ۲۰ اینچ",
+        "from_m": 0,
+        "to_m": 150,
+        "specification": "K-55, 133 ppf, BTS",
+        "source_anchor": "20” 0 150 133 K-55 BTS"
+      },
+      {
+        "label_en": "13⅜-inch casing",
+        "label_fa": "جداری ۱۳⅜ اینچ",
+        "from_m": 0,
+        "to_m": 1492,
+        "specification": "N-80, 68 ppf, BTS",
+        "source_anchor": "13-3/8” 0 1492 68 N-80 BTS"
+      },
+      {
+        "label_en": "9⅝-inch casing",
+        "label_fa": "جداری ۹⅝ اینچ",
+        "from_m": 0,
+        "to_m": 3986,
+        "specification": "110SS, 53.5 ppf SD, Premium Gas Tight",
+        "source_anchor": "9-5/8” 0 3986 53.5 SD 110SS Premium Gas Tight"
+      },
+      {
+        "label_en": "7-inch liner",
+        "label_fa": "آستری ۷ اینچ",
+        "from_m": 3886,
+        "to_m": 4200,
+        "specification": "110SS, 32 ppf, Premium Gas Tight",
+        "source_anchor": "7” 3886 4200 32 110SS Premium Gas Tight"
+      }
+    ]
+  }
+]

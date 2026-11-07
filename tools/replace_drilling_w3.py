@@ -69,6 +69,7 @@ def plot_pairs(ax,records,keys,colors,labels):
 def plot(well,file):
     rec=get_data(tracks[file]);tops=form_tops(formations[file]);assert rec and tops
     maxdepth=max([r['md'] for r in rec]+[d for n,d in tops]);maxdepth=math.ceil((maxdepth+120)/500)*500
+    mindepth=max(0,math.floor((min([r['md'] for r in rec]+[d for n,d in tops])-100)/500)*500)
     fig=plt.figure(figsize=(14.5,10),dpi=300,facecolor='white');gs=GridSpec(1,7,figure=fig,width_ratios=[1.38,1,1,1,1.15,1.1,1.25],wspace=.25)
     ax0=fig.add_subplot(gs[0]);axs=[fig.add_subplot(gs[i],sharey=ax0) for i in range(1,7)]
     palette=['#e5eef7','#f5ebdc','#e9f3e8','#f2e5e6','#edf0da','#e4e7f4']
@@ -80,16 +81,16 @@ def plot(well,file):
         for a in allaxes:a.axhspan(start,stop,color=palette[idx%len(palette)],alpha=.75,zorder=0)
     # Formation labels are intentionally spaced; leader marks point to the band midpoint.
     centers=[(start+tops[i+1][1])/2 if i+1<len(tops) else start for i,(name,start) in enumerate(tops)]
-    sep=min(maxdepth/(max(len(centers),1)+3)*.85,maxdepth*.045)
+    span=maxdepth-mindepth;sep=min(span/(max(len(centers),1)+3)*.85,span*.045)
     positions=[]
-    for x in centers:positions.append(max(x,positions[-1]+sep if positions else maxdepth*.025))
-    if positions and positions[-1]>maxdepth*.98:
-        positions[-1]=maxdepth*.98
+    for x in centers:positions.append(max(x,positions[-1]+sep if positions else mindepth+span*.025))
+    if positions and positions[-1]>maxdepth-span*.02:
+        positions[-1]=maxdepth-span*.02
         for i in range(len(positions)-2,-1,-1):positions[i]=min(positions[i],positions[i+1]-sep)
     ax0.set_xlim(0,1);ax0.set_xticks([]);ax0.set_ylabel('End-of-report measured depth (m)',fontsize=10)
     for (name,_),center,pos in zip(tops,centers,positions):
         ax0.annotate(name,xy=(.98,center),xytext=(.02,pos),textcoords='data',va='center',fontsize=8.7,color='#263a4b',arrowprops=dict(arrowstyle='-',color='#738797',lw=.5))
-    ax0.set_ylim(maxdepth,0);ax0.grid(axis='y',alpha=.15)
+    ax0.set_ylim(maxdepth,mindepth);ax0.grid(axis='y',alpha=.15)
     for a in axs:
         a.grid(axis='y',alpha=.2);a.spines[['top','right']].set_visible(False);a.tick_params(axis='y',labelleft=False,length=0);a.tick_params(axis='x',labelsize=8)
     plot_pairs(axs[0],rec,['daily_rop'],['#206889'],['ROP'])
@@ -113,15 +114,12 @@ def plot(well,file):
     for a,l in zip(axs,labels):a.set_xlabel(l,fontsize=9,labelpad=7)
     for a in [axs[0],axs[1],axs[2],axs[3],pressure,axs[5],loss]:
         if a is not None:a.set_xlim(left=0)
-    doc=Document(f'{well}_Drilling_Engineering_Report_EN.docx');table=next(t for t in doc.tables if t.rows and t.rows[0].cells[0].text=='Casing / liner')
-    cs,_=casing_rows(table)
-    shoe_depths=sorted({b for name,a,b in cs if 'tie back' not in name.lower()})
-    for d in shoe_depths:
-        for a in allaxes:a.axhline(d,color='#60717c',ls='--',lw=.55,alpha=.7,zorder=1)
+    # Legacy shoe markers are omitted until a common datum and operation
+    # stage have been reconciled with the source casing records.
     fig.text(.055,.916,'WOB/RPM: blue=lower or single, orange=upper. Flow: blue=lower or single, light blue=upper; SPP: red/pink.',fontsize=8.3,color='#263a4b')
-    fig.text(.055,.893,'ROP: blue=daily, gold triangle=mean of 3 consecutive reports. PV=blue, YP=purple, loss=orange; dashed line=shoe.',fontsize=8.3,color='#263a4b')
+    fig.text(.055,.893,'ROP: blue=daily, gold triangle=mean of 3 consecutive reports. PV=blue, YP=purple, loss=orange; casing shoes omitted pending reconciliation.',fontsize=8.3,color='#263a4b')
     fig.suptitle(f'AZNS-{well} | Daily drilling parameters at report-end MD',fontsize=17,fontweight='bold',x=.055,y=.985,ha='left',color='#223952')
-    fig.text(.055,.944,f"{len(rec)} plotted reports / {tracks[file]['paired_sheet_candidates']} sheet pairs; no continuous log or verified formation attribution.",fontsize=9,color='#9b431c')
+    fig.text(.055,.944,f"{len(rec)} plotted reports / {tracks[file]['paired_sheet_candidates']} sheet pairs; displayed depth range covers observations and tops; no verified formation attribution.",fontsize=9,color='#9b431c')
     fig.text(.055,.035,'DDR sources and rejected/non-numeric values: evidence/drilling_track_observations.json. Bands stop at the last listed top; no lower contact assumed.',fontsize=8.5,color='#9b431c')
     fig.subplots_adjust(left=.08,right=.98,top=.84,bottom=.115)
     fig.canvas.draw();out=BytesIO();fig.savefig(out,format='png',dpi=300);plt.close(fig);return out.getvalue()

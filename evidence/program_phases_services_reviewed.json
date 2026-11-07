@@ -1,0 +1,380 @@
+[
+  {
+    "well": "127ST1",
+    "file": "AZNS -127 Side Track#01 Program Rev.03.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 70,
+        "source_anchor": "open window @ 3337m",
+        "english": "Plan a cased-hole window at 3,337 m and drill the 8½-inch section to 3,939 m, then run and cement a 7-inch liner.",
+        "persian": "برنامه گشودن پنجره در عمق ۳۳۳۷ متر، حفاری بخش ۸½ اینچ تا ۳۹۳۹ متر و نصب و سیمان‌کاری آستری ۷ اینچ را بیان می‌کند."
+      },
+      {
+        "physical_page": 71,
+        "source_anchor": "perform 7\" liner lap drey test",
+        "english": "After the liner, the programme describes a liner-lap dry test and cement-quality logging.",
+        "persian": "پس از آستری، برنامه آزمون خشک هم‌پوشانی آستری و نمودارگیری کیفیت سیمان را شرح می‌دهد."
+      }
+    ],
+    "services_physical_page": 65,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "127ST2",
+    "file": "AZNS -127 Side Track-2 Program Rev.01.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 34,
+        "source_anchor": "KOP will be @3055m",
+        "english": "Plan a whipstock setting near 3,060 m, a 3,055 m kickoff and window opening in 9⅝-inch casing.",
+        "persian": "برنامه نصب ویپ‌استاک نزدیک ۳۰۶۰ متر، نقطه انحراف ۳۰۵۵ متر و گشودن پنجره در جداری ۹⅝ اینچ را ذکر می‌کند."
+      },
+      {
+        "physical_page": 29,
+        "source_anchor": "Casing Running Fah. 3940",
+        "english": "The time breakdown includes drilling to 3,940 m, liner running, cementing and a dry test; it is a schedule, not execution evidence.",
+        "persian": "جدول زمان، حفاری تا ۳۹۴۰ متر، راندن آستری، سیمان‌کاری و آزمون خشک را در برنامه دارد؛ جدول زمان سند اجرای عملیات نیست."
+      }
+    ],
+    "services_physical_page": 28,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "10",
+    "file": "AZNS-010 Workover Program Rev.06.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 29,
+        "source_anchor": "D/O cement plug#1",
+        "english": "The plan calls for drilling out cement plugs and cleaning the liner before completing the well.",
+        "persian": "برنامه حفاری پلاگ‌های سیمانی و تمیزکاری آستری را پیش از تکمیل چاه پیش‌بینی می‌کند."
+      },
+      {
+        "physical_page": 29,
+        "source_anchor": "pressure test same",
+        "english": "The opening sequence includes wellhead checks and BOP pressure testing.",
+        "persian": "توالی آغازین شامل بررسی سرچاه و آزمون فشار فوران‌گیر است."
+      }
+    ],
+    "services_physical_page": 26,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "PANIZ",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation PANIZ 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "12",
+    "file": "AZNS-012 Workover Program Rev02.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 29,
+        "source_anchor": "try to catch & retrieve fish",
+        "english": "The programme describes pulling the completion and attempting to catch and retrieve the fish.",
+        "persian": "برنامه برداشت رشته تکمیل و تلاش برای گرفتن و بازیابی قطعه جامانده را شرح می‌دهد."
+      },
+      {
+        "physical_page": 29,
+        "source_anchor": "mill completion PKR",
+        "english": "The next planned operations include clean-out and milling the completion packer.",
+        "persian": "عملیات بعدی برنامه شامل تمیزکاری و آسیاب‌کاری پکر تکمیلی است."
+      }
+    ],
+    "services_physical_page": 24,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "GEO DATA"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging GEO DATA 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "122WO1",
+    "file": "AZNS-0122 Workover-1 Program Rev.07.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 26,
+        "source_anchor": "mill Upper packer",
+        "english": "The programme describes removal of the completion and milling and fishing the upper packer.",
+        "persian": "برنامه برداشت رشته تکمیل و آسیاب‌کاری و ماهیگیری پکر بالایی را شرح می‌دهد."
+      },
+      {
+        "physical_page": 26,
+        "source_anchor": "Liner Lap Positive Test",
+        "english": "The sequence also includes corrosion logging, a liner-lap positive test and recompletion.",
+        "persian": "توالی برنامه نمودارگیری خوردگی، آزمون مثبت هم‌پوشانی آستری و تکمیل مجدد را نیز شامل می‌شود."
+      }
+    ],
+    "services_physical_page": 23,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "122WO2",
+    "file": "AZNS-0122 Workover-2 Program Rev.00.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 29,
+        "source_anchor": "Milling Completion PKR",
+        "english": "The plan describes removal of the completion and milling and fishing the completion packer.",
+        "persian": "برنامه برداشت رشته تکمیل و آسیاب‌کاری و ماهیگیری پکر تکمیلی را شرح می‌دهد."
+      },
+      {
+        "physical_page": 29,
+        "source_anchor": "Impression Block",
+        "english": "The same sequence proposes an impression-block run and a fishing assembly.",
+        "persian": "همان توالی راندن بلوک اثرپذیر و مجموعه ماهیگیری را پیشنهاد می‌کند."
+      }
+    ],
+    "services_physical_page": 25,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "40",
+    "file": "AZNS-040 RE-Entry Well Program Rev.03.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 75,
+        "source_anchor": "D/Out CMT, Shoe and Rat hole to 1493m",
+        "english": "The re-entry sequence includes drilling out cement and shoe to the stated 1,493 m.",
+        "persian": "توالی بازورود، حفاری سیمان و کفشک تا عمق ذکرشده ۱۴۹۳ متر را شامل می‌شود."
+      },
+      {
+        "physical_page": 78,
+        "source_anchor": "Full Suite /CDR/GR log Tools",
+        "english": "The plan describes wireline logging across 1,493–3,986 m before casing operations.",
+        "persian": "برنامه نمودارگیری کابلی در بازه ۱۴۹۳ تا ۳۹۸۶ متر را پیش از عملیات جداری شرح می‌دهد."
+      }
+    ],
+    "services_physical_page": 21,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "TBA",
+      "electrical_logging_perforation": "PANIZ",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management TBA 4 Electrical Logging and Perforation PANIZ 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "75",
+    "file": "AZNS-075 Workover-1 Program Rev.05.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 33,
+        "source_anchor": "the completion string should be pulled out",
+        "english": "The stated main sequence is to pull completion, sidetrack the well and recomplete it.",
+        "persian": "توالی اصلی اعلام‌شده برداشت رشته تکمیل، انحراف چاه و تکمیل مجدد است."
+      },
+      {
+        "physical_page": 27,
+        "source_anchor": "Nipple up BOP and test same",
+        "english": "The time breakdown includes installation and testing of the BOP before the listed completion-string removal.",
+        "persian": "جدول زمان نصب و آزمون فوران‌گیر را پیش از برداشت رشته تکمیل درج می‌کند."
+      }
+    ],
+    "services_physical_page": 25,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "Pars Geo Data"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging Pars Geo Data 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "116",
+    "file": "AZNS-116 Workover Program Rev.04.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 46,
+        "source_anchor": "resume mill fish (CTU pipe)",
+        "english": "The plan describes milling a coiled-tubing fish and permanent packer, followed by a fishing attempt.",
+        "persian": "برنامه آسیاب‌کاری قطعه جامانده لوله مغزی سیار و پکر دائمی و سپس تلاش ماهیگیری را شرح می‌دهد."
+      },
+      {
+        "physical_page": 46,
+        "source_anchor": "high risk of String stuck",
+        "english": "The programme identifies low-clearance metal-to-metal sticking risk during clean-out inside the 4½-inch liner.",
+        "persian": "برنامه برای تمیزکاری درون آستری ۴½ اینچ، خطر گیر رشته به‌علت فاصله کم فلز با فلز را ذکر می‌کند."
+      }
+    ],
+    "services_physical_page": 42,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "127WO2",
+    "file": "AZNS-127 Workover #2 Program Rev.03.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 45,
+        "source_anchor": "de – complete he well",
+        "english": "The main objective is completion removal and recompletion; the opening steps include wellhead checks and slickline operations.",
+        "persian": "هدف اصلی برداشت و نصب مجدد تکمیل است؛ مراحل آغازین بررسی سرچاه و عملیات سیم نازک را شامل می‌شود."
+      },
+      {
+        "physical_page": 45,
+        "source_anchor": "perform BOP pressure test",
+        "english": "The programme describes installing and testing BOPs before retrieving the completion.",
+        "persian": "برنامه نصب و آزمون فوران‌گیر را پیش از بازیابی رشته تکمیل شرح می‌دهد."
+      }
+    ],
+    "services_physical_page": 42,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "127WO1",
+    "file": "AZNS-127 Workover1 Program Rev.01.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 58,
+        "source_anchor": "collapse interval from 3889-3911m",
+        "english": "The programme identifies an interval at 3,889–3,911 m to check and smooth, and plans completion removal and recompletion.",
+        "persian": "برنامه بازه ۳۸۸۹ تا ۳۹۱۱ متر را برای بررسی و هموارسازی ذکر و برداشت و تکمیل مجدد را پیش‌بینی می‌کند."
+      },
+      {
+        "physical_page": 59,
+        "source_anchor": "Follow contingency plan #4",
+        "english": "The planned clean-out includes a contingency if the stated interval cannot be passed; prior client approval is mentioned for certain remedial work.",
+        "persian": "در تمیزکاری برنامه‌ریزی‌شده، برای عبور نکردن از بازه ذکرشده مسیر احتیاطی و برای برخی اقدامات اصلاحی تأیید کارفرما مطرح شده است."
+      }
+    ],
+    "services_physical_page": 55,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "166",
+    "file": "AZNS-166 Workover-1 Program Rev.05.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 30,
+        "source_anchor": "Rig Less Operation",
+        "english": "The programme distinguishes an initial rig-less sequence and conditional transition to operations with a rig.",
+        "persian": "برنامه توالی اولیه بدون دکل و انتقال مشروط به عملیات با دکل را از هم تفکیک می‌کند."
+      },
+      {
+        "physical_page": 31,
+        "source_anchor": "Rig less Sequence of Operation",
+        "english": "After the planned rig release, the programme includes further rig-less slickline, coiled-tubing and stimulation activities.",
+        "persian": "پس از ترخیص برنامه‌ریزی‌شده دکل، برنامه عملیات بدون دکل شامل سیم نازک، لوله مغزی سیار و تحریک را پیش‌بینی می‌کند."
+      }
+    ],
+    "services_physical_page": 26,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "Pars Geo Data"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging and Perforation SEALAND 5 Mud Logging Pars Geo Data 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "207",
+    "file": "AZNS-207 Program.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 50,
+        "source_anchor": "Drill ahead formation down to 150 m",
+        "english": "The 26-inch section is planned to 150 m with a 20-inch casing point.",
+        "persian": "بخش ۲۶ اینچ تا ۱۵۰ متر با نقطه جداری ۲۰ اینچ در برنامه ذکر شده است."
+      },
+      {
+        "physical_page": 55,
+        "source_anchor": "Resume DRLG 12-1/4” Hole Section to 3915m",
+        "english": "The 12¼-inch section is planned to 3,915 m for 9⅝-inch casing, subject to formation-top review.",
+        "persian": "بخش ۱۲¼ اینچ برای جداری ۹⅝ اینچ تا ۳۹۱۵ متر در برنامه آمده و مشروط به بررسی رأس سازند است."
+      }
+    ],
+    "services_physical_page": 180,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "APD",
+      "electrical_logging_perforation": "PANIZ/SEALAND",
+      "mud_logging": "PGD"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids and Completion Fluids VIRA 3 Waste Management APD 4 Electrical Logging and Perforation PANIZ/SEALAND 5 Mud Logging PGD 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  },
+  {
+    "well": "85",
+    "file": "AZNS-85 Workover Program Rev.02.pdf",
+    "selected_plan_phases": [
+      {
+        "physical_page": 26,
+        "source_anchor": "perform 7\" tied-back liner lap dry test",
+        "english": "The programme includes a 7-inch tied-back liner-lap dry test following cement-plug drilling and clean-out.",
+        "persian": "برنامه پس از حفاری پلاگ سیمانی و تمیزکاری، آزمون خشک هم‌پوشانی آستری ۷ اینچ بازگردان را پیش‌بینی می‌کند."
+      },
+      {
+        "physical_page": 26,
+        "source_anchor": "perform 7\" liner lap dry test",
+        "english": "The proposed sequence also includes logging, tentative Fahliyan perforation and completion; a test outcome is not established by the plan.",
+        "persian": "توالی پیشنهادی نمودارگیری، مشبک‌کاری موقت فهلیان و تکمیل را نیز در بر دارد؛ نتیجه آزمون از برنامه اثبات نمی‌شود."
+      }
+    ],
+    "services_physical_page": 23,
+    "service_assignment_as_printed": {
+      "drilling_completion_fluids": "VIRA",
+      "waste_management": "Pars Hafaran Arvand",
+      "electrical_logging_perforation": "SEALAND",
+      "mud_logging": "MAPSA KISH"
+    },
+    "services_raw_excerpt": "2 Drilling Fluids & Completion Fluids VIRA 3 Waste Management Pars Hafaran Arvand 4 Electrical Logging & Perforation SEALAND 5 Mud Logging MAPSA KISH 6 ",
+    "caveat": "Selected programme statements, not evidence of execution or current assignment. No liability inferred."
+  }
+]
