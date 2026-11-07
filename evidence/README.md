@@ -36,3 +36,13 @@ Full extraction of raw content does not automatically deliver a geological model
 ```
 
 Selection is the last sheet in workbook order containing a recognized formation table with a numeric depth, or, if none has one, the last recognized table containing names. Workbook order is not necessarily chronological; for example the 127WO1 snapshot is sheet `88-2 Data` although later workbook sheets exist. The tool uses the table's actual labels and records populated unlabelled cells rather than guessing their meaning. It does not reconstruct all daily formation tables, interpret depth datum or resolve questionable row alignment. In well 10, `1-2 Data` and `83-2 Data` show a shifted formation-name sequence, requiring source reconciliation before assigning tops. The 116, 127WO2 and 166 snapshots contain names without numerical depths and must not be read as zero-depth tops. See the report appendices for the raw citations and limitations.
+
+## 207 bit observations
+
+`207_bit_observations.json` retains daily bit observations and source cell references from the 155 data sheets in `AZNS207Pack.xlsx`. Regenerate with:
+
+```sh
+/tmp/azns-index-venv/bin/python tools/extract_207_bit_observations.py /tmp/azns-evidence.sqlite evidence/207_bit_observations.json
+```
+
+It groups strictly numeric bit numbers and explicit rerun numbers; missing reruns remain unknown. The summary shows maxima of *reported cumulative counters*, not run-by-run incremental metres or hours. A cumulative counter can span reruns; it must not be summed across groups. Metadata conflicts, changing names/units, number reuse, and last nonblank dull values require manual reconciliation. This is specific to the 207 workbook structure and does not repair other wells' bit tables.

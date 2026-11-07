@@ -1,0 +1,7435 @@
+{
+  "source": "AZNS207Pack.xlsx",
+  "sheet_count": 155,
+  "observations": [
+    {
+      "sheet": "3-2 DDR P 2",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "1"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "26''"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "Mill Tooth / KHD115GC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "King Dream"
+        },
+        "iadc": {
+          "cell": "E15",
+          "value": "115"
+        },
+        "serial": {
+          "cell": "E14",
+          "value": "2207721JH"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.0522"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "17"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "17"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "15"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "15"
+        }
+      }
+    },
+    {
+      "sheet": "4-2 DDR P 2",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "1"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "26''"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "Mill Tooth / KHD115GC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "King Dream"
+        },
+        "iadc": {
+          "cell": "E15",
+          "value": "115"
+        },
+        "serial": {
+          "cell": "E14",
+          "value": "2207721JH"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.0522"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "120"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "137"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "10"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "25"
+        }
+      }
+    },
+    {
+      "sheet": "5-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "1"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "26''"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "Mill Tooth / KHD115GC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "King Dream"
+        },
+        "iadc": {
+          "cell": "E15",
+          "value": "115"
+        },
+        "serial": {
+          "cell": "E14",
+          "value": "2207721JH"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.0522"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "137"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "0"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "25"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-No-TD."
+        }
+      }
+    },
+    {
+      "sheet": "7-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "MT Bit (GAT135G)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "KingDream"
+        },
+        "iadc": {
+          "cell": "E15",
+          "value": "135"
+        },
+        "serial": {
+          "cell": "E14",
+          "value": "2306181JH"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "0.74550000000000005"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "6"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "6"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "5.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "5.5"
+        }
+      }
+    },
+    {
+      "sheet": "8-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "MT Bit (GAT135G)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "KingDream"
+        },
+        "iadc": {
+          "cell": "E15",
+          "value": "135"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "4.32"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "70"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "76"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "8.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "14"
+        }
+      }
+    },
+    {
+      "sheet": "9-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "MT Bit (GAT135G)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "KingDream"
+        },
+        "iadc": {
+          "cell": "E15",
+          "value": "135"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "4.32"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "270"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "346"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "32.5"
+        }
+      }
+    },
+    {
+      "sheet": "10-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "MT Bit (GAT135G)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "KingDream"
+        },
+        "iadc": {
+          "cell": "E15",
+          "value": "135"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "4.32"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "235"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "581"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "19"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "51.5"
+        }
+      }
+    },
+    {
+      "sheet": "11-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "MT Bit (GAT135G)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "4.32"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "63"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "644"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "11"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "60"
+        }
+      }
+    },
+    {
+      "sheet": "11-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "3"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC (FX65S)"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Haliburton"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "1.3529"
+        },
+        "daily_m": {
+          "cell": "G27",
+          "value": "7"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "7"
+        },
+        "daily_h": {
+          "cell": "G29",
+          "value": "0.5"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "0.5"
+        }
+      }
+    },
+    {
+      "sheet": "12-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "3"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FX65S)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S323"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.3529"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "273"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "280"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "16.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "17"
+        }
+      }
+    },
+    {
+      "sheet": "13-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "3"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FX65S)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S323"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.3529"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "154"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "434"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "15"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "17"
+        }
+      }
+    },
+    {
+      "sheet": "14-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "3"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FX65S)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S323"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.3529"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "129"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "563"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "21"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "53"
+        }
+      }
+    },
+    {
+      "sheet": "15-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "3"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FX65S)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S323"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.3529"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "17"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "580.79999999999995"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "9"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "62"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "3-8-RO-(N,T)-X-I-(CT,BU)-PR"
+        }
+      }
+    },
+    {
+      "sheet": "15-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "1.6719999999999999"
+        }
+      }
+    },
+    {
+      "sheet": "16-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.6719999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "77"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "77"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "8"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "8"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "17-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.6719999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "30"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "107"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "2.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "10.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "18-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.6719999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "107"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "2.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "10.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "19-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.6719999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "107"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "2.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "10.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "19-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "1.6719999999999999"
+        },
+        "daily_m": {
+          "cell": "G27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "107"
+        },
+        "daily_h": {
+          "cell": "G29",
+          "value": "0"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "10.5"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "2-1-CT-N-X-I-BU/BT-TW"
+        }
+      }
+    },
+    {
+      "sheet": "20-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.6719999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "68"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "175"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "11"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "21"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "2-1-CT-N-X-I-BU/BT-TW"
+        }
+      }
+    },
+    {
+      "sheet": "21-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.6719999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "14"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "189"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "8"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "29"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "2-1-CT-N-X-I-BU/BT-TW"
+        }
+      }
+    },
+    {
+      "sheet": "22-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "4"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (FSX643Z)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Haliburton"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "S234"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.6719999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "189"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "8"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "29"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": " (5 - 8 - LD - A - X - 1/8 - BU - PR)"
+        }
+      }
+    },
+    {
+      "sheet": "22-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "RR2"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "R. Bit"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "135"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "654"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "60"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "1-1-WT-A-E-I-1/16-BU/WO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "23-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R. Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "654"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "60"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-1/16-BU/WO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "24-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R. Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "2.5"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "654"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "3.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "63.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-1/16-BU/WO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "25-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R. Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "654"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "3.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "63.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-1/16-BU/WO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "25-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "5"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1//2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Reed Hycalog"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "TFR 716"
+        }
+      }
+    },
+    {
+      "sheet": "26-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R. Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "654"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "3.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "63.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-1/16-BU/WO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "26-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "5"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1//2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Reed Hycalog"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "TFR 716"
+        }
+      }
+    },
+    {
+      "sheet": "27-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R. Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "654"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "3.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "63.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-1/16-BU/WO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "27-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "5"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1//2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Reed Hycalog"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "TFR 716"
+        }
+      }
+    },
+    {
+      "sheet": "28-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "5"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Reed Hycalog"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "TFR 716"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "654"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "3.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "63.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-1/16-BU/WO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "29-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "5"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Reed Hycalog"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "TFR 716"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.3744000000000001"
+        }
+      }
+    },
+    {
+      "sheet": "29-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "6"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "B. Bit"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "K. Dream"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "415"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "0.99399999999999999"
+        }
+      }
+    },
+    {
+      "sheet": "30-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "5"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Reed Hycalog"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "TFR 716"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.3744000000000001"
+        }
+      }
+    },
+    {
+      "sheet": "30-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "6"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "B. Bit"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "K. Dream"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "415"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "0.99399999999999999"
+        }
+      }
+    },
+    {
+      "sheet": "31-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "6"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "415"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "0.99399999999999999"
+        }
+      }
+    },
+    {
+      "sheet": "32-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "6"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17-1/2\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "415"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "0.99399999999999999"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-3-BT-G-E-I-BU-BHA."
+        }
+      }
+    },
+    {
+      "sheet": "38-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "6"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": " GAT415GC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "415"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "0.94179999999999997"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-3-BT-G-E-I-BU-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "39-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "6"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": " GAT415GC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "415"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "0.94179999999999997"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-3-BT-G-E-I-BU-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "40-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "6"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "GAT415GC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "415"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "0.94179999999999997"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-3-BT-G-E-I-BU-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "40-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "RR3"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "G12",
+          "value": "GAT135G"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "135"
+        }
+      }
+    },
+    {
+      "sheet": "41-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR3"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "GAT135G"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        }
+      }
+    },
+    {
+      "sheet": "42-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR3"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "GAT135G"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        }
+      }
+    },
+    {
+      "sheet": "43-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "2"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR3"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "GAT135G"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "135"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-1/8\"-BU/WO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "43-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "G12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "517"
+        }
+      }
+    },
+    {
+      "sheet": "44-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "25"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "25"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "13"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "13"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "45-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "35"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "60"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "19"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "32"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "46-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "45"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "105"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "23"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "55"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "47-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "45"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "105"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "23"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "55"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-No-PR"
+        }
+      }
+    },
+    {
+      "sheet": "47-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "8"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17.5"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Geo Diamond"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "2.2789999999999999"
+        },
+        "daily_m": {
+          "cell": "G27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "0"
+        },
+        "daily_h": {
+          "cell": "G29",
+          "value": "0"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "0"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "48-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "8"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Geo Diamond"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "2.2789999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "19"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "19"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "11.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "11.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "49-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "8"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Geo Diamond"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "2.2789999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "22"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "41"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "13"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "24.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "50-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "8"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Geo Diamond"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "2.2789999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "22"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "41"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "13"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "24.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "6-8-RO-N/S/G-X-1/8\"-BF-PR"
+        }
+      }
+    },
+    {
+      "sheet": "50-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "G12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "G27",
+          "value": "1"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "106"
+        },
+        "daily_h": {
+          "cell": "G29",
+          "value": "2"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "57"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "1-1-WT-A-E-I-No-PR"
+        }
+      }
+    },
+    {
+      "sheet": "51-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "22"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "128"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "75"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-No-PR"
+        }
+      }
+    },
+    {
+      "sheet": "52-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "1"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "129"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "1"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "76"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-No-PP"
+        }
+      }
+    },
+    {
+      "sheet": "53-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "18.5"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "147.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "22"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "98"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-No-PP"
+        }
+      }
+    },
+    {
+      "sheet": "54-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "12.5"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "160"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "17"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "115"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-No-PP"
+        }
+      }
+    },
+    {
+      "sheet": "55-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "7"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "17.5"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HJT517GL"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "517"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.1135999999999999"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "160"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "0"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "115"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "2-3-WT-A-F-I-BT-TD"
+        }
+      }
+    },
+    {
+      "sheet": "60-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "9"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Burintekh"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.0354000000000001"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "3-4-BT-N-X-H-(RO,CT)-TD"
+        }
+      }
+    },
+    {
+      "sheet": "61-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "9"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "ReedHycalog"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.0354000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "5.5"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "5.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "9.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "9.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "4-4-BT & CT-N&T-X-I-LT-PR"
+        }
+      }
+    },
+    {
+      "sheet": "62-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "9"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "ReedHycalog"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.0354000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "59"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "64.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "9.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "19"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "4-4-BT & CT-N&T-X-I-LT-PR"
+        }
+      }
+    },
+    {
+      "sheet": "63-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "9"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "ReedHycalog"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.0354000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "115"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "179.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "21"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "40"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "4-4-BT & CT-N&T-X-I-LT-PR"
+        }
+      }
+    },
+    {
+      "sheet": "64-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "9"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "ReedHycalog"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.0354000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "3"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "182"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "3"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "43"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "8-8-RO-A-X-I-WT-PR"
+        }
+      }
+    },
+    {
+      "sheet": "64-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "10"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "537"
+        },
+        "daily_m": {
+          "cell": "G27",
+          "value": "30"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "30"
+        },
+        "daily_h": {
+          "cell": "G29",
+          "value": "5"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "5"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "65-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "10"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "537"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "133"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "163"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "21"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "26"
+        }
+      }
+    },
+    {
+      "sheet": "66-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "10"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "537"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "6"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "169"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "1"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "27"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-NO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "67-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "10"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "537"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "169"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "27"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-NO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "68-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "10"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "537"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "169"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "27"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-NO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "69-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "10"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "537"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "114"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "283"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "20.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "47.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-E-I-NO-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "70-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "10"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "537"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "36"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "319"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "10"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "57.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-2-BT-G-E-I-No-WT-PR"
+        }
+      }
+    },
+    {
+      "sheet": "71-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "10"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "TCI Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "537"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "36"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "319"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "10"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "57.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-2-BT-G-E-I-No-WT-PR"
+        }
+      }
+    },
+    {
+      "sheet": "71-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "11"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "M423"
+        },
+        "daily_m": {
+          "cell": "G27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "0"
+        },
+        "daily_h": {
+          "cell": "G29",
+          "value": "0"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "0"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "0"
+        }
+      }
+    },
+    {
+      "sheet": "72-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "11"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.17"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "38"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "38"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "6.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "6.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "73-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "11"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.17"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "150"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "188"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "19"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "25.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "74-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "11"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.17"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "170"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "358"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "44"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "75-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "11"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.17"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "177"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "535"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "17"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "61"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "76-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "11"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.17"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "10.5"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "546.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "66"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "4-4-LT-N/C-X-I-WT-PR"
+        }
+      }
+    },
+    {
+      "sheet": "76-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "12"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "G27",
+          "value": "0"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "0"
+        },
+        "daily_h": {
+          "cell": "G29",
+          "value": "0"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "0"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "77-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "12"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "40.5"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "40.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "11"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "11"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "78-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "12"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "72"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "113.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "29"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "79-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "12"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "72"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "113.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "29"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "80-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "12"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "72"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "113.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "29"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-X-I-NO-LIH"
+        }
+      }
+    },
+    {
+      "sheet": "81-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "12"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "58"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "171.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "14.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "43.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-X-I-NO-LIH"
+        }
+      }
+    },
+    {
+      "sheet": "82-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "12"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "171.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "43.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "6-2-LT-N-X-I-BT-PR"
+        }
+      }
+    },
+    {
+      "sheet": "82-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "13"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "G27",
+          "value": "2"
+        },
+        "cumulative_m": {
+          "cell": "G28",
+          "value": "2"
+        },
+        "daily_h": {
+          "cell": "G29",
+          "value": "1"
+        },
+        "cumulative_h": {
+          "cell": "G30",
+          "value": "1"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "83-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "13"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "71"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "73"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "19.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "20.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "84-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "13"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "65.7"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "138.69999999999999"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "11.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "32"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "85-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "13"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "138.69999999999999"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "32"
+        }
+      }
+    },
+    {
+      "sheet": "86-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "13"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "138.69999999999999"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "32"
+        }
+      }
+    },
+    {
+      "sheet": "87-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "13"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "10.8"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "149.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "11"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "43"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-2-LT-N-X-I-PN-LIH"
+        }
+      }
+    },
+    {
+      "sheet": "88-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "13"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "6"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "155.5"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "48"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-2-LT-N-X-I-PN-LIH"
+        }
+      }
+    },
+    {
+      "sheet": "89-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "13"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "RR1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "3.5"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "159"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "6.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "54.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "3-8-RO-N-X-I-(BT,CT)-PR"
+        }
+      }
+    },
+    {
+      "sheet": "89-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "14"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "G25",
+          "value": "1.24"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "90-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "14"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "27"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "27"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "10.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "10.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "91-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "14"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "86"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "113"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "28.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "92-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "14"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "96"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "209"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "47"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "93-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "14"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "4"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "213"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "2.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "49.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "94-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "14"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M423"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.24"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "213"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "0"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "49.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "3-5-LT-N,S-X-1/16\"-BT-LIH"
+        }
+      }
+    },
+    {
+      "sheet": "94-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "15"
+        },
+        "rerun": {
+          "cell": "G10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC (M88VPXX)"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Smith Bit, Geo Diamond"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "M424"
+        }
+      }
+    },
+    {
+      "sheet": "95-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "15"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M88VPXX)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Smith"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.5707"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "34"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "34"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "11"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "11"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "96-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "15"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M88VPXX)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Smith"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E25",
+          "value": "1.5707"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "1"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "35"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "3"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "14"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "100-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "30"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "30"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "9.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "9.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "101-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "112"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "142"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "20"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "29.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "102-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "108"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "250"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "20"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "49.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "103-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "85"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "335"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "19"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "68.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "104-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "51"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "386"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "13"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "81.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "105-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "70"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "456"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "18.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "100"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "106-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "49"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "505"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "16.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "116.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "107-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "30"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "535"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "17"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "133.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "108-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "26"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "561"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "17"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "150.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "109-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "26"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "587"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "16"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "166.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "New"
+        }
+      }
+    },
+    {
+      "sheet": "110-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "16"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC, M1664"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Beste"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M424"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.1665000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "26"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "587"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "16"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "166.5"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "2-2-WT-A-X-I-LT-PR."
+        }
+      }
+    },
+    {
+      "sheet": "110-2 DDR Data",
+      "column": "G",
+      "fields": {
+        "bit_no": {
+          "cell": "G9",
+          "value": "17"
+        },
+        "size": {
+          "cell": "G11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "G12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "G13",
+          "value": "Burintekh"
+        },
+        "iadc": {
+          "cell": "G14",
+          "value": "M323"
+        },
+        "tfa": {
+          "cell": "G26",
+          "value": "1.0354000000000001"
+        },
+        "dull": {
+          "cell": "G32",
+          "value": "Used"
+        }
+      }
+    },
+    {
+      "sheet": "111-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "17"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Burintekh"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M323"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0354000000000001"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "19"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "19"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "7"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "7"
+        }
+      }
+    },
+    {
+      "sheet": "112-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "17"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "12-1/4"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Burintekh"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M323"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0354000000000001"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "19"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "7"
+        }
+      }
+    },
+    {
+      "sheet": "121-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        }
+      }
+    },
+    {
+      "sheet": "122-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "15"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "15"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "9"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "9"
+        }
+      }
+    },
+    {
+      "sheet": "123-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "18"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "33"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "14"
+        }
+      }
+    },
+    {
+      "sheet": "124-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "36"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "69"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "10"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "24"
+        }
+      }
+    },
+    {
+      "sheet": "125-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "112"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "181"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "19.5"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "43.5"
+        }
+      }
+    },
+    {
+      "sheet": "126-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "daily_m": {
+          "cell": "E27",
+          "value": "104"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "285"
+        },
+        "daily_h": {
+          "cell": "E29",
+          "value": "14"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "57"
+        }
+      }
+    },
+    {
+      "sheet": "127-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "285"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "57"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-X-I-BT-TD"
+        }
+      }
+    },
+    {
+      "sheet": "129-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "285"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "57"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-X-I-BT-TD"
+        }
+      }
+    },
+    {
+      "sheet": "130-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "285"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "57"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-X-I-BT-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "132-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "285"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "57"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-X-I-BT-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "133-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "18"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "8 3/8"
+        },
+        "type": {
+          "cell": "E12",
+          "value": "PDC (M1375SS)"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Best"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "M433"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "1.0523"
+        },
+        "cumulative_m": {
+          "cell": "E28",
+          "value": "285"
+        },
+        "cumulative_h": {
+          "cell": "E30",
+          "value": "57"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "1-1-WT-A-X-I-BT-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "134-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "19"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "5-7/8\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R.Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "Open"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "Used"
+        }
+      }
+    },
+    {
+      "sheet": "135-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "19"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "0"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "5-7/8\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R.Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "Open"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "Used"
+        }
+      }
+    },
+    {
+      "sheet": "136-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "19"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "5-7/8\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R.Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "Open"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "2-2-BT-A-E-I-LT-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "137-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "19"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "1"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "5-7/8\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "R.Bit"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "tfa": {
+          "cell": "E26",
+          "value": "Open"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "2-2-BT-A-E-I-LT-BHA"
+        }
+      }
+    },
+    {
+      "sheet": "141-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "19"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "5-7/8\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HAT217G"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "217"
+        }
+      }
+    },
+    {
+      "sheet": "142-2 DDR Data",
+      "column": "E",
+      "fields": {
+        "bit_no": {
+          "cell": "E9",
+          "value": "19"
+        },
+        "rerun": {
+          "cell": "E10",
+          "value": "2"
+        },
+        "size": {
+          "cell": "E11",
+          "value": "5-7/8\""
+        },
+        "type": {
+          "cell": "E12",
+          "value": "HAT217G"
+        },
+        "manufacturer": {
+          "cell": "E13",
+          "value": "Kingdream"
+        },
+        "iadc": {
+          "cell": "E14",
+          "value": "217"
+        },
+        "dull": {
+          "cell": "E32",
+          "value": "2-2-BT-A-F-I-LT-LOG"
+        }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "bit_no": 1,
+      "rerun": 0,
+      "observations": 3,
+      "size": [
+        "26''"
+      ],
+      "type": [
+        "Mill Tooth / KHD115GC"
+      ],
+      "manufacturer": [
+        "King Dream"
+      ],
+      "iadc": [
+        "115"
+      ],
+      "serial": [
+        "2207721JH"
+      ],
+      "maximum_cumulative_m": {
+        "value": 137.0,
+        "sheet": "4-2 DDR P 2",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 25.0,
+        "sheet": "4-2 DDR P 2",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-E-I-No-TD.",
+        "sheet": "5-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 2,
+      "rerun": null,
+      "observations": 10,
+      "size": [
+        "17-1/2\"",
+        "17.5"
+      ],
+      "type": [
+        "R. Bit",
+        "GAT135G"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "135"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 654.0,
+        "sheet": "22-2 DDR Data",
+        "cell": "G28"
+      },
+      "maximum_cumulative_h": {
+        "value": 63.5,
+        "sheet": "24-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-E-1/8\"-BU/WO-BHA",
+        "sheet": "43-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": [
+        "size",
+        "type"
+      ]
+    },
+    {
+      "bit_no": 2,
+      "rerun": 0,
+      "observations": 1,
+      "size": [
+        "17-1/2\""
+      ],
+      "type": [
+        "MT Bit (GAT135G)"
+      ],
+      "manufacturer": [
+        "KingDream"
+      ],
+      "iadc": [
+        "135"
+      ],
+      "serial": [
+        "2306181JH"
+      ],
+      "maximum_cumulative_m": {
+        "value": 6.0,
+        "sheet": "7-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 5.5,
+        "sheet": "7-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": null,
+      "conflicts": []
+    },
+    {
+      "bit_no": 2,
+      "rerun": 1,
+      "observations": 4,
+      "size": [
+        "17-1/2\""
+      ],
+      "type": [
+        "MT Bit (GAT135G)"
+      ],
+      "manufacturer": [
+        "KingDream",
+        "Kingdream"
+      ],
+      "iadc": [
+        "135"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 644.0,
+        "sheet": "11-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 60.0,
+        "sheet": "11-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": null,
+      "conflicts": [
+        "manufacturer"
+      ]
+    },
+    {
+      "bit_no": 3,
+      "rerun": 0,
+      "observations": 5,
+      "size": [
+        "17-1/2\""
+      ],
+      "type": [
+        "PDC (FX65S)"
+      ],
+      "manufacturer": [
+        "Haliburton"
+      ],
+      "iadc": [
+        "S323"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 580.8,
+        "sheet": "15-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 62.0,
+        "sheet": "15-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "3-8-RO-(N,T)-X-I-(CT,BU)-PR",
+        "sheet": "15-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 4,
+      "rerun": 0,
+      "observations": 5,
+      "size": [
+        "17-1/2\""
+      ],
+      "type": [
+        "PDC (FSX643Z)"
+      ],
+      "manufacturer": [
+        "Haliburton"
+      ],
+      "iadc": [
+        "S234"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 107.0,
+        "sheet": "17-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 10.5,
+        "sheet": "17-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "New",
+        "sheet": "19-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 4,
+      "rerun": 1,
+      "observations": 4,
+      "size": [
+        "17-1/2\""
+      ],
+      "type": [
+        "PDC (FSX643Z)"
+      ],
+      "manufacturer": [
+        "Haliburton"
+      ],
+      "iadc": [
+        "S234"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 189.0,
+        "sheet": "21-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 29.0,
+        "sheet": "21-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": " (5 - 8 - LD - A - X - 1/8 - BU - PR)",
+        "sheet": "22-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 5,
+      "rerun": 0,
+      "observations": 6,
+      "size": [
+        "17-1//2\"",
+        "17-1/2\""
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Reed Hycalog"
+      ],
+      "iadc": [
+        "TFR 716"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 654.0,
+        "sheet": "28-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 63.5,
+        "sheet": "28-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-E-I-1/16-BU/WO-BHA",
+        "sheet": "28-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": [
+        "size"
+      ]
+    },
+    {
+      "bit_no": 6,
+      "rerun": null,
+      "observations": 1,
+      "size": [
+        "17.5"
+      ],
+      "type": [
+        "GAT415GC"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "415"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": null,
+      "maximum_cumulative_h": null,
+      "last_nonblank_dull": {
+        "value": "1-3-BT-G-E-I-BU-BHA",
+        "sheet": "40-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 6,
+      "rerun": 0,
+      "observations": 4,
+      "size": [
+        "17-1/2\""
+      ],
+      "type": [
+        "B. Bit",
+        "TCI Bit"
+      ],
+      "manufacturer": [
+        "K. Dream",
+        "Kingdream"
+      ],
+      "iadc": [
+        "415"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": null,
+      "maximum_cumulative_h": null,
+      "last_nonblank_dull": {
+        "value": "1-3-BT-G-E-I-BU-BHA.",
+        "sheet": "32-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": [
+        "type",
+        "manufacturer"
+      ]
+    },
+    {
+      "bit_no": 6,
+      "rerun": 1,
+      "observations": 2,
+      "size": [
+        "17.5"
+      ],
+      "type": [
+        " GAT415GC"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "415"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": null,
+      "maximum_cumulative_h": null,
+      "last_nonblank_dull": {
+        "value": "1-3-BT-G-E-I-BU-BHA",
+        "sheet": "39-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 7,
+      "rerun": 0,
+      "observations": 5,
+      "size": [
+        "17.5"
+      ],
+      "type": [
+        "HJT517GL"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "517"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 105.0,
+        "sheet": "46-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 55.0,
+        "sheet": "46-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-E-I-No-PR",
+        "sheet": "47-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 7,
+      "rerun": 1,
+      "observations": 2,
+      "size": [
+        "17.5"
+      ],
+      "type": [
+        "HJT517GL"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "517"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 128.0,
+        "sheet": "51-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 75.0,
+        "sheet": "51-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-E-I-No-PR",
+        "sheet": "51-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 7,
+      "rerun": 2,
+      "observations": 4,
+      "size": [
+        "17.5"
+      ],
+      "type": [
+        "HJT517GL"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "517"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 160.0,
+        "sheet": "54-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 115.0,
+        "sheet": "54-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "2-3-WT-A-F-I-BT-TD",
+        "sheet": "55-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 8,
+      "rerun": 0,
+      "observations": 4,
+      "size": [
+        "17.5"
+      ],
+      "type": [],
+      "manufacturer": [
+        "Geo Diamond"
+      ],
+      "iadc": [],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 41.0,
+        "sheet": "49-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 24.5,
+        "sheet": "49-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "6-8-RO-N/S/G-X-1/8\"-BF-PR",
+        "sheet": "50-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 9,
+      "rerun": 0,
+      "observations": 5,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Burintekh",
+        "ReedHycalog"
+      ],
+      "iadc": [],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 182.0,
+        "sheet": "64-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 43.0,
+        "sheet": "64-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "8-8-RO-A-X-I-WT-PR",
+        "sheet": "64-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": [
+        "manufacturer"
+      ]
+    },
+    {
+      "bit_no": 10,
+      "rerun": 0,
+      "observations": 3,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "TCI Bit"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "537"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 169.0,
+        "sheet": "66-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 27.0,
+        "sheet": "66-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-E-I-NO-BHA",
+        "sheet": "66-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 10,
+      "rerun": 1,
+      "observations": 5,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "TCI Bit"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "537"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 319.0,
+        "sheet": "70-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 57.5,
+        "sheet": "70-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-2-BT-G-E-I-No-WT-PR",
+        "sheet": "71-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 11,
+      "rerun": 0,
+      "observations": 6,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M423"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 546.5,
+        "sheet": "76-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 66.0,
+        "sheet": "76-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "4-4-LT-N/C-X-I-WT-PR",
+        "sheet": "76-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 12,
+      "rerun": 0,
+      "observations": 4,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M423"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 113.5,
+        "sheet": "78-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 29.0,
+        "sheet": "78-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "New",
+        "sheet": "79-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 12,
+      "rerun": 1,
+      "observations": 3,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M423"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 171.5,
+        "sheet": "81-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 43.5,
+        "sheet": "81-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "6-2-LT-N-X-I-BT-PR",
+        "sheet": "82-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 13,
+      "rerun": null,
+      "observations": 4,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M423"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 159.0,
+        "sheet": "89-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 54.5,
+        "sheet": "89-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "3-8-RO-N-X-I-(BT,CT)-PR",
+        "sheet": "89-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 13,
+      "rerun": 0,
+      "observations": 4,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M423"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 138.7,
+        "sheet": "84-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 32.0,
+        "sheet": "84-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "New",
+        "sheet": "84-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 14,
+      "rerun": 0,
+      "observations": 6,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M423"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 213.0,
+        "sheet": "93-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 49.5,
+        "sheet": "93-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "3-5-LT-N,S-X-1/16\"-BT-LIH",
+        "sheet": "94-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 15,
+      "rerun": 0,
+      "observations": 3,
+      "size": [
+        "12-1/4\""
+      ],
+      "type": [
+        "PDC (M88VPXX)"
+      ],
+      "manufacturer": [
+        "Smith Bit, Geo Diamond",
+        "Smith"
+      ],
+      "iadc": [
+        "M424"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 35.0,
+        "sheet": "96-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 14.0,
+        "sheet": "96-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "New",
+        "sheet": "96-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": [
+        "manufacturer"
+      ]
+    },
+    {
+      "bit_no": 16,
+      "rerun": 0,
+      "observations": 11,
+      "size": [
+        "12-1/4"
+      ],
+      "type": [
+        "PDC, M1664"
+      ],
+      "manufacturer": [
+        "Beste"
+      ],
+      "iadc": [
+        "M424"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 587.0,
+        "sheet": "109-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 166.5,
+        "sheet": "109-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "2-2-WT-A-X-I-LT-PR.",
+        "sheet": "110-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 17,
+      "rerun": null,
+      "observations": 3,
+      "size": [
+        "12-1/4"
+      ],
+      "type": [
+        "PDC"
+      ],
+      "manufacturer": [
+        "Burintekh"
+      ],
+      "iadc": [
+        "M323"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 19.0,
+        "sheet": "111-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 7.0,
+        "sheet": "111-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "Used",
+        "sheet": "110-2 DDR Data",
+        "cell": "G32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 18,
+      "rerun": 0,
+      "observations": 7,
+      "size": [
+        "8 3/8"
+      ],
+      "type": [
+        "PDC (M1375SS)"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M433"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 285.0,
+        "sheet": "126-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 57.0,
+        "sheet": "126-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-X-I-BT-TD",
+        "sheet": "127-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 18,
+      "rerun": 1,
+      "observations": 2,
+      "size": [
+        "8 3/8"
+      ],
+      "type": [
+        "PDC (M1375SS)"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M433"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 285.0,
+        "sheet": "129-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 57.0,
+        "sheet": "129-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-X-I-BT-BHA",
+        "sheet": "130-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 18,
+      "rerun": 2,
+      "observations": 2,
+      "size": [
+        "8 3/8"
+      ],
+      "type": [
+        "PDC (M1375SS)"
+      ],
+      "manufacturer": [
+        "Best"
+      ],
+      "iadc": [
+        "M433"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": {
+        "value": 285.0,
+        "sheet": "132-2 DDR Data",
+        "cell": "E28"
+      },
+      "maximum_cumulative_h": {
+        "value": 57.0,
+        "sheet": "132-2 DDR Data",
+        "cell": "E30"
+      },
+      "last_nonblank_dull": {
+        "value": "1-1-WT-A-X-I-BT-BHA",
+        "sheet": "133-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 19,
+      "rerun": 0,
+      "observations": 2,
+      "size": [
+        "5-7/8\""
+      ],
+      "type": [
+        "R.Bit"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [],
+      "serial": [],
+      "maximum_cumulative_m": null,
+      "maximum_cumulative_h": null,
+      "last_nonblank_dull": {
+        "value": "Used",
+        "sheet": "135-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 19,
+      "rerun": 1,
+      "observations": 2,
+      "size": [
+        "5-7/8\""
+      ],
+      "type": [
+        "R.Bit"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [],
+      "serial": [],
+      "maximum_cumulative_m": null,
+      "maximum_cumulative_h": null,
+      "last_nonblank_dull": {
+        "value": "2-2-BT-A-E-I-LT-BHA",
+        "sheet": "137-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    },
+    {
+      "bit_no": 19,
+      "rerun": 2,
+      "observations": 2,
+      "size": [
+        "5-7/8\""
+      ],
+      "type": [
+        "HAT217G"
+      ],
+      "manufacturer": [
+        "Kingdream"
+      ],
+      "iadc": [
+        "217"
+      ],
+      "serial": [],
+      "maximum_cumulative_m": null,
+      "maximum_cumulative_h": null,
+      "last_nonblank_dull": {
+        "value": "2-2-BT-A-F-I-LT-LOG",
+        "sheet": "142-2 DDR Data",
+        "cell": "E32"
+      },
+      "conflicts": []
+    }
+  ],
+  "limitations": "Grouping requires numeric bit number and uses explicitly recorded rerun, or unknown; possible tool-number reuse and metadata conflicts require review. Maxima of cumulative fields are observed cumulative counters, not incremental run totals; counters can include previous reruns. Dull value is last nonblank in sheet order, not necessarily final. Zero values are not evidence of no progress."
+}
