@@ -1,0 +1,1847 @@
+{
+  "description": "Inventory of all indexed CBS sheets, not a semantic financial audit or evidence of work execution. A1 titles may be blank or stale. Counts depend on indexed cached OOXML.",
+  "workbooks": [
+    {
+      "file": "CBS AZNS-075.xlsx",
+      "sheet_count": 23,
+      "sheets": [
+        {
+          "sheet": "AZNS-075 WO (Gadvan)",
+          "state": "visible",
+          "indexed_nonempty_cells": 792,
+          "formula_cells": 400,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Total Cost-EPD",
+          "state": "visible",
+          "indexed_nonempty_cells": 100,
+          "formula_cells": 20,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 1: Re-Entry, Completion & Procurement Total Cost"
+        },
+        {
+          "sheet": "Rig-less Stimulation total cost",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 2: Rig-less Stimulation Total Cost"
+        },
+        {
+          "sheet": "Total Cost-EPD & Rigless",
+          "state": "visible",
+          "indexed_nonempty_cells": 12,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 3: TOTAL COST (USD)"
+        },
+        {
+          "sheet": "Cost Breakdown-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 661,
+          "formula_cells": 216,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-075 Code: AZNS-075)"
+        },
+        {
+          "sheet": "Cost Breakdown-075 Contingecy",
+          "state": "visible",
+          "indexed_nonempty_cells": 862,
+          "formula_cells": 371,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-075-Contingency Code: AZN-075 Conting.)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 645,
+          "formula_cells": 246,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Rig Move",
+          "state": "visible",
+          "indexed_nonempty_cells": 16,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 8: Rig move"
+        },
+        {
+          "sheet": "Catering & Accommodation",
+          "state": "visible",
+          "indexed_nonempty_cells": 29,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 9: Catering and accommodation"
+        },
+        {
+          "sheet": "Cost breakdown R-less Stim-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-075 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        },
+        {
+          "sheet": "Mob.& Demob for Stim.-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 11- Mobilization and Demobilization for Well AZN-075"
+        },
+        {
+          "sheet": "Material & Consumable-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 195,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 12- Materials and Consumables for Well AZN-075"
+        },
+        {
+          "sheet": "Acidizing &N2 service-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 155,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 13- Acidizing and N2 Services for Well AZN-075"
+        },
+        {
+          "sheet": "Coil Tubing Service-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 67,
+          "formula_cells": 10,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 14-Coiled Tubing Services for Well AZN-075"
+        },
+        {
+          "sheet": "Oil Transportation Service-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 40,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 15- Oil Transportation Services for Well AZN-075"
+        },
+        {
+          "sheet": "Well testing and production-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 233,
+          "formula_cells": 29,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 16- Well Testing and Production Services for Well AZN-075"
+        },
+        {
+          "sheet": "Wireline production logging-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 139,
+          "formula_cells": 11,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 17- Wireline Production Logging Services for Well AZN-075"
+        },
+        {
+          "sheet": "Slick line-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 18- Slickline Services for Well AZN-075"
+        },
+        {
+          "sheet": "Memory gauge-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 27,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 19- Memory Gauge Services for Well AZN-075"
+        },
+        {
+          "sheet": "Bottom Hole PVT Samp.075",
+          "state": "visible",
+          "indexed_nonempty_cells": 43,
+          "formula_cells": 5,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 20- Bottom hole PVT Sampling for Well AZN-075"
+        },
+        {
+          "sheet": "Personnel rate-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 220,
+          "formula_cells": 26,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 21- Personnel Rates for Well AZN-075"
+        },
+        {
+          "sheet": "Design,Interp.,Reporting-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 37,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 22- Design, Interpretation and Reporting for Well AZN-075"
+        },
+        {
+          "sheet": "Full package Accomm-AZNS-075",
+          "state": "visible",
+          "indexed_nonempty_cells": 15,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 23-Accommodation for well AZNS-075"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-10.xlsx",
+      "sheet_count": 2,
+      "sheets": [
+        {
+          "sheet": "Cost Breakdown-10 w. Extra Wor",
+          "state": "visible",
+          "indexed_nonempty_cells": 613,
+          "formula_cells": 43,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-10 Extra Work Code: AZN-10)"
+        },
+        {
+          "sheet": "Cost Breakdown-10",
+          "state": "visible",
+          "indexed_nonempty_cells": 530,
+          "formula_cells": 54,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Cost Breakdown for EPDS LUMP SUM PRICE per Well AZN-10 Extra Work Code: AZN-10)"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-12.xlsx",
+      "sheet_count": 23,
+      "sheets": [
+        {
+          "sheet": "AZNS-12 WO (Gadvan) ",
+          "state": "visible",
+          "indexed_nonempty_cells": 623,
+          "formula_cells": 313,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Total Cost-EPD",
+          "state": "visible",
+          "indexed_nonempty_cells": 100,
+          "formula_cells": 27,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 1: Re-Entry, Completion & Procurement Total Cost"
+        },
+        {
+          "sheet": "Rig-less Stimulation total cost",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 2: Rig-less Stimulation Total Cost"
+        },
+        {
+          "sheet": "Total Cost-EPD & Rigless",
+          "state": "visible",
+          "indexed_nonempty_cells": 12,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 3: TOTAL COST (USD)"
+        },
+        {
+          "sheet": "Cost Breakdown-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 634,
+          "formula_cells": 206,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-12 Code: AZNS-12)"
+        },
+        {
+          "sheet": "Cost Breakdown-12 Contingecy",
+          "state": "visible",
+          "indexed_nonempty_cells": 854,
+          "formula_cells": 360,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-12-Contingency Code: AZN-12 Conting.)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 624,
+          "formula_cells": 246,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Rig Move",
+          "state": "visible",
+          "indexed_nonempty_cells": 16,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 8: Rig move"
+        },
+        {
+          "sheet": "Catering & Accommodation",
+          "state": "visible",
+          "indexed_nonempty_cells": 29,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 9: Catering and accommodation"
+        },
+        {
+          "sheet": "Cost breakdown R-less Stim.-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-12 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        },
+        {
+          "sheet": "Mob.& Demob for Stim.-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 11- Mobilization and Demobilization for Well AZN-12"
+        },
+        {
+          "sheet": "Material & Consumable-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 195,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 12- Materials and Consumables for Well AZN-12"
+        },
+        {
+          "sheet": "Acidizing &N2 service-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 155,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 13- Acidizing and N2 Services for Well AZN-12"
+        },
+        {
+          "sheet": "Coil Tubing Service-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 67,
+          "formula_cells": 10,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 14-Coiled Tubing Services for Well AZN-12"
+        },
+        {
+          "sheet": "Oil Transportation Service-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 40,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 15- Oil Transportation Services for Well AZN-12"
+        },
+        {
+          "sheet": "Well testing and production-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 233,
+          "formula_cells": 29,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 16- Well Testing and Production Services for Well AZN-12"
+        },
+        {
+          "sheet": "Wireline production logging-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 139,
+          "formula_cells": 11,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 17- Wireline Production Logging Services for Well AZN-12"
+        },
+        {
+          "sheet": "Slick line-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 18- Slickline Services for Well AZN-12"
+        },
+        {
+          "sheet": "Memory gauge-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 27,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 19- Memory Gauge Services for Well AZN-12"
+        },
+        {
+          "sheet": "Bottom Hole PVT Samp.-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 43,
+          "formula_cells": 5,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 20- Bottom hole PVT Sampling for Well AZN-12"
+        },
+        {
+          "sheet": "Personnel rate-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 220,
+          "formula_cells": 26,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 21- Personnel Rates for Well AZN-12"
+        },
+        {
+          "sheet": "Design,Interp.,Reporting-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 37,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 22- Design, Interpretation and Reporting for Well AZN-12"
+        },
+        {
+          "sheet": "Full package Accomm-AZNS-12",
+          "state": "visible",
+          "indexed_nonempty_cells": 15,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 23-Accommodation for well AZNS-12"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-122WO1.xlsx",
+      "sheet_count": 3,
+      "sheets": [
+        {
+          "sheet": "Cost Breakdown-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 625,
+          "formula_cells": 123,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Cost Breakdown for EPDS LUMP SUM PRICE per Well AZN-10 Extra Work Code: AZN-122)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-122 EW",
+          "state": "visible",
+          "indexed_nonempty_cells": 444,
+          "formula_cells": 38,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "5454",
+          "state": "visible",
+          "indexed_nonempty_cells": 0,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-122WO2.xlsx",
+      "sheet_count": 24,
+      "sheets": [
+        {
+          "sheet": "AZNS-122 WO",
+          "state": "visible",
+          "indexed_nonempty_cells": 877,
+          "formula_cells": 485,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Total Cost-EPD",
+          "state": "visible",
+          "indexed_nonempty_cells": 65,
+          "formula_cells": 13,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 1: Re-Entry, Completion & Procurement Total Cost"
+        },
+        {
+          "sheet": "Rig-less Stimulation total cost",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 2: Rig-less Stimulation Total Cost"
+        },
+        {
+          "sheet": "Total Cost-EPD & Rigless",
+          "state": "visible",
+          "indexed_nonempty_cells": 12,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 3: TOTAL COST (USD)"
+        },
+        {
+          "sheet": "Cost Breakdown-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 533,
+          "formula_cells": 89,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-122 Code: AZN-122)"
+        },
+        {
+          "sheet": "Cost Breakdown-122 Contingecy",
+          "state": "visible",
+          "indexed_nonempty_cells": 442,
+          "formula_cells": 52,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-122-Contingency Code: AZN-122 Conting.)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 619,
+          "formula_cells": 246,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-Conting",
+          "state": "visible",
+          "indexed_nonempty_cells": 853,
+          "formula_cells": 491,
+          "cached_error_cells": 245,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Rig Move",
+          "state": "visible",
+          "indexed_nonempty_cells": 16,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 8: Rig move"
+        },
+        {
+          "sheet": "Catering & Accommodation",
+          "state": "visible",
+          "indexed_nonempty_cells": 29,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 9: Catering and accommodation"
+        },
+        {
+          "sheet": "Cost breakdown R-less Stim.-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-122 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        },
+        {
+          "sheet": "Mob.& Demob for Stim.-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 11- Mobilization and Demobilization for Well AZN-122"
+        },
+        {
+          "sheet": "Material & Consumable-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 195,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 12- Materials and Consumables for Well AZN-122"
+        },
+        {
+          "sheet": "Acidizing &N2 service-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 155,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 13- Acidizing and N2 Services for Well AZN-122"
+        },
+        {
+          "sheet": "Coil Tubing Service-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 67,
+          "formula_cells": 10,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 14-Coiled Tubing Services for Well AZN-122"
+        },
+        {
+          "sheet": "Oil Transportation Service-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 40,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 15- Oil Transportation Services for Well AZN-122"
+        },
+        {
+          "sheet": "Well testing and production-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 233,
+          "formula_cells": 29,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 16- Well Testing and Production Services for Well AZN-122"
+        },
+        {
+          "sheet": "Wireline production logging-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 139,
+          "formula_cells": 11,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 17- Wireline Production Logging Services for Well AZN-122"
+        },
+        {
+          "sheet": "Slick line-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 18- Slickline Services for Well AZN-122"
+        },
+        {
+          "sheet": "Memory gauge-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 27,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 19- Memory Gauge Services for Well AZN-122"
+        },
+        {
+          "sheet": "Bottom Hole PVT Samp.-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 43,
+          "formula_cells": 5,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 20- Bottom hole PVT Sampling for Well AZN-122"
+        },
+        {
+          "sheet": "Personnel rate-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 220,
+          "formula_cells": 26,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 21- Personnel Rates for Well AZN-122"
+        },
+        {
+          "sheet": "Design,Interp.,Reporting-122",
+          "state": "visible",
+          "indexed_nonempty_cells": 37,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 22- Design, Interpretation and Reporting for Well AZN-122"
+        },
+        {
+          "sheet": "Full package Accomm-AZNS122",
+          "state": "visible",
+          "indexed_nonempty_cells": 15,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 23-Accommodation for well AZNS-122"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-127 ST 2.xlsx",
+      "sheet_count": 6,
+      "sheets": [
+        {
+          "sheet": "AZNS-127 Side Track ",
+          "state": "visible",
+          "indexed_nonempty_cells": 1076,
+          "formula_cells": 544,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Total Cost-EPD",
+          "state": "visible",
+          "indexed_nonempty_cells": 65,
+          "formula_cells": 11,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 1: Re-Entry, Completion & Procurement Total Cost"
+        },
+        {
+          "sheet": "Total Cost-EPD & Rigless",
+          "state": "visible",
+          "indexed_nonempty_cells": 12,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 3: TOTAL COST (USD)"
+        },
+        {
+          "sheet": "Cost Breakdown-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 670,
+          "formula_cells": 205,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-127 Code: AZNS-127)"
+        },
+        {
+          "sheet": "Cost Breakdown-127 Contingecy",
+          "state": "visible",
+          "indexed_nonempty_cells": 447,
+          "formula_cells": 48,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-127-Contingency Code: AZN-127 Conting.)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 668,
+          "formula_cells": 246,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-127 WO1.xlsx",
+      "sheet_count": 4,
+      "sheets": [
+        {
+          "sheet": "AZNS-127 WO (Side Tracking) ",
+          "state": "visible",
+          "indexed_nonempty_cells": 864,
+          "formula_cells": 446,
+          "cached_error_cells": 60,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Time vs. Depth",
+          "state": "visible",
+          "indexed_nonempty_cells": 0,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Cost Breakdown-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 651,
+          "formula_cells": 139,
+          "cached_error_cells": 26,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-127 Code: AZNS-127)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 645,
+          "formula_cells": 272,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-127WO1 and 116.xlsx",
+      "sheet_count": 39,
+      "sheets": [
+        {
+          "sheet": "Total Cost-EPD",
+          "state": "visible",
+          "indexed_nonempty_cells": 124,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 1: Re-Entry, Completion & Procurement Total Cost"
+        },
+        {
+          "sheet": "Rig-less Stimulation total cost",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 2: Rig-less Stimulation Total Cost"
+        },
+        {
+          "sheet": "Total Cost-EPD & Rigless",
+          "state": "visible",
+          "indexed_nonempty_cells": 12,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 3: TOTAL COST (USD)"
+        },
+        {
+          "sheet": "Cost Breakdown-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 636,
+          "formula_cells": 204,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS085 Code: AZN116)"
+        },
+        {
+          "sheet": "Cost Breakdown-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 636,
+          "formula_cells": 204,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS0122 Code: AZN0127)"
+        },
+        {
+          "sheet": "Cost Breakdown-116 Contingecy",
+          "state": "visible",
+          "indexed_nonempty_cells": 669,
+          "formula_cells": 205,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-116-Contingency Code: AZN-116 Conting.)"
+        },
+        {
+          "sheet": "Cost Breakdown-127 Contingeny ",
+          "state": "visible",
+          "indexed_nonempty_cells": 666,
+          "formula_cells": 204,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-127-Contingency Code: AZN-127 Conting.)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 602,
+          "formula_cells": 244,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 596,
+          "formula_cells": 244,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Rig Move",
+          "state": "visible",
+          "indexed_nonempty_cells": 16,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 8: Rig move"
+        },
+        {
+          "sheet": "Catering & Accommodation",
+          "state": "visible",
+          "indexed_nonempty_cells": 29,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 9: Catering and accommodation"
+        },
+        {
+          "sheet": "Cost breakdown R-less Stim.-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-116 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        },
+        {
+          "sheet": "Cost breakdown R-less Stim-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-127 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        },
+        {
+          "sheet": "Mob.& Demob for Stim.-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 11- Mobilization and Demobilization for Well AZN-116"
+        },
+        {
+          "sheet": "Mob.& Demob for Stim.-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 11- Mobilization and Demobilization for Well AZN-127"
+        },
+        {
+          "sheet": "Material & Consumable-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 195,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 12- Materials and Consumables for Well AZN-116"
+        },
+        {
+          "sheet": "Material & Consumable-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 195,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 12- Materials and Consumables for Well AZN-127"
+        },
+        {
+          "sheet": "Acidizing &N2 service-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 155,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 13- Acidizing and N2 Services for Well AZN-116"
+        },
+        {
+          "sheet": "Acidizing &N2 service-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 155,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 13- Acidizing and N2 Services for Well AZN-127"
+        },
+        {
+          "sheet": "Coil Tubing Service-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 67,
+          "formula_cells": 10,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 14-Coiled Tubing Services for Well AZN-116"
+        },
+        {
+          "sheet": "Coil Tubing Service-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 67,
+          "formula_cells": 10,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 14-Coiled Tubing Services for Well AZN-127"
+        },
+        {
+          "sheet": "Oil Transportation Service-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 40,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 15- Oil Transportation Services for Well AZN-116"
+        },
+        {
+          "sheet": "Oil Transportation Service-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 40,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 15- Oil Transportation Services for Well AZN-127"
+        },
+        {
+          "sheet": "Well testing and production-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 233,
+          "formula_cells": 29,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 16- Well Testing and Production Services for Well AZN-116"
+        },
+        {
+          "sheet": "Well testing and production-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 233,
+          "formula_cells": 29,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 16- Well Testing and Production Services for Well AZN-127"
+        },
+        {
+          "sheet": "Wireline production logging-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 139,
+          "formula_cells": 11,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 17- Wireline Production Logging Services for Well AZN-116"
+        },
+        {
+          "sheet": "Wireline production logging-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 138,
+          "formula_cells": 11,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 17- Wireline Production Logging Services for Well AZN-127"
+        },
+        {
+          "sheet": "Slick line-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 18- Slickline Services for Well AZN-116"
+        },
+        {
+          "sheet": "Slick line-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 18- Slickline Services for Well AZN-127"
+        },
+        {
+          "sheet": "Memory gauge-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 27,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 19- Memory Gauge Services for Well AZN-116"
+        },
+        {
+          "sheet": "Memory gauge-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 27,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 19- Memory Gauge Services for Well AZN-127"
+        },
+        {
+          "sheet": "Bottom Hole PVT Samp.-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 43,
+          "formula_cells": 5,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 20- Bottom hole PVT Sampling for Well AZN-116"
+        },
+        {
+          "sheet": "Bottom Hole PVT Samp.-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 43,
+          "formula_cells": 5,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 20- Bottom hole PVT Sampling for Well AZN-127"
+        },
+        {
+          "sheet": "Personnel rate-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 220,
+          "formula_cells": 26,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 21- Personnel Rates for Well AZN-116"
+        },
+        {
+          "sheet": "Personnel rate-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 220,
+          "formula_cells": 26,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 21- Personnel Rates for Well AZN-127"
+        },
+        {
+          "sheet": "Design,Interp.,Reporting-116",
+          "state": "visible",
+          "indexed_nonempty_cells": 37,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 22- Design, Interpretation and Reporting for Well AZN-116"
+        },
+        {
+          "sheet": "Design,Interp.,Reporting-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 37,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 22- Design, Interpretation and Reporting for Well AZN-127"
+        },
+        {
+          "sheet": "Full package Accomm-AZNS116",
+          "state": "visible",
+          "indexed_nonempty_cells": 15,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 23-Accommodation for well AZNS-116"
+        },
+        {
+          "sheet": "Full package Accomm-AZNS127",
+          "state": "visible",
+          "indexed_nonempty_cells": 15,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 23-Accommodation for well AZNS-127"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-127WO2.xlsx",
+      "sheet_count": 23,
+      "sheets": [
+        {
+          "sheet": "AZNS-127 WO#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 512,
+          "formula_cells": 240,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Total Cost-EPD",
+          "state": "visible",
+          "indexed_nonempty_cells": 114,
+          "formula_cells": 27,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 1: Re-Entry, Completion & Procurement Total Cost"
+        },
+        {
+          "sheet": "Rig-less Stimulation total cost",
+          "state": "visible",
+          "indexed_nonempty_cells": 74,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 2: Rig-less Stimulation Total Cost"
+        },
+        {
+          "sheet": "Total Cost-EPD & Rigless",
+          "state": "visible",
+          "indexed_nonempty_cells": 12,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 3: TOTAL COST (USD)"
+        },
+        {
+          "sheet": "Cost Breakdown-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 668,
+          "formula_cells": 208,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-127-WO#2 Code: AZNS-127-WO#2)"
+        },
+        {
+          "sheet": "Cost Breakdown-127#2 Contingecy",
+          "state": "visible",
+          "indexed_nonempty_cells": 876,
+          "formula_cells": 359,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-127-WO#2-Contingency Code: AZN-127-WO#2 Conting.)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 638,
+          "formula_cells": 246,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Rig Move",
+          "state": "visible",
+          "indexed_nonempty_cells": 16,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 8: Rig move"
+        },
+        {
+          "sheet": "Catering & Accommodation",
+          "state": "visible",
+          "indexed_nonempty_cells": 29,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 9: Catering and accommodation"
+        },
+        {
+          "sheet": "Cost B.D R-less Stim. 127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 65,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-127-WO#2 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        },
+        {
+          "sheet": "Mob.& Demob for Stim.-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 128,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 11- Mobilization and Demobilization for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Material & Consumable-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 195,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 12- Materials and Consumables for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Acidizing &N2 service-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 155,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 13- Acidizing and N2 Services for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Coil Tubing Service-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 67,
+          "formula_cells": 10,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 14-Coiled Tubing Services for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Oil Transportation Service127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 40,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 15- Oil Transportation Services for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Well testing & production-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 233,
+          "formula_cells": 29,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 16- Well Testing and Production Services for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Wireline produc. logging127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 139,
+          "formula_cells": 11,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 17- Wireline Production Logging Services for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Slick line-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 123,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 18- Slickline Services for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Memory gauge-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 38,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 19- Memory Gauge Services for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Bottom Hole PVT Samp.-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 54,
+          "formula_cells": 5,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 20- Bottom hole PVT Sampling for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Personnel rate-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 231,
+          "formula_cells": 26,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 21- Personnel Rates for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Design,Interp.,Reporting-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 37,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 22- Design, Interpretation and Reporting for Well AZN-127-WO#2"
+        },
+        {
+          "sheet": "Full package Accomm-AZNS-127#2",
+          "state": "visible",
+          "indexed_nonempty_cells": 15,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 23-Accommodation for well AZNS-127-WO#2"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-166.xlsx",
+      "sheet_count": 23,
+      "sheets": [
+        {
+          "sheet": "AZNS-166 WO ",
+          "state": "visible",
+          "indexed_nonempty_cells": 568,
+          "formula_cells": 264,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Total Cost-EPD",
+          "state": "visible",
+          "indexed_nonempty_cells": 100,
+          "formula_cells": 27,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 1: Re-Entry, Completion & Procurement Total Cost"
+        },
+        {
+          "sheet": "Rig-less Stimulation total cost",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 2: Rig-less Stimulation Total Cost"
+        },
+        {
+          "sheet": "Total Cost-EPD & Rigless",
+          "state": "visible",
+          "indexed_nonempty_cells": 12,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 3: TOTAL COST (USD)"
+        },
+        {
+          "sheet": "Cost Breakdown-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 633,
+          "formula_cells": 207,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-166 Code: AZNS-166)"
+        },
+        {
+          "sheet": "Cost Breakdown-166 Contingecy",
+          "state": "visible",
+          "indexed_nonempty_cells": 850,
+          "formula_cells": 359,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-166-Contingency Code: AZN-166 Conting.)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 619,
+          "formula_cells": 246,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Rig Move",
+          "state": "visible",
+          "indexed_nonempty_cells": 16,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 8: Rig move"
+        },
+        {
+          "sheet": "Catering & Accommodation",
+          "state": "visible",
+          "indexed_nonempty_cells": 29,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 9: Catering and accommodation"
+        },
+        {
+          "sheet": "Cost breakdown R-less Stim.-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-166 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        },
+        {
+          "sheet": "Mob.& Demob for Stim.-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 11- Mobilization and Demobilization for Well AZN-166"
+        },
+        {
+          "sheet": "Material & Consumable-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 195,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 12- Materials and Consumables for Well AZN-166"
+        },
+        {
+          "sheet": "Acidizing &N2 service-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 155,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 13- Acidizing and N2 Services for Well AZN-166"
+        },
+        {
+          "sheet": "Coil Tubing Service-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 67,
+          "formula_cells": 10,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 14-Coiled Tubing Services for Well AZN-166"
+        },
+        {
+          "sheet": "Oil Transportation Service-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 40,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 15- Oil Transportation Services for Well AZN-166"
+        },
+        {
+          "sheet": "Well testing and production-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 233,
+          "formula_cells": 29,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 16- Well Testing and Production Services for Well AZN-166"
+        },
+        {
+          "sheet": "Wireline production logging-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 139,
+          "formula_cells": 11,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 17- Wireline Production Logging Services for Well AZN-166"
+        },
+        {
+          "sheet": "Slick line-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 18- Slickline Services for Well AZN-166"
+        },
+        {
+          "sheet": "Memory gauge-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 27,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 19- Memory Gauge Services for Well AZN-166"
+        },
+        {
+          "sheet": "Bottom Hole PVT Samp.-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 43,
+          "formula_cells": 5,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 20- Bottom hole PVT Sampling for Well AZN-166"
+        },
+        {
+          "sheet": "Personnel rate-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 220,
+          "formula_cells": 26,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 21- Personnel Rates for Well AZN-166"
+        },
+        {
+          "sheet": "Design,Interp.,Reporting-166",
+          "state": "visible",
+          "indexed_nonempty_cells": 37,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 22- Design, Interpretation and Reporting for Well AZN-166"
+        },
+        {
+          "sheet": "Full package Accomm-AZNS166",
+          "state": "visible",
+          "indexed_nonempty_cells": 15,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 23-Accommodation for well AZNS-166"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-207.xlsx",
+      "sheet_count": 22,
+      "sheets": [
+        {
+          "sheet": "F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 1923,
+          "formula_cells": 1010,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Drilling and Completion Operation TBD of Well: \nF-20 "
+        },
+        {
+          "sheet": "Total Cost-EPD & Rigless",
+          "state": "visible",
+          "indexed_nonempty_cells": 12,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 3: TOTAL COST (USD)"
+        },
+        {
+          "sheet": "Total Cost-EPD",
+          "state": "visible",
+          "indexed_nonempty_cells": 60,
+          "formula_cells": 7,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 1: Re-Entry, Completion & Procurement Total Cost"
+        },
+        {
+          "sheet": "Rig-less Stimulation total cost",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 1,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 2: Rig-less Stimulation Total Cost"
+        },
+        {
+          "sheet": "Cost Breakdown-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 700,
+          "formula_cells": 218,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well F-20 Code: F-20)"
+        },
+        {
+          "sheet": "Cost Breakdown-Material-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 785,
+          "formula_cells": 270,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table6: *Cost breakdown for Material for EPDSLUMPSUMPRICE"
+        },
+        {
+          "sheet": "Rig Move",
+          "state": "visible",
+          "indexed_nonempty_cells": 16,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 8: Rig move"
+        },
+        {
+          "sheet": "Catering & Accommodation",
+          "state": "visible",
+          "indexed_nonempty_cells": 29,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 9: Catering and accommodation"
+        },
+        {
+          "sheet": "Cost breakdown R-less Stim-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well F-20 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        },
+        {
+          "sheet": "Mob.& Demob for Stim.-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 11- Mobilization and Demobilization for Well F-20"
+        },
+        {
+          "sheet": "Material & Consumable-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 195,
+          "formula_cells": 32,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 12- Materials and Consumables for Well F-20"
+        },
+        {
+          "sheet": "Acidizing &N2 service-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 155,
+          "formula_cells": 18,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 13- Acidizing and N2 Services for Well F-20"
+        },
+        {
+          "sheet": "Coil Tubing Service-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 67,
+          "formula_cells": 10,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 14-Coiled Tubing Services for Well F-20"
+        },
+        {
+          "sheet": "Oil Transportation Service-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 40,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 15- Oil Transportation Services for Well F-20"
+        },
+        {
+          "sheet": "Well testing and production-127",
+          "state": "visible",
+          "indexed_nonempty_cells": 233,
+          "formula_cells": 29,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 16- Well Testing and Production Services for Well F-20"
+        },
+        {
+          "sheet": "Wireline prod. logging-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 138,
+          "formula_cells": 13,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 17- Wireline Production Logging Services for Well F-20"
+        },
+        {
+          "sheet": "Slick line-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 113,
+          "formula_cells": 14,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 18- Slickline Services for Well F-20"
+        },
+        {
+          "sheet": "Memory gauge-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 27,
+          "formula_cells": 3,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 19- Memory Gauge Services for Well F-20"
+        },
+        {
+          "sheet": "Bottom Hole PVT Samp.-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 43,
+          "formula_cells": 5,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 20- Bottom hole PVT Sampling for Well F-20"
+        },
+        {
+          "sheet": "Personnel rate-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 220,
+          "formula_cells": 26,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 21- Personnel Rates for Well F-20"
+        },
+        {
+          "sheet": "Design,Interp.,Reporting-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 37,
+          "formula_cells": 6,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 22- Design, Interpretation and Reporting for Well AZN-F-20"
+        },
+        {
+          "sheet": "Full package Accomm-F-20",
+          "state": "visible",
+          "indexed_nonempty_cells": 15,
+          "formula_cells": 2,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 23-Accommodation for well F-20"
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-40.xlsx",
+      "sheet_count": 3,
+      "sheets": [
+        {
+          "sheet": "AZN-40",
+          "state": "visible",
+          "indexed_nonempty_cells": 859,
+          "formula_cells": 613,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        },
+        {
+          "sheet": "Cost Breakdown-40",
+          "state": "visible",
+          "indexed_nonempty_cells": 528,
+          "formula_cells": 19,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 5: Cost Breakdown for EPDS LUMP SUM PRICE per Well AZNS-40 Code: AZN-40)"
+        },
+        {
+          "sheet": "Cost breakdown Rigless Stim.-40",
+          "state": "visible",
+          "indexed_nonempty_cells": 45,
+          "formula_cells": 0,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-40 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+        }
+      ]
+    },
+    {
+      "file": "CBS AZNS-85.xlsx",
+      "sheet_count": 1,
+      "sheets": [
+        {
+          "sheet": "AZNS-085 WO. Extra Work",
+          "state": "visible",
+          "indexed_nonempty_cells": 528,
+          "formula_cells": 290,
+          "cached_error_cells": 0,
+          "formula_cells_missing_cache": 0,
+          "A1": null
+        }
+      ]
+    }
+  ]
+}

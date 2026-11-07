@@ -1,0 +1,1098 @@
+[
+  {
+    "well": "10",
+    "file": "AZNS10Pack.xlsx",
+    "events": [
+      {
+        "day": 7,
+        "sheet": "7-1 Remark",
+        "cell": "K33",
+        "raw": "Obs. Leakage Stand pipe ground line. Stop operation & Off-Btm string to 3620m, Change Mud Pump ground manifold",
+        "anchor": "Leakage Stand pipe ground line",
+        "english": "A standpipe ground-line leak is reported, followed by stopping the operation and changing the mud-pump ground manifold; confirm the full event sequence separately.",
+        "persian": "نشتی خط زمینی استندپایپ و سپس توقف عملیات و تعویض منیفولد زمینی پمپ گل گزارش شده است؛ توالی کامل رویداد باید جداگانه تطبیق شود.",
+        "associated_status_segment": {
+          "row": 33,
+          "duration": {
+            "sheet": "7-1 Remark",
+            "cell": "H33",
+            "raw": "2.0833333333333332E-2",
+            "value": 0.5,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J33",
+          "status": "N",
+          "classification": "npt",
+          "detail": {
+            "sheet": "7-1 Remark",
+            "cell": "K33",
+            "raw": "Obs. Leakage Stand pipe ground line. Stop operation & Off-Btm string to 3620m, Change Mud Pump ground manifold"
+          },
+          "code": {
+            "sheet": "7-1 Remark",
+            "cell": "I33",
+            "raw": "41"
+          }
+        }
+      },
+      {
+        "day": 11,
+        "sheet": "11-1 Remark",
+        "cell": "K24",
+        "raw": "L/U CMT Pump Truck Line to string and Pressure test Line to 3000 psi, Ok. ",
+        "anchor": "Pressure test Line to 3000 psi, Ok",
+        "english": "The cement-pump truck line pressure test is recorded at 3,000 psi with result “OK”; this is a historical source observation.",
+        "persian": "آزمون فشار خط کامیون پمپ سیمان با فشار ۳۰۰۰ پوند بر اینچ مربع و نتیجه «مطلوب» ثبت شده است؛ این یک مشاهده تاریخی منبع است.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "11-1 Remark",
+            "cell": "H24",
+            "raw": "0.5",
+            "value": 0.5
+          },
+          "status_cell": "J24",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "11-1 Remark",
+            "cell": "K24",
+            "raw": "L/U CMT Pump Truck Line to string and Pressure test Line to 3000 psi, Ok. "
+          },
+          "code": {
+            "sheet": "11-1 Remark",
+            "cell": "I24",
+            "raw": "12"
+          }
+        }
+      },
+      {
+        "day": 64,
+        "sheet": "64-1 Remark",
+        "cell": "K25",
+        "raw": "Resume RIH w/ 5-7/8\" Milling BHA f/3559 to 4077m followed by 5\" DPs on elevator, took Weight @ 4077m ",
+        "anchor": "f/3559 to 4077m",
+        "english": "The entry reports running a 5⅞-inch milling assembly from 3,559 to 4,077 m; it does not by itself establish milling success.",
+        "persian": "مدخل راندن مجموعه آسیاب ۵⅞ اینچ از ۳۵۵۹ تا ۴۰۷۷ متر را گزارش می‌کند؛ به‌تنهایی موفقیت آسیاب‌کاری را ثابت نمی‌کند.",
+        "associated_status_segment": {
+          "row": 25,
+          "duration": {
+            "sheet": "64-1 Remark",
+            "cell": "H25",
+            "raw": "2.5",
+            "value": 2.5
+          },
+          "status_cell": "J25",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "64-1 Remark",
+            "cell": "K25",
+            "raw": "Resume RIH w/ 5-7/8\" Milling BHA f/3559 to 4077m followed by 5\" DPs on elevator, took Weight @ 4077m "
+          },
+          "code": {
+            "sheet": "64-1 Remark",
+            "cell": "I25",
+            "raw": "3"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "The leak, line test and milling trip concern different systems. A pressure-test result should be checked against the signed chart, test envelope and later barrier records.",
+      "persian": "نشتی، آزمون خط و ران آسیاب به سامانه‌های متفاوت مربوط‌اند. نتیجه آزمون فشار باید با نمودار امضاشده، محدوده آزمون و سوابق بعدی موانع تطبیق شود."
+    }
+  },
+  {
+    "well": "12",
+    "file": "AZNS12Pack.xlsx",
+    "events": [
+      {
+        "day": 19,
+        "sheet": "19-1 DDR Remark",
+        "cell": "S38",
+        "raw": ">> During POOH Fish OBS. Plugged 2Jts 4-1/2\" Tubing 13.5#, L-80 N.vam with debris of asphaltene and sand also while B/O Conn. OBS. Damaged them Box.",
+        "anchor": "asphaltene and sand",
+        "english": "While pulling the fish, the report notes two 4½-inch tubing joints plugged with asphaltene and sand, and observed box damage while breaking connections.",
+        "persian": "گزارش هنگام بیرون کشیدن قطعه جامانده به گرفتگی دو شاخه لوله ۴½ اینچ با آسفالتین و ماسه و مشاهده آسیب مادگی هنگام بازکردن اتصال اشاره می‌کند.",
+        "associated_status_segment": null
+      },
+      {
+        "day": 28,
+        "sheet": "28-1 DDR Remark",
+        "cell": "S24",
+        "raw": "Cont. RIH w/ 6\" M.M J.Mill f/ 1300 to 3778m (5\" L.Lap), F/U the string & Break Circ. Every 15 Stds; 8-2 BPH Losses. Meanwhile wash Dn last 2 Std & Confirm 5\" L.Lap.",
+        "anchor": "5\" L.Lap",
+        "english": "The report records running a 6-inch junk mill to 3,778 m, identified as the 5-inch liner lap; the loss-rate text in this cell is ambiguous and is not normalized.",
+        "persian": "گزارش راندن آسیاب ضایعات ۶ اینچ تا ۳۷۷۸ متر، معرفی‌شده به‌عنوان هم‌پوشانی آستری ۵ اینچ، را ثبت می‌کند؛ متن نرخ هرزروی این سلول مبهم است و نرمال‌سازی نشده است.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "28-1 DDR Remark",
+            "cell": "E24",
+            "raw": "10.5",
+            "value": 10.5
+          },
+          "status_cell": "M24",
+          "status": "Plan",
+          "classification": "planned",
+          "detail": {
+            "sheet": "28-1 DDR Remark",
+            "cell": "S24",
+            "raw": "Cont. RIH w/ 6\" M.M J.Mill f/ 1300 to 3778m (5\" L.Lap), F/U the string & Break Circ. Every 15 Stds; 8-2 BPH Losses. Meanwhile wash Dn last 2 Std & Confirm 5\" L.Lap."
+          },
+          "code": {
+            "sheet": "28-1 DDR Remark",
+            "cell": "I24",
+            "raw": "6"
+          }
+        }
+      },
+      {
+        "day": 50,
+        "sheet": "50-1 DDR Remark",
+        "cell": "S34",
+        "raw": "Offline operation: Pressure test 3-1/2\" SSD, 3-1/2\" No-Go LND Nipple w/ 5000 psi for 15min; \"Ok\". Body Press Test  3-1/2\" SSD & 3-1/2\" Traveling Jt, TR3SV Assy. w/ 5000 psi for 15min;",
+        "anchor": "5000 psi for 15min",
+        "english": "An offline pressure test of the stated completion components is recorded at 5,000 psi for 15 minutes with an “OK” result for the first listed test.",
+        "persian": "آزمون فشار خارج از خط برای اجزای تکمیلی ذکرشده با فشار ۵۰۰۰ پوند بر اینچ مربع به مدت ۱۵ دقیقه ثبت شده و نتیجه نخستین آزمون «مطلوب» است.",
+        "associated_status_segment": null
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "The source has an ambiguous “8-2” loss expression; do not reorder or sum it as a measured rate. Reconcile tubing condition and test scope with photographs, tallies and signed test records.",
+      "persian": "منبع عبارت مبهم هرزروی «8-2» دارد؛ آن را به‌صورت نرخ اندازه‌گیری‌شده بازمرتب یا جمع نکنید. وضعیت لوله و دامنه آزمون با تصاویر، فهرست لوله و سوابق امضاشده تطبیق شوند."
+    }
+  },
+  {
+    "well": "75",
+    "file": "AZNS75Pack.xlsx",
+    "events": [
+      {
+        "day": 17,
+        "sheet": "17-1 DDR Remark",
+        "cell": "S28",
+        "raw": "R/U and prepare surface lines and DST choke manifold, Pressure test lines to 3000 psi for 15 minutes, test confirmed OK, Record Strg ",
+        "anchor": "3000 psi for 15 minutes",
+        "english": "The report records a surface-line pressure test at 3,000 psi for 15 minutes, with the test confirmed “OK”.",
+        "persian": "گزارش آزمون فشار خطوط سطحی با فشار ۳۰۰۰ پوند بر اینچ مربع به مدت ۱۵ دقیقه و نتیجه تأییدشده «مطلوب» را ثبت می‌کند.",
+        "associated_status_segment": null
+      },
+      {
+        "day": 29,
+        "sheet": "29-1 DDR Remark",
+        "cell": "S26",
+        "raw": "Start  Window Milling & Dressing W/8-1/2\" Tri-Mill to 2266m. ",
+        "anchor": "to 2266m",
+        "english": "The report states that window milling and dressing with an 8½-inch mill started and reached 2,266 m.",
+        "persian": "گزارش آغاز آسیاب و پرداخت پنجره با آسیاب ۸½ اینچ تا عمق ۲۲۶۶ متر را ذکر می‌کند.",
+        "associated_status_segment": {
+          "row": 26,
+          "duration": {
+            "sheet": "29-1 DDR Remark",
+            "cell": "E26",
+            "raw": "6.9999999999999991",
+            "value": 6.999999999999999
+          },
+          "status_cell": "M26",
+          "status": "PLN",
+          "classification": "planned",
+          "detail": {
+            "sheet": "29-1 DDR Remark",
+            "cell": "S26",
+            "raw": "Start  Window Milling & Dressing W/8-1/2\" Tri-Mill to 2266m. "
+          },
+          "code": {
+            "sheet": "29-1 DDR Remark",
+            "cell": "I26",
+            "raw": "19"
+          }
+        }
+      },
+      {
+        "day": 38,
+        "sheet": "38-1 DDR Remark",
+        "cell": "S44",
+        "raw": "Cont. Directional Drilling 8-3/8\" Hole Section As Sliding Mode F/ 2609m To 2610m w/8-10 bph losses Till M.N.",
+        "anchor": "8-10 bph losses",
+        "english": "The report describes sliding directional drilling from 2,609 to 2,610 m with 8–10 barrels per hour of reported losses.",
+        "persian": "گزارش حفاری جهت‌دار به حالت لغزشی از ۲۶۰۹ تا ۲۶۱۰ متر را با هرزروی گزارش‌شده ۸ تا ۱۰ بشکه در ساعت شرح می‌دهد.",
+        "associated_status_segment": {
+          "row": 44,
+          "duration": {
+            "sheet": "38-1 DDR Remark",
+            "cell": "E44",
+            "raw": "1",
+            "value": 1.0
+          },
+          "status_cell": "M44",
+          "status": "PLN",
+          "classification": "planned",
+          "detail": {
+            "sheet": "38-1 DDR Remark",
+            "cell": "S44",
+            "raw": "Cont. Directional Drilling 8-3/8\" Hole Section As Sliding Mode F/ 2609m To 2610m w/8-10 bph losses Till M.N."
+          },
+          "code": {
+            "sheet": "38-1 DDR Remark",
+            "cell": "I44",
+            "raw": "2"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "Depths from the original and sidetrack intervals require phase and datum reconciliation. A logged loss rate does not identify a formation or a validated total-loss volume.",
+      "persian": "عمق‌های شاخه اصلی و انحرافی به تطبیق فاز و مبنای عمق نیاز دارند. نرخ هرزروی ثبت‌شده، سازند یا حجم کل تأییدشده را تعیین نمی‌کند."
+    }
+  },
+  {
+    "well": "85",
+    "file": "AZNS85Pack.xlsx",
+    "events": [
+      {
+        "day": 23,
+        "sheet": "23-1 Remark",
+        "cell": "K24",
+        "raw": "CONT. NPT FOR OEOC DRY TEST DUE TO MILLING THE FISH:R/U slick line & run magnet(size:2.3\" & 2.8\") @ two stage as catch the fish\"no succ\"",
+        "anchor": "no succ",
+        "english": "The report describes two slickline magnet runs to catch the fish as unsuccessful; the source classification or vendor name does not itself establish contractual liability.",
+        "persian": "گزارش دو نوبت راندن آهنربا با اسلیک‌لاین برای گرفتن قطعه جامانده را ناموفق توصیف می‌کند؛ کد منبع یا نام خدمت‌دهنده به‌تنهایی مسئولیت قراردادی را ثابت نمی‌کند.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "23-1 Remark",
+            "cell": "H24",
+            "raw": null,
+            "value": null
+          },
+          "status_cell": "J24",
+          "status": "NPT",
+          "classification": "unknown",
+          "detail": {
+            "sheet": "23-1 Remark",
+            "cell": "K24",
+            "raw": "CONT. NPT FOR OEOC DRY TEST DUE TO MILLING THE FISH:R/U slick line & run magnet(size:2.3\" & 2.8\") @ two stage as catch the fish\"no succ\""
+          },
+          "code": {
+            "sheet": "23-1 Remark",
+            "cell": "I24",
+            "raw": "43"
+          }
+        }
+      },
+      {
+        "day": 27,
+        "sheet": "27-1 Remark",
+        "cell": "K27",
+        "raw": "Cont. Hard Ream Dn w/ 5-7/8\" Milling BHA f/ 3975 to 4066m, [Param. → FR: 300gpm, SPP: 2450-2500psi, ",
+        "anchor": "f/ 3975 to 4066m",
+        "english": "The report describes reaming down with a 5⅞-inch milling assembly from 3,975 to 4,066 m; the parameters in the source are historical observations, not an operating window.",
+        "persian": "گزارش گشادکاری رو به پایین با مجموعه آسیاب ۵⅞ اینچ از ۳۹۷۵ تا ۴۰۶۶ متر را شرح می‌دهد؛ پارامترهای منبع مشاهده تاریخی‌اند، نه پنجره عملیاتی.",
+        "associated_status_segment": {
+          "row": 27,
+          "duration": {
+            "sheet": "27-1 Remark",
+            "cell": "H27",
+            "raw": "12.5",
+            "value": 12.5
+          },
+          "status_cell": "J27",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "27-1 Remark",
+            "cell": "K27",
+            "raw": "Cont. Hard Ream Dn w/ 5-7/8\" Milling BHA f/ 3975 to 4066m, [Param. → FR: 300gpm, SPP: 2450-2500psi, "
+          },
+          "code": {
+            "sheet": "27-1 Remark",
+            "cell": "I27",
+            "raw": "4"
+          }
+        }
+      },
+      {
+        "day": 30,
+        "sheet": "30-1 Remark",
+        "cell": "K30",
+        "raw": "RIH W/L Tools (Tool Length: 16/45m, Weight: 802lb) as Run#1 (SBT-VDL-GR-CCL) for 7\" Liner Cement ",
+        "anchor": "7\" Liner Cement",
+        "english": "The entry records running a wireline tool string for 7-inch liner cement evaluation; the full log and interpretation are needed to determine cement quality.",
+        "persian": "مدخل راندن مجموعه ابزار نمودارگیری با سیم برای ارزیابی سیمان آستری ۷ اینچ را ثبت می‌کند؛ تعیین کیفیت سیمان به لاگ کامل و تفسیر آن نیاز دارد.",
+        "associated_status_segment": {
+          "row": 30,
+          "duration": {
+            "sheet": "30-1 Remark",
+            "cell": "H30",
+            "raw": "10",
+            "value": 10.0
+          },
+          "status_cell": "J30",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "30-1 Remark",
+            "cell": "K30",
+            "raw": "RIH W/L Tools (Tool Length: 16/45m, Weight: 802lb) as Run#1 (SBT-VDL-GR-CCL) for 7\" Liner Cement "
+          },
+          "code": {
+            "sheet": "30-1 Remark",
+            "cell": "I30",
+            "raw": "10"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "The magnet, reaming and logging observations must be reconciled with the actual workover sequence; they do not demonstrate execution of the separately planned rig-less acid treatment.",
+      "persian": "مشاهدات آهنربا، گشادکاری و نمودارگیری باید با توالی واقعی تعمیر تطبیق شوند؛ اجرای اسیدکاری بدون دکلِ برنامه‌ریزی‌شده جداگانه را ثابت نمی‌کنند."
+    }
+  },
+  {
+    "well": "116",
+    "file": "AZNS116Pack.xlsx",
+    "events": [
+      {
+        "day": 33,
+        "sheet": "33-1 Remark",
+        "cell": "K24",
+        "raw": "Push Fish w/ applying 0-18klbs Wt. f/ 3846.1m to 3876.1m, then resume Milling Op. w/ applying parameters [Rotation: 40-60RPM, ",
+        "anchor": "3846.1m to 3876.1m",
+        "english": "The cell describes pushing the fish from 3,846.1 to 3,876.1 m and resuming milling; it does not independently prove the fish was recovered.",
+        "persian": "سلول راندن قطعه جامانده از ۳۸۴۶٫۱ تا ۳۸۷۶٫۱ متر و ازسرگیری آسیاب‌کاری را شرح می‌دهد؛ به‌تنهایی بازیابی قطعه را ثابت نمی‌کند.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "33-1 Remark",
+            "cell": "H24",
+            "raw": "0.5",
+            "value": 12.0,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J24",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "33-1 Remark",
+            "cell": "K24",
+            "raw": "Push Fish w/ applying 0-18klbs Wt. f/ 3846.1m to 3876.1m, then resume Milling Op. w/ applying parameters [Rotation: 40-60RPM, "
+          },
+          "code": {
+            "sheet": "33-1 Remark",
+            "cell": "I24",
+            "raw": "23"
+          }
+        }
+      },
+      {
+        "day": 51,
+        "sheet": "51-1 Remark",
+        "cell": "K24",
+        "raw": "Record String Weight W/Downward & Upward String  W/Pump Off & Diff. F.Rate, Catch The Fish & Work on It. Release  Fish While Pull Out ",
+        "anchor": "Catch The Fish",
+        "english": "The report states that the fish was caught, worked on and released while pulling out; reconcile the surrounding entries before establishing the final outcome.",
+        "persian": "گزارش گرفتن قطعه جامانده، کار روی آن و رهاکردن آن هنگام بیرون کشیدن را ذکر می‌کند؛ نتیجه نهایی به تطبیق مدخل‌های پیرامونی نیاز دارد.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "51-1 Remark",
+            "cell": "H24",
+            "raw": "0.24999999999999994",
+            "value": 5.999999999999998,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J24",
+          "status": "PT",
+          "classification": "unknown",
+          "detail": {
+            "sheet": "51-1 Remark",
+            "cell": "K24",
+            "raw": "Record String Weight W/Downward & Upward String  W/Pump Off & Diff. F.Rate, Catch The Fish & Work on It. Release  Fish While Pull Out "
+          },
+          "code": {
+            "sheet": "51-1 Remark",
+            "cell": "I24",
+            "raw": "23"
+          }
+        }
+      },
+      {
+        "day": 91,
+        "sheet": "91-1 Remark",
+        "cell": "K23",
+        "raw": "Perform Pressure Test on 7\"Shooting Nipple & 5K Wire Line BOP Step by Step to 1200psi for 15min, Ok.",
+        "anchor": "1200psi for 15min, Ok",
+        "english": "The report records a pressure test of the 7-inch shooting nipple and wireline blowout preventer at 1,200 psi for 15 minutes, result “OK”.",
+        "persian": "گزارش آزمون فشار نیپل مشبک‌کاری ۷ اینچ و فوران‌گیر سیمی با فشار ۱۲۰۰ پوند بر اینچ مربع به مدت ۱۵ دقیقه و نتیجه «مطلوب» را ثبت می‌کند.",
+        "associated_status_segment": null
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "Fish movements do not establish final recovery. Review the fishing tally, full sequence, test record and approved barrier diagram before drawing an operational conclusion.",
+      "persian": "حرکت قطعه جامانده به‌معنای بازیابی نهایی نیست. پیش از نتیجه‌گیری عملیاتی، فهرست ماهیگیری، توالی کامل، سابقه آزمون و نمودار مصوب موانع بازبینی شوند."
+    }
+  },
+  {
+    "well": "122WO1",
+    "file": "AZNS122WO1Pack.xlsx",
+    "events": [
+      {
+        "day": 20,
+        "sheet": "20-1 Remark",
+        "cell": "K25",
+        "raw": "While Wait on client's decision for corrosion of  9-5/8''csg  & next plan ,cont. POOH w/ setting tools of  7\"SN Packer  f/135m to surf., L/D ",
+        "anchor": "corrosion of  9-5/8",
+        "english": "The entry notes waiting for a client decision concerning corrosion of the 9⅝-inch casing while pulling setting tools; the extent and mechanism of corrosion are not established by this cell.",
+        "persian": "مدخل انتظار برای تصمیم کارفرما درباره خوردگی جداری ۹⅝ اینچ هم‌زمان با بیرون کشیدن ابزار نصب را ذکر می‌کند؛ میزان و مکانیسم خوردگی از این سلول احراز نمی‌شود.",
+        "associated_status_segment": {
+          "row": 25,
+          "duration": {
+            "sheet": "20-1 Remark",
+            "cell": "H25",
+            "raw": "6.2499999999999944E-2",
+            "value": 1.4999999999999987,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J25",
+          "status": "N",
+          "classification": "npt",
+          "detail": {
+            "sheet": "20-1 Remark",
+            "cell": "K25",
+            "raw": "While Wait on client's decision for corrosion of  9-5/8''csg  & next plan ,cont. POOH w/ setting tools of  7\"SN Packer  f/135m to surf., L/D "
+          },
+          "code": {
+            "sheet": "20-1 Remark",
+            "cell": "I25",
+            "raw": "44"
+          }
+        }
+      },
+      {
+        "day": 34,
+        "sheet": "34-1 Remark",
+        "cell": "K24",
+        "raw": "Fish dropped. Soft wash & Ream Dn f/ 4083 to 4148.5m; 1-2 BPH Losses. ",
+        "anchor": "Fish dropped",
+        "english": "The report says the fish dropped and describes washing and reaming from 4,083 to 4,148.5 m with 1–2 barrels per hour of losses.",
+        "persian": "گزارش افتادن قطعه جامانده و شست‌وشو و گشادکاری از ۴۰۸۳ تا ۴۱۴۸٫۵ متر با هرزروی ۱ تا ۲ بشکه در ساعت را شرح می‌دهد.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "34-1 Remark",
+            "cell": "H24",
+            "raw": "0.12500000000000003",
+            "value": 3.000000000000001,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J24",
+          "status": "UP",
+          "classification": "unplanned",
+          "detail": {
+            "sheet": "34-1 Remark",
+            "cell": "K24",
+            "raw": "Fish dropped. Soft wash & Ream Dn f/ 4083 to 4148.5m; 1-2 BPH Losses. "
+          },
+          "code": {
+            "sheet": "34-1 Remark",
+            "cell": "I24",
+            "raw": "39"
+          }
+        }
+      },
+      {
+        "day": 36,
+        "sheet": "36-1 Remark",
+        "cell": "K24",
+        "raw": "Cont. POOH 7-5/16\" Polish mill to surface, F/U the well, 0-1 BPH Losses. L/D Polish mill; Obs. LG mark on same.",
+        "anchor": "Obs. LG mark",
+        "english": "After pulling a 7-5/16-inch polish mill to surface, the report records an observed “LG” mark and 0–1 barrel per hour losses; the mark is not diagnosed here.",
+        "persian": "پس از بیرون کشیدن آسیاب پرداخت ۷-۵/۱۶ اینچ به سطح، گزارش نشانه «LG» و هرزروی صفر تا یک بشکه در ساعت را ثبت می‌کند؛ این نشانه در اینجا تفسیر خرابی نشده است.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "36-1 Remark",
+            "cell": "H24",
+            "raw": "4.1666666666666657E-2",
+            "value": 0.9999999999999998,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J24",
+          "status": "UP",
+          "classification": "unplanned",
+          "detail": {
+            "sheet": "36-1 Remark",
+            "cell": "K24",
+            "raw": "Cont. POOH 7-5/16\" Polish mill to surface, F/U the well, 0-1 BPH Losses. L/D Polish mill; Obs. LG mark on same."
+          },
+          "code": {
+            "sheet": "36-1 Remark",
+            "cell": "I24",
+            "raw": "39"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "The corrosion observation needs inspection records and well-specific history; the separate scraper-size conflict in the BHA table also requires vendor/tally confirmation.",
+      "persian": "مشاهده خوردگی به اسناد بازرسی و تاریخچه اختصاصی چاه نیاز دارد؛ اختلاف مستقل اندازه خراشنده در جدول رشته نیز به تأیید سازنده و فهرست تجهیزات نیاز دارد."
+    }
+  },
+  {
+    "well": "122WO2",
+    "file": "AZNS122WO2Pack.xlsx",
+    "events": [
+      {
+        "day": 18,
+        "sheet": "18-1 DDR Remark",
+        "cell": "S24",
+        "raw": "Commence Milling  and clean out F/4077m To 4080.30m ( WOB: 10-15 Klb, ROT: 50-60 RPM, F.Rate : 100 GPM. SPP: 750 psi, TQ: 2-4.5 Klb.ft )",
+        "anchor": "F/4077m To 4080.30m",
+        "english": "The report describes starting milling and clean-out from 4,077 to 4,080.30 m; the recorded parameters are not recommended settings.",
+        "persian": "گزارش آغاز آسیاب‌کاری و تمیزکاری از ۴۰۷۷ تا ۴۰۸۰٫۳۰ متر را شرح می‌دهد؛ پارامترهای ثبت‌شده مقادیر توصیه‌شده نیستند.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "18-1 DDR Remark",
+            "cell": "E24",
+            "raw": "10",
+            "value": 10.0
+          },
+          "status_cell": "M24",
+          "status": "PLN",
+          "classification": "planned",
+          "detail": {
+            "sheet": "18-1 DDR Remark",
+            "cell": "S24",
+            "raw": "Commence Milling  and clean out F/4077m To 4080.30m ( WOB: 10-15 Klb, ROT: 50-60 RPM, F.Rate : 100 GPM. SPP: 750 psi, TQ: 2-4.5 Klb.ft )"
+          },
+          "code": {
+            "sheet": "18-1 DDR Remark",
+            "cell": "I24",
+            "raw": "18"
+          }
+        }
+      },
+      {
+        "day": 37,
+        "sheet": "37-1 DDR Remark",
+        "cell": "S27",
+        "raw": "Perform Positive Pressure Test CMT Plug w/ 2000 psi, OK.",
+        "anchor": "Positive Pressure Test CMT Plug",
+        "english": "A positive pressure test of a cement plug is recorded at 2,000 psi with the source result “OK”.",
+        "persian": "آزمون فشار مثبت پلاگ سیمانی با فشار ۲۰۰۰ پوند بر اینچ مربع و نتیجه منبع «مطلوب» ثبت شده است.",
+        "associated_status_segment": {
+          "row": 27,
+          "duration": {
+            "sheet": "37-1 DDR Remark",
+            "cell": "E27",
+            "raw": "1.5",
+            "value": 1.5
+          },
+          "status_cell": "M27",
+          "status": "PLN",
+          "classification": "planned",
+          "detail": {
+            "sheet": "37-1 DDR Remark",
+            "cell": "S27",
+            "raw": "Perform Positive Pressure Test CMT Plug w/ 2000 psi, OK."
+          },
+          "code": {
+            "sheet": "37-1 DDR Remark",
+            "cell": "I27",
+            "raw": "17"
+          }
+        }
+      },
+      {
+        "day": 74,
+        "sheet": "74-1 DDR Remark",
+        "cell": "S24",
+        "raw": "Cont Run 10 Jts 4 1/2\" LNR (15.2#,T-95, TPCQ) to 324m  (Totally : 29 jts 4-1/2\" LNR ), P/U & M/U liner hanger assembly ( OD: 5-3/4\", ID:4-1/4\",",
+        "anchor": "Totally : 29 jts 4-1/2",
+        "english": "The report records running 10 additional 4½-inch liner joints, for a stated total of 29 joints, and making up the liner-hanger assembly.",
+        "persian": "گزارش راندن ۱۰ شاخه دیگر آستری ۴½ اینچ با مجموع اعلام‌شده ۲۹ شاخه و بستن مجموعه آویز آستری را ثبت می‌کند.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "74-1 DDR Remark",
+            "cell": "E24",
+            "raw": "2",
+            "value": 2.0
+          },
+          "status_cell": "M24",
+          "status": "PLN",
+          "classification": "planned",
+          "detail": {
+            "sheet": "74-1 DDR Remark",
+            "cell": "S24",
+            "raw": "Cont Run 10 Jts 4 1/2\" LNR (15.2#,T-95, TPCQ) to 324m  (Totally : 29 jts 4-1/2\" LNR ), P/U & M/U liner hanger assembly ( OD: 5-3/4\", ID:4-1/4\","
+          },
+          "code": {
+            "sheet": "74-1 DDR Remark",
+            "cell": "I24",
+            "raw": "12"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "A single plug test and liner tally do not prove long-term isolation or final configuration; reconcile cement, pressure, liner and completion records.",
+      "persian": "یک آزمون پلاگ و شمارش آستری، جداسازی بلندمدت یا وضعیت نهایی را ثابت نمی‌کند؛ سوابق سیمان، فشار، آستری و تکمیل تطبیق شوند."
+    }
+  },
+  {
+    "well": "127ST2",
+    "file": "AZNS127ST2Pack.xlsx",
+    "events": [
+      {
+        "day": 8,
+        "sheet": "8-1 DDR Remark",
+        "cell": "S37",
+        "raw": "Window Milling w/ 8-1/2\" Cased-hole Sidetrack BHA [8-1/2\" Rugby Mill (New, S/N: 4540 , NZL Ports: 3*20/32\") + 6-1/2\" Running tool +",
+        "anchor": "Window Milling",
+        "english": "The entry describes window milling with an 8½-inch cased-hole sidetrack assembly; this cell alone does not establish the final window dimensions.",
+        "persian": "مدخل آسیاب‌کاری پنجره با مجموعه ۸½ اینچی انحراف در چاه جداری‌گذاری‌شده را شرح می‌دهد؛ این سلول به‌تنهایی ابعاد نهایی پنجره را ثابت نمی‌کند.",
+        "associated_status_segment": {
+          "row": 37,
+          "duration": {
+            "sheet": "8-1 DDR Remark",
+            "cell": "E37",
+            "raw": "5",
+            "value": 5.0
+          },
+          "status_cell": "M37",
+          "status": "PLN",
+          "classification": "planned",
+          "detail": {
+            "sheet": "8-1 DDR Remark",
+            "cell": "S37",
+            "raw": "Window Milling w/ 8-1/2\" Cased-hole Sidetrack BHA [8-1/2\" Rugby Mill (New, S/N: 4540 , NZL Ports: 3*20/32\") + 6-1/2\" Running tool +"
+          },
+          "code": {
+            "sheet": "8-1 DDR Remark",
+            "cell": "I37",
+            "raw": "19"
+          }
+        }
+      },
+      {
+        "day": 31,
+        "sheet": "31-1 DDR Remark",
+        "cell": "S41",
+        "raw": "2 Hrs. NPT For OEOC Rig 201 due to TDS Gooseneck Leakage, To Fix Goosneck Leakage, POOH 8-1/2\" Dir. Drlg BHA F/ 3788.9 To 3743.5m",
+        "anchor": "TDS Gooseneck Leakage",
+        "english": "The report attributes an interruption to a top-drive gooseneck leak and describes pulling the directional assembly from 3,788.9 to 3,743.5 m; contractual responsibility remains unverified.",
+        "persian": "گزارش توقفی را به نشتی گلویی تاپ‌درایو نسبت داده و بیرون کشیدن مجموعه جهت‌دار از ۳۷۸۸٫۹ تا ۳۷۴۳٫۵ متر را شرح می‌دهد؛ مسئولیت قراردادی تأیید نشده است.",
+        "associated_status_segment": {
+          "row": 41,
+          "duration": {
+            "sheet": "31-1 DDR Remark",
+            "cell": "E41",
+            "raw": "1.9999999999999982",
+            "value": 1.9999999999999982
+          },
+          "status_cell": "M41",
+          "status": "NPT",
+          "classification": "npt",
+          "detail": {
+            "sheet": "31-1 DDR Remark",
+            "cell": "S41",
+            "raw": "2 Hrs. NPT For OEOC Rig 201 due to TDS Gooseneck Leakage, To Fix Goosneck Leakage, POOH 8-1/2\" Dir. Drlg BHA F/ 3788.9 To 3743.5m"
+          },
+          "code": {
+            "sheet": "31-1 DDR Remark",
+            "cell": "I41",
+            "raw": "3"
+          }
+        }
+      },
+      {
+        "day": 44,
+        "sheet": "44-1 DDR Remark",
+        "cell": "S27",
+        "raw": "Chang TDS Link to 500 Ton. M/U FOSV on string. R/U Dry test surface Equip & L/U to C.M. Press test surface line to 2500 Psi/10min; \"OK\".",
+        "anchor": "2500 Psi/10min",
+        "english": "A surface line test is reported at 2,500 psi for ten minutes with the source result “OK”; it is not proof of current barrier integrity.",
+        "persian": "آزمون خط سطحی با فشار ۲۵۰۰ پوند بر اینچ مربع به مدت ده دقیقه و نتیجه «مطلوب» گزارش شده است؛ این ثبت یکپارچگی فعلی موانع را ثابت نمی‌کند.",
+        "associated_status_segment": {
+          "row": 27,
+          "duration": {
+            "sheet": "44-1 DDR Remark",
+            "cell": "E27",
+            "raw": "1.9999999999999982",
+            "value": 1.9999999999999982
+          },
+          "status_cell": "M27",
+          "status": "Plan",
+          "classification": "planned",
+          "detail": {
+            "sheet": "44-1 DDR Remark",
+            "cell": "S27",
+            "raw": "Chang TDS Link to 500 Ton. M/U FOSV on string. R/U Dry test surface Equip & L/U to C.M. Press test surface line to 2500 Psi/10min; \"OK\"."
+          },
+          "code": {
+            "sheet": "44-1 DDR Remark",
+            "cell": "I27",
+            "raw": "17"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "The window record, leak entry and test relate to different report numbers and equipment. Verify event times, phase boundaries, test chart and repair evidence before drawing a causal or contractor conclusion.",
+      "persian": "ثبت پنجره، مدخل نشتی و آزمون به شماره گزارش‌ها و تجهیزات متفاوت مربوط‌اند. پیش از نتیجه‌گیری علّی یا قراردادی، زمان رخداد، مرز فاز، نمودار آزمون و شواهد تعمیر بررسی شوند."
+    }
+  },
+  {
+    "well": "127WO1",
+    "file": "AZNS127WO1Pack.xlsx",
+    "events": [
+      {
+        "day": 26,
+        "sheet": "26-1 Remark",
+        "cell": "K22",
+        "raw": "Cont. Work on fish with different parameters and try to free the string from Colided point; No Succ. Establish Circ, Got 100bbl Cut mud @ BTMs ",
+        "anchor": "No Succ",
+        "english": "The report states that attempts to free the fish were unsuccessful and circulation was established; the cell does not establish the cause of sticking.",
+        "persian": "گزارش می‌گوید تلاش‌ها برای آزادکردن قطعه جامانده ناموفق بوده و گردش برقرار شده است؛ این سلول علت گیر را ثابت نمی‌کند.",
+        "associated_status_segment": {
+          "row": 22,
+          "duration": {
+            "sheet": "26-1 Remark",
+            "cell": "H22",
+            "raw": "1",
+            "value": 24.0,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J22",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "26-1 Remark",
+            "cell": "K22",
+            "raw": "Cont. Work on fish with different parameters and try to free the string from Colided point; No Succ. Establish Circ, Got 100bbl Cut mud @ BTMs "
+          },
+          "code": {
+            "sheet": "26-1 Remark",
+            "cell": "I22",
+            "raw": "23"
+          }
+        }
+      },
+      {
+        "day": 42,
+        "sheet": "42-1 Remark",
+        "cell": "K23",
+        "raw": "TBG +,73.318m + 9.268m of 4-1/2\" TBG ,W/CIV Control Line Protector & L/D Same (Top of Fish is  3270.77m)",
+        "anchor": "Top of Fish is  3270.77m",
+        "english": "The cell gives the top of fish as 3,270.77 m alongside recovered tubing details; the depth reference and full assembly need reconciliation.",
+        "persian": "سلول در کنار جزئیات لوله بازیابی‌شده، رأس قطعه جامانده را ۳۲۷۰٫۷۷ متر ذکر می‌کند؛ مرجع عمق و مجموعه کامل نیازمند تطبیق‌اند.",
+        "associated_status_segment": null
+      },
+      {
+        "day": 60,
+        "sheet": "60-1 Remark",
+        "cell": "K23",
+        "raw": "M/U 5\" Circ. Swage on string, L/U CMT Line to Circ. Swage, Pressure Test CMT Line to 3500 psi; Ok. Set whipstock PKR @ 3339.08 m (BTM of ",
+        "anchor": "Pressure Test CMT Line to 3500 psi; Ok",
+        "english": "The cement line pressure test is recorded at 3,500 psi with result “OK”; the entry also refers to a whipstock packer at 3,339.08 m.",
+        "persian": "آزمون فشار خط سیمان با فشار ۳۵۰۰ پوند بر اینچ مربع و نتیجه «مطلوب» ثبت شده است؛ مدخل همچنین به پکر ویپ‌استاک در عمق ۳۳۳۹٫۰۸ متر اشاره می‌کند.",
+        "associated_status_segment": {
+          "row": 23,
+          "duration": {
+            "sheet": "60-1 Remark",
+            "cell": "H23",
+            "raw": "0.125",
+            "value": 3.0,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J23",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "60-1 Remark",
+            "cell": "K23",
+            "raw": "M/U 5\" Circ. Swage on string, L/U CMT Line to Circ. Swage, Pressure Test CMT Line to 3500 psi; Ok. Set whipstock PKR @ 3339.08 m (BTM of "
+          },
+          "code": {
+            "sheet": "60-1 Remark",
+            "cell": "I23",
+            "raw": "37"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "These fragments cover fish work, a depth entry and a line test; they do not prove a continuous sequence, final recovery, well status or sidetrack execution without the full records.",
+      "persian": "این گزیده‌ها کار روی قطعه، یک مقدار عمق و آزمون خط را پوشش می‌دهند؛ بدون سوابق کامل، توالی پیوسته، بازیابی نهایی، وضعیت چاه یا اجرای انحراف را ثابت نمی‌کنند."
+    }
+  },
+  {
+    "well": "127WO2",
+    "file": "AZNS127WOPack.xlsx",
+    "events": [
+      {
+        "day": 15,
+        "sheet": "15-1 DDR Remark",
+        "cell": "S34",
+        "raw": "Sev. Times, No Success; Try to Start POOH Slickline Tool Strg to Surface, Obs. Tool String is stuck, work on stuck and make it free;",
+        "anchor": "Tool String is stuck",
+        "english": "The entry describes a slickline tool string becoming stuck during retrieval and subsequently being freed; it does not establish the sticking mechanism.",
+        "persian": "مدخل گیرکردن رشته ابزار اسلیک‌لاین هنگام بازیابی و سپس آزادشدن آن را شرح می‌دهد؛ مکانیسم گیر را ثابت نمی‌کند.",
+        "associated_status_segment": null
+      },
+      {
+        "day": 44,
+        "sheet": "44-1 DDR Remark",
+        "cell": "S42",
+        "raw": "Note#1: Severe corrosion and washout were observed on the retrieved Fish.",
+        "anchor": "Severe corrosion and washout",
+        "english": "The report notes severe corrosion and washout observed on the retrieved fish; metallurgical mechanism and responsibility require separate evidence.",
+        "persian": "گزارش خوردگی شدید و شستگی مشاهده‌شده روی قطعه جامانده بازیابی‌شده را ذکر می‌کند؛ مکانیسم متالورژیکی و مسئولیت به شواهد جداگانه نیاز دارند.",
+        "associated_status_segment": null
+      },
+      {
+        "day": 58,
+        "sheet": "58-1 DDR Remark",
+        "cell": "S26",
+        "raw": "24.Feb.2026 - 20:00, Cont.  POOH w/ 4-1/2\" CBIL, CDR, GR, CCL log as run # 1 for 7\" Liner, log up f/ 3147 to Surface. NL-NG.",
+        "anchor": "24.Feb.2026",
+        "english": "The report describes pulling a wireline logging string for the 7-inch liner from 3,147 m to surface; the full logs are needed to interpret liner condition.",
+        "persian": "گزارش بیرون کشیدن رشته نمودارگیری با سیم برای آستری ۷ اینچ از ۳۱۴۷ متر تا سطح را شرح می‌دهد؛ تفسیر وضعیت آستری به لاگ‌های کامل نیاز دارد.",
+        "associated_status_segment": null
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "The corrosion and washout note describes a retrieved object, not automatically the casing or the cause of the incident. Review photographs, identification and inspection before attributing a mechanism.",
+      "persian": "یادداشت خوردگی و شستگی به یک قطعه بازیابی‌شده مربوط است، نه خودکار به جداری یا علت حادثه. پیش از انتساب مکانیسم، تصاویر، شناسایی و بازرسی بررسی شوند."
+    }
+  },
+  {
+    "well": "166",
+    "file": "AZNS166Pack.xlsx",
+    "events": [
+      {
+        "day": 4,
+        "sheet": "4-1 DDR Remark",
+        "cell": "S30",
+        "raw": "Cont. Test 13-5/8\" 10k BOP Stack. attempt to perform BOP test several Times No Succ, Work on fixing BOP leakages Till M.N.",
+        "anchor": "No Succ",
+        "english": "The report describes repeated unsuccessful blowout-preventer test attempts and work to fix leaks; no current barrier condition is inferred.",
+        "persian": "گزارش تلاش‌های مکرر ناموفق برای آزمون فوران‌گیر و کار برای رفع نشتی را شرح می‌دهد؛ وضعیت فعلی موانع از آن استنباط نمی‌شود.",
+        "associated_status_segment": null
+      },
+      {
+        "day": 5,
+        "sheet": "5-1 DDR Remark",
+        "cell": "S27",
+        "raw": "Fixing Leakage from Top & BTM Rams & Test it W/ 4500Psi, OK.",
+        "anchor": "4500Psi, OK",
+        "english": "The report records rectification of top- and bottom-ram leaks and a 4,500 psi test with source result “OK”.",
+        "persian": "گزارش رفع نشتی رام‌های بالا و پایین و آزمون با فشار ۴۵۰۰ پوند بر اینچ مربع با نتیجه منبع «مطلوب» را ثبت می‌کند.",
+        "associated_status_segment": null
+      },
+      {
+        "day": 23,
+        "sheet": "23-1 DDR Remark",
+        "cell": "S39",
+        "raw": "On L.Joint, Pressure Test TBG HGR and All Tie-Down Screws @ 1,000 Psi / 10 Min – Ok;",
+        "anchor": "1,000 Psi / 10 Min",
+        "english": "The tubing hanger and tie-down screws are reported pressure-tested at 1,000 psi for ten minutes, with result “OK”.",
+        "persian": "آویز لوله و پیچ‌های مهاری طبق گزارش با فشار ۱۰۰۰ پوند بر اینچ مربع به مدت ده دقیقه آزمون شده و نتیجه «مطلوب» بوده است.",
+        "associated_status_segment": null
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "A later successful test does not erase the earlier unsuccessful attempts or prove current integrity. Reconcile test diagrams, repairs and accepted barriers across the complete record.",
+      "persian": "آزمون موفق بعدی تلاش‌های ناموفق قبلی را حذف نمی‌کند و یکپارچگی فعلی را ثابت نمی‌کند. نمودارهای آزمون، تعمیرات و موانع پذیرفته‌شده در کل سابقه تطبیق شوند."
+    }
+  },
+  {
+    "well": "207",
+    "file": "AZNS207Pack.xlsx",
+    "events": [
+      {
+        "day": 32,
+        "sheet": "32-1 DDR Remark",
+        "cell": "S32",
+        "raw": "*** Left in hole: 17 1/2\" PDC Bit + Bit sub + 2 Jts 9 1/2\" DC, Fish length: 19.84m",
+        "anchor": "Fish length: 19.84m",
+        "english": "The note lists a 17½-inch PDC bit, bit sub and two 9½-inch drill collars left in hole, with a reported fish length of 19.84 m.",
+        "persian": "یادداشت، مته پلی‌کریستال ۱۷½ اینچ، رابط مته و دو شاخه طوق حفاری ۹½ اینچ را به‌عنوان قطعات جامانده با طول گزارش‌شده ۱۹٫۸۴ متر ذکر می‌کند.",
+        "associated_status_segment": null
+      },
+      {
+        "day": 106,
+        "sheet": "106-1 DDR Remark",
+        "cell": "S24",
+        "raw": "Cont. Drlg 12-1/4\" HS f/3741 to 3743m. 1-3 BPH Losses.\n\n>> Drilling Parameters: WOB: 11-17 klbs, Rt: 170 RPM, TQ: 7-9 Klbs.ft, F.R: 720 GPM, SPP: 2770 psi, Av. ROP: 1-2 MPH.",
+        "anchor": "1-3 BPH Losses",
+        "english": "The report describes drilling the 12¼-inch hole from 3,741 to 3,743 m with losses stated as 1–3 barrels per hour.",
+        "persian": "گزارش حفاری حفره ۱۲¼ اینچ از ۳۷۴۱ تا ۳۷۴۳ متر را با هرزروی اعلام‌شده ۱ تا ۳ بشکه در ساعت شرح می‌دهد.",
+        "associated_status_segment": {
+          "row": 24,
+          "duration": {
+            "sheet": "106-1 DDR Remark",
+            "cell": "E24",
+            "raw": "1.5",
+            "value": 1.5
+          },
+          "status_cell": "M24",
+          "status": "PLN",
+          "classification": "planned",
+          "detail": {
+            "sheet": "106-1 DDR Remark",
+            "cell": "S24",
+            "raw": "Cont. Drlg 12-1/4\" HS f/3741 to 3743m. 1-3 BPH Losses.\n\n>> Drilling Parameters: WOB: 11-17 klbs, Rt: 170 RPM, TQ: 7-9 Klbs.ft, F.R: 720 GPM, SPP: 2770 psi, Av. ROP: 1-2 MPH."
+          },
+          "code": {
+            "sheet": "106-1 DDR Remark",
+            "cell": "I24",
+            "raw": "2"
+          }
+        }
+      },
+      {
+        "day": 139,
+        "sheet": "139-1 DDR Remark",
+        "cell": "S25",
+        "raw": "Change TDS Link. M/U FOSV on string. R/U Dry test surface Equip & L/U to C.M. Press test surface line to 2500 psi/10min; OK. Record P/U & S/O string . Set 9-5/8\" Dry test PKR @ 3730m.  Closed top rams, apply 500 psi in to annulus for set packer test; OK.",
+        "anchor": "2500 psi/10min; OK",
+        "english": "The surface dry-test line pressure test is recorded as 2,500 psi for ten minutes, with the source result “OK”; the same entry records setting a test packer at 3,730 m.",
+        "persian": "آزمون فشار خط سطحی آزمون خشک با فشار ۲۵۰۰ پوند بر اینچ مربع به مدت ده دقیقه و نتیجه منبع «مطلوب» ثبت شده است؛ همان مدخل نصب پکر آزمون در ۳۷۳۰ متر را ذکر می‌کند.",
+        "associated_status_segment": {
+          "row": 25,
+          "duration": {
+            "sheet": "139-1 DDR Remark",
+            "cell": "E25",
+            "raw": "2.9999999999999996",
+            "value": 2.9999999999999996
+          },
+          "status_cell": "M25",
+          "status": "Plan",
+          "classification": "planned",
+          "detail": {
+            "sheet": "139-1 DDR Remark",
+            "cell": "S25",
+            "raw": "Change TDS Link. M/U FOSV on string. R/U Dry test surface Equip & L/U to C.M. Press test surface line to 2500 psi/10min; OK. Record P/U & S/O string . Set 9-5/8\" Dry test PKR @ 3730m.  Closed top rams, apply 500 psi in to annulus for set packer test; OK."
+          },
+          "code": {
+            "sheet": "139-1 DDR Remark",
+            "cell": "I25",
+            "raw": "17"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "Reconcile the fish dimensions, BHA tally, depth and the complete fishing/sidetrack records before calculating lost-hole performance or assigning a cause. Compare loss-rate narratives with the separately recorded loss-volume field; the bases may differ.",
+      "persian": "پیش از محاسبه عملکرد بخش از‌دست‌رفته یا انتساب علت، ابعاد قطعه، فهرست رشته، عمق و سوابق کامل ماهیگیری و انحراف تطبیق شوند. روایت نرخ هرزروی با ستون جداگانه حجم هرزروی مقایسه شود؛ مبنای ثبت ممکن است متفاوت باشد."
+    }
+  },
+  {
+    "well": "40",
+    "file": "AZNS40Pack.xlsx",
+    "events": [
+      {
+        "day": 33,
+        "sheet": "33-1 Remark",
+        "cell": "K22",
+        "raw": "Cont. Drlg 12-1/4” H.S f/ 2944 to 2945 m w/ low  progress; 8-10 BPH Losses,  While pump tandem pill 2 times  ",
+        "anchor": "8-10 BPH Losses",
+        "english": "The report describes low-progress drilling from 2,944 to 2,945 m with losses of 8–10 barrels per hour and two pill treatments.",
+        "persian": "گزارش پیشروی کم از ۲۹۴۴ تا ۲۹۴۵ متر، هرزروی ۸ تا ۱۰ بشکه در ساعت و دو نوبت پمپاژ پیل را شرح می‌دهد.",
+        "associated_status_segment": {
+          "row": 22,
+          "duration": {
+            "sheet": "33-1 Remark",
+            "cell": "H22",
+            "raw": "4",
+            "value": 4.0
+          },
+          "status_cell": "J22",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "33-1 Remark",
+            "cell": "K22",
+            "raw": "Cont. Drlg 12-1/4” H.S f/ 2944 to 2945 m w/ low  progress; 8-10 BPH Losses,  While pump tandem pill 2 times  "
+          },
+          "code": {
+            "sheet": "33-1 Remark",
+            "cell": "I22",
+            "raw": "2"
+          }
+        }
+      },
+      {
+        "day": 53,
+        "sheet": "53-1 Remark",
+        "cell": "K22",
+        "raw": "Cont. Log Up just w/ GR f/ 300 m to surface While Circ. Across WH 3-5 BPH losses. ",
+        "anchor": "3-5 BPH losses",
+        "english": "During the reported gamma-ray log-up from 300 m to surface, the same cell notes circulation and losses of 3–5 barrels per hour.",
+        "persian": "در نمودارگیری گاما از ۳۰۰ متر تا سطح، همان سلول گردش سیال و هرزروی ۳ تا ۵ بشکه در ساعت را ذکر می‌کند.",
+        "associated_status_segment": {
+          "row": 22,
+          "duration": {
+            "sheet": "53-1 Remark",
+            "cell": "H22",
+            "raw": "1",
+            "value": 1.0
+          },
+          "status_cell": "J22",
+          "status": "P",
+          "classification": "planned",
+          "detail": {
+            "sheet": "53-1 Remark",
+            "cell": "K22",
+            "raw": "Cont. Log Up just w/ GR f/ 300 m to surface While Circ. Across WH 3-5 BPH losses. "
+          },
+          "code": {
+            "sheet": "53-1 Remark",
+            "cell": "I22",
+            "raw": "10"
+          }
+        }
+      },
+      {
+        "day": 105,
+        "sheet": "105-1 Remark",
+        "cell": "K22",
+        "raw": "Cont. RIH 7-5/8\" O.Shot f/ 2080 to 2455m Jt by Jt, F/U String every 30 Jts; NL-NG. Tag TOF. Try to engage fish. Catch fish confirmed. P/U ",
+        "anchor": "Catch fish confirmed",
+        "english": "The entry reports an overshot trip to 2,455 m, tagging the top of fish and a confirmed catch; a complete recovery outcome requires subsequent records.",
+        "persian": "مدخل راندن اورشات تا ۲۴۵۵ متر، تماس با رأس قطعه جامانده و تأیید گرفتن آن را گزارش می‌کند؛ نتیجه بازیابی کامل به سوابق بعدی نیاز دارد.",
+        "associated_status_segment": {
+          "row": 22,
+          "duration": {
+            "sheet": "105-1 Remark",
+            "cell": "H22",
+            "raw": "0.125",
+            "value": 3.0,
+            "derived": "Excel time-formatted day fraction converted to hours"
+          },
+          "status_cell": "J22",
+          "status": "N",
+          "classification": "npt",
+          "detail": {
+            "sheet": "105-1 Remark",
+            "cell": "K22",
+            "raw": "Cont. RIH 7-5/8\" O.Shot f/ 2080 to 2455m Jt by Jt, F/U String every 30 Jts; NL-NG. Tag TOF. Try to engage fish. Catch fish confirmed. P/U "
+          },
+          "code": {
+            "sheet": "105-1 Remark",
+            "cell": "I22",
+            "raw": "41"
+          }
+        }
+      }
+    ],
+    "engineering_follow_up": {
+      "english": "Loss rate is not a formation assignment or cumulative volume. Reconcile report-end depths with the actual event depth, fluid ledger and fishing record before building a phase balance.",
+      "persian": "نرخ هرزروی انتساب سازندی یا حجم تجمعی نیست. پیش از تهیه تراز هر فاز، عمق پایان گزارش با عمق واقعی رویداد، دفتر سیال و سابقه ماهیگیری تطبیق شود."
+    }
+  }
+]

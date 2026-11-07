@@ -1,0 +1,436 @@
+[
+  {
+    "file": "CBS AZNS-12.xlsx",
+    "sheet": "Coil Tubing Service-12",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 14-Coiled Tubing Services for Well AZN-12",
+        "cached": "Table 14-Coiled Tubing Services for Well AZN-12"
+      },
+      "B3": {
+        "formula_or_value": "Coiled Tubing Unit (1 1/2\")",
+        "cached": "Coiled Tubing Unit (1 1/2\")"
+      },
+      "C3": {
+        "formula_or_value": "1 EA",
+        "cached": "1 EA"
+      },
+      "D3": {
+        "formula_or_value": 3,
+        "cached": 3
+      },
+      "E3": {
+        "formula_or_value": 5,
+        "cached": 5
+      },
+      "F3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "G3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "H3": {
+        "formula_or_value": "=F3*D3+E3*G3",
+        "cached": 38400
+      }
+    },
+    "well": "12"
+  },
+  {
+    "file": "CBS AZNS-075.xlsx",
+    "sheet": "Coil Tubing Service-075",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 14-Coiled Tubing Services for Well AZN-075",
+        "cached": "Table 14-Coiled Tubing Services for Well AZN-075"
+      },
+      "B3": {
+        "formula_or_value": "Coiled Tubing Unit (1 1/2\")",
+        "cached": "Coiled Tubing Unit (1 1/2\")"
+      },
+      "C3": {
+        "formula_or_value": "1 EA",
+        "cached": "1 EA"
+      },
+      "D3": {
+        "formula_or_value": 3,
+        "cached": 3
+      },
+      "E3": {
+        "formula_or_value": 5,
+        "cached": 5
+      },
+      "F3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "G3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "H3": {
+        "formula_or_value": "=F3*D3+E3*G3",
+        "cached": 38400
+      }
+    },
+    "well": "75"
+  },
+  {
+    "file": "CBS AZNS-127WO1 and 116.xlsx",
+    "sheet": "Coil Tubing Service-116",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 14-Coiled Tubing Services for Well AZN-116",
+        "cached": "Table 14-Coiled Tubing Services for Well AZN-116"
+      },
+      "B3": {
+        "formula_or_value": "Coiled Tubing Unit (1 1/2\")",
+        "cached": "Coiled Tubing Unit (1 1/2\")"
+      },
+      "C3": {
+        "formula_or_value": "1 EA",
+        "cached": "1 EA"
+      },
+      "D3": {
+        "formula_or_value": 3,
+        "cached": 3
+      },
+      "E3": {
+        "formula_or_value": 5,
+        "cached": 5
+      },
+      "F3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "G3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "H3": {
+        "formula_or_value": "=F3*D3+E3*G3",
+        "cached": 38400
+      }
+    },
+    "well": "116"
+  },
+  {
+    "file": "CBS AZNS-122WO2.xlsx",
+    "sheet": "Coil Tubing Service-122",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 14-Coiled Tubing Services for Well AZN-122",
+        "cached": "Table 14-Coiled Tubing Services for Well AZN-122"
+      },
+      "B3": {
+        "formula_or_value": "Coiled Tubing Unit (1 1/2\")",
+        "cached": "Coiled Tubing Unit (1 1/2\")"
+      },
+      "C3": {
+        "formula_or_value": "1 EA",
+        "cached": "1 EA"
+      },
+      "D3": {
+        "formula_or_value": 3,
+        "cached": 3
+      },
+      "E3": {
+        "formula_or_value": 5,
+        "cached": 5
+      },
+      "F3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "G3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "H3": {
+        "formula_or_value": "=F3*D3+E3*G3",
+        "cached": 38400
+      }
+    },
+    "well": "122WO2"
+  },
+  {
+    "file": "CBS AZNS-127WO2.xlsx",
+    "sheet": "Coil Tubing Service-127#2",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 14-Coiled Tubing Services for Well AZN-127-WO#2",
+        "cached": "Table 14-Coiled Tubing Services for Well AZN-127-WO#2"
+      },
+      "B3": {
+        "formula_or_value": "Coiled Tubing Unit (1 1/2\")",
+        "cached": "Coiled Tubing Unit (1 1/2\")"
+      },
+      "C3": {
+        "formula_or_value": "1 EA",
+        "cached": "1 EA"
+      },
+      "D3": {
+        "formula_or_value": 6,
+        "cached": 6
+      },
+      "E3": {
+        "formula_or_value": 10,
+        "cached": 10
+      },
+      "F3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "G3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "H3": {
+        "formula_or_value": "=F3*D3+E3*G3",
+        "cached": 76800
+      }
+    },
+    "well": "127WO2"
+  },
+  {
+    "file": "CBS AZNS-166.xlsx",
+    "sheet": "Coil Tubing Service-166",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 14-Coiled Tubing Services for Well AZN-166",
+        "cached": "Table 14-Coiled Tubing Services for Well AZN-166"
+      },
+      "B3": {
+        "formula_or_value": "Coiled Tubing Unit (1 1/2\")",
+        "cached": "Coiled Tubing Unit (1 1/2\")"
+      },
+      "C3": {
+        "formula_or_value": "1 EA",
+        "cached": "1 EA"
+      },
+      "D3": {
+        "formula_or_value": 6,
+        "cached": 6
+      },
+      "E3": {
+        "formula_or_value": 10,
+        "cached": 10
+      },
+      "F3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "G3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "H3": {
+        "formula_or_value": "=F3*D3+E3*G3",
+        "cached": 76800
+      }
+    },
+    "well": "166"
+  },
+  {
+    "file": "CBS AZNS-207.xlsx",
+    "sheet": "Coil Tubing Service-F-20",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 14-Coiled Tubing Services for Well F-20",
+        "cached": "Table 14-Coiled Tubing Services for Well F-20"
+      },
+      "B3": {
+        "formula_or_value": "Coiled Tubing Unit (1 1/2\")",
+        "cached": "Coiled Tubing Unit (1 1/2\")"
+      },
+      "C3": {
+        "formula_or_value": "1 EA",
+        "cached": "1 EA"
+      },
+      "D3": {
+        "formula_or_value": 3,
+        "cached": 3
+      },
+      "E3": {
+        "formula_or_value": 5,
+        "cached": 5
+      },
+      "F3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "G3": {
+        "formula_or_value": 4800,
+        "cached": 4800
+      },
+      "H3": {
+        "formula_or_value": "=F3*D3+E3*G3",
+        "cached": 38400
+      }
+    },
+    "well": "207"
+  },
+  {
+    "file": "CBS AZNS-207.xlsx",
+    "sheet": "Well testing and production-127",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 16- Well Testing and Production Services for Well F-20",
+        "cached": "Table 16- Well Testing and Production Services for Well F-20"
+      },
+      "H3": {
+        "formula_or_value": "=(D3*F3)+(G3*E3)",
+        "cached": 13000
+      }
+    },
+    "well": "207"
+  },
+  {
+    "file": "CBS AZNS-40.xlsx",
+    "sheet": "Cost breakdown Rigless Stim.-40",
+    "cells": {
+      "A1": {
+        "formula_or_value": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-40 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation).",
+        "cached": "Table 10: Cost Breakdown for Rig-less Stimulation EPDS LUMP SUM PRICEfor Well AZN-40 (The below tables (10-23) shall be filled-up by bidders for each type of wells for rig-less operation)."
+      },
+      "B3": {
+        "formula_or_value": "Mobilization, Demobilization",
+        "cached": "Mobilization, Demobilization"
+      },
+      "C3": {
+        "formula_or_value": 34138,
+        "cached": 34138
+      },
+      "B4": {
+        "formula_or_value": "Materials and Consumables",
+        "cached": "Materials and Consumables"
+      },
+      "C4": {
+        "formula_or_value": 159182.5,
+        "cached": 159182.5
+      },
+      "B5": {
+        "formula_or_value": "Acidizing and N2 services",
+        "cached": "Acidizing and N2 services"
+      },
+      "C5": {
+        "formula_or_value": 117529,
+        "cached": 117529
+      },
+      "B6": {
+        "formula_or_value": "Coiled Tubing Services",
+        "cached": "Coiled Tubing Services"
+      },
+      "C6": {
+        "formula_or_value": 44900,
+        "cached": 44900
+      },
+      "B7": {
+        "formula_or_value": "Oil Transportation Services",
+        "cached": "Oil Transportation Services"
+      },
+      "C7": {
+        "formula_or_value": 60000,
+        "cached": 60000
+      },
+      "B8": {
+        "formula_or_value": "Well Testing and Production Services",
+        "cached": "Well Testing and Production Services"
+      },
+      "C8": {
+        "formula_or_value": 83282.84,
+        "cached": 83282.84
+      },
+      "B9": {
+        "formula_or_value": "Wireline  Production Logging  Services",
+        "cached": "Wireline  Production Logging  Services"
+      },
+      "C9": {
+        "formula_or_value": 76170,
+        "cached": 76170
+      },
+      "B10": {
+        "formula_or_value": "Slickline Services",
+        "cached": "Slickline Services"
+      },
+      "C10": {
+        "formula_or_value": 19732.3,
+        "cached": 19732.3
+      },
+      "B11": {
+        "formula_or_value": "Memory Gauge Service",
+        "cached": "Memory Gauge Service"
+      },
+      "C11": {
+        "formula_or_value": 2927,
+        "cached": 2927
+      },
+      "B12": {
+        "formula_or_value": "Bottomhole PVT Sampling",
+        "cached": "Bottomhole PVT Sampling"
+      },
+      "C12": {
+        "formula_or_value": 39100,
+        "cached": 39100
+      },
+      "B13": {
+        "formula_or_value": "Personnel Rates",
+        "cached": "Personnel Rates"
+      },
+      "C13": {
+        "formula_or_value": 49512,
+        "cached": 49512
+      },
+      "B14": {
+        "formula_or_value": "Design, Interpretation, Reporting",
+        "cached": "Design, Interpretation, Reporting"
+      },
+      "C14": {
+        "formula_or_value": 13000,
+        "cached": 13000
+      },
+      "B15": {
+        "formula_or_value": "Accommodation",
+        "cached": "Accommodation"
+      },
+      "C15": {
+        "formula_or_value": 50000,
+        "cached": 50000
+      },
+      "C16": {
+        "formula_or_value": 749473.64,
+        "cached": 749473.64
+      }
+    },
+    "well": "40"
+  },
+  {
+    "file": "CBS AZNS-127 WO1.xlsx",
+    "sheet": "AZNS-127 WO (Side Tracking) ",
+    "cells": {
+      "B2": {
+        "formula_or_value": "De-Complete, Re-Complete Operation TBD of Well: \nAZNS-127 Work-over (Side Tracking)",
+        "cached": "De-Complete, Re-Complete Operation TBD of Well: \nAZNS-127 Work-over (Side Tracking)"
+      },
+      "R2": {
+        "formula_or_value": "Total Duration w/ contingency (Days)",
+        "cached": "Total Duration w/ contingency (Days)"
+      },
+      "R23": {
+        "formula_or_value": "=#REF!+Q23",
+        "cached": "#REF!"
+      },
+      "R24": {
+        "formula_or_value": "=R23+Q24",
+        "cached": "#REF!"
+      },
+      "R83": {
+        "formula_or_value": "=R82",
+        "cached": "#REF!"
+      }
+    },
+    "well": "127WO1"
+  }
+]
