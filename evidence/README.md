@@ -208,3 +208,13 @@ PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_75_campaign.py
 PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_75_campaign_note.py
 /tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_75_campaign_review.py' -v
 ```
+
+## Selected 10 de-suspension and completion review
+
+`10_campaign_review.json` contains 27 selected bilingual observations, 219 exact source cells, programme p.7 and selected cached/formula CBS values. Report-header ordering, with worksheet prefix for ties, is not verified chronology: worksheets 27 and 28 both have header 27. Bubbles in a dry-test period and a later failed completion pressure test must be read along with later source-labelled tests and signed acceptance records. CBS values are cached workbook figures, not verified actual payment; the two sheets' totals are not automatically additive.
+
+```sh
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_10_campaign.py
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_10_campaign_note.py
+/tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_10_campaign_review.py' -v
+```

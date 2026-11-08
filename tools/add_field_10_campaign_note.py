@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+from pathlib import Path
+from docx import Document
+from replace_well_bit_evidence import style
+for typ in ('Master_Drilling_Engineering','Executive_Management'):
+ for lang in ('EN','FA'):
+  fa=lang=='FA';path=Path(f'Field_{typ}_Report_{lang}.docx');d=Document(path);title='بازبینی منتخب عملیات چاه ۱۰' if fa else 'Selected AZNS-10 campaign review'
+  if any(p.text==title for p in d.paragraphs):continue
+  h=d.add_heading(title,level=2);h.alignment=1
+  msg=('در چاه ۱۰، شیت‌های ۲۷ و ۲۸ هر دو شماره سرصفحه ۲۷ دارند؛ ترتیب آن‌ها به اسناد امضاشده نیاز دارد. آزمون خشک بازبست در دوره باز دوم حباب ثبت کرده و تفسیر آن بدون نمودار و معیار پذیرش قطعی نیست. پس از آزمون‌های اولیه مطلوب پکر، افت فشار به صفر و برگشت از فضای حلقوی در آزمون بعدی ثبت شده و صفحات بعد آزمون‌های مطلوب را گزارش می‌کنند؛ هیچ‌یک به‌تنهایی وضعیت کنونی مانع نیست. ران‌های مشبک‌کاری جداگانه‌اند و فاصله‌های بین آن‌ها را نباید مشبک‌شده یا بهره‌دهی فرض کرد. دو شیت CBS مقادیر و دامنه‌های متفاوتی دارند؛ cache آن‌ها پرداخت واقعی یا کار اضافی مصوب نیست و بدون تطبیق نباید جمع شوند. [AZNS10Pack.xlsx، 27-1 Remark!K22:K28، 28-1 Remark!K22:K25، 54-1 Remark!K31:K35، 62-1 Remark!K26:K36، 63-1 Remark!K26:K36، 76-1 Remark!K22:K25، 82-1 Remark!K22:K27؛ CBS AZNS-10.xlsx، Cost Breakdown-10 w. Extra Wor!F191، Cost Breakdown-10!F190؛ evidence/10_campaign_review.json]' if fa else 'AZNS-10 worksheets 27 and 28 both have source header 27; their order requires signed records. The tie-back dry test reports bubbles in its second open period and cannot be interpreted without the gauge chart and acceptance criteria. After source-labelled initial packer tests, a later test records pressure dropping to zero and annulus return; subsequent pages report tests labelled OK. None alone establishes current barriers. Perforating runs are distinct; gaps and productivity must not be assumed. The two CBS sheets contain differently scoped values; cached totals are not actual payment or approved extra work and must not be added without reconciliation. [AZNS10Pack.xlsx, 27-1 Remark!K22:K28, 28-1 Remark!K22:K25, 54-1 Remark!K31:K35, 62-1 Remark!K26:K36, 63-1 Remark!K26:K36, 76-1 Remark!K22:K25, 82-1 Remark!K22:K27; CBS AZNS-10.xlsx, Cost Breakdown-10 w. Extra Wor!F191, Cost Breakdown-10!F190; evidence/10_campaign_review.json]')
+  p=d.add_paragraph(msg);style(p,fa);d.save(path)
