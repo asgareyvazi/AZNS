@@ -1,0 +1,398 @@
+{
+  "well": "12",
+  "source": "AZNS12Pack.xlsx",
+  "method": "Selected source entries ordered by header number, not a signed chronological reconstruction. Scope, dates and interpretations remain subject to reconciliation.",
+  "events": [
+    {
+      "sheet": "1-1 DDR Remark",
+      "worksheet_prefix": 1,
+      "header_report_number": 1,
+      "header_date_unverified": "2025-04-13",
+      "cells": {
+        "S27": "Held PJSM. Spud the rig @ 13-Apr-2025, 18:00. Check Section C: Press Test Between Lower P-Seal, Ring Gasket & 9-5/8\" CSG Slips w/ 3000 psi; \"OK\". Press Test Upper P-Seal w/ max",
+        "S28": "600 psi; \"OK\" & Try to inject plastic packing; \"No-Succ\". Check 7\" X 9 5/8\" Ann Press; Zero. Install 7-1/16\" 5k Companion flange on 2SV. Open all valve & Monitor Wellhead Press;",
+        "S29": " Zero. Press test 7-1/16\" 5K Top master valve w/ 3000 psi; \"OK\" & Check all Ann. Press., Bleed off to zero.",
+        "S30": "Meanwhile Prepare 300 bbl 81 pcf mud. "
+      },
+      "anchor": "13-Apr-2025",
+      "english": "The page records rig spud on 13 April 2025 at 18:00 and source-labelled initial wellhead pressure tests. These are historical reports; the test scope and start boundary require signed records.",
+      "persian": "صفحه شروع دکل در ۱۳ آوریل ۲۰۲۵ ساعت ۱۸ و آزمون‌های اولیه فشار سرچاهی با نتیجه درج‌شده در منبع را ثبت می‌کند. محدوده آزمون و مرز شروع به گزارش امضاشده نیاز دارند."
+    },
+    {
+      "sheet": "4-1 DDR Remark",
+      "worksheet_prefix": 4,
+      "header_report_number": 4,
+      "header_date_unverified": "2025-04-16",
+      "cells": {
+        "S24": "Wait on R/U CTU. OEOC Refuses to R/U CT Injector head. So 24 hours NPT has been applied for OEOC rig and services."
+      },
+      "anchor": "24 hours NPT",
+      "english": "The source records 24 hours labelled NPT while awaiting CT injector rig-up and includes an attribution to the rig and services. The statement is not an independent determination of cause or contractual liability.",
+      "persian": "منبع ۲۴ ساعت با برچسب زمان غیرمولد در انتظار استقرار تزریق‌کننده CT و انتساب آن به دکل و خدمات را ثبت می‌کند. این عبارت تعیین مستقل علت یا مسئولیت قراردادی نیست."
+    },
+    {
+      "sheet": "5-1 DDR Remark",
+      "worksheet_prefix": 5,
+      "header_report_number": 5,
+      "header_date_unverified": "2025-04-17",
+      "cells": {
+        "S25": "Rec. 50 ton crane. M/U 1-1/2\"Roll on Connector on 1-1/2\"CT Pipe & Perform Pull Test to Max 12 Klbs, Ok. Install CT BOP on 7-1/16\" Riser. R/U CT Injector Head & Install on BOP. ",
+        "S26": "Perform Press test w/ 3500 psi; \"Ok\". RIH w/ 1-1/2\"C.TBG to to 2798m (TOF), Meanwhile Slow Circ. Mud thru CT. Try to Pass this Point (2798m) w/ Apply Max. 2000 Lb Wt.; \"No-Succ.",
+        "S27": "Displace the string w/ 200 bbl 84 pcf CaCO3 Poly Mud till M.N. Meanwhile POOH to 2780m.",
+        "S28": "(CT BHA Component: 1-1/2\"Roll on Connector, 1-13/16\"Double Flapper Check Valve, 1-13/16\" Wash Nozzle (w/ 5 x 11/32\" Port Size))",
+        "S29": "Totally 17 Hrs NPT has been applied for OEOC rig and services."
+      },
+      "anchor": "2798m",
+      "english": "A CT run is reported to 2,798 m, described as top of fish, with an unsuccessful attempt to pass and recorded fluid displacement. The stated 17-hour NPT note needs its reporting basis reconciled before comparison with other pages.",
+      "persian": "ران CT تا ۲۷۹۸ متر، به‌عنوان رأس قطعه جامانده، با تلاش ناموفق عبور و جابه‌جایی سیال گزارش شده است. یادداشت ۱۷ ساعت غیرمولد پیش از مقایسه با صفحات دیگر به تطبیق مبنای ثبت نیاز دارد."
+    },
+    {
+      "sheet": "8-1 DDR Remark",
+      "worksheet_prefix": 8,
+      "header_report_number": 8,
+      "header_date_unverified": "2025-04-20",
+      "cells": {
+        "S24": "Due to unable to establish circulation through the string and discrepancies between in/out mud weight values. In order to well safety before unlatch the anchor seal from the PKR and ",
+        "S25": "addressing trapped pressure below the 7\" PKR, Wait on daylight to proceed with punching the string from 2800 m.",
+        "S27": "R/U Wireline logging Equip. (Sealand Co.). Install Wire Line BOP on 7\" XOS. Press. Test same w/ 1000 psi; \"Ok\".  L/U f/ 7\" x 9 5/8\" Ann. to  C/M.",
+        "S28": "Held PJSM. Load & Armed  5 No. HMX Bullet on carrier. RIH w/L Punch Assy (Cable head, CCL, Wt. bar, Carrier, BTM Nose: Max OD: 1-11/16\", Tot Len: 4.35m) to 2794m, Meanwhile ",
+        "S29": "perform depth correlation. Stop at shoot interval. Fire the bullet. Obs. Shooting indication. Punch Interval f/ 2793.6 to 2792.4m. Established Circ. Thru string & Got Ann Returns ",
+        "S30": "contamination f/ 55 to 77 pcf. "
+      },
+      "anchor": "2793.6",
+      "english": "The report describes a circulation difficulty, concern about trapped pressure below the packer and a punched interval of 2,793.6–2,792.4 m, followed by reported circulation and contaminated return. These are historical operations, not a future well-control procedure.",
+      "persian": "گزارش دشواری گردش، نگرانی از فشار محبوس زیر پکر و پانچ بازه ۲۷۹۳٫۶ تا ۲۷۹۲٫۴ متر و سپس گردش و برگشت آلوده ثبت‌شده را شرح می‌دهد. این عملیات تاریخی دستورالعمل کنترل چاه آینده نیست."
+    },
+    {
+      "sheet": "11-1 DDR Remark",
+      "worksheet_prefix": 11,
+      "header_report_number": 11,
+      "header_date_unverified": "2025-04-23",
+      "cells": {
+        "S24": "Cont. Circ. Mud Thru string Till uniform MW in/out Checked Return Mud Noticed Cut the MW and OBS. Oil gas in return (Totally 350bbl). ",
+        "S25": "Disconnect TDS, L/D 7\" N.vam L.J + 7\" * 4-1/2\" N.vam X.O.S + 5\" DP ( S-Grade) Pup Jt.",
+        "S26": "POOH Ret. Completion string as: B/O & L/D Tubing Hanger & fluted Adapter + 5JT 7\" Tubing 29#, L-80 N.vam + 5No. 7\" Fluted Swage 29#, L-80 N.vam + 7\" baker type 3SV w/ Long (20ft) +",
+        "S27": "Short (6ft) Flow Coupling & Totally 97Jts 7\" Tubing 29#, L-80 N.vam While Circ. Mud C.W.H w/ 4-6 BPHL Till M.N."
+      },
+      "anchor": "Oil gas",
+      "english": "The source reports cut return mud weight and oil/gas in returns before pulling part of the completion. It does not establish the source or volume of influx independently of the complete circulation and well-control records.",
+      "persian": "منبع کاهش وزن گل برگشتی و مشاهده نفت و گاز در برگشت پیش از بیرون کشیدن بخشی از تکمیل را گزارش می‌کند. منشأ یا حجم ورود سیال بدون سوابق کامل گردش و کنترل چاه مستقلاً احراز نمی‌شود."
+    },
+    {
+      "sheet": "12-1 DDR Remark",
+      "worksheet_prefix": 12,
+      "header_report_number": 12,
+      "header_date_unverified": "2025-04-24",
+      "cells": {
+        "S24": "Cont. POOH Completion string To Surface and OBS. Cutted off Comp. String from Box of Expan. JT 20ft stroke N.vam (fully open position) While C.W.H w/ 4-6 BPHL.",
+        "S25": ">> Pulled out Comp. string Description: Tubing Hanger & fluted Adapter + 5JT 7\" Tubing 29#, L-80 N.vam + 5No. 7\" Fluted Swage 29#, L-80 N.vam + 7\" baker type 3SV w/ Long (20ft) + ",
+        "S26": "Short (6ft) Flow Coupling + 266Jts 7\" Tubing 29#, L-80 N.vam + 7\" *  4-1/2\" N.vam X.O.S + 6jtS 4-1/2\" Tubing 13.5#, L-80 N.vam. ",
+        "S27": ">> Remain Comp. String from TOF to Comp. PKR : Expan. JT 20ft stroke N.vam + 1jt 4-1/2\" Tubing 13.5#, L-80 N.vam + 4-1/2\" SSD N.vam + 1jt 4-1/2\" Tubing 13.5#, L-80 N.vam + ",
+        "S28": "4-1/2\" Anchor Seal N.vam (Length:32m).",
+        "S29": ">> Fish Description: TOF Depht: 3302m, OD: 5-3/8\", ID: 4-3/8\", TOF to BTM Comp. string: 47m.",
+        "S30": ">> During POOH OBS. Obstruction by slick line @ jt#229 (2795m) , #242(2944m), #248 (3001m) also OBS. Plugged  7\" *  4-1/2\" N.vam X.O.S with debris of asphaltene and sand."
+      },
+      "anchor": "3302m",
+      "english": "The page describes separation at the expansion-joint box and a remaining completion fish, with top-of-fish stated at 3,302 m and listed components. It also reports slickline obstruction and debris; material cause and final downhole inventory require the tally and later records.",
+      "persian": "صفحه جداشدگی از جعبه اتصال لوله انبساطی و قطعه تکمیلی باقی‌مانده با رأس اعلام‌شده ۳۳۰۲ متر و اجزای فهرست‌شده را شرح می‌دهد. مانع سیمی و خرده نیز گزارش شده‌اند؛ علت و موجودی نهایی به فهرست و سوابق بعدی نیاز دارند."
+    },
+    {
+      "sheet": "15-1 DDR Remark",
+      "worksheet_prefix": 15,
+      "header_report_number": 15,
+      "header_date_unverified": "2025-04-27",
+      "cells": {
+        "S24": "Cont. POOH W/ 3-1/2\" Spear as chain out F/2550 to Surface & Recoverd about 100-150m Slick line, L/D 3-1/2\" Spear while Circ. Mud C.W.H w/ 0-1 BPHL.",
+        "S25": ">> Static Flow check @ two stage (2500m & 900m): \"NL-NG\".",
+        "S26": "P/U & M/U 2\" * 4\" Taper tap & RIH W/ Fishing BHA#02 To 3290m while Circ. Mud C.W.H w/ NL-NG.",
+        "S33": ">> Fish Description: TOF Depht: 3307m, OD: 5-3/8\", ID: 4-3/8\", TOF to BTM Comp. string: 47m.",
+        "S34": ">> Remain Comp. String from TOF to Comp. PKR : Expan. JT 20ft stroke N.vam + 1jt 4-1/2\" Tubing 13.5#, L-80 N.vam + 4-1/2\" SSD N.vam + 1jt 4-1/2\" Tubing 13.5#, L-80 N.vam + ",
+        "S35": "4-1/2\" Anchor Seal N.vam (Length:32m)."
+      },
+      "anchor": "100-150m",
+      "english": "The report states approximately 100–150 m of slickline was recovered and lists a 3,307 m fish reference. It does not prove the whole wire was recovered; the earlier page's 3,302 m reference is a separate source entry.",
+      "persian": "گزارش بازیابی حدود ۱۰۰ تا ۱۵۰ متر سیم و مرجع قطعه جامانده در ۳۳۰۷ متر را ثبت می‌کند. بازیابی تمام سیم را ثابت نمی‌کند؛ مرجع ۳۳۰۲ متر صفحه پیشین مدخلی جداگانه است."
+    },
+    {
+      "sheet": "16-1 DDR Remark",
+      "worksheet_prefix": 16,
+      "header_report_number": 16,
+      "header_date_unverified": "2025-04-28",
+      "cells": {
+        "S24": "Cont. RIH W/  2\" * 4\" Taper tap & Fishing BHA#02 F/ 3290 To 3305m (2M above Fish Depth), Record Upward & Downward WT W/ Pumping & W/O Pumping",
+        "S25": "Clean TOF & Tag same @ 3307m, RIH W/ Min. rpm & Slow circ mud, Engage w/ Fish & OBS. Press indication, Tap inside Fish, Keep string in Tension (10klbs) and Rotate same 30rounds ",
+        "S26": "Clockwise, In Order to Confirm catching the fish, Estab. Circ. Mud Check the press. & String Upward WT (were more than before).",
+        "S28": "POOH W/ 2\" * 4\" Taper tap & Fishing BHA#02 as chain out F/3307 to Surface, Recoverd Fish Completely as below: ",
+        "S29": ">> Expan. JT 20ft stroke N.vam + 1jt 4-1/2\" Tubing 13.5#, L-80 N.vam + 4-1/2\" SSD N.vam + 1jt 4-1/2\" Tubing 13.5#, L-80 N.vam + 4-1/2\" Anchor Seal N.vam (Length:32m).",
+        "S30": "L/D Fish, Wash & Clean Rig Floor While Circ. C.W.H w/ NL-NG.",
+        "S32": ">> Remain Comp. String in Hole: 7\" PKR N.vam + 5\" mill out Extention + 5\" X.O.S N.vam Box * 4-1/2\" Vam Pin + 1jt 4-1/2\" Tubing 13.5#, L-80 N.vam  N. vam Box + ",
+        "S33": "4-1/2\" X.O.S 3-1/2\" HSC Pin * 4 1/2\" + 3-1/2\" NO-GO + 3-1/2\" Mule Shoe. (Length: 15m)."
+      },
+      "anchor": "Recoverd Fish Completely",
+      "english": "The source says the specified expansion-joint/SSD/anchor-seal fish was recovered completely, while listing the packer and other components remaining in hole. The claim applies to the stated fish, not all equipment or debris in the well.",
+      "persian": "منبع بازیابی کامل قطعه مشخص‌شده شامل لوله انبساطی، شیر کشویی و انکرسیل را اعلام و هم‌زمان پکر و اجزای دیگری را باقی‌مانده در چاه فهرست می‌کند. ادعای بازیابی به همان قطعه مربوط است نه تمام تجهیزات یا خرده‌های چاه."
+    },
+    {
+      "sheet": "18-1 DDR Remark",
+      "worksheet_prefix": 18,
+      "header_report_number": 18,
+      "header_date_unverified": "2025-04-30",
+      "cells": {
+        "S24": "Cont. RIH as R/D f/3338 to 3454m, OBS. Conn. Gas & Pit Gain (4 BPHG).",
+        "S25": "Closed the well @ 3454m, Circ. Mud to Kill the Well Thru C/M While weight Up Active Sys. mud To 83pcf Meanwhile OBS. Cut Return MW @ BTMs Up f/ 81 to 69pcf Gradually.",
+        "S26": "Over Circ. Mud Thru C/M by 83pcf Mud while apply max. 300-400psi back press. For one Hole vol. and Stop Circ. Due to shortage of 83pcf Mud @ surface and unable to weight up same.",
+        "S27": "Closed C/M and Monitor the Ann. press. while Prepared 82pcf Mud (totally: 1200BBLs Pumpable).",
+        "S28": "Start Circ. Mud thru C/M by 82pcf Mud and apply Back Press., After pumping Totally 984bbls 82-84pcf, Got 84pcf mud @ Return (min. Cut MW @ Return was 56pcf) W/ NL-NG.",
+        "S29": "Open the well and Check Pit Levels as Dynamic & Static \"NL-NG\"."
+      },
+      "anchor": "Pit Gain",
+      "english": "The source records connection gas and a 4 bbl/h pit gain, closure and circulation, and a minimum reported return mud weight of 56 pcf. The event is not an independent influx-volume calculation or a recommended circulation procedure.",
+      "persian": "منبع گاز اتصال و افزایش مخزن ۴ بشکه در ساعت، بستن و گردش و حداقل وزن برگشتی گزارش‌شده ۵۶ پوند بر فوت مکعب را ثبت می‌کند. این مدخل محاسبه مستقل حجم ورود سیال یا دستور گردش توصیه‌شده نیست."
+    },
+    {
+      "sheet": "23-1 DDR Remark",
+      "worksheet_prefix": 23,
+      "header_report_number": 23,
+      "header_date_unverified": "2025-05-05",
+      "cells": {
+        "S24": "Cont. Wait on bad weather (Dust storm) @ 2700m.",
+        "S25": "Resume POOH chain out w/ 2\" x  4\" Taper tap f/ 2700m to surface, While Circ. CWH; 0-1 BPHL. Obs. Packer & Tail retrieved successfully. L/D completion packer & Tail Jt by Jt (A piece of",
+        "S26": "7\" PKR + 5\" Mill out extension + 5\" XOS N.Vam Box X 4-1/2\" N.Vam Pin + 1 Jt 4-1/2\" Tubing 13.5#, L-80 N.Vam + XOS 4-1/2\" N.Vam Box X 3-1/2\" HSC Pin + 3-1/2\" NO-GO HSC + ",
+        "S27": "3-1/2\" Mule Shoe HSC) Length: 15m. Meanwhile Obs. retrieve almost 15m slick line wire inside fish. "
+      },
+      "anchor": "retrieved successfully",
+      "english": "The report says the packer and tail were retrieved, describes the recovered assembly as including a piece of the 7-inch packer and notes approximately 15 m of slickline inside the fish. The remaining fish and debris inventory needs reconciliation.",
+      "persian": "گزارش بازیابی پکر و انتهای آن را اعلام می‌کند، مجموعه را شامل قطعه‌ای از پکر ۷ اینچ توصیف و حدود ۱۵ متر سیم داخل قطعه را ثبت می‌کند. موجودی قطعات و خرده‌های باقی‌مانده به تطبیق نیاز دارد."
+    },
+    {
+      "sheet": "27-1 DDR Remark",
+      "worksheet_prefix": 27,
+      "header_report_number": 27,
+      "header_date_unverified": "2025-05-09",
+      "cells": {
+        "S24": "Cont. RIH w/ 5-7/16\" Wire grab f/ 3200 to 3770m. Cont. RIH to 3778m, Meanwhile work on wire grab as per procedure and Try to engage w/ fish in several times and rotate string to",
+        "S25": "change orientation. Decided to POOH to surface & Check string.",
+        "S26": "POOH w/ Wire grab f/3778m to surface, meanwhile F/U the well; 0-8 BPHL. No recovered Junk or wire. ",
+        "S27": "P/U & M/U 6\" M.M Junk Mill + 4-3/4 Bit Sub (Float valve in) & RIH w/ 1 Std 4-3/4\" DC + 10 Stds 3-1/2\" HWDP + 20 Stds 3-1/2\" DP & Followed by 5\" DPs to 1300m, F/U the string & Break",
+        "S28": "Circ. Every 15 Stds; 6-8 BPH Losses."
+      },
+      "anchor": "No recovered",
+      "english": "The wire-grab attempt is reported to return no wire or junk; subsequent milling preparation and loss rates are separately reported. No recovery conclusion can be generalized to later runs.",
+      "persian": "در تلاش با ابزار گیرنده سیم، بازیافت سیم یا خرده گزارش نشده است؛ آماده‌سازی بعدی آسیاب و نرخ هرزروی جداگانه ثبت شده‌اند. نتیجه این ران را نمی‌توان به ران‌های بعد تعمیم داد."
+    },
+    {
+      "sheet": "33-1 DDR Remark",
+      "worksheet_prefix": 33,
+      "header_report_number": 33,
+      "header_date_unverified": "2025-05-15",
+      "cells": {
+        "S24": "Cont. POOH w/ 2-7/8\" Cable Spear f/ 2900m to surface, F/U the well; 0-1 BPHL. Obs. Recovered approximately 39m Slickline wire. Packer slips segments.",
+        "S25": "RIH w/ 2-7/8\" Cable Spear 14 Jts 3-1/8\" DC + 3Stds 2-7/8\" DP + XOS + 1 Std 3-1/2\" HWDP + 4-3/4\" Jar + 9 Stds 3-1/2\" HWDP + 20 Stds 3-1/2\" DP + XOS & Followed by 5\" DPs to 1100m.",
+        "S26": "Slip & Cut 110 ft 1-1/2\" Drlg Line, Circ. Mud thru string; 0-1 BPHL."
+      },
+      "anchor": "39m Slickline",
+      "english": "Approximately 39 m of slickline and packer-slip segments are reported recovered. The entry does not quantify all remaining wire and must not be added to estimated wire lengths as if complete accounting were established.",
+      "persian": "بازیابی حدود ۳۹ متر سیم و قطعات لغزنده پکر گزارش شده است. مدخل تمام سیم باقی‌مانده را کمّی نمی‌کند و نباید آن را بدون تطبیق با طول‌های تخمینی به‌عنوان حسابداری کامل جمع کرد."
+    },
+    {
+      "sheet": "34-1 DDR Remark",
+      "worksheet_prefix": 34,
+      "header_report_number": 34,
+      "header_date_unverified": "2025-05-16",
+      "cells": {
+        "S24": "Cont. RIH w/ 2-7/8\" Cable Spear f/ 2750 to 3783m. Meanwhile wash down last 2 Stds & Record S/O, P/U & Off-BTM TQ @ Top of 7\" L.Lap , Before KOP & Top of 5\" L.Lap. Work on 2-7/8\" ",
+        "S25": "Cable spear & try to catch fish w/ 5-6klbs Wt. in several times. Pass this point (3783m). Cont. W/D & Push the fish f/ 3783 to 3807m; 0-1 BPHL.",
+        "S26": "Due to change Disc break suddenly failure of the brake system in the drawworks;  Apply 80klbs Wt. on spear to Push the fish to 3809m & Stuck string. Work on stuck string upward & ",
+        "S27": "Jarring up; String got Free.",
+        "S28": "In order to check string & Tools; POOH w/ 2-7/8\" Cable Spear to 550m, F/u the well; 0-1 BPHL.",
+        "S30": "*** 15 Hrs NPT  should be Considered for OEOC Rig contractor, due to failure of brake system which led to interrupted operation & POOH to surface to check string."
+      },
+      "anchor": "failure of brake",
+      "english": "The report describes drawworks brake-system failure while working near the fish, temporary stuck string and subsequent release. It proposes 15 hours of NPT for the rig contractor; this is a source attribution, not independent root cause or contractual responsibility.",
+      "persian": "گزارش خرابی سامانه ترمز دراوورکس حین کار نزدیک قطعه، گیرکردن موقت رشته و آزادشدن بعدی را شرح می‌دهد. ۱۵ ساعت غیرمولد برای پیمانکار دکل پیشنهاد شده است؛ این انتساب منبع است نه علت ریشه‌ای یا مسئولیت قراردادی مستقل."
+    },
+    {
+      "sheet": "38-1 DDR Remark",
+      "worksheet_prefix": 38,
+      "header_report_number": 38,
+      "header_date_unverified": "2025-05-20",
+      "cells": {
+        "S24": "Cont. POOH W/ 3-1/2\" M.M.J.Mill & C/O BHA f/ 150 To Surface, OBS. 3-1/2\" M.M.J.Mill & 3-1/4\" Bit sub Cutted off from pin of first jt of 3-1/8\" DC and left in Hole w/ 0-2 BPHL.\n>> Fish Length: 1.18m. ",
+        "S26": "P/U & M/U 5-7/8\" MT.Bit (Used, King dream,217, Open) + 4-3/4\" Bit sub (Float in) + 10STDs 3-1/2\" HWDPs + 5STDs 3-1/2\" DPs + 5STDs 5\" DPs to 560m as kill strg and  Slow circ. Mud thru strg. w/ 1 BPHL.",
+        "S28": "POOH w/ 5-7/8\" MT.Bit to Surface, L/D the Bit, M/U 4\" New M.M.J.Mill (1/16\" UG), Check 3-1/4\" Bit Sub Conn.\"Not Ok\".",
+        "S29": "While Wait on Rec. New Bit Sub from OEOC, Circ. C.W.H w/ 1 BPHL.",
+        "S30": "P/U & M/U 4\" New M.M.J.Mill (1/16\" UG) & C/O BHA Followed By 5\" DPs to 2100m w/ 1 BPHL.\n>> Clean Out BHA Description: 4\" New M.M.J.Mill + 3-1/8\" Bit sub + 14Jts 3-1/8\" DC + X.O.S + 1STDs 3-1/2\" HWDPs + 4-3/4\" Fishing jar + 9STDs 3-1/2\" HWDPs + 20STDs 3-1/2\" DPs + X.O.S.\n>> Break Circ. Mud thru strg Each 700m."
+      },
+      "anchor": "1.18m",
+      "english": "The source reports that a 3½-inch mill and 3¼-inch bit sub separated and remained in hole, with a stated fish length of 1.18 m. Its final disposition requires later fishing records and the approved final inventory.",
+      "persian": "منبع جداشدن آسیاب ۳½ اینچ و رابط مته ۳¼ اینچ و باقی‌ماندن آن‌ها در چاه با طول اعلام‌شده ۱٫۱۸ متر را گزارش می‌کند. وضعیت نهایی به سوابق بعدی ماهیگیری و موجودی مصوب نیاز دارد."
+    },
+    {
+      "sheet": "45-1 DDR Remark",
+      "worksheet_prefix": 45,
+      "header_report_number": 45,
+      "header_date_unverified": "2025-05-27",
+      "cells": {
+        "S24": "Cont. POOH w/ 4-1/16\" Overshot & Fishing BHA f/ 600 to Surface, L/D  4-1/16\" Overshot while Circ. C.W.H w/ 0-1 BPHL.\n>> No indication of Fish Engagement was observed inside the Overshot.",
+        "S26": "In Order to Perform Magneset Plug Job, P/U & RIH w/ 5-7/8\" C.Cut + 20Stds 3-1/2\" DPs Followed by 5\" DPs to 3270m (15M Above 7\" L.Lap), Circ. Mud till Uniform MW in/out meanwhile Prepare Magneset solution  W/ 0-1 BPHL.",
+        "S28": "Perform Magneset Balance Plug Job As: Held PJSM, Pump F.Water as Spacer Ahead, Mix & Pump 25bbls Magneset Slurry (100pcf, 8 MT) Pump F.Water as Spacer Behind, Displaced Magneset Slurry With 167 bbl Mud, POOH f/3270m to 2900m (12STDs), Flush the string and C.B.U w/ NL-NG.",
+        "S30": "Cont. POOH f/2900m to 500m While Circ. C.W.H w/ NL-NG."
+      },
+      "anchor": "No indication of Fish Engagement",
+      "english": "The overshot is reported to show no indication of fish engagement. The page separately records a 25 bbl Magneset balanced-plug job; pumping a plug does not prove final isolation, abandonment of the fish or contractual acceptance.",
+      "persian": "منبع نبود نشانه درگیری قطعه در اورشات را گزارش می‌کند. جداگانه پمپاژ پلاگ Magneset به حجم ۲۵ بشکه ثبت شده است؛ پمپاژ پلاگ اثبات جداسازی نهایی، تعیین تکلیف قطعه یا پذیرش قراردادی نیست."
+    },
+    {
+      "sheet": "50-1 DDR Remark",
+      "worksheet_prefix": 50,
+      "header_report_number": 50,
+      "header_date_unverified": "2025-06-01",
+      "cells": {
+        "S24": "Cont. POOH w/ 5-7/8\" MT Bit & 7\" X 9-5/8\" Tandem scrapers f/ 1600m to surface, F/U the well; NL-NG. Meanwhile L/D 9-5/8\" & 7\" Scrapers & 5-7/8\" Bit. Bit Dull: 2-2-BT-A-E-I-LT-Log.",
+        "S25": "R/U Wireline Equipment & Assemble SeaLand Co. CCL/GR/SBT/VDL Logging tools. Meanwhile Ret. 11\" Wear bushing, L/D mouse hole & Set 7\" shooting nipple. Install logging BOP. ",
+        "S26": "RIH w/ W/L logging tools (CCL/GR/SBT/VDL: Max OD: 3.62\", Total Len: 16.32 m, Total Wt.: 379 Kg) f/ surface to 3760m. Obs. Leakage and failure in tools . Pull out tools to surf. Replace ",
+        "S27": "logging tools w/ back up tools.",
+        "S28": "RIH w/ W/L logging tools (CCL/GR/SBT/VDL for 7\" LNR) to 3774 m. Power on SBT tools, Log up f/ 3774 (5m above 5\"L.Lap) to 3260m. Meanwhile perform repeat log f/ 3700 to 3610m. ",
+        "S29": "Power off tools, POOH W/L Logging tools to surface. ",
+        "S30": "L/D SeaLand Co. CCL/GR/SBT/VDL Logging tools & Equip. Assemble TTRM/CCL/GR/CDR/CBIL Logging tools for 7\" LNR. ",
+        "S31": "RIH w/ W/L Logging tools (Max OD: 4.25\", Total Len: 19.97 m, Total Wt.: 513.6 Kg) to 3700 m till M.N."
+      },
+      "anchor": "failure in tools",
+      "english": "The source records logging-tool leakage/failure and use of a backup, followed by SBT/VDL logging and preparation for CBIL. These are acquisition entries, not independent cement evaluation or barrier verification.",
+      "persian": "منبع نشتی و خرابی ابزار نمودارگیری و استفاده از ابزار پشتیبان و سپس برداشت SBT/VDL و آماده‌سازی CBIL را ثبت می‌کند. این‌ها مدخل برداشت داده‌اند، نه ارزیابی مستقل سیمان یا تأیید مانع."
+    },
+    {
+      "sheet": "54-1 DDR Remark",
+      "worksheet_prefix": 54,
+      "header_report_number": 54,
+      "header_date_unverified": "2025-06-05",
+      "cells": {
+        "S24": "Cont. POOH w/ 7-5/16\" Polish Mill f/ 100m to surface, F/U the well; NL-NG. L/D 7-5/16\" Polish mill; Obs. 6-7/8\" Mark of LG on same.",
+        "S25": "P/U & M/U 7\" SN Packer Assy included: 7\" Seal Nipple (PPA Co, 29#, L-80, Dressed w/ 4 set V-Packing, Length: 95 cm, ID:6-1/8\", OD:7-1/4\"), LG c/w PKR & Slips (PPA Co, 29#, L-80,",
+        "S26": "ACME), Tie back sleeve (PPA Co, 29#, L-80, Length: 1.80 m, ID:7-3/8\", OD:8-1/4\") Check running tools rotating function f/ LG; OK. RIH w/ 1 Std 6-1/2\"DCs & 2 Stds 5\" HWDP & followed by",
+        "S27": "5\" DPs to 3289m; NL-NG.\t\t\t\t\t\t\t\t\t",
+        "S28": "Sting in previous TBS; Obs. Hold 200 psi. Pump off, Sting in fully in previous Tie back sleeve while Obs. seals drag. Apply 25 Klb on packer to set slips; Obs shearing indication of the shear",
+        "S29": " pins on M/D, Apply 45 Klb more (Totally 70 Klb) on packer & keep for 10 min. P/U string to max 20 klbs overpull & Pull test; \"Ok\". S/O 10 Klbs on PKR & Rotate string 17 forward turn &",
+        "S30": "released running tools. P/U String without overpull. (New 7\" L.Lap@ 3286.5m)",
+        "S31": "POOH w/ SN Packer running tools f/ 3286.5 to 2300m, F/U the well; NL-NG."
+      },
+      "anchor": "3286.5m",
+      "english": "The source describes setting a seal-nipple packer/tie-back assembly and labels the new 7-inch liner lap at 3,286.5 m. Programme p.19 lists the pre-workover 7-inch liner from 3,285 m; that is a different description, not proof of a discrepancy. Depth datum, assembly tally and signed tests need reconciliation before accepting an as-built barrier. [AZNS-012 Workover Program Rev02.pdf, p.19]",
+      "persian": "منبع نصب مجموعه پکر نیپل آب‌بندی و بازبست و مرجع هم‌پوشانی جدید آستری ۷ اینچ در ۳۲۸۶٫۵ متر را شرح می‌دهد. صفحه ۱۹ برنامه ابتدای آستری ۷ اینچ پیش از تعمیر را ۳۲۸۵ متر فهرست می‌کند؛ این توصیفی متفاوت است نه اثبات مغایرت. مبنای عمق، فهرست مجموعه و آزمون‌های امضاشده برای پذیرش مانع نهایی باید تطبیق شوند. [AZNS-012 Workover Program Rev02.pdf، صفحه ۱۹]"
+    },
+    {
+      "sheet": "56-1 DDR Remark",
+      "worksheet_prefix": 56,
+      "header_report_number": 56,
+      "header_date_unverified": "2025-06-07",
+      "cells": {
+        "S24": "Spot 60 bbl Non-Solid brine in 5\" LNR & 7\" LNR as balance. POOH to 3515m. Displace the well w/ 800 bbl 84 pcf Non-Solid brine. Meanwhile add 1% Vol Corrosion Inhibitor, 0.5 % Vol",
+        "S25": "H2S Scavenger & O2 Scavenger to Non-Solid brine. Got 60 bbl contaminated w/mud on return.",
+        "S26": "Perform flow check; \" Static\".",
+        "S27": "Resume POOH w/ OEDPs to 2430 m & L/D Totally 162 Jts 5\" DP till M.N, F/U the well; NL-NG. Meanwhile Flow check @ 3000m; Static.",
+        "S30": "Brine Properties, In; TSS: 17-24, Turbidity: 17-24, PH: 9.3-9.5         -            Out; TSS: 125, Turbidity: 120, PH: 9.1"
+      },
+      "anchor": "800 bbl",
+      "english": "The page reports displacement with 800 bbl of 84 pcf non-solid brine, 60 bbl contaminated return and a static flow-check label. Volumes and fluid properties require reconciliation with the fluid ledger and sampling records.",
+      "persian": "صفحه جابه‌جایی با ۸۰۰ بشکه آب‌نمک بدون جامد ۸۴ پوند بر فوت مکعب، ۶۰ بشکه برگشت آلوده و برچسب ایستا برای کنترل جریان را گزارش می‌کند. حجم‌ها و خواص با دفتر سیال و سوابق نمونه‌گیری باید تطبیق شوند."
+    },
+    {
+      "sheet": "62-1 DDR Remark",
+      "worksheet_prefix": 62,
+      "header_report_number": 62,
+      "header_date_unverified": "2025-06-13",
+      "cells": {
+        "S24": "P/U & M/U TR3SV Assy on string. Connect control line and Press test to 5000 psi for 15min; \"OK\". Bleed of Press. to 3000 psi, M/U 1 Jt 4-1/2\" TBG and RIH to 3295m. ",
+        "S25": "Line up surface test Line to string. Perform Press. test completion string & TR3SV Assy against SSD Check valve w/ 4500 psi for 15min; \"Ok\".",
+        "S26": "Bleed of control line Press to Zero. And try to OprateTR3SV flapper after several times finally \"Ok\".  Monitor for any Press build up as inflow test of flapper \"ok\". Check & Test Equalizing Function of TR3SV; \"OK\". M/U & RIH 5Jts 4-1/2\" TBG to 3335m, M/U  4-1/2\" Fluted Swage (18.9# TPCQ-EX Pin Up X HSM3 Pin Down) & TBG HGR (MSP, 11\" Bowl X 4 1/2\" ACME Box up X 4 1/2\" TPCQ-EX Box Down, 2 Set O-Ring on Body & 2 Set O-Ring on Extended neck) on Strg. Pass C/L through Fluted Swage Slots, Check the Seals on Hanger Body, Clean threads on feed through Control Line Prior to RIH, Apply Light oil on the Seals body of tubing Hanger, Check Press. in 1/4\" CL. Release CL Pressure & Cut CL approx 15m or enough to Reach to the rig floor on spool & turns around fluted Swage Below tubing Hanger, Feed all lines through tubing Hanger, Install 1/4\" Fitting on C/L.\n>> Pressure test of CL w/4500psi for 15min \"Ok\" Release Press. to 3000psi",
+        "S30": "Press. Test completion string against Tubing Hanger @ 3345m w/ 4600 psi for 15min; \"Ok\"."
+      },
+      "anchor": "4500 psi",
+      "english": "The page records control-line, completion-string and safety-valve checks with source-labelled OK results. The complete signed test record and subsequent changes are needed before accepting a present-barrier claim.",
+      "persian": "صفحه کنترل‌های خط فرمان، رشته تکمیل و شیر ایمنی را با نتیجه مطلوب در منبع ثبت می‌کند. برای پذیرش ادعای مانع کنونی، گزارش کامل امضاشده و تغییرات بعدی لازم‌اند."
+    },
+    {
+      "sheet": "65-1 DDR Remark",
+      "worksheet_prefix": 65,
+      "header_report_number": 65,
+      "header_date_unverified": "2025-06-16",
+      "cells": {
+        "S24": " RIH W/ 3.437\" Protection sleeve to 50m (11m above TR3SV), Took WT, Try to Pass this point \"No succ.\", POOH to Surf. Change Protection sleeve with another one  3.437\" Protection sleeve, Run Back W/ Same to  50m and Took WT again, POOH and RIH w/ 3.430\" Gauge Ring to 59m ( 2m above TR3SV) \"Ok\", POOH to Surf. and RIH w/ 3.5\" GS Pulling to same Point (50m), Try to Pass \"No succ.\". Decided to POOH and Check string.",
+        "S26": "L/D  4-1/2\" Landing Joint, POOH Compl. String to 3326m while B/O & L/D 4-1/2\" Fluted Swage & TBG HGR + 5jt 4-1/2\" TBG, R/U Slick Line Equip., RIH w/ 3.437\" Protection sleeve to TR3SV and Checked same in Position \"Ok\", Retrieve 3.437\" Protection sleeve, R/D Slick Line Equip.\n>> OBS. Debris & Coating inside first 4-1/2\" TBG above TR3SV.",
+        "S28": "Change 5jts 4-1/2\" TBG above TR3SV , M/U 5jts New 4-1/2\" TBG and Run Back W/ Compl. String to 3335m, M/U  4-1/2\" Fluted Swage (18.9# TPCQ-EX Pin Up X HSM3 Pin Down) & TBG HGR (MSP, 11\" Bowl X 4 1/2\" ACME Box up X 4 1/2\" TPCQ-EX Box Down, 2 Set O-Ring on Body & 2 Set O-Ring on Extended neck) on Strg. Pass C/L through Fluted Swage Slots, Check the Seals on Hanger Body, Clean threads on feed through Control Line Prior to RIH, Apply Light oil on the Seals body of tubing Hanger, Check Press. in 1/4\" CL. Release CL Pressure & Cut CL approx 15m or enough to Reach to the rig floor on spool & turns around fluted Swage Below tubing Hanger, Feed all lines through tubing Hanger, Install 1/4\" Fitting on C/L.\n>> Pressure test of CL w/4500psi for 15min \"Ok\" Release Press. to 3000psi.",
+        "S32": "Line up surface test Line to string. Perform Press. test completion string & TR3SV Assy against SSD Check valve w/ 5000 psi for 15min; \"Ok\"."
+      },
+      "anchor": "Debris",
+      "english": "After difficulty passing the protection sleeve, the source reports debris/coating inside tubing above the safety valve, replacement of five joints and a later source-labelled pressure test. This does not independently establish root cause or current internal condition.",
+      "persian": "پس از دشواری عبور غلاف محافظ، منبع وجود خرده و پوشش داخل لوله بالای شیر ایمنی، تعویض پنج شاخه و آزمون فشار بعدی با نتیجه مطلوب را ثبت می‌کند. علت ریشه‌ای یا وضعیت داخلی کنونی مستقلاً احراز نمی‌شود."
+    },
+    {
+      "sheet": "66-1 DDR Remark",
+      "worksheet_prefix": 66,
+      "header_report_number": 66,
+      "header_date_unverified": "2025-06-17",
+      "cells": {
+        "S24": "RIH & Set 3.437\" Protection sleeve in TR3SV, RIH w/ 3\" SB Pulling, try to Engage & Retrieve 2.75\" WFB Check valve from SSD \"No Succ.\" POOH to Surf. Change 3\" SB Pulling and Run Back to Work on Retrieve 2.75\" WFB Check valve, Stopped Operation Due to Slick Line Truck Hydraulic Sys. Failure.",
+        "S26": "While Wait on OEOC Slick Line Service Due to Hydraulic Sys. Failure, Work On it and fix same \"Ok\".",
+        "S27": "Cont. RIH w/  3\" SB Pulling and try to Engage & Retrieve 2.75\" WFB Check valve from SSD Several times \"No Succ.\", POOH to Surf.",
+        "S28": "M/U Slick Line BOP & Lubricator above Golpa. Flange on string, Closed Hydrill and L/U to Ann., Try to Perform Reverse Circ. \"No Succ.\"  OBS. Build up SPP To max. 150psi and \"No return from string,\" Checked Surface Lines \"Ok\".",
+        "S30": "While Work on Retrieve 2.75\" WFB Check valve from SSD, RIH w/ 1.87\" Bailers to SSD Depth (3317m) and Clean settled debris on top of  2.75\" WFB Check valve @ three Run, RIH w/ 3\" SB Pulling, try to Engage & Retrieve 2.75\" WFB Check valve from SSD \"No Succ.\" "
+      },
+      "anchor": "No return",
+      "english": "The source describes unsuccessful check-valve retrieval, a slickline hydraulic failure and an unsuccessful reverse-circulation attempt with no return. This page alone does not establish the final disposition of the check valve.",
+      "persian": "منبع تلاش ناموفق بازیابی شیر یک‌طرفه، خرابی هیدرولیک اسلیک‌لاین و گردش معکوس ناموفق بدون برگشت را شرح می‌دهد. این صفحه به‌تنهایی وضعیت نهایی شیر را تعیین نمی‌کند."
+    },
+    {
+      "sheet": "70-1 DDR Remark",
+      "worksheet_prefix": 70,
+      "header_report_number": 70,
+      "header_date_unverified": "2025-06-21",
+      "cells": {
+        "S24": "POOH W/ 3\" JDC Pulling to Surface, Checked 3\" JDC Nose & Body \"OK\", Run Back w/ 1-1/2\" CT & same 3\" JDC Pulling again and work on to Pass TR3SV Depth (61m) \"No Succ.\", POOH to Surf., Change 3\" JDC Pulling with 3\" SB Pulling, Meanwhile Closed Hydrill and L/U to Ann., Perform Reverse Circ. (Vol: 15BBls w/Max. 150psi.) \"OK\" RIH w/ 3\" SB Pulling + Knuckle Jt to 61m, Pass this poit w/o any drag, Cont. RIH to 3295m (Traveling JT Depth), Took WT, Try to Pass \" No Succ.\", POOH to surface, L/D CT BOP & Injector Head, R/D OEOC CT.",
+        "S26": "R/U Slick line, M/U SL BOP & Lubricator above Golpa. Flange on string, RIH w/  3\" SB Pulling Engage with 2.75\" WFB Check valve and Catch same, Try to Retrieve from SSD Several times \" No succ.\", POOH to Surf. Run Back w/ 3\" SB Pulling to 3317m (SSD Depth) Meanwhile Closed Hydrill and L/U to Ann., Perform Reverse Circ. (Vol: 15BBls w/Max. 150-200psi.) Engage & Retrieve  2.75\" WFB Check valve  from SSD \"Successfully\".",
+        "S28": "RIH w/ 2.75\" Plug to 3345m (No-Go depth),  Set Plug in No-Go L/N. POOH to surface. RIH w/ 2\" prong to 3345m (No-Go depth) & Set in No-Go L/N. POOH to surface. RIH w/ 2.8\" B Shifting tools to 3317m (SSD Depth) Check SSD is full close & drift string. POOH to surface. R/D Slick line equipment."
+      },
+      "anchor": "Successfully",
+      "english": "After earlier unsuccessful attempts, the report states the 2¾-inch WFB check valve was retrieved successfully, then records setting a plug and prong and checking SSD closure. This is a source-reported outcome; acceptance and present barrier status require the full signed records.",
+      "persian": "پس از تلاش‌های ناموفق پیشین، گزارش بازیابی موفق شیر یک‌طرفه WFB به اندازه ۲¾ اینچ و سپس نصب پلاگ و پرونگ و کنترل بسته‌بودن SSD را ثبت می‌کند. این نتیجه گزارش‌شده منبع است؛ پذیرش و وضعیت کنونی مانع به سوابق کامل امضاشده نیاز دارند."
+    },
+    {
+      "sheet": "71-1 DDR Remark",
+      "worksheet_prefix": 71,
+      "header_report_number": 71,
+      "header_date_unverified": "2025-06-22",
+      "cells": {
+        "S24": "L/D SL BOP, Lubricator & Golpa Flange, Change TDS Link & Elevator, Line up surface test Line, Try to Press test same \"No Succ.\", Work on Leakage and Perform Press. Test Finally \"Ok\", L/U surface test Line to string. Set PKR as per procedure and increase Press Gradually to 3500 psi (Obs. Set PKR indication). Increase Press to 4500 psi as completion string Press test; \"Ok\". Release Press. Perform pull test w/15 klbs overpull; \"OK\". S/O 35Klbs Wt. and Obs. Back flow from string after expansion joint pins sheared. Land TBG hanger in THS. Tighten all Tie- Down Screws. Close Hy-drill and Press 'test Tie-Downs to 1000 psi, \"OK\". Line up surface test line to string. Perform Press test completion string to 4500 psi for 15 min as final completion string test; \"OK\", L/U to 9-5/8\" Ann. try to Perform Press test several times \"Not OK\", OBS Leakage From Surface Line."
+      },
+      "anchor": "final completion string test",
+      "english": "The page reports packer-setting indication, pull and final completion-string tests labelled OK, followed by an unsuccessful annulus-test attempt with a surface-line leak. Separate later source evidence must be considered; the excerpt is not a current well-integrity certificate.",
+      "persian": "صفحه نشانه نصب پکر و آزمون کشش و آزمون نهایی رشته تکمیل با نتیجه مطلوب و سپس تلاش ناموفق آزمون فضای حلقوی همراه نشتی خط سطحی را گزارش می‌کند. شواهد بعدی باید جداگانه بررسی شوند؛ این گزیده گواه سلامت کنونی چاه نیست."
+    },
+    {
+      "sheet": "72-1 DDR Remark",
+      "worksheet_prefix": 72,
+      "header_report_number": 72,
+      "header_date_unverified": "2025-06-23",
+      "cells": {
+        "S24": "Work on Surface Line Leakage \"Ok\", Perform 9-5/8\" Ann. Press test to 2000 psi Finally \"OK\". R/U Slick line & Retrieve 3.437\" Protection Sleeve of TR3SV \"OK\". Bleed off CL Press to zero & Close TR3SV,  Back off L/J & TBG HGR Running tools f/ TBG HGR. B/O & L/D same. Install 4\" 10k TWCV. Pass 1/4\" Plugged CL f/ BOP Stack while L/D Mouse hole. Press test 4\" 10K TWCV against SBR to 4500 psi; \"OK\".",
+        "S26": "N/D 13-5/8\" BOP Stack; 5K Ann Preventer, 10K 2-7/8\" X 5\" VBR Top Rams + 10K SBR Middle Rams, Drlg Spool,10K 5\" Fix BTM Rams & Spacer Spool. Disconnect all hydraulic hoses, Choke lines & Kill lines. ",
+        "S28": "N/U & Install 11\" X 4 1/16\"-5K BTM master valve, Tighten BMV Bolts. In order to energize & Press test FS Seal of TBG HGR. L/U pump truck to BMV. Press test FS Seal of THG HGR w/4500 psi for 15/5 min; \"Ok\".",
+        "S34": "Released Vira (Mud Engineering Service)  @ 23-Jun-2025 18:00",
+        "S35": "Released Geo Data (Mud Logging Service) @ 23-Jun-2025 12:00",
+        "S36": "Released APAD (H2S Service) @ 23-Jun-2025 18:00",
+        "S37": "Released OEOC Slick line Service @ 23-Jun-2025 20:00           ",
+        "S38": "Released OEOC CT Service @ 22-Jun-2025 21:00           "
+      },
+      "anchor": "23-Jun-2025",
+      "english": "The last recognized page reports an annulus test finally labelled OK, work on the lower wellhead and release of named services. Service-release entries are not in themselves a rig-release time, approved final well handover or present barrier condition.",
+      "persian": "آخرین صفحه شناسایی‌شده آزمون فضای حلقوی با نتیجه نهایی مطلوب در منبع، کار روی بخش پایینی سرچاهی و ترخیص خدمات نام‌برده را گزارش می‌کند. ترخیص خدمات به‌تنهایی زمان ترخیص دکل، تحویل نهایی مصوب یا وضعیت کنونی موانع نیست."
+    }
+  ],
+  "programme": {
+    "file": "AZNS-012 Workover Program Rev02.pdf",
+    "physical_page": 7,
+    "text_excerpt": "South Azadegan Oilfield Project AZNS12 ST-1 Workover Program Page 7 of 64 1.2 Well Information Country / Area Name: Iran / Khuzestan Client Petro Pars Limited Field Name: Azadegan Rig Name: OEOC208 Type Of Operation: Workover Well Name / Type : AZNS12 ST1 / Gadvan well in Block III Pad Number: Near75 Well Type: Side Track Wellhead Coordinate: N: 189014.48 E: 3437769.78 TD Coordinate: N: 189019.38 E: 3437748.34 Well Objective: De-complete the well, Re-complete the well, Due to abnormal annulus pressure in 9-5/8\" CSG X 4-1/2\" TBG & left fish in hole RTE: 14.45 m GLE: 3.95 m Well Duration : 91.9 days (Main Plan) + 136.2 days (Contingency Plan) Total Depth (MD): 3945 m Producer Formation: Perforated in 7\" liner (Exiting Perforation: 3867-3908 m) Formation TD : Gadvan Reservoir : Gadvan Table 1: AZNS-12 information",
+    "duration_as_printed": "91.9 days (Main Plan) + 136.2 days (Contingency Plan)"
+  },
+  "limitations": "Selected records do not establish all events, fish status, signed barriers, rig release, actual expenditures or liability."
+}

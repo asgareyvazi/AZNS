@@ -188,3 +188,13 @@ PYTHONPATH=tools /tmp/azns-index-venv/bin/python tools/review_85_campaign.py
 PYTHONPATH=tools /tmp/azns-index-venv/bin/python tools/add_field_85_campaign_note.py
 /tmp/azns-index-venv/bin/python -m unittest discover -s tests -p 'test_85_campaign_review.py' -v
 ```
+
+## Selected 12 campaign review
+
+`12_campaign_review.json` contains 24 selected bilingual observations with 120 exact DDR Remark cells and programme p.7 text, ordered by source header number without claiming verified chronology. Page 70 S26 reports successful retrieval of the WFB check valve after earlier unsuccessful attempts; the earlier working assumption of no reported retrieval was incorrect. Fish status, present barriers, schedule and financial reconciliation remain open. Both 12 well reports and four field reports include qualified summaries.
+
+```sh
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_12_campaign.py
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_12_campaign_note.py
+/tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_12_campaign_review.py' -v
+```

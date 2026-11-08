@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+from pathlib import Path
+from docx import Document
+from replace_well_bit_evidence import style
+for typ in ('Master_Drilling_Engineering','Executive_Management'):
+ for lang in ('EN','FA'):
+  fa=lang=='FA';path=Path(f'Field_{typ}_Report_{lang}.docx');d=Document(path);title='بازبینی منتخب عملیات چاه ۱۲' if fa else 'Selected AZNS-12 campaign review'
+  if any(p.text==title for p in d.paragraphs):continue
+  h=d.add_heading(title,level=2);h.alignment=1
+  msg=('منبع بازیابی کامل قطعه مشخص‌شده رشته تکمیل را در صفحه ۱۶ گزارش می‌کند، اما همان صفحه اجزای دیگری را در چاه فهرست می‌کند. صفحه ۳۸ جداشدن آسیاب و رابط به طول اعلامی ۱٫۱۸ متر و صفحه ۴۵ تلاش اورشات بدون نشانه درگیری را ثبت می‌کنند؛ تعیین تکلیف نهایی به موجودی مصوب نیاز دارد. پس از تلاش‌های ناموفق قبلی، صفحه ۷۰ بازیابی موفق شیر یک‌طرفه WFB و نصب پلاگ و پرونگ را گزارش می‌کند؛ این گزارش به‌تنهایی تأیید مانع کنونی نیست. صفحه ۷۲ ترخیص خدمات را ثبت می‌کند، نه زمان ترخیص دکل. دو عدد ۹۱٫۹ و ۱۳۶٫۲ روز در برنامه، نیازمند تطبیق دامنه و رابطه اصلی/احتیاطی‌اند و مدت واقعی نیستند. [AZNS12Pack.xlsx، 16-1 DDR Remark!S28:S33، 38-1 DDR Remark!S24، 45-1 DDR Remark!S24، 70-1 DDR Remark!S26:S28، 72-1 DDR Remark!S34:S38؛ AZNS-012 Workover Program Rev02.pdf صفحه ۷؛ evidence/12_campaign_review.json]' if fa else 'The source reports complete recovery of a specified completion fish on page 16 but also lists other components remaining in hole. Page 38 reports a separated mill and sub, stated length 1.18 m, and page 45 reports an overshot without indication of engagement; final disposition requires an approved inventory. After earlier failed attempts, page 70 reports successful WFB check-valve retrieval and installation of a plug and prong; this alone does not certify current barriers. Page 72 reports service releases, not rig release. The programme values of 91.9 and 136.2 days require reconciliation of scope and main/contingency relationship and are not actual duration. [AZNS12Pack.xlsx, 16-1 DDR Remark!S28:S33, 38-1 DDR Remark!S24, 45-1 DDR Remark!S24, 70-1 DDR Remark!S26:S28, 72-1 DDR Remark!S34:S38; AZNS-012 Workover Program Rev02.pdf p.7; evidence/12_campaign_review.json]')
+  p=d.add_paragraph(msg);style(p,fa);d.save(path)
