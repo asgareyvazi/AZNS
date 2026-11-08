@@ -248,3 +248,13 @@ PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_127wo2_campaign.py
 PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_127wo2_campaign_note.py
 /tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_127wo2_campaign_review.py' -v
 ```
+
+## Selected 127 sidetrack 2
+
+`127st2_campaign_review.json` contains 27 selected bilingual entries and 335 original source cells, programme p.10 and CBS formulas/caches. Header order is not verified chronology. Cement log acquisition is not interpreted isolation; the failed initial fifth perforation attempt is distinct from the subsequent source-reported shot. The source's tie-back and completion-depth ambiguities are retained, historical test/release entries do not establish current barriers, and CBS cached ceilings are not actual costs.
+
+```sh
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_127st2_campaign.py
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_127st2_campaign_note.py
+/tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_127st2_campaign_review.py' -v
+```
