@@ -198,3 +198,13 @@ PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_12_campaign.py
 PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_12_campaign_note.py
 /tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_12_campaign_review.py' -v
 ```
+
+## Selected 75 workover and sidetrack review
+
+`75_campaign_review.json` retains 26 bilingual observations, 202 exact `AZNS75Pack.xlsx` DDR Remark cells and programme p.8 text. Sort by numeric source header is not independent chronological verification. Data acquisition is not cement interpretation, individual perforating runs are not productivity, and source test/release entries do not establish present barriers. The closed-period dry-test wording also refers to maintaining open condition; verify against signed test records. 141.4 main days and 149.2 days with contingency are printed planning figures, not independently additive durations or actuals.
+
+```sh
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_75_campaign.py
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_75_campaign_note.py
+/tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_75_campaign_review.py' -v
+```
