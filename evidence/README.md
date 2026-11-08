@@ -178,3 +178,13 @@ The W2/W3 and M7 figure images have been corrected to use worksheet-prefix label
 PYTHONPATH=tools /tmp/azns-index-venv/bin/python tools/review_116_campaign.py
 /tmp/azns-index-venv/bin/python -m unittest discover -s tests -p 'test_date_audit_and_116_campaign.py' -v
 ```
+
+## Selected 85 campaign review
+
+`85_campaign_review.json` contains 20 selected bilingual source observations and 154 exact `AZNS85Pack.xlsx` Remark cells, plus programme p.8 and selected cached CBS schedule cells. The source header report number is retained but is not a validated chronology; volatile date formulas are not accepted as historical dates. The dry-test/fish running-hour notes must not be added, programme and CBS estimates are not actual duration or payment, and service release is not rig-release or rig-less execution evidence. Individual perforating runs are distinct from the broad interval described in the source; no productivity or complete continuous coverage is inferred. Both well reports and all four field reports include a scoped summary.
+
+```sh
+PYTHONPATH=tools /tmp/azns-index-venv/bin/python tools/review_85_campaign.py
+PYTHONPATH=tools /tmp/azns-index-venv/bin/python tools/add_field_85_campaign_note.py
+/tmp/azns-index-venv/bin/python -m unittest discover -s tests -p 'test_85_campaign_review.py' -v
+```
