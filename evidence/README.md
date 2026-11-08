@@ -218,3 +218,13 @@ PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_10_campaign.py
 PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_10_campaign_note.py
 /tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_10_campaign_review.py' -v
 ```
+
+## Selected 166 campaign review
+
+`166_campaign_review.json` retains 24 bilingual observations, one per recognized status page, with 259 exact original cells, programme p.7 and CBS ceiling formulas/caches. Selection per page does not mean full hourly review or signed chronology. Corrosion logging is explicitly described as not performed; source-reported temporary plug and prong are later retrieved. Ceiling totals include planned rig-less stimulation and are not actual expenditure or proof of execution.
+
+```sh
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_166_campaign.py
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_166_campaign_note.py
+/tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_166_campaign_review.py' -v
+```

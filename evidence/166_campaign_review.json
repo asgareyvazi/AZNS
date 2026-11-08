@@ -1,0 +1,567 @@
+{
+  "well": "166",
+  "source": "AZNS166Pack.xlsx",
+  "method": "One selected observation per recognized status page, ordered by source header, not verified chronology or a complete hourly reconstruction.",
+  "events": [
+    {
+      "sheet": "1-1 DDR Remark",
+      "worksheet_prefix": 1,
+      "header_report_number": 1,
+      "header_date_unverified": "2025-10-27",
+      "cells": {
+        "S25": "Cont. R/U, While Set & Install TDS; Spud Rig 201 as per Prespud Check List @ 1404.08.05 - 12:00 ",
+        "S26": "L/U 4\" 10k psi Co-Flex Hose F/ Choke Manifold outlet To X-Mas Tree Production Valve; L/U 2\" Chicksan Flowline F/ Pump Unit discharge ",
+        "S27": "To T.H.S side outlet; Set Storage Tank & Conn. To Burning Line;",
+        "S28": "Check & Record Annulus pressures of all Wellhead sections as follows: ",
+        "S29": "Section A – 0 psi / 15 min; Section B – 0 psi / 15 min; Section C – 0 psi / 15 min; All wellhead sections confirmed pressure-free and stable. ",
+        "S30": "Press. Test P-Seal Test of B & C Section as follows:",
+        "S31": "Section B (13-3/8\" P-Seal) – 1500 psi / 15 min; Section C (9-5/8\" P-Seal) tested @ 2500 psi / 15 min – Press. Test between two P-Seals OK, ",
+        "S32": "but Press. Test between lower P-Seal & CSG HGR failed; Press. Test Chiksan Pipes & Co-Flex Hose W/ 7000psi / 15 min, Ok;",
+        "S33": "P/U & M/U Wellhead Lubricator on X-Mas Tree, Press. Test the same W/ 4000psi / 15min."
+      },
+      "anchor": "failed",
+      "english": "The source records spud at 12:00 on 1404.08.05 as printed, zero observed wellhead-section pressure, and a failed test between the lower P-seal and casing hanger. Other tests on the same page are labelled OK; the failed test needs its complete repair and acceptance history.",
+      "persian": "منبع شروع عملیات ساعت ۱۲ در تاریخ چاپ‌شده ۱۴۰۴٫۰۸٫۰۵، فشار صفر بخش‌های سرچاهی و آزمون ناموفق بین آب‌بند پایینی و آویز جداری را ثبت می‌کند. آزمون‌های دیگر همان صفحه مطلوب‌اند؛ آزمون ناموفق به سابقه کامل تعمیر و پذیرش نیاز دارد."
+    },
+    {
+      "sheet": "2-1 DDR Remark",
+      "worksheet_prefix": 2,
+      "header_report_number": 2,
+      "header_date_unverified": "2025-10-28",
+      "cells": {
+        "S25": "Ret. TWCV W/ Wellhead Lubricator, While Record 800psi Pressure on Wellhead Lubricator Press. Gauge; L/D Wellhead Lubricator ",
+        "S26": "and X-Mas Tree Cap; Flush Solid Block upper valves W/ 10bbl Drill Water.",
+        "S27": "R/U Slick Line BOP and install on X-Mas Tree Head; Assemble 2.75\" Ring Gauge Tool Strg and Pass it Thru. Slick line Lubricator,",
+        "S28": "Conn. Lubricator to Slick line BOP; Press. Test Slick Line BOP & Lubricator W/ 4000psi / 15min, Ok; RIH W/ 2.75\" Ring Gauge Tool Strg To",
+        "S29": "107m, Attempt To pass this point, No Success due to the Min ID of Protection Sleeve being 2.7\" (The proper completion accessory ",
+        "S30": "not received from the client), Confirm Protection Sleeve is in TR3SV; POOH Slick Line Tool Strg To Surface, Flush Solid Block, ",
+        "S31": "L/D 2.75\" Ring Gauge Tool String; P/U & Assemble 2.2\" Ring Gauge Tool Strg and RIH To 3056m (No-Go Depth: 2770m), ",
+        "S32": "Obs. Slick Line Tension Drop due to Well Deviation, Decide To POOH Slick line Tool String To Surface; Flush Solid Block; ",
+        "S34": "Prepare Rig To Kill the Well W/ Coiled Tubing; R/U Coiled Tubing Facilities as follows: ",
+        "S35": "M/U Coiled Tubing Riser & Conn. To Solid Block, P/U 4-1/16\" 10k C.T BOP & M/U on C.T Riser, Press. Test  Riser & BOP ",
+        "S36": "Thru. X-Mas Tree Kill Valve W/ 3000psi – OK; ",
+        "S37": "M/U C.T BHA (1-3/4\" Wash Nozzle [5 * 1/2\" Ports] + 1-3/4\" Perforation Sub [12 * 1/2\" Ports] + 1-3/4\" Double Flapper Check Valve) and Conn. ",
+        "S39": "P/U C.T Injector Head & M/U on C.T BOP, Press. Test C.T Riser, BOP Rams, and Injector Head Connections Thru. C.T BHA W/ 4000psi – OK; ",
+        "S40": "Bleed off C.T Strg  & Riser Pressure To 1000psi, then Bleed off C.T Strg To 0psi to Function Test Double Flapper Check Valve ",
+        "S41": "W/ 1000 psi – OK; Equalize C.T Riser, BHA & Solid Block Press. , Open Dipping & Top Master Valves.",
+        "S42": "Cont. RIH W/ 1-3/4\" C.T BHA, While Circ. Thru. Choke Manifold @ 0.2BPH F.R & 1100psi Back Pressure, and Take Return in Storage Tank.",
+        "S43": "Kill The Well using W&W Method in progress @ M.N."
+      },
+      "anchor": "3056m",
+      "english": "The report describes a 2.75-inch gauge blocked at 107 m and a later 2.2-inch run to 3,056 m while the No-Go depth is printed as 2,770 m; the relationship of these depths needs tool/tally verification. CT well-kill preparation is also recorded; historical parameters are not an operating instruction.",
+      "persian": "گزارش توقف گیج ۲٫۷۵ اینچ در ۱۰۷ متر و ران بعدی گیج ۲٫۲ اینچ تا ۳۰۵۶ متر را در حالی ثبت می‌کند که عمق No-Go برابر ۲۷۷۰ متر چاپ شده است؛ رابطه این عمق‌ها باید با ابزار و فهرست تطبیق شود. آماده‌سازی CT برای کشتن چاه نیز ثبت شده؛ پارامترهای تاریخی دستور عملیات نیستند."
+    },
+    {
+      "sheet": "3-1 DDR Remark",
+      "worksheet_prefix": 3,
+      "header_report_number": 3,
+      "header_date_unverified": "2025-10-29",
+      "cells": {
+        "S25": "Cont. Kill The Well using W&W Method:",
+        "S26": "Pump Mud 83pcf @ 1BPM Flow Rate, While Maintain Const. Back Pressure via Adjustable Choke (1100psi); ",
+        "S27": "Confirm Stable Return & Gradually Replace Reservoir Fluid W/ 83pcf Mud; Take Returns as follows: ",
+        "S28": "195bbl Reservoir Fluid & 125bbl Contaminated Mud in Storage Tank, NL-NG; ",
+        "S29": "At mud return MW of 71pcf, Divert Return F/ Storage Tank & L/U Choke Manifold To T.Tank; Confirm Well Dead, Bleed off Press. To 0psi.",
+        "S30": "Divert Return To Active Pit; CBU Thru. C.T BHA for Two Cycle, Confirm Uniform 83 pcf In / Out MW; Obs. Well for 1Hr.",
+        "S32": "POOH 1-3/4\" C.T BHA To Surface, While Circ. Thru. C.T BHA, NL-NG; Flush C.T; Static Flow Check & Obs. The Well for 1 Hr. , Well Static;",
+        "S33": "L/D C.T Eqp. ; Obs. The Well For 0.5hr Thru. Choke Manifold, Well Static; Install TWCV in TBG HGR, Perss. Test TWCV @ 4500psi, Ok."
+      },
+      "anchor": "195bbl",
+      "english": "The source reports CT circulation using 83 pcf mud, 195 bbl reservoir fluid and 125 bbl contaminated mud to storage, followed by static observations. These quantities are source labels, not an independently validated influx balance or present well condition.",
+      "persian": "منبع گردش CT با گل ۸۳ پوند بر فوت مکعب، ارسال ۱۹۵ بشکه سیال مخزن و ۱۲۵ بشکه گل آلوده به مخزن و سپس مشاهده ایستا را گزارش می‌کند. این مقدارها برچسب منبع‌اند نه تراز مستقل ورود سیال یا وضعیت کنونی چاه."
+    },
+    {
+      "sheet": "4-1 DDR Remark",
+      "worksheet_prefix": 4,
+      "header_report_number": 4,
+      "header_date_unverified": "2025-10-30",
+      "cells": {
+        "S25": "Cont. N/U 13-5/8\" 10k BOP Stack.",
+        "S26": "Perform BOP Test as NIOC Policy as follow:",
+        "S27": "13-5/8\" 10k  Shear Ram w/ 6500psi, Ok.",
+        "S28": "P/U & M/U Runing Tools HGR ( ACME * TPCQ ) + X.O.S ( TPCQ * 4-1/2\" IF ) +  1Jts 5\" P.Joint +  1 Jts 5\" D.Pipe and Connected to TBG HGR ",
+        "S29": "For Continue Perform BOP Test as follow : Hydrill w/ 3000psi, Ok.",
+        "S30": "Cont. Test 13-5/8\" 10k BOP Stack. attempt to perform BOP test several Times No Succ, Work on fixing BOP leakages Till M.N."
+      },
+      "anchor": "No Succ",
+      "english": "The page records some BOP tests labelled OK and further unsuccessful attempts while repairing BOP leaks. A partial test result must not be presented as full-stack acceptance.",
+      "persian": "صفحه برخی آزمون‌های فوران‌گیر با نتیجه مطلوب و تلاش‌های بعدی ناموفق همراه رفع نشتی را ثبت می‌کند. نتیجه جزئی نباید به‌صورت پذیرش کل مجموعه معرفی شود."
+    },
+    {
+      "sheet": "5-1 DDR Remark",
+      "worksheet_prefix": 5,
+      "header_report_number": 5,
+      "header_date_unverified": "2025-10-31",
+      "cells": {
+        "S25": "Wait on OEOC to Cont. Test 13-5/8\" 10k BOP Stack While Work on fixing BOP leakages as Below:",
+        "S26": "Fix Leakage from Inner Side VLV of Top & BTM CHK Line after several times and Test W/ 4500Psi, OK.",
+        "S27": "Fixing Leakage from Top & BTM Rams & Test it W/ 4500Psi, OK.",
+        "S28": "Work on leakages between BTM Rams & Spacer Spool Connection after several times and Test W/ 4500Psi, OK.",
+        "S29": "Work on Side VLV as follow :",
+        "S30": "Change Outer Side VLV BTM CHK line & Fixing all side VLV inner & Outer and test all Side VLV W/ 4500Psi, OK.",
+        "S31": "Test Chockmanifold & Koomy Unit, Ok.",
+        "S32": "1 HRS Waiting for Mud Logging Unit ( Pars Geo Data ) Due to Failure weight indicator Sensor."
+      },
+      "anchor": "4500Psi",
+      "english": "Several reported BOP and choke-line leak repairs are followed by tests labelled OK; a separate one-hour waiting entry is attributed to a weight-indicator failure. Final barrier acceptance and time attribution require signed documentation.",
+      "persian": "رفع چند نشتی فوران‌گیر و خطوط چوک و آزمون‌های بعدی با نتیجه مطلوب ثبت شده‌اند؛ انتظار یک‌ساعته جداگانه به خرابی نشانگر وزن منتسب است. پذیرش نهایی مانع و انتساب زمان به اسناد امضاشده نیاز دارند."
+    },
+    {
+      "sheet": "6-1 DDR Remark",
+      "worksheet_prefix": 6,
+      "header_report_number": 6,
+      "header_date_unverified": "2025-11-01",
+      "cells": {
+        "S25": "Remove TWCV, Connect Running Tools to TBG HGR, P/U TBG HGR with max 190Klb and Unset PKR with 120Klb Over Pull step by step.",
+        "S26": "Try to perform Circ Mud Thru String No Succ Due to Observe Leakage TDS Kelly Hose .",
+        "S27": "Cont. Try to establish the Mud circ. as follow :",
+        "S28": "Step 1 : Increased pressure step by step thru Strg. to max 480psi, no return & indicating fluid inject in formation.",
+        "S29": "Step 2 : Increased pressure step by step thru Annular to max. 800psi, no return inside String to Reverse Circ.",
+        "S30": "Pull out Completion string By request of Client ( P.P.L ) as follow:",
+        "S31": "POOH & L/D 4-1/2\" TBG HGR ( 18.9PPF, TPCQ-EX Box * Box ) + 4-1/2\" Double pin ( 18.9PPF, TPCQ-EX P*P ) + 1 Jts X.O.S TPG2 + 4-1/2\" Cross ",
+        "S32": "Over ( 18.9PPF, TPG2 PIN * TPCQ-EX BOX ) Till M.N."
+      },
+      "anchor": "no return",
+      "english": "The source describes unsetting the packer and unsuccessful attempts to establish circulation, with no return and a source inference of injection into the formation. That inference is not independent proof of injection volume, path or formation damage.",
+      "persian": "منبع آزادکردن پکر و تلاش‌های ناموفق برقراری گردش بدون برگشت و برداشت منبع از تزریق به سازند را شرح می‌دهد. این برداشت اثبات مستقل حجم یا مسیر تزریق یا آسیب سازند نیست."
+    },
+    {
+      "sheet": "7-1 DDR Remark",
+      "worksheet_prefix": 7,
+      "header_report_number": 7,
+      "header_date_unverified": "2025-11-02",
+      "cells": {
+        "S25": "As Client Request ( P.P.L ), Cont. POOH with 2 Jts 4-1/2\" TBG ( 18.9PPF, TPG2 BOX * PIN ), OBS 15-30klb over pull  @ 2759-2758.3m",
+        "S26": "Try to Cont. POOH with max 30Klb over pull step by step and several times, No Succ. Perform Circ Mud Thru String, No Return Mud and",
+        "S27": "Hold Pressure in String, try again Cont POOH with max 60klb over pull step by step and several times, No Succ & Perform Circ.",
+        "S28": "Mud Thru String, No Return Mud and Hold Pressure in String, try again Cont POOH with max 100klb over pull step by step and ",
+        "S29": "several times, Suddenly Release String & Observe U-Tube Thru String. Close the well, Circ Mud from Choke Manifold to circ. Out Cacl2 ",
+        "S30": "Brine as Comp. Fluid, Cont. Circ. To uniform MW to 83pcf, OBS the well Static. (Get totally 80bbl Contaminated Mud).",
+        "S31": "Cont. POOH & L/D with Normal Drag to 1530m While f/u well continuously, NL-NG.",
+        "S32": "Meanwhile POOH, 1 Hrs waiting for Rig 201 OEOC Due to shortage has been identified within the Drilling Fluid crew."
+      },
+      "anchor": "U-Tube",
+      "english": "The completion is reported to hang up near 2,759–2,758.3 m and release after repeated overpull, followed by U-tube flow, well closure, circulation and a static observation. The cause and actual fluid balance need investigation; recorded loads are not operating recommendations.",
+      "persian": "رشته تکمیل در نزدیکی ۲۷۵۹ تا ۲۷۵۸٫۳ متر با اضافه‌کشش متوقف و پس از تلاش‌های مکرر آزادشده گزارش شده؛ سپس جریان U-tube، بستن چاه، گردش و مشاهده ایستا ثبت شده است. علت و تراز واقعی سیال به بررسی نیاز دارند و بارهای ثبت‌شده توصیه عملیاتی نیستند."
+    },
+    {
+      "sheet": "8-1 DDR Remark",
+      "worksheet_prefix": 8,
+      "header_report_number": 8,
+      "header_date_unverified": "2025-11-03",
+      "cells": {
+        "S25": "Cont. POOH & L/D Completion String to 50m While f/u well continuously, NL-NG.",
+        "S26": "During Pulling out, Tubing was Observed Empty up to Around 600m. From Around 600 m, Tubing Observed Filled with Mud ",
+        "S28": "Operation Proceeded Carefully and Under Full Safety Compliance",
+        "S29": "Retrieved Tubing Joints are Being Washed and Cleaned Properly before Stacking.",
+        "S31": "L/D total equipment description as Below :",
+        "S32": "4-1/2\" TBG HGR ( 18.9PPF, TPCQ-EX BOX * BOX ) + 4-1/2\" D.PIN ( 18.9PPF, TPCQ-EX P * P ) + 1 No X.O.S TPG2 + ",
+        "S33": "4-1/2\" Cross Over( 18.9PPF, TPG2 PIN * TPCQ-EX BOX ) + 8 Jts 4-1/2\" TBG ( 18.9PPF, TPG2 BOX * PIN ) + 4-1/2\" Cross Over( 18.9PPF, TPG2 ",
+        "S34": "BOX * TPCQ-EX PIN ) + 4-1/2\" P.JOINT( 18.9PPF, TPCQ-EX B * P ) + 4-1/2\" FLOW COUPLING ( 18.9PPF, TPCQ-EX BOX ) + 4-1/2\" TRSSV-TBG ",
+        "S35": "RETRIEVABLE ( 18.9PPF, TPCQ-EX BOX * PIN ) + 4-1/2\" FLOW COUPLING ( 18.9PPF, TPCQ-EX BOX ) + 4-1/2\" P.JOINT( 18.9PPF, TPCQ-EX B * P ) +",
+        "S36": "4-1/2\" Cross Over( 18.9PPF, TPG2 PIN * TPCQ-EX BOX ) + 156 Jts 4-1/2\" TBG ( 18.9PPF, TPG2 BOX * PIN ) + 4-1/2\" X.O.S ( 18.9PPF, TPG2-EX ",
+        "S37": "BOX * TPCQ PIN ) + CROSS OVER 4-1/2\" * 3-1/2\" ( 18.9PPF, TPCQ-EX BOX ) + 121 JTS 3-1/2\" TBG ( 10.2PPF, TPCQ-EX BOX * PIN, L-80) + ",
+        "S38": "3-1/2\" P.JOINT ( 10.2PPF, TPCQ-EX BOX * PIN ) + 3-1/2\" EXPANSION JOINT ( 10.20PPF, TPCQ-EX BOX * PIN ) + 3-1/2\" P.JOINT ( 10.2PPF, TPCQ-EX ",
+        "S39": "BOX * PIN ) + 1 JTS 3-1/2\" TBG ( 10.2PPF, TPCQ-EX BOX * PIN, L-80) + 3-1/2\" P.JOINT ( 10.2PPF, TPCQ-EX BOX * PIN ) + ",
+        "S40": "3-1/2\" SSD ( 10.2PPF, TPCQ-EX BOX * PIN ) + 3-1/2\" P.JOINT ( 10.2PPF, TPCQ-EX BOX * PIN ) + 1 JTS 3-1/2\" TBG ( 10.2PPF, TPCQ-EX BOX * PIN, ",
+        "S41": "L-80) + 3-1/2\" P.JOINT ( 10.2PPF, TPCQ-EX BOX * PIN ) + 7\" PKR ( 10.2PPF, RETRIEVABLE, TPCQ-EX BOX * PIN ) + 3-1/2\" P.JOINT ( 10.2PPF, ",
+        "S42": "TPCQ-EX BOX * PIN ) + 1 JTS 3-1/2\" TBG ( 10.2PPF, TPCQ-EX BOX * PIN, L-80) + 3-1/2\" P.JOINT ( 10.2PPF, TPCQ-EX BOX * PIN ) +",
+        "S43": "3-1/2\" L.NIPPLE ( 10.2PPF, TPCQ-EX BOX * PIN ) + 3-1/2\" P.JOINT ( 10.2PPF, TPCQ-EX BOX * PIN ) + 1 JTS 3-1/2\" TBG ( 10.2PPF, TPCQ-EX BOX * ",
+        "S44": "PIN, L-80) + 3-1/2\" P.JOINT ( 10.2PPF, TPCQ-EX BOX * PIN ) + RE-ENTRY GUIDE SHOE ( 10.2PPF, TPCQ-EX BOX UP )"
+      },
+      "anchor": "600m",
+      "english": "The source reports tubing observed empty up to approximately 600 m and filled below that during pull-out, and lists recovered completion components. This page reaches 50 m, not surface; the complete final tally is required.",
+      "persian": "منبع مشاهده لوله خالی تا حدود ۶۰۰ متر و پر از گل از آن عمق به پایین حین خروج و فهرستی از اجزای تکمیل را ثبت می‌کند. این صفحه تا عمق ۵۰ متر می‌رسد نه سطح؛ فهرست نهایی کامل لازم است."
+    },
+    {
+      "sheet": "9-1 DDR Remark",
+      "worksheet_prefix": 9,
+      "header_report_number": 9,
+      "header_date_unverified": "2025-11-04",
+      "cells": {
+        "S25": "Cont. POOH & L/D Completion String to Surface While f/u well continuously, NL-NG.",
+        "S26": "L/D CSG Crew Equipment(OEOC) while Hight Pressure hose install on TDS.",
+        "S27": "P/U & M/U New 8-3/8\" M.M.J.mill (TSK, SN: 408, 5*15/32) + Bit Sub (F.Valve in) + 9-5/8\" Scraper + 1 Std 6-1/2\" D.C + 6 Jts 5\" H.W.D.P (Jts by Jts)",
+        "S28": "Cont. Run in hole with 127 Jts 5\" D.pipe ( Jts by Jts ) from 100 To 1360m W F/U String every 20 Jts.",
+        "S29": "Cont RIH  While Waiting Noted for OEOC Rig 201.",
+        "S30": "Waiting Causes / Notes: Air Tongs Malfunction. Rig Tongs Without Proper Latch. Insufficient Drawworks Air Supply.",
+        "S32": "Operation Executed to Clean the Inner Section of 9-5/8\" Casing up to 7\" liner lap in Accordance With the Approved  Program to Ensure ",
+        "S33": "Optimal Well Condition.",
+        "S34": "5\" Drill Pipes Washed, Drift Checked, and Measured prior to Running."
+      },
+      "anchor": "Air Tongs",
+      "english": "The page records completion pull-out to surface and identifies rig-tong and air-supply issues during preparation of the cleanout run. The source remarks do not independently establish downtime duration or contractual liability.",
+      "persian": "صفحه خروج تکمیل تا سطح و مشکلات انبر دکل و تأمین هوا حین آماده‌سازی پاک‌سازی را ثبت می‌کند. یادداشت منبع مدت توقف یا مسئولیت قراردادی را مستقلاً اثبات نمی‌کند."
+    },
+    {
+      "sheet": "10-1 DDR Remark",
+      "worksheet_prefix": 10,
+      "header_report_number": 10,
+      "header_date_unverified": "2025-11-05",
+      "cells": {
+        "S25": "Cont. RIH W/ 8-3/8\" M.M.J.mill (TSK, SN: 408, 5*15/32) + Bit Sub (F.Valve in) + 9-5/8\" Scraper + 1 Std 6-1/2\" D.C + 6 Jts 5\" H.W.D.P (Jts by Jts)",
+        "S26": "Follow by 5\" D.Pipe to 1609.60m While F/U String every 20 Jts , Tag 7\" L.Lap @ this depth.",
+        "S27": "POOH From 1609.6m to Surface and L/D  9-5/8\" Scraper & 8-3/8\" Junk Mill While C.W.H, NL.NG.",
+        "S28": "Waiting For Rig 201 OEOC Due to Delay in operation.",
+        "S29": "P/U 5\" DP & M/U Plug tester, Set Wear Bushing in T.H.S, Change Elevator to Suit 3-1/2\" Tubular.",
+        "S30": "M/U New 6\" Junk Mill ( T.S.E.KH ) & RIH W/ 27 jts 3-1/2\" HWDP (Jt by Jt ) & Follow by 3-1/2\" D.Pipe ( Jt by Jt ) to 540m for Cleaning ",
+        "S31": "Inside 7\" liner W/ F/U String, NL-NG.",
+        "S32": "Waiting For Rig 201 OEOC Due to Delay in operation.",
+        "S36": "Offline Operation : Prepare 240bbl  83 Pcf CaCl2."
+      },
+      "anchor": "1609.60m",
+      "english": "The 7-inch liner lap is tagged at 1,609.60 m and the source reports a change to a 6-inch cleanout mill. The recorded reference is not independently verified as-built depth.",
+      "persian": "هم‌پوشانی آستری ۷ اینچ در ۱۶۰۹٫۶۰ متر لمس و تعویض به آسیاب پاک‌سازی ۶ اینچ در منبع گزارش شده است. این مرجع، عمق نهایی مستقلاً تأییدشده نیست."
+    },
+    {
+      "sheet": "11-1 DDR Remark",
+      "worksheet_prefix": 11,
+      "header_report_number": 11,
+      "header_date_unverified": "2025-11-06",
+      "cells": {
+        "S25": "Cont RIH with 6\" Junk Mill ( T.S.E.KH ) + 27 jts 3-1/2\" HWDP (Jt by Jt ) & Follow by 3-1/2\" D.Pipe ( Jt by Jt ) from 540m to 1153m for Cleaning ",
+        "S26": "Inside 7\" liner W/ F/U String, NL-NG.",
+        "S28": "While RIH Operation 2 Hrs NPT Considered For OEOC Due to Delay in operation.",
+        "S29": "Cont RIH with 6\" Junk Mill ( T.S.E.KH ) + 27 jts 3-1/2\" HWDP (Jt by Jt ) & Follow by 3-1/2\" D.Pipe ( Jt by Jt ) from 1153m to 2540m for Cleaning ",
+        "S30": "Inside 7\" liner W/ F/U String, NL-NG. Till M.N.",
+        "S36": "Offline Operation : Prepare 170bbl  83 Pcf CaCl2."
+      },
+      "anchor": "2 Hrs NPT",
+      "english": "The cleanout run is recorded to 2,540 m, with two hours NPT attributed by the source to the rig. Do not infer cause, contractual liability or a complete delay total without time records.",
+      "persian": "ران پاک‌سازی تا ۲۵۴۰ متر همراه دو ساعت غیرمولد منتسب منبع به دکل ثبت شده است. بدون ریز زمان نباید علت، مسئولیت قراردادی یا کل تأخیر را نتیجه گرفت."
+    },
+    {
+      "sheet": "12-1 DDR Remark",
+      "worksheet_prefix": 12,
+      "header_report_number": 12,
+      "header_date_unverified": "2025-11-07",
+      "cells": {
+        "S25": "Cont RIH with 6\" Junk Mill ( T.S.E.KH ) + 27 jts 3-1/2\" HWDP (Jt by Jt ) + 3-1/2\" D.Pipe ( Jt by Jt ) + 4.3/4\" D.PIN + 4 3/4\" Bit Sub ( Float In ) + ",
+        "S26": "XOS + 5 \" D.Pipe from 2540m to 4000m for Cleaning Inside 7\" liner W/ F/U String, NL-NG.",
+        "S27": "Observe took weight string @ 4000m and cont. Run in hole with wash down to 4015m & from 4015m with soft wash & Ream to 4133m ",
+        "S29": "Circ BTM Up Till Uniform Mud weight to 83 Pcf ( Min Return MW 78 PCF & Drop PH to 7.5 ), Flow Check the well, Static.",
+        "S30": "Start POOH from 4133m ( 4-1/2\" L.Lap ) to 2820m while Circ mud Cross well head, NL.NG. Till M.N."
+      },
+      "anchor": "4133m",
+      "english": "The 6-inch cleanout run is reported to 4,133 m, identified as the 4½-inch liner lap, with minimum return mud weight 78 pcf and pH 7.5 before conditioning. The source report does not establish a continuous fluid log or damage mechanism.",
+      "persian": "ران پاک‌سازی ۶ اینچ تا ۴۱۳۳ متر، به‌عنوان هم‌پوشانی آستری ۴½ اینچ، با حداقل وزن برگشتی ۷۸ پوند بر فوت مکعب و pH برابر ۷٫۵ پیش از آماده‌سازی گزارش شده است. این مدخل لاگ پیوسته سیال یا سازوکار آسیب را اثبات نمی‌کند."
+    },
+    {
+      "sheet": "13-1 DDR Remark",
+      "worksheet_prefix": 13,
+      "header_report_number": 13,
+      "header_date_unverified": "2025-11-08",
+      "cells": {
+        "S25": "Cont. POOH from 2820m to surface & L/D 6\" J. Mill ( T.S.E.KH, 5% Used ) while Circ mud Cross well head, NL.NG.",
+        "S26": "P/U & Run in hole W/ NEW 3-1/2\" M.M.J.Mill ( T.S.E.KH, SN : 084 ) + 15 Jts 3-1/8\" D.C ( Jt by Jt ) + R/U 2-7/8 \"D.Pipe handling tools and RIH",
+        "S27": "W/ 6 Jts 2-7/8\" ( Jt by Jt ) D.P to 190 m. Change Handling Tool & Cont. Run in hole by 3-1/2\" D.Pipe from 190m to 2800m while break ",
+        "S28": "Circulate each 15 STD, NL.NG.",
+        "S31": "M/Up and Running  5STD 3-1/8\" D.C and 2STD 2-7/8\" D.Pipe (jt by jt) During trip operation meanwhile all the same hammered and wash. ",
+        "S40": "Note 1 : P/U and M/U DPs and BHA jt by jt  is as per schedule defined in contingency plan No.8",
+        "S42": "Note 2 : Except for the corrosion log, which was not performed as per the client’s instruction,all other ",
+        "S43": "activities from Contingency No. 8 have been completed, are ongoing, or will be performed as per the plan"
+      },
+      "anchor": "corrosion log",
+      "english": "The report explicitly says the corrosion log was not performed on the client's instruction and describes contingency 8 activities as completed, ongoing or planned. This wording does not show that every contingency activity was completed or that corrosion was absent.",
+      "persian": "گزارش صراحتاً می‌گوید نمودار خوردگی به دستور کارفرما انجام نشده و فعالیت‌های احتیاطی شماره ۸ را انجام‌شده، در حال انجام یا برنامه‌ریزی‌شده توصیف می‌کند. این عبارت تکمیل همه فعالیت‌ها یا نبود خوردگی را ثابت نمی‌کند."
+    },
+    {
+      "sheet": "14-1 DDR Remark",
+      "worksheet_prefix": 14,
+      "header_report_number": 14,
+      "header_date_unverified": "2025-11-09",
+      "cells": {
+        "S25": "Cont. Run in hole by 5\" D.Pipe from 2800m to 3100m while F/U string & break Circulate each 15 STD, NL.NG.",
+        "S26": "Cont. RIH to 4100m; Due to severe U-Tube F/U string and break Circ. Every 5-10 Stds. Wash Dn to 4133m (4-1/2\" L.Lap).",
+        "S27": "Soft wash & Ream Dn to BTM and tag the BTM & Space out to 4275.5m, Try to pass this point; No-Succ.",
+        "S28": "Ream Dn Parameters: WOB: 1-3 Klbs, Rot: 15 RPM, TQ: 4-5.5 Klbs.ft, F.R: 65-70 GPM, SPP: 700-850 Psi.",
+        "S29": "Over Circ. Mud to uniform MW in/out to 83 pcf. Pump 20 bbl 83 pcf Filtrated CaCl2 as Non-Solid Completion Fluid & Displace to spot, OK.",
+        "S30": "Start POOH From 4275.5m to 2800m W/ Circ Mud Cross Well Head, NL.NG. Till M.N.",
+        "S40": "Note 1 : P/U and M/U DPs and BHA jt by jt  is as per schedule defined in contingency plan No.8",
+        "S42": "Note 2 : Except for the corrosion log, which was not performed as per the client’s instruction,all other ",
+        "S43": "activities from Contingency No. 8 have been completed, are ongoing, or will be performed as per the plan"
+      },
+      "anchor": "4275.5m",
+      "english": "A 3½-inch cleanout assembly is reported to tag bottom and space out at 4,275.5 m, with an unsuccessful attempt to pass. The programme states 4,280 m, but depth basis, tool tally and the meaning of each depth must be reconciled before treating the difference as a shortfall.",
+      "persian": "رشته پاک‌سازی ۳½ اینچ برخورد به انتها و فاصله‌گذاری در ۴۲۷۵٫۵ متر و تلاش ناموفق عبور را گزارش می‌کند. برنامه ۴۲۸۰ متر ذکر می‌کند، اما پیش از تلقی اختلاف به‌عنوان کسری عمق باید مبنا، فهرست ابزار و معنی هر عمق تطبیق شوند."
+    },
+    {
+      "sheet": "15-1 DDR Remark",
+      "worksheet_prefix": 15,
+      "header_report_number": 15,
+      "header_date_unverified": "2025-11-10",
+      "cells": {
+        "S25": "Cont POOH From 2800m to 1237m W/ Circ Mud Cross Well Head, NL.NG.",
+        "S26": "Slip & Cut 97 FT DRLG LINE.",
+        "S27": "Cont. POOH To 200m. Change the handling tools and Cont. POOH while L/D  2STD 2-7/8\" D.Pipe & 5 STD 3-1/8\" D.c ( jt by jt ).",
+        "S28": "Check and L/D 3-1/2\" J.mill ( 10%used ). R/D 2-7/8\" D.Pipe handling tools and release all the 4-1/2\" LNR clean out BHA. ",
+        "S29": "Break out and L/D Double Pin of old completion TBG HGR carefully. ",
+        "S30": "M/up 6\" M.M.J.mill ( 5% Used / T.S.E.KH) + 4 3/4\" Bit Sub ( F. In ) + HWDP 3 1/2\" & Follow by 3 1/2 DP \"G\" to 1350m W/ F/U String Each",
+        "S31": "15 STD , NL-NG. Till M.N.",
+        "S35": "Prepare 836bbl  83 Pcf CaCl2.",
+        "S36": "Body Press test of SSD In the presence of the Client Supervisor W/ 2 Pup Jts to 6000 psi for 15 min; Ok.",
+        "S37": "Press test SSD WFB Check valve In the presence of the Client Supervisor W/6000 psi for 15 min; Ok.",
+        "S38": "Press test No-Go 2.75\" XN Plug In the presence of the Client Supervisor W/6000 psi for 15 min; Ok.",
+        "S41": "Note 1 : Release the 4-1/2\" LNR clean out BHA 1404.08.19 - 17:00 ( 2-7/8\" D.Pipe & Handling Tools )"
+      },
+      "anchor": "6000 psi",
+      "english": "The source records cleanout-tool recovery, preparation of 836 bbl of 83 pcf CaCl2 and offline pressure tests of the SSD, check valve and No-Go plug labelled OK. Prepared volume is not the same as displaced volume or verified consumption.",
+      "persian": "منبع بازیابی ابزار پاک‌سازی، تهیه ۸۳۶ بشکه CaCl2 با وزن ۸۳ پوند بر فوت مکعب و آزمون‌های فشار جداگانه SSD، شیر یک‌طرفه و پلاگ No-Go با نتیجه مطلوب را ثبت می‌کند. حجم تهیه‌شده با حجم جابه‌جا یا مصرف تأییدشده یکی نیست."
+    },
+    {
+      "sheet": "16-1 DDR Remark",
+      "worksheet_prefix": 16,
+      "header_report_number": 16,
+      "header_date_unverified": "2025-11-11",
+      "cells": {
+        "S25": "Cont RIH with 6\" M.M.J.mill ( 5% Used / T.S.E.KH ) + 4 3/4\" Bit Sub ( F. In ) + HWDP 3 1/2\" & Follow by 3 1/2\" DP to 1608m ( 7\" L.Lap )",
+        "S26": "Obs. Drag @ 7\" L.Lap during pass 6\" Mill; Smooth this interval, several times & Check w/o Rot, Ok. Cont RIH to 3925m .",
+        "S27": "Cont. RIH W/ 6\" M.M J.Mill and 7\" Scraper to 4132m ( 4-1/2\" L.Lap ) and Pass 7\" L.Lap W/ 7\" Scraper Without any Drag and ",
+        "S28": "Scrap from 2550m to 2750m several times, F/U string and break Circ every 10 Stds. CBU W/ Hi-FR while reciprocate string; ",
+        "S29": "Obs. Huge amount of asphaltene pieces on shale shakers.",
+        "S30": "Cont. Circ. to clean the hole and uniform MW.",
+        "S31": "Displace mud In well with CaCl2 Completion Fluid Non.Solid : Pump 50BBl Hi.vis Pill, Pump & Displace the well with 680BBl CaCl2 ",
+        "S32": "Brine as Completion fluid ( Dump 40 BBl Contaminated with mud ). ( Disp. Parameter : F.Rate : 180 GPm, SPP : 1250 Psi ) Till M.N.",
+        "S37": "Prepare totally 1000bbl 83pcf CaCl2 (Completion fluid) and Filterate 900bbl.",
+        "S38": "Perform Press test TR3SV Assy & 2 pup Jts w/ 6000 psi for 15min; \"Ok\". Bleed of control line Press to Zero. Bleed of Press",
+        "S39": "above flapper to 1000 psi. Monitor for any Press build up as inflow test of flapper; Negative. Check & Test Equalizing Function of ",
+        "S40": "TR3SV; \"OK\", Operate TR3SV Flaper 3 times; OK. Opening: 1400psi, Full open: 2100 psi, Closing: 900 psi."
+      },
+      "anchor": "680BBl",
+      "english": "The source reports asphaltene pieces on shakers, displacement with 680 bbl CaCl2 completion fluid and 40 bbl contaminated mud dumped; a separate note says 1,000 bbl prepared and 900 bbl filtered. These values have different bases and must not be netted as losses without a fluid ledger.",
+      "persian": "منبع قطعات آسفالتین روی شیکر، جابه‌جایی با ۶۸۰ بشکه سیال تکمیل CaCl2 و دورریختن ۴۰ بشکه گل آلوده را گزارش می‌کند؛ یادداشت جداگانه ۱۰۰۰ بشکه تهیه و ۹۰۰ بشکه فیلتراسیون را ثبت کرده است. مبنای ارقام متفاوت است و بدون دفتر سیال نباید تفاضل آن‌ها هرزروی تلقی شود."
+    },
+    {
+      "sheet": "17-1 DDR Remark",
+      "worksheet_prefix": 17,
+      "header_report_number": 17,
+      "header_date_unverified": "2025-11-12",
+      "cells": {
+        "S25": "Flow check the well, Static.",
+        "S26": "Start POOH from 4132m ( 4-1/2\" L.Lap ) to 1376m while L/D 5\" D.Pipe ( Jt by Jt ) & 3-1/2\" D.Pipe ( Jt by Jt ) & F/U the well with CaCl2",
+        "S27": "Completion Fluid Non-Solid Till M.N.",
+        "S28": "While POOH Check again 7\" L.Lap without any Drag.",
+        "S36": "Received CSG Running Crew & Equipment ( NDco. ) @ 1404.08.21 - 20:00"
+      },
+      "anchor": "Static",
+      "english": "The page records a static flow check and pulling the cleanout assembly from 4,132 m, with the 7-inch lap checked again without drag. It does not certify present barriers or a continuous drift profile.",
+      "persian": "صفحه کنترل جریان ایستا، خروج رشته پاک‌سازی از ۴۱۳۲ متر و بررسی مجدد هم‌پوشانی ۷ اینچ بدون گیر را ثبت می‌کند. این مدخل وضعیت کنونی موانع یا پروفیل پیوسته عبور را تأیید نمی‌کند."
+    },
+    {
+      "sheet": "18-1 DDR Remark",
+      "worksheet_prefix": 18,
+      "header_report_number": 18,
+      "header_date_unverified": "2025-11-13",
+      "cells": {
+        "S25": "Cont. POOH 6\" Clean out BHA F/ 1376m To surface On Elevator, While L/D All Tubular ( Jt by Jt ) & 6\" Mill (10% Used, same as RIH ",
+        "S26": "Condition) and F/U Well w/ CaCl2 Completion Fluid Non-Solid, NL-NG.",
+        "S27": "Perform BOP Test as NIOC Policy, Retrieve Wear Bushing, Set Plug Tester, Perform BOP Test as follow:",
+        "S28": "5k 13-5/8\" Annular w/ 3500psi, 15min, Ok; 10k 13-5/8\" Top Ram (VBR 2-7/8\" - 5\") w/ 7500psi, 15min, Ok; 10k 13-5/8\" BTM Ram 5\" Pipe Ram",
+        "S29": "w/ 7500psi, 15min, Ok; 10k 13-5/8\" Shear Ram w/ 7500psi, While Press. Test All Choke Manifold Valves & Accumulator Unit Functionality,",
+        "S30": "Ok; Retrieve Plug Tester; L/D Last 5\" DP Std.",
+        "S31": "R/U LNR Running Tools, While Circ. C.W.H, NL-NG; Held PJSM, Prepare To RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg is in progress @ M.N.",
+        "S38": "Note: During the functional test of the OEOC Torque & Turn Monitoring System, the threads of 2 Jts of ",
+        "S39": "3-1/2\" TBG were damaged due to a technical malfunction of the Torque & Turn Monitoring System and",
+        "S40": "its improper calibration."
+      },
+      "anchor": "2 Jts",
+      "english": "The source reports BOP tests labelled OK and damage to threads of two 3½-inch tubing joints during torque-and-turn system testing, attributed in the note to malfunction and improper calibration. The cause and any relationship to later reported damaged joints require investigation, not automatic double counting.",
+      "persian": "منبع آزمون‌های فوران‌گیر با نتیجه مطلوب و آسیب رزوه دو شاخه لوله ۳½ اینچ هنگام آزمون سامانه کنترل گشتاور و دور را ثبت و آن را به خرابی و کالیبراسیون نامناسب منتسب می‌کند. علت و رابطه با لوله‌های آسیب‌دیده گزارش بعدی نیازمند بررسی است و نباید خودکار دوبار شمرده شوند."
+    },
+    {
+      "sheet": "19-1 DDR Remark",
+      "worksheet_prefix": 19,
+      "header_report_number": 19,
+      "header_date_unverified": "2025-11-14",
+      "cells": {
+        "S25": "RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg as follows:",
+        "S26": "3-1/2\" Wireline Re-Entry Guide Shoe (10.2#, HSM3 + 3-1/2\" Bottom No-Go L/N (10.2#, Seal Bore: 2.75\", Xn Profile) + 3-1/2\" Pup Jt TBG +",
+        "S28": "3-1/2\" Pup Jt TBG + 7\" Hydraulic Set Retrievable Packer (29#) + 3-1/2\" Pup Jt TBG (Check PKR Shear Pins, Ok)",
+        "S29": "1 Jt 3-1/2\" TBG; Run 2.8\" Gauge Ring to No-Go Depth, Ok; Cont. RIH 7\" 7.5k Comp. Strg. as follows:",
+        "S30": "3-1/2\" Pup Jt TBG + 3-1/2\" SSD (X profile, Close position, Downward open) + 3-1/2\" Pup Jt TBG ",
+        "S32": "3-1/2\" Pup Jt TBG + 3-1/2\" Traveling Jt (Full Open Position, Dressed w/ 3 No. Shear Pin, Splined Type) + 3-1/2\" Pup Jt TBG",
+        "S33": "w/ 2 Jt 3-1/2\" TBG To 72m; Run 2.8\" Gauge Ring to SSD Depth, Ok; While Clean & Wash all Connections; Use Thread Seal ",
+        "S34": "Compound, and JAM System, and Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG.",
+        "S35": "2 Hrs. NPT For OEOC CSG Running Service due to JAM System malfunction & Delay in Operation",
+        "S36": "Press. Test Comp. Strg against SSD Check Valve @ 72m W/ 6000 Psi / 15min, Ok; L/D Press. Test Eqps.",
+        "S37": "Cont. RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg F/ 72 To 676m, While Clean & Wash all Connections; Use Thread Seal Compound, and ",
+        "S38": "JAM System, and Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG.",
+        "S39": "2.5 Hrs. NPT For OEOC CSG Running Service due to JAM System malfunction, R/U Slickline Tools; ",
+        "S40": "P/U & Assemble 2.8\" Gauge Ring Tool Strg and Attempt To RIH To Top of SSD, Obs. Slickline Tension Drop @ 335m, Try To pass ",
+        "S41": "the same depth Sev. Times, No Success; POOH S/L Tool String To Surface; L/D Slickline Tools; Decide To POOH Comp. Strg.",
+        "S42": "5.5 Hrs. NPT For OEOC CSG Running Service due to JAM System malfunction, POOH 3-1/2\" * 4-1/2\" 7.5k Comp. Strg",
+        "S43": "F/ 676 To 327m; Obs. 2 Jts of 3-1/2\" TBG is damaged, While L/D 3-1/2\" TBGs and Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG;",
+        "S44": "1 Hrs. NPT For OEOC CSG Running Service due to JAM System malfunction, R/U Slickline Tools; P/U & Assemble ",
+        "S45": "2.8\" Gauge Ring Tool Strg and RIH To Top of SSD Normally; POOH S/L Tool Strg To Surface; L/D Surface Slickline Eqps. ; ",
+        "S46": "Prepare To Resume Comp. Strg RIH is in progress @ M.N."
+      },
+      "anchor": "335m",
+      "english": "The completion run is reported to 676 m, but a 2.8-inch gauge encountered a restriction at 335 m; after pulling to 327 m the source notes two damaged joints and a later normal gauge run. Multiple NPT labels are source attributions; overlap, causation and responsibility require the detailed time and incident records.",
+      "persian": "ران تکمیل تا ۶۷۶ متر گزارش شد، اما گیج ۲٫۸ اینچ در ۳۳۵ متر با مانع روبه‌رو شد؛ پس از خروج تا ۳۲۷ متر دو شاخه آسیب‌دیده و سپس ران عادی گیج ثبت شده‌اند. چند برچسب زمان غیرمولد انتساب منبع‌اند؛ هم‌پوشانی، علت و مسئولیت به سوابق ریز زمان و رخداد نیاز دارند."
+    },
+    {
+      "sheet": "20-1 DDR Remark",
+      "worksheet_prefix": 20,
+      "header_report_number": 20,
+      "header_date_unverified": "2025-11-15",
+      "cells": {
+        "S25": "4.5 Hrs. NPT For OEOC CSG Running Service due to JAM System malfunction, Cont. RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg F/ 327 To 676m, ",
+        "S26": "While Clean & Wash all Connections; Use Thread Seal Compound, and JAM System, and Circ. C.W.H by Trip Tank & Monitor ",
+        "S28": "Press. Test Comp. Strg against SSD Check Valve @ 676m W/ 6000 Psi / 15min, Ok; L/D Press. Test Eqps.",
+        "S29": "Cont. RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg F/ 676 To 1223m, While Clean & Wash all Connections; Use Thread Seal Compound, and",
+        "S30": "JAM System, and Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG.",
+        "S31": "Press. Test Comp. Strg against SSD Check Valve @ 1223m W/ 6000 Psi / 15min, Ok; L/D Press. Test Eqps.",
+        "S32": "R/U Slickline Tools; P/U & Assemble 2.8\" Gauge Ring Tool Strg and RIH To Top of SSD Normally; POOH S/L Tool Strg To Surface; ",
+        "S33": "L/D Surface Slickline Eqps.",
+        "S34": "Cont. RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg F/ 1223 To 1671m, While Pass 7\" LNR gently, Clean & Wash all Connections;",
+        "S35": "Use Thread Seal Compound, and JAM System, and Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG.",
+        "S36": "Stop Op. due to bad weather @ 1671m, while Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG."
+      },
+      "anchor": "1223m",
+      "english": "The source reports resumed completion running, pressure tests labelled OK at 676 and 1,223 m and a weather stop at 1,671 m. These depth-specific tests are not a final completion test or present-barrier certification.",
+      "persian": "منبع ادامه راندن تکمیل، آزمون‌های فشار با نتیجه مطلوب در ۶۷۶ و ۱۲۲۳ متر و توقف هوا در ۱۶۷۱ متر را گزارش می‌کند. این آزمون‌های عمقی، آزمون نهایی تکمیل یا تأیید مانع کنونی نیستند."
+    },
+    {
+      "sheet": "21-1 DDR Remark",
+      "worksheet_prefix": 21,
+      "header_report_number": 21,
+      "header_date_unverified": "2025-11-16",
+      "cells": {
+        "S25": "Cont. Stop Op. due to bad weather @ 1671m, while Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG.",
+        "S26": "Cont. RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg F/ 1671 To 2640m, While Clean & Wash all Connections; Use Thread Seal Compound, and ",
+        "S27": "JAM System, and Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG.",
+        "S28": "2 Hrs. NPT For OEOC CSG Running Service due to JAM System malfunction & Delay in Operation",
+        "S29": "Press. Test Comp. Strg against SSD Check Valve @ 2640m W/ 6000 Psi / 15min, Ok; L/D Press. Test Eqps.",
+        "S30": "Cont. RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg F/ 2640 To 2658m as follows:",
+        "S31": "4-1/2\" Pup Jt (HSM3  ,18.9#, L-80, Type-1) + 4-1/2\" Flow Coupling (18.9#, 9CR1MO, HSM3, 4 ft) +",
+        "S32": "4-1/2\" TRSSV Tubing Retrievable Safety Valve (18.9# w/ 3.437\" Seal bore, HSM3, 9CR1MO, 7.5K WP w/ AF Profile, Flapper Type) +",
+        "S33": "+ 4-1/2\" Flow Coupling (18.9#, 9CR1MO, HSM3, 6 ft) + 4-1/2\" Pup Jt (HSM3  ,18.9#, L-80, Type-1) + 1Jt 4-1/2\" TBG (18.9#, L-80,HSM3)",
+        "S34": ", While Clean & Wash all Connections; Use Thread Seal Compound, and JAM System, and Circ. C.W.H by Trip Tank & Monitor "
+      },
+      "anchor": "2640m",
+      "english": "After the weather stop, the report records running to 2,640 m, a source-labelled pressure test and installation of a TRSSV in the assembly. A two-hour NPT note is attributed to running service; responsibility requires independent review.",
+      "persian": "پس از توقف هوا، گزارش راندن تا ۲۶۴۰ متر، آزمون فشار با نتیجه مطلوب و نصب TRSSV در مجموعه را ثبت می‌کند. یادداشت دو ساعت غیرمولد به خدمت راندن منتسب است؛ مسئولیت به بررسی مستقل نیاز دارد."
+    },
+    {
+      "sheet": "22-1 DDR Remark",
+      "worksheet_prefix": 22,
+      "header_report_number": 22,
+      "header_date_unverified": "2025-11-17",
+      "cells": {
+        "S25": "Flush & Conn. 1/4\" CL To TRSSV CL Port, Press. Test Conn. @ 6000psi / 15min, Ok, While Circ. C.W.H by Trip Tank & Monitor the Well, ",
+        "S28": "Pressure Test Surface Test Line & Chiksan Pipes, Ok; L/U Surface Test Line to Strg; Perform Press. Test Comp. Strg",
+        "S29": "against SSD Check Valve @ 2658m W/ 6000 Psi / 15min, Ok;  Inflow Test, Pressure stabilized @ 1000 psi / 15 min; No pressure ",
+        "S30": "build-up observed. Check and test equalizing function of TR3SV; OK.",
+        "S31": "Cont. RIH W/ 3-1/2\" * 4-1/2\" 7.5k Comp. Strg F/ 2658 To 2706m; P/U & M/U 4-1/2\" Fluted Swage Adapter [D/P, 18.9# ",
+        "S32": "9CR1MO, WEIQIXIN Co.] + TBG HANGER [MSP/Drilex, 7.5K, 11\" X 4 1/2'' ACME Box up X 4 1/2'' Box ",
+        "S33": "Down L-80 18.9#, M/C: FF-0.5 T/C: UPSL: 3G PR: 2, 4\" Type ''H'' Two Way (Min Bore: 3.68\")] + TBG HGR Running Tool + Landing Joint, ",
+        "S34": "While Clean & Wash all Connections; Use Thread Seal Compound, Pass Drift Thru. all Eqp. , JAM System, Secure CL using ",
+        "S35": "Cross Coupling Protector and Circ. C.W.H by Trip Tank & Monitor the Well, NL-NG; Redress TBG HGR Body W/ 2No. S-Seal Gasket;",
+        "S36": "Pass CL Thru. TBG HGR Slot, Cut same, and wrap on Fluted Swage below TBG HGR; Open T.H.S outlets, Clean and prepare",
+        "S37": "Tubing Spool and ensure tie-down screws backed out; Cont. RIH W/ L/J to 2707.5m, While Check and Land TBG HGR in THS, Ok; ",
+        "S38": "Space out to 2706m (1.5m above THS).",
+        "S39": "Pressure Test Surface Test Line & Chiksan Pipes, Ok; L/U Surface Test Line to Strg; Perform Press. Test Comp. Strg",
+        "S40": "against SSD Check Valve @ 2706m W/ 6000 Psi / 15min, Ok, L/D Chiksan Pipe; ",
+        "S41": "P/U & M/U G.FLG + 4-1/16\" 10K Gate Valve + Slickline BOP + Lubricator & BOP Panel; Test BOP, Ok; R/D Mouse Hole; R/U Surface ",
+        "S42": "Slickline Tools and perform Slickline Job as follows:",
+        "S43": "Run#1 P/U & Assemble AF Running Tool for TRSSSV Protection Sleeve; RIH W/ 3.437\" Protection Sleeve; Set in position; ",
+        "S45": "Run# 2 : RIH w/ 3\" SB to SSD Depth; Try to engage w/ SSD WFB Check valve; No-Succ. POOH to surface; Obs. SB Steel shear pin sheared.",
+        "S46": "Run# 3 : Redress SB w/ Steel Shear Pin. RIH w/ 3\" SB to SSD Depth. POOH to surface; SSD WFB Check valve retrieved."
+      },
+      "anchor": "retrieved",
+      "english": "The page reports TRSSV pressure/inflow checks and initial unsuccessful WFB check-valve engagement with a sheared pin, followed by successful retrieval on the next run. Reported test outcomes and retrieval must be checked against signed records; they do not certify current barriers.",
+      "persian": "صفحه آزمون‌های فشار و جریان ورودی TRSSV و ابتدا درگیری ناموفق شیر WFB با برش پین و سپس بازیابی آن در ران بعدی را گزارش می‌کند. نتایج و بازیابی باید با سوابق امضاشده تطبیق شوند و موانع کنونی را تأیید نمی‌کنند."
+    },
+    {
+      "sheet": "23-1 DDR Remark",
+      "worksheet_prefix": 23,
+      "header_report_number": 23,
+      "header_date_unverified": "2025-11-18",
+      "cells": {
+        "S25": "Run# 4: P/U & Assemble Running Tool for Blanking Plug in Landing Nipple; RIH W/ 2.750\" Xn Blanking Plug & Set in No-Go; ",
+        "S27": "Run# 5: P/U & Assemble SB Running & Pulling for Equalizing Prong match W/ 2.750\" Plug of No-Go; RIH W/ Equalizing Prong & ",
+        "S28": "Set in Position; POOH To Surface.",
+        "S29": "Run# 6: P/U & Assemble Shifting Tool to confirm SSD is full close; RIH W/ 2.75\" Shifting Tool To SSD Depth, Confirm SSD closed; ",
+        "S30": "POOH To Surface; L/D Surface S/L Tools.",
+        "S31": "L/U Test Line On Strg & Press Test Same To 6000psi, Ok; Set PKR as follows: ",
+        "S32": "Press. Test Surface Test Line & Chiksan Pipes @ 6,000 Psi / 5–10 Min – Ok; M/U Surface Test Line to Comp. Strg; ",
+        "S33": "Record Up/Dn ward Comp. Strg",
+        "S34": "PKR Set: Pressurize Comp. Strg to confirm Traveling Joint Fully Open; Stepwise Pressurization to set PKR @ 2693m / 2650psi; ",
+        "S35": "Comp. Strg Pull Test: Over Pull String 15 klbf – PKR Pull Test Ok; ",
+        "S36": "Shearing Expansion Joint: Slack-Off 20 klbf – Shear Expansion Joint Ok; Observation of Back Flow confirmed; ",
+        "S37": "Land TBG HGR In THS: Circulate Fresh Water Through T.H.S, Ensure Tie-Down Screws Open, Drain BOP Stack Via T.H.S Gate Valves, ",
+        "S38": "Lower TBG HGR  And Land On Load Shoulder – Verified By Wt. Indicator & L.Joint Mark; Tighten All Tie-Down Screws; Close Hydrill ",
+        "S39": "On L.Joint, Pressure Test TBG HGR and All Tie-Down Screws @ 1,000 Psi / 10 Min – Ok;",
+        "S40": "L/U Surf Line, Final Press. Test: Press. Test Comp. Strg @ 6,000 Psi / 15 Min – Ok; B/O Surface Line.",
+        "S41": "P/U & Assemble SB Running & Pulling for Equalizing Prong match W/ 2.750\" Plug of No-Go; RIH W/ SB Pulling & Ret. Prong; ",
+        "S43": "P/U & Assemble GS Pulling and Retrieve 2.750\" Blanking Plug; POOH To Surface;",
+        "S44": "Press. Test PKR & HGR Seal: L/U and Conn. Chiksan Pipes To T.H.S Side outlet Valve (Ann. ), Stepwise Pressurization 2,000 Psi/10 Min – ",
+        "S45": "HGR Seals (Bottom) & PKR Element (Top) Ok;",
+        "S46": "P/U & Assemble GS Pulling Tool for TRSSSV Protection Sleeve; RIH W/ GS Pulling and Ret. TRSSV Protection Sleeve; POOH To surface.",
+        "S47": "Press. Test TWCV: Back Off L.Joint From TBG HGR & L/D Same; Run 2WCV and Screw in TBG HGR; L/U and Conn. Chiksan Pipes To BOP ",
+        "S48": "Side outlet Valve, Stepwise Pressurization Against Shear Rams @ 6,000 Psi/15 Min – Ok; ",
+        "S49": "N/D BOP is in progress."
+      },
+      "anchor": "Retrieve 2.750",
+      "english": "The source records temporary plug/prong setting, SSD closure check, packer and final completion tests labelled OK, then retrieval of both prong and blanking plug. Do not depict those retrieved items as still installed; present barriers require the signed handover and subsequent records.",
+      "persian": "منبع نصب موقت پلاگ و پرونگ، کنترل بسته‌بودن SSD و آزمون‌های پکر و نهایی تکمیل با نتیجه مطلوب و سپس بازیابی هر دو پرونگ و پلاگ را ثبت می‌کند. این قطعات بازیابی‌شده نباید همچنان نصب‌شده نشان داده شوند؛ موانع کنونی به تحویل امضاشده و سوابق بعدی نیاز دارند."
+    },
+    {
+      "sheet": "24-1 DDR Remark",
+      "worksheet_prefix": 24,
+      "header_report_number": 24,
+      "header_date_unverified": "2025-11-19",
+      "cells": {
+        "S26": "N/U XMT BTM Master Valve; Install TBG HGR M.M.Seal, N/U TBG Head Adaptor Integrated W/ One 4-1/16\" Gate Valve, meanwhile ",
+        "S27": "Pass 1/4\" CL Thru. CL; Install 4-1/16\" 10k Companion FLG On Tubing Head Adaptor; L/U Chiksan pipes and Test Line on Companion FLG,",
+        "S28": "Press. Test M.M.Seal @ 6,000 Psi / 15 Min – Ok; ",
+        "S29": "Conn. 1/4\" CL to Exit Block, Press. Test 1/4\" CL To BTM Section & U-Ring @ 6,000 Psi / 15 Min – Ok; ",
+        "S30": "Cavity Press. Test Between S – Seal, T.H.S & T.B.G Adaptor Ring Gasket, 2nd TBG O-Ring, Tie-downs Screws, and Exit Port ",
+        "S31": "Thru. Test port @ 6,000 Psi / 15 Min – Ok; ",
+        "S32": "N/U Solid Block and Tree Cap; Open All XMT Valves, Conn. 4-1/16\" Companion FLG to Kill Valve, Press. Test X-Mas Tree body",
+        "S33": "@ 8,000 Psi / 15 Min – Ok; ",
+        "S34": "Release Rig 201 @ 1404.08.28 - 23:59"
+      },
+      "anchor": "1404.08.28",
+      "english": "The last recognized page records wellhead and tree tests labelled OK and rig release at 23:59 on 1404.08.28 as printed. The calendar, boundaries, signed handover and later condition require confirmation; release is not current integrity evidence.",
+      "persian": "آخرین صفحه شناسایی‌شده آزمون‌های سرچاهی و درختک با نتیجه مطلوب و ترخیص دکل ساعت ۲۳:۵۹ در تاریخ چاپ‌شده ۱۴۰۴٫۰۸٫۲۸ را ثبت می‌کند. تقویم، مرزها، تحویل امضاشده و وضعیت بعدی نیازمند تأییدند؛ ترخیص شاهد سلامت کنونی نیست."
+    }
+  ],
+  "programme": {
+    "file": "AZNS-166 Workover-1 Program Rev.05.pdf",
+    "physical_page": 7,
+    "text_excerpt": "South Azadegan Oilfield Project Contract No: AZNS-166 Workover Program Page 7 of 68 1.2 Well Information Table 1: AZNS-166 information Country / Area Name: Iran / Khuzestan Client Petro Pars Limited Field Name: Azadegan Type Of Operation: Workover Well Name / Type : AZNS-166 / Kazhdumi well in Block I Pad Number: 09 Well Type: Deviated Wellhead Coordinate: N: 3,472,595 E: 196,992 Kazhdumi E.P. Coordinate: N: 3,472,112.2 E: 196,261.9 Z: -3357.4m TVDss TD Coordinate: N: 3,471,897.1 E: 195,955.7 Z: -3561.00m TVDss Well Objective: De-complete the well, Re-complete the well, RTE: 12.95 m GLE: 3.95 m Well Duration : 44.2 days (Main Plan) + 95 Days (Contingency Plan) Total Depth (MD): 4280 mMD Producer Formation: Kazhdumi (4 - 1/2\" Sloted Liner) Formation TD : Kazhdumi Reservoir : Kazhdumi"
+  },
+  "cbs": {
+    "file": "CBS AZNS-166.xlsx",
+    "sheet": "Total Cost-EPD & Rigless",
+    "cells": {
+      "B3": {
+        "cached": "Re-Entry, Completion & Procurement COST CEILING (USD)",
+        "formula_or_literal": "Re-Entry, Completion & Procurement COST CEILING (USD)"
+      },
+      "C3": {
+        "cached": 8275165.084406251,
+        "formula_or_literal": "='Total Cost-EPD'!G19"
+      },
+      "B4": {
+        "cached": "Rig-less Stimulation COST CEILING (USD)",
+        "formula_or_literal": "Rig-less Stimulation COST CEILING (USD)"
+      },
+      "C4": {
+        "cached": 812833.44,
+        "formula_or_literal": "='Rig-less Stimulation total cost'!C16"
+      },
+      "A5": {
+        "cached": "TOTAL COST CEILING (USD)",
+        "formula_or_literal": "TOTAL COST CEILING (USD)"
+      },
+      "C5": {
+        "cached": 9087998.52440625,
+        "formula_or_literal": "=SUM(C3:C4)"
+      }
+    },
+    "caveat": "Source-labelled ceiling, cached not recalculated, not actual expenditure or authorization."
+  },
+  "limitations": "One selected observation per page does not establish every event or hour, signed acceptance, current barriers, expenditure or liability."
+}
