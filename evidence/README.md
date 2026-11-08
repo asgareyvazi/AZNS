@@ -228,3 +228,13 @@ PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_166_campaign.py
 PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_166_campaign_note.py
 /tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_166_campaign_review.py' -v
 ```
+
+## Selected 122 workover 2 campaign review
+
+`122wo2_campaign_review.json` retains 31 selected bilingual observations, 213 original cells, programme p.7 and selected CBS ceiling formula/cache values. Header order is not verified chronology; 117/121 worksheet prefixes differ and one numeric header is blank. Three fish episodes must not be conflated, and the partial logging-tool recovery has an unresolved repeated cable-head label. Source release notes differ by one day and use 24:00. Cached CBS ceiling is not actual expenditure; 245 cached errors were detected in the workbook and formulas have not been recalculated.
+
+```sh
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_122wo2_campaign.py
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_122wo2_campaign_note.py
+/tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_122wo2_campaign_review.py' -v
+```
