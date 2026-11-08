@@ -238,3 +238,13 @@ PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_122wo2_campaign.py
 PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_122wo2_campaign_note.py
 /tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_122wo2_campaign_review.py' -v
 ```
+
+## Selected 127 workover 2 and reported suspension
+
+`127wo2_campaign_review.json` records 26 selected bilingual observations, 233 original cells, programme p.7 and CBS source ceiling formulas/caches. Report order is not signed chronology. Multiple waiting notes are running figures with distinct or overlapping bases and must not be added; source failure-cause statements are not independent investigations. Source-reported cement pumping, suspension and static checks are not an accepted plug-integrity certificate, rig-release record or current barrier status. The CBS ceiling includes planned rig-less stimulation and is not actual payment or proof of execution.
+
+```sh
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/review_127wo2_campaign.py
+PYTHONPATH=tools /tmp/azns-venv/bin/python tools/add_field_127wo2_campaign_note.py
+/tmp/azns-venv/bin/python -m unittest discover -s tests -p 'test_127wo2_campaign_review.py' -v
+```
